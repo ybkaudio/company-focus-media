@@ -33,7 +33,7 @@ def main(path):
             for x in s["points"]:
                 out.append(f"- {x}")
             out.append("")
-            out.append(f"댓글 질문: {s['question']}")
+            if s.get('question'): out.append(f"댓글 질문: {s['question']}")
         else:
             for x in sentences(s.get("body", [])):
                 out.append(x)

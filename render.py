@@ -79,8 +79,8 @@ def slide_html(ep, s, i, n, base):
         body = f'<h1>{e(s["title"])}</h1><div class="dv"></div><div class="stats">{st}</div><p>{lines(s["body"])}</p>'
     elif t == "outro":
         pts = "".join(f'<div class="pt">{e(x)}</div>' for x in s["points"])
-        body = (f'<h1>{e(s["title"])}</h1><div class="dv"></div>{pts}'
-                f'<div class="q">{e(s["question"])}</div><div class="qa">{e(s["ask"])}</div>'
+        q = (f'<div class="q">{e(s["question"])}</div><div class="qa">{e(s.get("ask",""))}</div>' if s.get("question") else '')
+        body = (f'<h1>{e(s["title"])}</h1><div class="dv"></div>{pts}{q}'
                 f'<div class="ft">{e(ep["handle"]).upper()}</div><div class="btn">{e(s["button"])}</div>')
     else:
         body = f'<h1>{e(s["title"])}</h1><div class="dv"></div><p>{lines(s["body"])}</p>'
