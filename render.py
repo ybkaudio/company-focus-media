@@ -67,7 +67,7 @@ def slide_html(ep, s, i, n, base):
     else:
         bg = '<div class="ph"><span>사진 자리</span></div>'
     shade = 'shade' + (' on' if s.get('photo') else '') + (' tall' if t in ('stats', 'outro') else '') + (' strong' if s.get('shade') == 'strong' else '')
-    head = f'<div class="pg">{i}/{n}</div>'
+    head = ''
     if t != "cover":
         head += f'<div class="idx">{e(s["index"])}</div>'
     if t == "cover":
@@ -90,7 +90,7 @@ def main(path):
     path = pathlib.Path(path)
     ep = json.loads(path.read_text())
     slides = ep["slides"]
-    assert 1 <= len(slides) <= 20, "인스타 캐러셀은 최대 20장"
+    assert 1 <= len(slides) <= 10, "자동 게시(Metricool·인스타 API)는 캐러셀 최대 10장"
     out = pathlib.Path("out") / path.stem
     out.mkdir(parents=True, exist_ok=True)
     for old in out.glob("[0-9]*.png"):
