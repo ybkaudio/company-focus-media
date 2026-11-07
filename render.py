@@ -4,7 +4,7 @@
 - photo가 없으면 '사진 자리' 표시가 있는 시안으로 렌더됨
 출력: out/<에피소드>/NN.png (1080x1350) + caption.txt
 """
-import html, json, sys, base64, pathlib
+import html, json, sys, base64, pathlib, subprocess
 from playwright.sync_api import sync_playwright
 
 W, H = 1080, 1350
@@ -12,7 +12,7 @@ W, H = 1080, 1350
 CSS = """
 *{margin:0;padding:0;box-sizing:border-box}
 html,body{width:1080px;height:1350px;background:#000;color:#fff;
- font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;word-break:keep-all}
+ font-family:'Noto Sans CJK KR';word-break:keep-all}
 .s{position:relative;width:1080px;height:1350px;overflow:hidden;background:#0b0b0d}
 .bg{position:absolute;inset:0;background-size:cover;background-repeat:no-repeat;background-position:center top}
 .ph{position:absolute;left:0;right:0;top:0;height:78%;
@@ -100,7 +100,18 @@ def slide_html(ep, s, i, n, base):
         body = f'<h1>{e(s["title"])}</h1><div class="dv"></div><p>{lines(s["body"])}</p>'
     return f'<div class="s">{bg}<div class="{shade}"></div>{head}<div class="txt">{body}</div></div>'
 
+FONT = "Noto Sans CJK KR"   # 고정 폰트. 없으면 대체 폰트로 렌더하지 않고 멈춤
+
+def check_font():
+    # 굵기(Regular·Bold·Black)마다 진짜 Noto Sans CJK KR로 잡히는지 확인
+    for w in ("regular", "bold", "black"):
+        r = subprocess.run(["fc-match", "-f", "%{family}", f"{FONT}:weight={w}"], capture_output=True, text=True)
+        if FONT not in r.stdout:
+            sys.exit(f"폰트 '{FONT}'({w})가 없음 (지금 잡히는 폰트: {r.stdout or '없음'}). "
+                     "apt-get install -y fonts-noto-cjk fonts-noto-cjk-extra && fc-cache -f 후 다시 렌더")
+
 def main(path):
+    check_font()
     path = pathlib.Path(path)
     ep = json.loads(path.read_text())
     slides = ep["slides"]
