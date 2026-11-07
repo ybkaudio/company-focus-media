@@ -14,7 +14,7 @@ CSS = """
 html,body{width:1080px;height:1350px;background:#000;color:#fff;
  font-family:'Noto Sans CJK KR','Noto Sans KR',sans-serif;word-break:keep-all}
 .s{position:relative;width:1080px;height:1350px;overflow:hidden;background:#0b0b0d}
-.bg{position:absolute;inset:0;background-size:cover;background-position:center top}
+.bg{position:absolute;inset:0;background-size:cover;background-repeat:no-repeat;background-position:center top}
 .ph{position:absolute;left:0;right:0;top:0;height:78%;
  background:repeating-linear-gradient(135deg,#17171b 0 26px,#131316 26px 52px);
  display:flex;align-items:center;justify-content:center}

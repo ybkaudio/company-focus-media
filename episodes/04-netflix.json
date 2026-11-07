@@ -12,7 +12,14 @@
       "body": [
         "기업인집중탐구 #04"
       ],
-      "photo_hint": "마크 랜돌프 얼굴 (2019년 무렵 강연·인터뷰 사진)"
+      "photo_hint": "마크 랜돌프 얼굴 (2019년 무렵 강연·인터뷰 사진)",
+      "sticker": {
+        "src": "04-netflix/sticker.png",
+        "size": 360,
+        "right": 60,
+        "top": 600
+      },
+      "bgpos": "4% top"
     },
     {
       "index": "01 · 출발",
@@ -139,7 +146,9 @@
         "더 맞는 사람에게 CEO를 넘긴 판단"
       ],
       "button": "지금 팔로우 →",
-      "photo_hint": "넷플릭스 로고가 뜬 TV 화면 (어두운 배경)"
+      "photo_hint": "넷플릭스 로고가 뜬 TV 화면 (어두운 배경)",
+      "bgsize": "1080px auto",
+      "bgpos": "center 20px"
     }
   ],
   "caption": "넷플릭스의 첫 CEO는 리드 헤이스팅스가 아니었어요.\n\n우편 판매로 경력을 쌓은 마크 랜돌프는 출퇴근 카풀에서 헤이스팅스와 창업 아이디어를 찾았고, CD 한 장을 우편으로 부쳐 보는 것으로 넷플릭스를 시작했어요. 블록버스터에 회사를 팔려다 퇴짜도 맞았지만, 넷플릭스는 2002년 60만 구독자로 상장했어요.\n\n💬 회사를 키울 사람에게 CEO 자리를 넘기는 것, 여러분이라면 할 수 있을까요? 댓글로 의견을 남겨 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Marc Randolph\n- The New York Times (NZ Herald 전재), Long before 'Netflix and chill,' he was the Netflix CEO (2019.09.16)\n- CNBC, Netflix co-founder: Anyone could do a start-up like Netflix (2019.09.18)\n- TechCrunch, Netflix cofounder Marc Randolph on the company's earliest days (2019.09.18)\n- NPR, Excerpt: 'Netflixed' (2013.01.30)\n- CNBC, Why Netflix co-founders turned down Jeff Bezos (2019.09.21)\n- Netflix, Netflix.com transforms DVD business (1999.12.16)\n- Built In, Netflix asked Blockbuster for a $50 million buyout (Marc Randolph 책 발췌)\n- InsideHook, Netflix once tried to sell to Blockbuster for $50 million (2019)\n- CNN Money, Netflix IPO (2002.05.23)\n- E-Commerce Times, Netflix debut signals IPO renewal (2002.05)\n\n#기업인집중탐구 #마크랜돌프 #넷플릭스 #Netflix #창업 #창업스토리 #스타트업 #자기계발"
