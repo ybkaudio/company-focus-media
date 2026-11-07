@@ -30,6 +30,7 @@ html,body{width:1080px;height:1350px;background:#000;color:#fff;
 .idx:after{content:"";display:block;width:84px;height:5px;background:var(--a);margin-top:22px}
 .pg{position:absolute;top:84px;right:72px;font-size:32px;font-weight:500;color:#fff;
  background:rgba(0,0,0,.55);padding:12px 26px;border-radius:40px}
+.when{position:absolute;top:96px;right:80px;font-size:30px;font-weight:700;letter-spacing:.04em;color:#fff;text-shadow:0 2px 10px rgba(0,0,0,.7)}
 .txt{position:absolute;left:80px;right:80px;bottom:120px}
 h1{font-size:88px;line-height:1.2;font-weight:900;letter-spacing:-.025em;white-space:pre-line}
 .cover h1{font-size:90px}
@@ -56,6 +57,11 @@ def e(t):
     return html.escape(t or "")
 
 def lines(xs):
+    # 문장 단위로 적힌 본문(한 항목이 길면)은 이어 붙여 자연스럽게 줄바꿈, 짧은 줄 단위면 줄마다 끊음
+    if any(len(x) > 30 for x in xs):
+        import re
+        out = " ".join(e(x) for x in xs)
+        return re.sub(r"&lt;([^&]{1,30})&gt;", r'<span style="white-space:nowrap">&lt;\1&gt;</span>', out)
     return "<br>".join(e(x) for x in xs)
 
 def slide_html(ep, s, i, n, base):
@@ -76,6 +82,8 @@ def slide_html(ep, s, i, n, base):
         head += f'<img class="stk" src="{su}" style="width:{k.get("size",260)}px;right:{k.get("right",80)}px;top:{k.get("top",120)}px">'
     if t != "cover":
         head += f'<div class="idx">{e(s["index"])}</div>'
+    if s.get("when"):
+        head += f'<div class="when">{e(s["when"])}</div>'
     if t == "cover":
         body = (f'<div class="handle">{e(ep["handle"]).upper()}</div><h1>{e(s["title"])}</h1>'
                 f'<div class="dv"></div><p>{lines(s["body"])}</p>')
