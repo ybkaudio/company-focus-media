@@ -99,15 +99,15 @@
 
 📷 **사진:** [기존 08 그대로] 와플 기계와 밑창을 든 바워만
 
-**제목:** 와플 기계로 나이키 밑창을 만들다
+**제목:** 와플 무늬로 쇠징 없이 붙잡는 밑창을 만들다
 
-1972년 오니츠카와 갈라선 회사는 자체 브랜드 '나이키' 신발을 내놓았다.
+1971년 오리건대 트랙이 딱딱한 우레탄으로 바뀌자, 쇠징은 너무 깊이 박히고 징 없는 신발은 미끄러졌다.
 
-그는 1970년 아침 식탁의 와플을 보고, 집의 와플 기계에 우레탄을 부어 돌기 달린 밑창을 만들었다.
+그는 아내의 와플 기계에 고무를 부어, 짧고 각진 돌기가 촘촘히 솟은 밑창을 만들었다.
 
-1972년 올림픽 선발전에서 처음 선보인 이 밑창은 1974년 '와플 트레이너'가 됐다.
+돌기 사이를 비워 고무를 덜 쓰니 가벼웠고, 돌기마다 난 모서리가 쇠징 없이도 바닥을 사방에서 붙잡았다.
 
-조깅 붐과 맞물려, 1980년 상장할 무렵 미국에서 팔린 러닝화의 절반 가까이가 나이키였다.
+징이 없어 아스팔트 길에서도 신을 수 있었기에, 1975년 나온 '와플 트레이너'는 조깅 붐을 타고 주문이 10만 켤레를 넘어 미국에서 가장 많이 팔린 훈련화가 됐다.
 
 
 ## 09.jpg · 08 · 떠날 때
@@ -153,6 +153,8 @@
 - Wikipedia, Bill Bowerman
 - OPB Oregon Experience, Bill Bowerman
 - Nike, Bill Bowerman: Nike's Original Innovator
+- Nike, From Waffle Iron to World Stage: The True Story of the Nike Moon Shoe
+- HISTORY, Nike patent: waffle sole trainers invented in waffle iron
 - Reference for Business, NIKE Inc. company history
 - University of Utah, Nike case (1998)
 - NIKE, Inc. 1998·1999 Annual Report, Directors
