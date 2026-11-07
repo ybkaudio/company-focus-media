@@ -12,7 +12,13 @@
       "body": [
         "기업인집중탐구 #03"
       ],
-      "photo_hint": "얀 쿰 얼굴 (2014년 무렵 행사·인터뷰 사진)"
+      "photo_hint": "얀 쿰 얼굴 (2014년 무렵 행사·인터뷰 사진)",
+      "sticker": {
+        "src": "03-whatsapp/sticker.png",
+        "size": 230,
+        "right": 70,
+        "top": 560
+      }
     },
     {
       "index": "01 · 출발",
@@ -24,7 +30,9 @@
         "엿듣는 일이 흔했고, 그는 감시받지 않는",
         "대화가 얼마나 귀한지 일찍 알았다."
       ],
-      "photo_hint": "1980년대 소련 시절 키이우 거리 (없으면 옛 다이얼 전화기)"
+      "photo_hint": "1980년대 소련 시절 키이우 거리 (없으면 옛 다이얼 전화기)",
+      "bgsize": "1080px auto",
+      "bgpos": "center -330px"
     },
     {
       "index": "02 · 이민",
@@ -88,7 +96,9 @@
         "대신, 1년에 1달러를 받고 전화번호 하나로",
         "가입하게 했다."
       ],
-      "photo_hint": "'No Ads! No Games! No Gimmicks!' 쪽지 사진 (없으면 얀 쿰 책상·초기 사무실)"
+      "photo_hint": "'No Ads! No Games! No Gimmicks!' 쪽지 사진 (없으면 얀 쿰 책상·초기 사무실)",
+      "bgsize": "1080px auto",
+      "bgpos": "center -380px"
     },
     {
       "type": "stats",
@@ -124,7 +134,8 @@
         "돈을 벌려 했고, 이를 두고 부딪힌 끝에",
         "2018년 4월 회사를 떠났다."
       ],
-      "photo_hint": "2016~2018년 무대 위 얀 쿰 (없으면 WhatsApp 암호화 안내 화면)"
+      "photo_hint": "2016~2018년 무대 위 얀 쿰 (없으면 WhatsApp 암호화 안내 화면)",
+      "bgpos": "18% top"
     },
     {
       "type": "outro",

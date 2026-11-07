@@ -47,6 +47,7 @@ p{font-size:36px;line-height:1.55;color:#e6e6ea;font-weight:400}
 .q{font-size:44px;font-weight:900;margin-top:44px}
 .qa{font-size:32px;color:#cfcfd6;margin-top:10px}
 .ft{margin-top:56px;font-size:28px;letter-spacing:.24em;font-weight:700}
+.stk{position:absolute;filter:drop-shadow(0 8px 18px rgba(0,0,0,.55))}
 .btn{display:inline-block;margin-top:24px;background:#fff;color:#000;font-size:34px;font-weight:700;
  padding:22px 56px;border-radius:6px}
 """
@@ -63,11 +64,16 @@ def slide_html(ep, s, i, n, base):
         p = base / s["photo"]
         mime = "image/png" if p.suffix.lower() == ".png" else "image/jpeg"
         uri = f"data:{mime};base64," + base64.b64encode(p.read_bytes()).decode()
-        bg = f'<div class="bg" style="background-image:url({uri})"></div>'
+        extra = (f';background-size:{s["bgsize"]}' if s.get("bgsize") else '') + (f';background-position:{s["bgpos"]}' if s.get("bgpos") else '')
+        bg = f'<div class="bg" style="background-image:url({uri}){extra}"></div>'
     else:
         bg = '<div class="ph"><span>사진 자리</span></div>'
     shade = 'shade' + (' on' if s.get('photo') else '') + (' tall' if t in ('stats', 'outro') else '') + (' strong' if s.get('shade') == 'strong' else '')
     head = ''
+    if s.get("sticker"):
+        k = s["sticker"]; sp = base / k["src"]
+        su = "data:image/png;base64," + base64.b64encode(sp.read_bytes()).decode()
+        head += f'<img class="stk" src="{su}" style="width:{k.get("size",260)}px;right:{k.get("right",80)}px;top:{k.get("top",120)}px">'
     if t != "cover":
         head += f'<div class="idx">{e(s["index"])}</div>'
     if t == "cover":
