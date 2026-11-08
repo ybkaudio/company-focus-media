@@ -8,7 +8,7 @@
     {
       "type": "cover",
       "photo": null,
-      "title": "선수 신발을\n손수 만들던 코치,\n나이키를 세우다",
+      "title": "선수 신발을\n만들어주던 코치가\n나이키를 세우기까지",
       "body": [
         "기업인집중탐구 #05"
       ],
@@ -21,37 +21,24 @@
       }
     },
     {
-      "index": "01 · 출발",
-      "when": "1911 · 출생",
-      "photo": null,
-      "title": "주지사 대행의 아들로\n태어나 시골에서 자라다",
-      "body": [
-        "빌 바워만은 1911년 미국 오리건주 포틀랜드에서 태어났다.",
-        "아버지 제이 바워만은 오리건주 상원의장을 지내며 잠시 주지사 대행을 맡았다.",
-        "1913년 부모가 이혼하자 교사였던 어머니를 따라 어머니의 고향인 시골 마을 포실로 옮겼다.",
-        "메드퍼드 고교에서 싸움으로 퇴학당했다가 교육감에게 훈계를 들은 뒤 운동과 공부 모두 두각을 나타냈다."
-      ],
-      "photo_hint": "[새로 필요] 1910~20년대 오리건주 포실 마을 풍경 (없으면 아버지 제이 바워만 초상, 또는 어린 시절 바워만)"
-    },
-    {
-      "index": "02 · 첫 직장",
+      "index": "01 · 코치",
       "when": "1934 · 23세",
       "photo": null,
-      "title": "의사 대신\n고교 코치가 되다",
+      "title": "의대 대신\n육상 코치의 길을 걷다",
       "body": [
-        "오리건대에 다니며 육상 코치 빌 헤이워드에게 달리기를 배웠고, 1934년 졸업했다.",
-        "의사가 되려 했지만 의대 학비가 없어 고교 교사 겸 코치가 됐다.",
-        "포틀랜드 프랭클린 고교에서 1년, 이어 모교 메드퍼드 고교에서 8년 동안 가르쳤고, 미식축구팀은 1940년 주 대회에서 우승했다."
+        "빌 바워만은 1911년 오리건주에서 주 상원의장을 지낸 정치인 아버지와 교사 어머니 사이에 태어났다.",
+        "오리건대에서 육상 코치 빌 헤이워드에게 달리기를 배웠고, 의사가 되려 했지만 의대 학비가 없어 1934년 고교 교사 겸 코치가 됐다.",
+        "모교 메드퍼드 고교에서 8년 동안 가르치며 1940년 미식축구팀을 주 대회 우승으로 이끌었다.",
+        "2차 대전에 산악사단 소령으로 참전한 뒤, 1948년 모교 오리건대의 육상 감독이 됐다."
       ],
-      "photo_hint": "[새로 필요] 1930년대 메드퍼드 고교 미식축구팀 또는 젊은 시절 바워만 (없으면 1930년대 오리건대 육상팀)"
+      "photo_hint": "[기존 03 → 02번 파일] 1937년 메드퍼드 고교 미식축구팀"
     },
     {
-      "index": "03 · 특기",
+      "index": "02 · 특기",
       "when": "1958 · 47세",
       "photo": null,
       "title": "무거운 육상화 대신\n신발을 직접 만들다",
       "body": [
-        "2차 대전에 산악사단 소령으로 참전한 뒤, 1948년 모교 오리건대의 육상 감독이 됐다.",
         "1950년대 육상화는 가죽과 쇠징으로 무거웠다.",
         "신발이 가벼우면 선수가 덜 지친다고 본 그는 업체들이 제안을 받아들이지 않자, 동네 구둣방에서 신발 만드는 법을 배우고 기성 육상화를 갈라 구조를 익혔다.",
         "1958년 직접 만든 신발을 중거리 선수였던 제자 필 나이트에게 처음 신겼다."
@@ -59,7 +46,7 @@
       "photo_hint": "[기존 03 → 04번 파일] 빨간 줄무늬의 바워만 수제 육상화"
     },
     {
-      "index": "04 · 창업",
+      "index": "03 · 창업",
       "when": "1964 · 52세",
       "photo": null,
       "title": "제자 나이트와\n운동화 수입 회사를 세우다",
@@ -72,7 +59,7 @@
       "photo_hint": "[기존 05 그대로] 블루 리본 스포츠 매장 'TIGER SHOES' 간판"
     },
     {
-      "index": "05 · 조깅",
+      "index": "04 · 조깅",
       "when": "1967 · 56세",
       "photo": null,
       "title": "뉴질랜드에서 본 조깅을\n미국에 퍼뜨리다",
@@ -84,7 +71,7 @@
       "photo_hint": "[기존 07 → 06번 파일] 책 『Jogging』 표지"
     },
     {
-      "index": "06 · 설계",
+      "index": "05 · 설계",
       "when": "1968 · 57세",
       "photo": null,
       "title": "밑창 전체에 쿠션을 깐\n코르테즈를 설계하다",
@@ -96,7 +83,7 @@
       "photo_hint": "[기존 06 → 07번 파일] 1973년 나이키 코르테즈 광고"
     },
     {
-      "index": "07 · 와플",
+      "index": "06 · 와플",
       "when": "1975 · 64세",
       "photo": null,
       "title": "와플 무늬로 쇠징 없이\n붙잡는 밑창을 만들다",
@@ -111,7 +98,7 @@
     },
     {
       "type": "stats",
-      "index": "08 · 떠날 때",
+      "index": "07 · 떠날 때",
       "when": "1999 · 88세",
       "photo": null,
       "title": "신경을 다친 뒤\n이사회에서 물러나다",
@@ -148,5 +135,5 @@
       "photo_hint": "[기존 10 그대로] 와플 밑창 운동화 (밝은 배경이라 글자 가독성 확인 필요)"
     }
   ],
-  "caption": "선수 신발을 손수 만들던 육상 코치, 나이키를 세우다.\n\n빌 바워만은 무거운 육상화가 못마땅해 구둣방에서 신발 만드는 법을 배운 오리건대 육상 감독이었어요. 제자 필 나이트와 500달러씩 내 회사를 세운 뒤 코르테즈와 와플 밑창을 설계했고, 조깅을 미국에 퍼뜨려 러닝화를 신는 사람 자체를 늘렸어요.\n\n💬 코치가 직접 만든 신발, 여러분이라면 신어 보셨을까요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Bill Bowerman\n- OPB Oregon Experience, Bill Bowerman\n- Nike, Bill Bowerman: Nike's Original Innovator\n- Nike, From Waffle Iron to World Stage: The True Story of the Nike Moon Shoe\n- HISTORY, Nike patent: waffle sole trainers invented in waffle iron\n- Reference for Business, NIKE Inc. company history\n- University of Utah, Nike case (1998)\n- NIKE, Inc. 1998·1999 Annual Report, Directors\n- NIKE, Inc. Form 10-K (1999 회계연도)\n- The Seattle Times, Legendary coach Bill Bowerman dies at age 88 (1999.12.26)\n- Oregon Daily Emerald (1999.12.29)\n- companiesmarketcap.com, Nike market cap history\n\n#기업인집중탐구 #빌바워만 #나이키 #Nike #창업 #창업스토리 #스타트업 #자기계발"
+  "caption": "선수 신발을 만들어주던 코치가 나이키를 세우기까지.\n\n빌 바워만은 무거운 육상화가 못마땅해 구둣방에서 신발 만드는 법을 배운 오리건대 육상 감독이었어요. 제자 필 나이트와 500달러씩 내 회사를 세운 뒤 코르테즈와 와플 밑창을 설계했고, 조깅을 미국에 퍼뜨려 러닝화를 신는 사람 자체를 늘렸어요.\n\n💬 코치가 직접 만든 신발, 여러분이라면 신어 보셨을까요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Bill Bowerman\n- OPB Oregon Experience, Bill Bowerman\n- Nike, Bill Bowerman: Nike's Original Innovator\n- Nike, From Waffle Iron to World Stage: The True Story of the Nike Moon Shoe\n- HISTORY, Nike patent: waffle sole trainers invented in waffle iron\n- Reference for Business, NIKE Inc. company history\n- University of Utah, Nike case (1998)\n- NIKE, Inc. 1998·1999 Annual Report, Directors\n- NIKE, Inc. Form 10-K (1999 회계연도)\n- The Seattle Times, Legendary coach Bill Bowerman dies at age 88 (1999.12.26)\n- Oregon Daily Emerald (1999.12.29)\n- companiesmarketcap.com, Nike market cap history\n\n#기업인집중탐구 #빌바워만 #나이키 #Nike #창업 #창업스토리 #스타트업 #자기계발"
 }
