@@ -121,6 +121,8 @@
 
 2013년 6월 지주회사 이사회에서 물러나며 막내아들 마티아스에게 의장 자리를 넘겼다.
 
+이듬해 40년 가까이 살던 스위스를 떠나 고향 스몰란드로 돌아갔다.
+
 2018년 1월, 91세로 세상을 떠났다.
 
 
@@ -154,5 +156,6 @@
 - Scandinavia Standard, Gillis Lundgren and the flat-pack table (1956)
 - First Online, IKEA sales grow 3.1% in 2013
 - Trade magazin, Record Ikea sales over 20 billion euros (2008)
+- The Local / Sveriges Radio, Kamprad 스웨덴 귀국 보도 (2013~2014)
 
 #기업인집중탐구 #잉바르캄프라드 #이케아 #IKEA #창업 #창업스토리 #스타트업 #자기계발

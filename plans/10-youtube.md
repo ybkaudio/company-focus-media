@@ -93,6 +93,8 @@ Google에 팔린 뒤에도 4년 동안 대표를 맡아 YouTube를 이끌었다.
 
 2010년 10월 대표에서 물러나 고문으로 남았다.
 
+이후 동영상 앱 MixBit을 만들었고, 농구팀 Golden State Warriors와 축구팀 LAFC의 공동 구단주가 됐다.
+
 
 ## 08.jpg · 마무리
 
@@ -121,5 +123,6 @@ PayPal 로고를 그린 디자이너, YouTube를 만들다.
 - Wikipedia, Chad Hurley / History of YouTube
 - Encyclopedia.com, Chen, Steve and Hurley, Chad
 - The Wall Street Journal(위키 인용), 헐리의 Google 주식 가치 (2007.02)
+- Wikipedia, Chad Hurley
 
 #기업인집중탐구 #채드헐리 #유튜브 #YouTube #창업 #창업스토리 #스타트업 #자기계발
