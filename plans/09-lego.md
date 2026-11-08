@@ -2,6 +2,8 @@
 
 > 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
 
+🎵 **추천 음악:** Everything Is Awesome – Tegan and Sara ft. The Lonely Island (레고 무비 주제곡) / 없으면 검색어 'playful whistle'
+
 ## 01.jpg · 표지
 
 📷 **사진:** 올레 키르크 크리스티안센 얼굴 (1930~50년대 흑백 사진)
