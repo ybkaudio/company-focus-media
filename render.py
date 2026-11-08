@@ -137,6 +137,16 @@ def main(path):
                    f'<body>{slide_html(ep, s, i, len(slides), path.parent)}</body></html>')
             pg.set_content(doc)
             pg.wait_for_timeout(150)
+            # 레이아웃 검사: 본문 블록이 위 주석(.idx·.when·.pg)과 겹치거나 화면 밖으로 나가면 멈춤
+            bad = pg.evaluate("""() => {
+              const t = document.querySelector('.txt'); if (!t) return null;
+              const r = t.getBoundingClientRect(); let lim = 0;
+              for (const q of ['.idx','.when','.pg']) { const el = document.querySelector(q); if (el) lim = Math.max(lim, el.getBoundingClientRect().bottom); }
+              if (r.top < lim + 40) return `본문 시작 ${Math.round(r.top)}px가 위 주석 아래 ${Math.round(lim)}px+40과 겹침`;
+              if (r.bottom > innerHeight) return '본문이 화면 아래로 넘침';
+              return null; }""")
+            if bad:
+                sys.exit(f"{i:02d}장 레이아웃 문제: {bad}. 본문·제목을 줄이고 다시 렌더")
             pg.screenshot(path=str(out / f"{i:02d}.png"))
         b.close()
     (out / "caption.txt").write_text(ep["caption"])
