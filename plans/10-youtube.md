@@ -123,6 +123,5 @@ PayPal 로고를 그린 디자이너, YouTube를 만들다.
 - Wikipedia, Chad Hurley / History of YouTube
 - Encyclopedia.com, Chen, Steve and Hurley, Chad
 - The Wall Street Journal(위키 인용), 헐리의 Google 주식 가치 (2007.02)
-- Wikipedia, Chad Hurley
 
 #기업인집중탐구 #채드헐리 #유튜브 #YouTube #창업 #창업스토리 #스타트업 #자기계발
