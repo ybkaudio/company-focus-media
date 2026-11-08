@@ -1,6 +1,7 @@
 {
   "no": 1,
   "company": "Apple",
+  "company_ko": "애플",
   "person": "스티브 잡스",
   "accent": "#2997FF",
   "handle": "@company.focus",

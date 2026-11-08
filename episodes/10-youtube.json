@@ -1,6 +1,7 @@
 {
   "no": 10,
   "company": "YouTube",
+  "company_ko": "유튜브",
   "person": "채드 헐리",
   "accent": "#FF0000",
   "handle": "@company.focus",

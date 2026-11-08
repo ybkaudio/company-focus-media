@@ -1,6 +1,7 @@
 {
   "no": 5,
   "company": "Nike",
+  "company_ko": "나이키",
   "person": "빌 바워만",
   "accent": "#F36F21",
   "handle": "@company.focus",

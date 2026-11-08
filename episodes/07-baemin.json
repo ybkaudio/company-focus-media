@@ -1,6 +1,7 @@
 {
   "no": 7,
   "company": "배달의민족",
+  "company_ko": "배달의민족",
   "person": "김봉진",
   "accent": "#2AC1BC",
   "handle": "@company.focus",

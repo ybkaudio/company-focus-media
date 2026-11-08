@@ -1,6 +1,7 @@
 {
   "no": 6,
   "company": "Airbnb",
+  "company_ko": "에어비앤비",
   "person": "조 게비아",
   "accent": "#FF5A5F",
   "handle": "@company.focus",

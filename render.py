@@ -36,6 +36,7 @@ h1{font-size:88px;line-height:1.2;font-weight:900;letter-spacing:-.025em;white-s
 .cover h1{font-size:90px}
 .dv{width:84px;height:5px;background:var(--a);margin:44px 0 40px}
 p{font-size:36px;line-height:1.55;color:#e6e6ea;font-weight:400}
+.who{font-size:42px;font-weight:700;color:#fff;margin-bottom:6px;letter-spacing:-.01em}
 .handle{font-size:30px;letter-spacing:.28em;font-weight:700;margin-bottom:34px;color:#fff}
 .stats{margin-top:8px}
 .st{margin-bottom:34px}
@@ -86,7 +87,7 @@ def slide_html(ep, s, i, n, base):
         head += f'<div class="when">{e(s["when"])}</div>'
     if t == "cover":
         body = (f'<div class="handle">{e(ep["handle"]).upper()}</div><h1>{e(s["title"])}</h1>'
-                f'<div class="dv"></div><p>{lines(s["body"])}</p>')
+                f'<div class="dv"></div><div class="who">{e(ep["person"])} · {e(ep.get("company_ko") or ep["company"])}</div><p>{lines(s["body"])}</p>')
         return f'<div class="s cover">{bg}<div class="{shade}"></div>{head}<div class="txt">{body}</div></div>'
     if t == "stats":
         st = "".join(f'<div class="st"><div class="c">{e(x["cap"])}</div><div class="n">{e(x["num"])}<span class="u">{e(x["unit"])}</span></div></div>' for x in s["stats"])

@@ -1,6 +1,7 @@
 {
   "no": 3,
   "company": "WhatsApp",
+  "company_ko": "왓츠앱",
   "person": "얀 쿰",
   "accent": "#25D366",
   "handle": "@company.focus",

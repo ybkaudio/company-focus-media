@@ -1,6 +1,7 @@
 {
   "no": 2,
   "company": "Microsoft",
+  "company_ko": "마이크로소프트",
   "person": "빌 게이츠",
   "accent": "#00A4EF",
   "handle": "@company.focus",

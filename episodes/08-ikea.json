@@ -1,6 +1,7 @@
 {
   "no": 8,
   "company": "IKEA",
+  "company_ko": "이케아",
   "person": "잉바르 캄프라드",
   "accent": "#0058A3",
   "handle": "@company.focus",

@@ -2,6 +2,7 @@
   "no": 1,
   "special": true,
   "company": "PayPal",
+  "company_ko": "페이팔",
   "person": "일론 머스크",
   "accent": "#0070BA",
   "handle": "@company.focus",

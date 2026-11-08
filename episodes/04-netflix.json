@@ -1,6 +1,7 @@
 {
   "no": 4,
   "company": "Netflix",
+  "company_ko": "넷플릭스",
   "person": "마크 랜돌프",
   "accent": "#E50914",
   "handle": "@company.focus",

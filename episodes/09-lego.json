@@ -1,6 +1,7 @@
 {
   "no": 9,
   "company": "LEGO",
+  "company_ko": "레고",
   "person": "올레 키르크 크리스티안센",
   "accent": "#E3000B",
   "handle": "@company.focus",
