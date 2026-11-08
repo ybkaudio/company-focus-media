@@ -144,6 +144,13 @@ def main(path):
               for (const q of ['.idx','.when','.pg']) { const el = document.querySelector(q); if (el) lim = Math.max(lim, el.getBoundingClientRect().bottom); }
               if (r.top < lim + 40) return `본문 시작 ${Math.round(r.top)}px가 위 주석 아래 ${Math.round(lim)}px+40과 겹침`;
               if (r.bottom > innerHeight) return '본문이 화면 아래로 넘침';
+              const k = document.querySelector('.stk');
+              if (k) { const a = k.getBoundingClientRect();
+                for (const q of ['.idx','.when','.txt h1','.txt p','.txt .who','.txt .handle','.txt .stats']) {
+                  for (const el of document.querySelectorAll(q)) { const rg = document.createRange(); rg.selectNodeContents(el);
+                    for (const b of rg.getClientRects()) {   // 실제 글자 줄의 영역만 검사
+                      if (a.left < b.right + 8 && a.right > b.left - 8 && a.top < b.bottom + 8 && a.bottom > b.top - 8)
+                        return `스티커가 ${q} 글자와 겹침(스티커 top·size 조정)`; } } } }
               return null; }""")
             if bad:
                 sys.exit(f"{i:02d}장 레이아웃 문제: {bad}. 본문·제목을 줄이고 다시 렌더")

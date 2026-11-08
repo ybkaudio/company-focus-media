@@ -60,7 +60,7 @@
         "src": "09-lego/sticker-yoyo.png",
         "size": 300,
         "right": 50,
-        "top": 140
+        "top": 190
       }
     },
     {
@@ -78,7 +78,7 @@
         "src": "09-lego/sticker-motto.png",
         "size": 420,
         "right": 40,
-        "top": 140
+        "top": 190
       }
     },
     {
@@ -96,7 +96,7 @@
         "src": "09-lego/sticker-machine.png",
         "size": 340,
         "right": 50,
-        "top": 140
+        "top": 190
       }
     },
     {
