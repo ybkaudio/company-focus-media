@@ -102,9 +102,11 @@
 - **541억 달러** — 시가총액 (그가 떠난 2022년 말)
 - **15년** — Airbnb 창업부터 떠날 때까지
 
-2022년 7월, 다른 아이디어를 펼치겠다며 세 창업자 가운데 처음으로 상근 경영에서 물러났다.
+2022년 7월, 다른 아이디어를 펼치겠다며 세 창업자 가운데 처음으로 상근 경영에서 물러났고, 이사회에는 남았다.
 
-이사회에는 남았다.
+같은 해 9월 테슬라 이사회에 들어갔고, 마당에 놓는 작은 집을 파는 회사 <사마라>를 이끌었다.
+
+2025년에는 일론 머스크의 정부효율부(DOGE)에 합류했고, 그해 8월 미국 정부의 첫 최고디자인책임자가 됐다.
 
 
 ## 09.jpg · 마무리
@@ -136,6 +138,7 @@
 - FEE, Airbnb's Co-Founder Has Been Innovating Since He Was a Kid
 - Hospitality Ireland, Airbnb Valuation Surges Past $100bn In Biggest US IPO Of 2020 (2020.12)
 - CNBC, Airbnb co-founder Joe Gebbia is stepping down (2022.07.21)
+- Wikipedia, Joe Gebbia (Tesla 이사회 2022.09, 미국 정부 최고디자인책임자 2025.08)
 - companiesmarketcap.com, Airbnb market cap history
 
 #기업인집중탐구 #조게비아 #에어비앤비 #Airbnb #창업 #창업스토리 #스타트업 #자기계발
