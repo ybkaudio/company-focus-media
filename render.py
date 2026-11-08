@@ -21,8 +21,8 @@ html,body{width:1080px;height:1350px;background:#000;color:#fff;
 .ph span{position:absolute;top:250px;font-size:30px;letter-spacing:.3em;color:#3a3a42;font-weight:700;
  border:3px dashed #2c2c33;padding:22px 40px;border-radius:14px}
 /* 사용자 규칙(11/8): 사진을 가리는 진한 검정은 금지. #02 마이크로소프트 수준의 옅은 그라데이션 + 글자 그림자만 */
-.shade.on~.txt h1,.shade.on~.txt p,.shade.on~.txt .pt,.shade.on~.txt .q,.shade.on~.txt .st,.shade.on~.txt .who,.shade.on~.txt .handle,.shade.on~.txt .c,.shade.on~.txt .u{text-shadow:0 0 22px rgba(0,0,0,.95),0 0 8px rgba(0,0,0,.85),0 2px 3px rgba(0,0,0,.9)}
-.shade.on~.idx{text-shadow:0 0 12px rgba(0,0,0,.9),0 1px 3px rgba(0,0,0,.9)}
+.shade.on~.txt h1,.shade.on~.txt p,.shade.on~.txt .pt,.shade.on~.txt .q,.shade.on~.txt .st,.shade.on~.txt .who,.shade.on~.txt .handle,.shade.on~.txt .c,.shade.on~.txt .u{text-shadow:0 0 16px rgba(0,0,0,.55),0 1px 2px rgba(0,0,0,.35)}
+.shade.on~.idx{text-shadow:0 0 12px rgba(0,0,0,.55),0 1px 2px rgba(0,0,0,.35)}
 .shade{position:absolute;inset:0;
  background:linear-gradient(180deg,rgba(0,0,0,.45) 0%,rgba(0,0,0,0) 16%,rgba(0,0,0,0) 38%,rgba(0,0,0,.82) 62%,#000 82%)}
 .shade.on{background:linear-gradient(180deg,rgba(0,0,0,.4) 0%,rgba(0,0,0,.05) 14%,rgba(0,0,0,.08) 42%,rgba(0,0,0,.5) 62%,rgba(0,0,0,.68) 82%,rgba(0,0,0,.72) 100%)}
@@ -36,19 +36,19 @@ html,body{width:1080px;height:1350px;background:#000;color:#fff;
 h1{font-size:88px;line-height:1.2;font-weight:900;letter-spacing:-.025em;white-space:pre-line}
 .cover h1{font-size:90px}
 .dv{width:84px;height:5px;background:var(--a);margin:44px 0 40px}
-p{font-size:36px;line-height:1.55;color:#e6e6ea;font-weight:400}
+p{font-size:36px;line-height:1.55;color:#ececf0;font-weight:400}
 .who{font-size:42px;font-weight:700;color:#fff;margin-bottom:6px;letter-spacing:-.01em}
 .handle{font-size:30px;letter-spacing:.28em;font-weight:700;margin-bottom:34px;color:#fff}
 .stats{margin-top:8px}
 .st{margin-bottom:34px}
-.st .c{font-size:32px;color:#cfcfd6;margin-bottom:6px}
+.st .c{font-size:32px;color:#ececf0;margin-bottom:6px}
 .st .n{font-size:150px;font-weight:900;line-height:1;letter-spacing:-.03em}
-.st .u{font-size:44px;font-weight:500;margin-left:14px;color:#cfcfd6}
+.st .u{font-size:44px;font-weight:500;margin-left:14px;color:#ececf0}
 .st .ln{height:4px;background:#fff;opacity:.85;margin:18px 0 0}
-.pt{font-size:36px;line-height:1.55;color:#e6e6ea;padding-left:30px;position:relative;margin-bottom:6px}
+.pt{font-size:36px;line-height:1.55;color:#ececf0;padding-left:30px;position:relative;margin-bottom:6px}
 .pt:before{content:"·";position:absolute;left:4px}
 .q{font-size:44px;font-weight:900;margin-top:44px}
-.qa{font-size:32px;color:#cfcfd6;margin-top:10px}
+.qa{font-size:32px;color:#ececf0;margin-top:10px}
 .ft{margin-top:56px;font-size:28px;letter-spacing:.24em;font-weight:700}
 .stk{position:absolute;filter:drop-shadow(0 8px 18px rgba(0,0,0,.55))}
 .btn{display:inline-block;margin-top:24px;background:#fff;color:#000;font-size:34px;font-weight:700;
