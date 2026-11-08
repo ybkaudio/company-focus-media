@@ -21,8 +21,8 @@ html,body{width:1080px;height:1350px;background:#000;color:#fff;
 .ph span{position:absolute;top:250px;font-size:30px;letter-spacing:.3em;color:#3a3a42;font-weight:700;
  border:3px dashed #2c2c33;padding:22px 40px;border-radius:14px}
 /* 사용자 규칙(11/8): 사진을 가리는 진한 검정은 금지. #02 마이크로소프트 수준의 옅은 그라데이션 + 글자 그림자만 */
-.shade.on~.txt h1,.shade.on~.txt p,.shade.on~.txt .pt,.shade.on~.txt .q,.shade.on~.txt .st,.shade.on~.txt .who,.shade.on~.txt .handle,.shade.on~.txt .c,.shade.on~.txt .u{text-shadow:0 0 16px rgba(0,0,0,.55),0 1px 2px rgba(0,0,0,.35)}
-.shade.on~.idx{text-shadow:0 0 12px rgba(0,0,0,.55),0 1px 2px rgba(0,0,0,.35)}
+.shade.on~.txt h1,.shade.on~.txt p,.shade.on~.txt .pt,.shade.on~.txt .q,.shade.on~.txt .st,.shade.on~.txt .who,.shade.on~.txt .handle,.shade.on~.txt .c,.shade.on~.txt .u{text-shadow:1px 0 0 rgba(0,0,0,.5),-1px 0 0 rgba(0,0,0,.5),0 1px 0 rgba(0,0,0,.5),0 -1px 0 rgba(0,0,0,.5),0 0 14px rgba(0,0,0,.5)}
+.shade.on~.idx{text-shadow:1px 0 0 rgba(0,0,0,.5),-1px 0 0 rgba(0,0,0,.5),0 1px 0 rgba(0,0,0,.5),0 -1px 0 rgba(0,0,0,.5),0 0 14px rgba(0,0,0,.5)}
 .shade{position:absolute;inset:0;
  background:linear-gradient(180deg,rgba(0,0,0,.45) 0%,rgba(0,0,0,0) 16%,rgba(0,0,0,0) 38%,rgba(0,0,0,.82) 62%,#000 82%)}
 .shade.on{background:linear-gradient(180deg,rgba(0,0,0,.4) 0%,rgba(0,0,0,.05) 14%,rgba(0,0,0,.08) 42%,rgba(0,0,0,.5) 62%,rgba(0,0,0,.68) 82%,rgba(0,0,0,.72) 100%)}
