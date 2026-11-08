@@ -20,12 +20,13 @@ html,body{width:1080px;height:1350px;background:#000;color:#fff;
  display:flex;align-items:center;justify-content:center}
 .ph span{position:absolute;top:250px;font-size:30px;letter-spacing:.3em;color:#3a3a42;font-weight:700;
  border:3px dashed #2c2c33;padding:22px 40px;border-radius:14px}
-/* 사용자 규칙: 글자 있는 곳에 검정 그라데이션을 깔지 않음(사진을 가리지 않게). 가독성은 글자 그림자로만 */
+/* 사용자 규칙(11/8): 사진을 가리는 진한 검정은 금지. #02 마이크로소프트 수준의 옅은 그라데이션 + 글자 그림자만 */
 .shade.on~.txt h1,.shade.on~.txt p,.shade.on~.txt .pt,.shade.on~.txt .q,.shade.on~.txt .st,.shade.on~.txt .who,.shade.on~.txt .handle,.shade.on~.txt .c,.shade.on~.txt .u{text-shadow:0 0 22px rgba(0,0,0,.95),0 0 8px rgba(0,0,0,.85),0 2px 3px rgba(0,0,0,.9)}
 .shade.on~.idx{text-shadow:0 0 12px rgba(0,0,0,.9),0 1px 3px rgba(0,0,0,.9)}
 .shade{position:absolute;inset:0;
  background:linear-gradient(180deg,rgba(0,0,0,.45) 0%,rgba(0,0,0,0) 16%,rgba(0,0,0,0) 38%,rgba(0,0,0,.82) 62%,#000 82%)}
-.shade.on{background:none}
+.shade.on{background:linear-gradient(180deg,rgba(0,0,0,.4) 0%,rgba(0,0,0,.05) 14%,rgba(0,0,0,.08) 42%,rgba(0,0,0,.5) 62%,rgba(0,0,0,.68) 82%,rgba(0,0,0,.72) 100%)}
+.shade.on.tall{background:linear-gradient(180deg,rgba(0,0,0,.4) 0%,rgba(0,0,0,.1) 12%,rgba(0,0,0,.45) 34%,rgba(0,0,0,.62) 56%,rgba(0,0,0,.72) 100%)}
 .idx{position:absolute;top:96px;left:80px;font-size:32px;font-weight:700;letter-spacing:.12em;color:#fff}
 .idx:after{content:"";display:block;width:84px;height:5px;background:var(--a);margin-top:22px}
 .pg{position:absolute;top:84px;right:72px;font-size:32px;font-weight:500;color:#fff;
