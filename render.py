@@ -148,7 +148,9 @@ def main(path):
               if (k) { const a = k.getBoundingClientRect();
                 for (const q of ['.idx','.when','.txt h1','.txt p','.txt .who','.txt .handle','.txt .stats']) {
                   for (const el of document.querySelectorAll(q)) { const rg = document.createRange(); rg.selectNodeContents(el);
-                    for (const b of rg.getClientRects()) {   // 실제 글자 줄의 영역만 검사
+                    const fs = parseFloat(getComputedStyle(el).fontSize);
+                    for (const r0 of rg.getClientRects()) {   // 실제 글자 줄의 영역만 검사(줄 간격 여백은 빼고 글자 높이만)
+                      const pad = Math.max(0, (r0.height - fs) / 2), b = {left: r0.left, right: r0.right, top: r0.top + pad, bottom: r0.bottom - pad};
                       if (a.left < b.right + 8 && a.right > b.left - 8 && a.top < b.bottom + 8 && a.bottom > b.top - 8)
                         return `스티커가 ${q} 글자와 겹침(스티커 top·size 조정)`; } } } }
               return null; }""")
