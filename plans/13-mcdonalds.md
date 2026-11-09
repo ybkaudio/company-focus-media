@@ -75,7 +75,7 @@
 
 📷 **Photo:** Early McDonald's restaurant with golden arches, around 1953 (the Downey store is fine)
 
-**제목:** 황금 아치를 세우고 가맹점을 내다
+**제목:** 맥도날드의 첫 가맹점을 내다
 
 1952년 테니스 코트에 분필로 주방 기구 자리를 그려 가며 동선을 다시 짰고, 건축가에게 맡겨 건물 양쪽에 높이 7.6m의 노란 아치 두 개를 단 가게를 설계했다.
 
