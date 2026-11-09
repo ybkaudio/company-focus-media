@@ -9,7 +9,7 @@
     {
       "type": "cover",
       "photo": null,
-      "title": "이 화가 지망생은\n유튜브 만듦",
+      "title": "이 화가 지망생은\n유튜브를 만듦",
       "body": [
         "기업인집중탐구 #10"
       ],
@@ -17,8 +17,8 @@
       "sticker": {
         "src": "10-youtube/sticker-icon.png",
         "size": 180,
-        "right": 60,
-        "top": 902
+        "right": 136,
+        "top": 850
       }
     },
     {
@@ -32,23 +32,17 @@
         "면접 과제로 그린 그림이 PayPal의 첫 로고가 됐고, 그는 15번째 직원이자 첫 디자이너로 들어갔다.",
         "이곳에서 엔지니어 스티브 첸, 자웨드 카림과 함께 일했다."
       ],
-      "photo_hint": "헐리·첸·카림 사진 (PayPal 로고는 스티커)",
-      "sticker": {
-        "src": "10-youtube/sticker-paypal.png",
-        "size": 340,
-        "right": 50,
-        "top": 190
-      }
+      "photo_hint": "헐리·첸·카림 사진 (PayPal 로고는 스티커)"
     },
     {
       "index": "02 · 창업",
       "when": "2005 · 28세",
       "photo": null,
-      "title": "파티 영상을 못 보내\nYouTube를 만들다",
+      "title": "영상을 나누기 위해\nYouTube를 만들다",
       "body": [
         "2005년 1월 첸의 집 저녁 파티를 찍은 영상이 너무 커서 이메일로 보낼 수 없었다.",
         "사진은 플리커에서 쉽게 나누는데 영상은 왜 안 되나 싶었던 셋은, 2월 헐리의 차고에서 사이트를 만들기 시작했다.",
-        "4월 23일 첫 영상 '동물원에 간 나'가 올라왔고, 대표를 맡은 헐리는 로고와 화면을 디자인했다."
+        "4월 23일 자웨드 카림이 유튜브 첫 영상 '동물원에 간 나'를 올렸고, 대표를 맡은 헐리는 로고와 화면을 디자인했다."
       ],
       "photo_hint": "첫 영상 'Me at the zoo' 화면 (없으면 2005년 초기 YouTube 화면)"
     },
@@ -56,7 +50,7 @@
       "index": "03 · 설계",
       "when": "2005 · 28세",
       "photo": null,
-      "title": "프로그램 설치 없이\n누구나 영상을 올리게 하다",
+      "title": "영상 업로드와 조회를\n쉽게 만들다",
       "body": [
         "당시 인터넷 영상은 따로 프로그램을 깔아야 볼 수 있었다.",
         "YouTube는 설치도 가입도 없이 클릭 한 번으로 재생되게 했고, 영상에 꼬리표를 달아 찾기 쉽게 했다.",
@@ -69,7 +63,7 @@
       "index": "04 · 성장",
       "when": "2006 · 29세",
       "photo": null,
-      "title": "하루 1억 번 보는\n사이트로 키우다",
+      "title": "하루 1억 조회수의\n사이트로 키우다",
       "body": [
         "2005년 11월 벤처캐피털 <세쿼이아>에서 350만 달러를, 이듬해 4월 800만 달러를 더 투자받았다.",
         "2006년 7월 YouTube 영상은 하루 평균 1억 번 재생됐고, 매일 새 영상이 6만 5,000개씩 올라왔다.",
@@ -81,7 +75,7 @@
       "index": "05 · 매각",
       "when": "2006 · 29세",
       "photo": null,
-      "title": "20개월 만에\nGoogle에 회사를 팔다",
+      "title": "창업 20개월 만에\nGoogle에 팔리다",
       "body": [
         "2006년 10월 9일 Google이 YouTube를 16억 5,000만 달러에 사들이기로 했다.",
         "차고에서 사이트를 만들기 시작한 지 20개월 만이었고, 협상은 닷새도 걸리지 않았다.",
@@ -90,9 +84,9 @@
       "photo_hint": "Google 인수 화면 (매각 발표 영상은 스티커)",
       "sticker": {
         "src": "10-youtube/sticker-sold.png",
-        "size": 330,
-        "right": 50,
-        "top": 190
+        "size": 481,
+        "right": 519,
+        "top": 210
       }
     },
     {
@@ -100,7 +94,7 @@
       "index": "06 · 떠날 때",
       "when": "2010 · 33세",
       "photo": null,
-      "title": "다섯 돌을 넘기고\n대표에서 물러나다",
+      "title": "5년이 지나\n대표에서 물러나다",
       "stats": [
         {
           "cap": "회사 가치 (Google이 인수한 2006년)",
@@ -124,7 +118,7 @@
       "type": "outro",
       "index": "마무리",
       "photo": null,
-      "title": "디자이너의 눈으로\n영상 올리기를 쉽게 만들다",
+      "title": "세계 최대 규모의\n영상 플랫폼을 만들다",
       "points": [
         "면접 자리에서 로고로 실력을 보인 디자인 감각",
         "어려운 기술을 클릭 한 번으로 줄인 단순함",
@@ -134,6 +128,6 @@
       "photo_hint": "YouTube 로고 (어두운 배경, 표지 스티커도 여기서 오려 냄)"
     }
   ],
-  "caption": "이 화가 지망생은 유튜브 만듦.\n\n채드 헐리는 면접에서 그린 그림이 PayPal 첫 로고가 된 디자이너였어요. 파티 영상이 너무 커서 이메일로 못 보낸 날, 동료들과 차고에서 YouTube를 만들었고, 설치도 가입도 필요 없는 영상 사이트로 20개월 만에 Google에 16억 5,000만 달러에 팔았어요.\n\n💬 여러분이 처음 본 YouTube 영상은 뭐였나요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Chad Hurley / History of YouTube\n- Encyclopedia.com, Chen, Steve and Hurley, Chad\n- The Wall Street Journal(위키 인용), 헐리의 Google 주식 가치 (2007.02)\n\n#기업인집중탐구 #채드헐리 #유튜브 #YouTube #창업 #창업스토리 #스타트업 #자기계발",
+  "caption": "이 화가 지망생은 유튜브를 만듦.\n\n채드 헐리는 면접에서 그린 그림이 PayPal 첫 로고가 된 디자이너였어요. 파티 영상이 너무 커서 이메일로 못 보낸 날, 동료들과 차고에서 YouTube를 만들었고, 설치도 가입도 필요 없는 영상 사이트로 20개월 만에 Google에 16억 5,000만 달러에 팔았어요.\n\n💬 여러분이 처음 본 YouTube 영상은 뭐였나요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Chad Hurley / History of YouTube\n- Encyclopedia.com, Chen, Steve and Hurley, Chad\n- The Wall Street Journal(위키 인용), 헐리의 Google 주식 가치 (2007.02)\n\n#기업인집중탐구 #채드헐리 #유튜브 #YouTube #창업 #창업스토리 #스타트업 #자기계발",
   "music": "Mr. Brightside – The Killers (YouTube가 생긴 2004~05년 히트곡) / 없으면 검색어 'indie rock 2000s'"
 }
