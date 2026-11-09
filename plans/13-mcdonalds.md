@@ -30,7 +30,7 @@
 
 📷 **Photo:** McDonald's Bar-B-Q drive-in in San Bernardino with carhops, 1940s (or a 1940s American drive-in)
 
-**제목:** 차에 탄 손님에게 바비큐를 팔다
+**제목:** 드라이브인 바비큐 식당, 맥도날드의 시작
 
 극장을 판 해 66번 국도 옆에 핫도그와 오렌지주스를 파는 노점을 열었다.
 
