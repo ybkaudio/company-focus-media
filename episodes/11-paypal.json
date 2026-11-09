@@ -16,9 +16,10 @@
       ],
       "bgpos": "right center",
       "title_logo": {
-        "src": "11-paypal/sticker-logo.png",
-        "height": 110,
-        "valign": "-14px"
+        "src": "11-paypal/title-logo.png",
+        "height": 119,
+        "valign": "-28px",
+        "css": "filter:drop-shadow(0 0 3px rgba(255,255,255,.9)) drop-shadow(0 0 10px rgba(255,255,255,.35))"
       }
     },
     {
