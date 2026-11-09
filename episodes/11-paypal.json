@@ -1,5 +1,5 @@
 {
-  "no": 15,
+  "no": 11,
   "company": "PayPal",
   "company_ko": "PayPal",
   "person": "일론 머스크",
@@ -12,10 +12,10 @@
       "title": "PayPal,\n일론 머스크의 시작",
       "photo_hint": "20대 후반 머스크가 사무실 칸막이 창으로 몸을 내민 사진 (사용자 지정)",
       "body": [
-        "기업인집중탐구 #15"
+        "기업인집중탐구 #11"
       ],
       "sticker": {
-        "src": "15-paypal/sticker-logo.png",
+        "src": "11-paypal/sticker-logo.png",
         "size": 300,
         "right": 60,
         "top": 808
@@ -61,7 +61,7 @@
       "bgsize": "1080px auto",
       "bgpos": "center 170px",
       "sticker": {
-        "src": "15-paypal/sticker-brothers.png",
+        "src": "11-paypal/sticker-brothers.png",
         "size": 300,
         "right": 50,
         "top": 190
