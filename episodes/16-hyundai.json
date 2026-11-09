@@ -18,30 +18,19 @@
     },
     {
       "index": "01 · 쌀가게",
-      "when": "1937 · 22세",
-      "photo": null,
-      "title": "쌀가게 배달원이\n가게를 물려받다",
-      "body": [
-        "강원도 통천의 농사꾼 집 아들 정주영은 서울로 가출해 쌀가게 <복흥상회>의 배달원이 됐다.",
-        "성실함을 인정받아 장부까지 맡았고, 1937년 병든 주인이 가게를 그에게 넘겼다.",
-        "<경일상회>로 간판을 바꿔 달았지만, 1939년 일제가 쌀을 배급제로 묶으면서 문을 닫았다."
-      ],
-      "photo_hint": "Seoul rice shop or market street in the 1930s (colonial-era Keijō)"
-    },
-    {
-      "index": "02 · 수리 공장",
       "when": "1940 · 25세",
       "photo": null,
-      "title": "빌린 돈으로\n자동차 수리 공장을 세우다",
+      "title": "쌀가게에서 쌓은 신용으로\n수리 공장을 세우다",
       "body": [
-        "1940년 3,000원을 빌려 자동차 수리 공장 <아도서비스>를 인수했다.",
+        "강원도 통천 농가의 아들 정주영은 서울로 가출해 쌀가게 배달원이 됐고, 1937년 병든 주인에게서 가게를 물려받았다.",
+        "1939년 일제가 쌀을 배급제로 묶어 가게를 닫은 뒤, 1940년 빌린 돈으로 자동차 수리 공장 <아도서비스>를 인수했다.",
         "곧 불이 나 빚만 남았지만, 쌀가게 시절 그를 본 정미소 주인이 담보 없이 3,500원을 다시 빌려줬다.",
         "직원이 20명에서 70명으로 늘었으나, 1943년 일제가 공장을 군수 공장에 강제로 합쳤다."
       ],
-      "photo_hint": "Auto repair garage in Seoul, 1940s (old trucks being repaired)"
+      "photo_hint": "Seoul rice shop or auto repair garage, 1930s–1940s (colonial-era Keijō)"
     },
     {
-      "index": "03 · 창업",
+      "index": "02 · 창업",
       "when": "1947 · 32세",
       "photo": null,
       "title": "수리비 받던 관청에서\n건설 회사를 떠올리다",
@@ -53,7 +42,7 @@
       "photo_hint": "Hyundai Civil Works / Hyundai Construction office sign, late 1940s (or a Seoul street in 1947)"
     },
     {
-      "index": "04 · 보리밭",
+      "index": "03 · 보리밭",
       "when": "1952 · 37세",
       "photo": null,
       "title": "한겨울 묘지에\n보리를 옮겨 심다",
@@ -66,7 +55,7 @@
       "photo_hint": "UN Memorial Cemetery in Busan, 1950s (or U.S. Army construction work in Korea during the Korean War)"
     },
     {
-      "index": "05 · 고속도로",
+      "index": "04 · 고속도로",
       "when": "1968 · 53세",
       "photo": null,
       "title": "경부고속도로를\n2년 5개월 만에 깔다",
@@ -78,7 +67,7 @@
       "photo_hint": "Gyeongbu Expressway construction, 1968–1970 (or the opening ceremony on July 7, 1970)"
     },
     {
-      "index": "06 · 조선소",
+      "index": "05 · 조선소",
       "when": "1971 · 56세",
       "photo": null,
       "title": "500원 지폐로\n조선소 지을 돈을 빌리다",
@@ -90,7 +79,7 @@
       "photo_hint": "Hyundai Ulsan shipyard under construction in the early 1970s (or the Korean 500-won note with the turtle ship)"
     },
     {
-      "index": "07 · 중동",
+      "index": "06 · 중동",
       "when": "1976 · 61세",
       "photo": null,
       "title": "20세기 최대 공사를\n사우디에서 따내다",
@@ -103,7 +92,7 @@
       "photo_hint": "Jubail Industrial Harbour construction in Saudi Arabia, 1976–1979 (steel jackets on barges)"
     },
     {
-      "index": "08 · 미국 진출",
+      "index": "07 · 미국 진출",
       "when": "1986 · 71세",
       "photo": null,
       "title": "Excel로\n미국에 차를 팔다",
@@ -116,7 +105,7 @@
     },
     {
       "type": "stats",
-      "index": "09 · 떠날 때",
+      "index": "08 · 떠날 때",
       "when": "2000 · 85세",
       "photo": null,
       "title": "53년 만에\n경영에서 물러나다",

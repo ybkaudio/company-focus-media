@@ -15,31 +15,20 @@
 
 ## 02.jpg · 01 · 쌀가게
 
-📷 **Photo:** Seoul rice shop or market street in the 1930s (colonial-era Keijō)
+📷 **Photo:** Seoul rice shop or auto repair garage, 1930s–1940s (colonial-era Keijō)
 
-**제목:** 쌀가게 배달원이 가게를 물려받다
+**제목:** 쌀가게에서 쌓은 신용으로 수리 공장을 세우다
 
-강원도 통천의 농사꾼 집 아들 정주영은 서울로 가출해 쌀가게 <복흥상회>의 배달원이 됐다.
+강원도 통천 농가의 아들 정주영은 서울로 가출해 쌀가게 배달원이 됐고, 1937년 병든 주인에게서 가게를 물려받았다.
 
-성실함을 인정받아 장부까지 맡았고, 1937년 병든 주인이 가게를 그에게 넘겼다.
-
-<경일상회>로 간판을 바꿔 달았지만, 1939년 일제가 쌀을 배급제로 묶으면서 문을 닫았다.
-
-
-## 03.jpg · 02 · 수리 공장
-
-📷 **Photo:** Auto repair garage in Seoul, 1940s (old trucks being repaired)
-
-**제목:** 빌린 돈으로 자동차 수리 공장을 세우다
-
-1940년 3,000원을 빌려 자동차 수리 공장 <아도서비스>를 인수했다.
+1939년 일제가 쌀을 배급제로 묶어 가게를 닫은 뒤, 1940년 빌린 돈으로 자동차 수리 공장 <아도서비스>를 인수했다.
 
 곧 불이 나 빚만 남았지만, 쌀가게 시절 그를 본 정미소 주인이 담보 없이 3,500원을 다시 빌려줬다.
 
 직원이 20명에서 70명으로 늘었으나, 1943년 일제가 공장을 군수 공장에 강제로 합쳤다.
 
 
-## 04.jpg · 03 · 창업
+## 03.jpg · 02 · 창업
 
 📷 **Photo:** Hyundai Civil Works / Hyundai Construction office sign, late 1940s (or a Seoul street in 1947)
 
@@ -52,7 +41,7 @@
 1947년 5월 <현대토건사>를 세웠고, 1950년 두 회사를 합쳐 <현대건설>이 됐다.
 
 
-## 05.jpg · 04 · 보리밭
+## 04.jpg · 03 · 보리밭
 
 📷 **Photo:** UN Memorial Cemetery in Busan, 1950s (or U.S. Army construction work in Korea during the Korean War)
 
@@ -67,7 +56,7 @@
 미군은 공사비의 세 배를 줬고, 이후 미8군 공사가 현대로 이어졌다.
 
 
-## 06.jpg · 05 · 고속도로
+## 05.jpg · 04 · 고속도로
 
 📷 **Photo:** Gyeongbu Expressway construction, 1968–1970 (or the opening ceremony on July 7, 1970)
 
@@ -80,7 +69,7 @@
 428km 고속도로는 1970년 7월 2년 5개월 만에 개통했고, 현대는 국내 최대 건설사로 올라섰다.
 
 
-## 07.jpg · 06 · 조선소
+## 06.jpg · 05 · 조선소
 
 📷 **Photo:** Hyundai Ulsan shipyard under construction in the early 1970s (or the Korean 500-won note with the turtle ship)
 
@@ -93,7 +82,7 @@
 조선소와 배를 함께 지어 1972년 3월 착공한 울산조선소를 1974년 6월 첫 배 2척과 함께 준공했다.
 
 
-## 08.jpg · 07 · 중동
+## 07.jpg · 06 · 중동
 
 📷 **Photo:** Jubail Industrial Harbour construction in Saudi Arabia, 1976–1979 (steel jackets on barges)
 
@@ -108,7 +97,7 @@
 여기서 번 오일 달러가 조선·자동차 사업을 키운 밑천이 됐다.
 
 
-## 09.jpg · 08 · 미국 진출
+## 08.jpg · 07 · 미국 진출
 
 📷 **Photo:** Hyundai Excel launch in the United States, 1986 (ad or cars on a U.S. dealer lot)
 
@@ -121,7 +110,7 @@
 일본 소형차의 절반 수준 값에 첫해 16만 8천여 대가 팔려, 미국에 새로 들어온 수입차 브랜드의 첫해 최다 판매를 기록했다.
 
 
-## 10.jpg · 09 · 떠날 때
+## 09.jpg · 08 · 떠날 때
 
 📷 **Photo:** Chung Ju-yung in his last years, around 1998–2000 (the 1998 cattle drive to North Korea photo is also fine)
 
@@ -137,7 +126,7 @@
 이듬해 2001년 3월 세상을 떠났다.
 
 
-## 11.jpg · 마무리
+## 10.jpg · 마무리
 
 📷 **Photo:** Hyundai logo on a dark background (the cover sticker is cut from this too)
 
