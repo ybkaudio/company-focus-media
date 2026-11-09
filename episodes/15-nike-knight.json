@@ -11,7 +11,16 @@
       "type": "cover",
       "photo": null,
       "title": "코치의 제자였던\n회계사 청년이\nNike를 키우기까지",
-      "photo_hint": "Phil Knight portrait (1970s–80s, ideally holding Nike shoes; cover Nike logo sticker is cut from the last slide's logo)"
+      "photo_hint": "Phil Knight portrait (1970s–80s, ideally holding Nike shoes; cover Nike logo sticker is cut from the last slide's logo)",
+      "sticker": {
+        "src": "15-nike-knight/sticker-logo.png",
+        "size": 280,
+        "right": 60,
+        "top": 810
+      },
+      "body": [
+        "기업인집중탐구 #15"
+      ]
     },
     {
       "index": "01 · 리포트",
@@ -36,7 +45,13 @@
         "낮엔 회계사로 일하고, 주말엔 차 트렁크에 운동화를 싣고 육상 대회를 돌며 팔았다.",
         "첫해 약 8,000달러어치를 팔았고, 1969년에야 회계사 일을 그만뒀다."
       ],
-      "photo_hint": "Green 1960s Plymouth Valiant (or a 1960s track meet)"
+      "photo_hint": "Green 1960s Plymouth Valiant (or a 1960s track meet)",
+      "sticker": {
+        "src": "15-nike-knight/sticker-brs.png",
+        "size": 360,
+        "right": 50,
+        "top": 190
+      }
     },
     {
       "index": "03 · 결별",
