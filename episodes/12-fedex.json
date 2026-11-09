@@ -10,7 +10,7 @@
       "type": "cover",
       "photo": null,
       "title": "대학 리포트 속\n하룻밤 배송,\nFedEx가 되다",
-      "photo_hint": "프레드 스미스 얼굴 (1970~80년대 FedEx 비행기 앞 사진이면 가장 좋음, 표지 FedEx 로고 스티커는 마무리 장 로고에서 오려 냄)"
+      "photo_hint": "Fred Smith portrait (1970s–80s, ideally in front of a FedEx plane; cover FedEx logo sticker is cut from the last slide's logo)"
     },
     {
       "index": "01 · 리포트",
@@ -22,7 +22,7 @@
         "예일대 경제학과에 다니던 그는 리포트에, 컴퓨터를 쓰는 회사가 늘면 고장 난 기계의 부품을 빨리 받아야 할 곳도 늘어나는데 우편으로는 그럴 수 없다고 썼다.",
         "한 회사가 자기 비행기와 트럭으로 화물을 한곳에 모았다가 나눠 보내는 방식을 답으로 내놓았다."
       ],
-      "photo_hint": "1960년대 예일대 캠퍼스 (없으면 대학 시절 스미스)"
+      "photo_hint": "Yale University campus in the 1960s (or Fred Smith as a Yale student)"
     },
     {
       "index": "02 · 해병대",
@@ -34,7 +34,7 @@
         "그가 본 군 보급은 필요한 만큼 당겨 쓰는 방식이 아니라 미리 잔뜩 밀어 보내는 방식이라 창고마다 재고가 쌓였다.",
         "필요한 물건을 필요한 날 보내는 체계가 있으면 재고를 쌓아 둘 필요가 없었다."
       ],
-      "photo_hint": "해병대 장교 시절 스미스 (없으면 베트남전 해병대 보급 사진)"
+      "photo_hint": "Fred Smith as a U.S. Marine Corps officer (or Marine supply operations in the Vietnam War)"
     },
     {
       "index": "03 · 창업",
@@ -47,7 +47,7 @@
         "당시 큰 화물기를 띄우려면 항공 당국 허가에 몇 년이 걸렸지만, 작은 비행기는 예외로 허가 없이 띄울 수 있었다.",
         "그는 작은 제트기 팰컨 20을 2대 주문하고 23대를 더 살 권리까지 잡아, 경쟁자가 쓸 비행기를 먼저 확보했다."
       ],
-      "photo_hint": "보라색 Federal Express 도장의 팰컨 20 제트기"
+      "photo_hint": "Federal Express Dassault Falcon 20 jet in purple livery"
     },
     {
       "index": "04 · 허브",
@@ -60,7 +60,7 @@
         "밤마다 각 도시의 소포를 모두 멤피스로 실어 와 분류하고, 새벽에 다시 각 도시로 날려 보냈다. 도시끼리 일일이 노선을 잇지 않아도 한 곳만 거치면 어디로든 갈 수 있었고, 여객기의 90%가 서 있는 밤하늘은 비어 있었다.",
         "1973년 4월 17일 첫날 밤, 팰컨 14대가 25개 도시에 소포 186개를 날랐다."
       ],
-      "photo_hint": "1970년대 멤피스 공항에 줄지어 선 Federal Express 팰컨 제트기"
+      "photo_hint": "Federal Express Falcon jets lined up at Memphis airport, 1970s"
     },
     {
       "index": "05 · 흑자",
@@ -72,7 +72,7 @@
         "첫 2년 동안 약 3,000만 달러를 잃었다.",
         "운항 26개월 만인 1975년 흑자로 돌아섰고, 1976년에는 하루 평균 소포 1만 9,000개를 날랐다."
       ],
-      "photo_hint": "1970년대 Federal Express 분류장에서 소포를 나르는 직원들"
+      "photo_hint": "Federal Express sorting hub workers handling packages, 1970s"
     },
     {
       "index": "06 · 규제",
@@ -85,7 +85,7 @@
         "1977년 화물 항공 규제를 푸는 법이 통과되자 바로 보잉 727을 사들였다. 팰컨보다 화물을 7배 실을 수 있었다.",
         "이듬해 뉴욕증권거래소에 상장했다."
       ],
-      "photo_hint": "1970년대 말 Federal Express 보잉 727 화물기"
+      "photo_hint": "Federal Express Boeing 727 cargo plane, late 1970s"
     },
     {
       "index": "07 · 10억 달러",
@@ -97,7 +97,7 @@
         "보잉 727로 한 번에 실을 수 있는 양을 늘렸고, 1979년 컴퓨터 시스템 '코스모스'를 들여 모든 소포와 차량, 날씨를 실시간으로 관리했다.",
         "1983년 다른 회사를 사들이지 않고 창업 10년 만에 매출 10억 달러를 넘긴 첫 미국 회사가 됐다."
       ],
-      "photo_hint": "1980년대 FedEx 직원이 소포 바코드를 스캔하는 모습 (없으면 1980년대 멤피스 허브)"
+      "photo_hint": "FedEx courier scanning a package barcode, 1980s (or the Memphis hub, 1980s)"
     },
     {
       "type": "stats",
@@ -121,7 +121,7 @@
         "2022년 6월 대표에서 물러나 이사회 의장을 맡고, 환경·혁신·정책 같은 큰 과제에 집중하겠다고 밝혔다.",
         "의장으로 있던 2025년 6월 80세로 세상을 떠나, 해병대 장교로서 알링턴 국립묘지에 묻혔다."
       ],
-      "photo_hint": "2010년대 후반~2022년 무렵 스미스 (FedEx 행사 무대)"
+      "photo_hint": "Fred Smith around 2018–2022 (on stage at a FedEx event)"
     },
     {
       "type": "outro",
@@ -134,7 +134,7 @@
         "규제를 직접 풀어낸 추진력"
       ],
       "button": "지금 팔로우 →",
-      "photo_hint": "FedEx 로고 (어두운 배경, 표지 스티커도 여기서 오려 냄)"
+      "photo_hint": "FedEx logo on a dark background (the cover sticker is cut from this too)"
     }
   ],
   "caption": "대학 리포트에 쓴 하룻밤 배송, FedEx가 되다.\n\n프레드 스미스는 예일대 리포트에 '부품을 하루 만에 받을 방법'을 쓴 학생이었어요. 해병대에서 돌아와 작은 제트기를 사들이고, 밤마다 모든 소포를 멤피스 한곳에 모았다가 새벽에 나눠 보내는 방식으로 하룻밤 배송을 만들었어요. 규제를 직접 풀어 큰 비행기를 띄웠고, 창업 10년 만에 매출 10억 달러를 넘겼어요.\n\n💬 꼭 내일까지 받아야 했던 물건, 있었나요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Frederick W. Smith / FedEx Express\n- CNN Money(FSB), Fred Smith: How I Delivered the Goods (2002.10)\n- EBSCO Research Starters, Federal Express Begins Operations\n- University of Arkansas Walton College, Three Barriers to Entry that Kept FedEx's Early Competitors Grounded\n- AP(ClickOnDetroit), FedEx Corp. founder Fred Smith will step down as CEO in June (2022.03.28)\n- Flying Magazine, How Fred Smith Built FedEx Into World's Biggest Cargo Airline (2025.06)\n\n#기업인집중탐구 #프레드스미스 #페덱스 #FedEx #창업 #창업스토리 #스타트업 #자기계발",

@@ -6,14 +6,14 @@
 
 ## 01.jpg · 표지
 
-📷 **사진:** 필 나이트 얼굴 (1970~80년대 Nike 신발을 든 사진이면 가장 좋음, 표지 Nike 로고 스티커는 마무리 장 로고에서 오려 냄)
+📷 **사진:** Phil Knight portrait (1970s–80s, ideally holding Nike shoes; cover Nike logo sticker is cut from the last slide's logo)
 
 **제목:** 회계사 청년이 신발 수입상에서 Nike를 세우다
 
 
 ## 02.jpg · 01 · 리포트
 
-📷 **사진:** 1960년대 일본 오니츠카 타이거 운동화 (없으면 1960년대 고베 거리)
+📷 **사진:** Onitsuka Tiger running shoes from 1960s Japan (or Kobe street, 1960s)
 
 **제목:** 일본 운동화가 독일을 이긴다고 쓰다
 
@@ -26,7 +26,7 @@
 
 ## 03.jpg · 02 · 트렁크
 
-📷 **사진:** 1960년대 녹색 플리머스 밸리언트 (없으면 1960년대 육상 대회장)
+📷 **사진:** Green 1960s Plymouth Valiant (or a 1960s track meet)
 
 **제목:** 자동차 트렁크에서 운동화를 팔다
 
@@ -39,7 +39,7 @@
 
 ## 04.jpg · 03 · 결별
 
-📷 **사진:** 초기 Nike 스우시 로고 스케치 (없으면 1972년 첫 Nike 신발)
+📷 **사진:** Original Nike swoosh logo sketch (or the first Nike shoe, 1972)
 
 **제목:** 공급처에 쫓겨나 자기 브랜드를 만들다
 
@@ -52,7 +52,7 @@
 
 ## 05.jpg · 04 · 공장 없이
 
-📷 **사진:** 1970년대 후반 Nike 러닝화 광고 (없으면 1980년 무렵 나이트)
+📷 **사진:** Nike running shoe ad, late 1970s (or Phil Knight around 1980)
 
 **제목:** 공장 없이 미국 1등이 되다
 
@@ -67,7 +67,7 @@ Nike는 공장을 짓지 않았다.
 
 ## 06.jpg · 05 · 위기
 
-📷 **사진:** 1980년대 에어로빅 열풍 (없으면 1980년대 Nike 본사)
+📷 **사진:** 1980s aerobics craze (or Nike headquarters in the 1980s)
 
 **제목:** 유행이 바뀌자 적자를 내다
 
@@ -80,7 +80,7 @@ Nike는 공장을 짓지 않았다.
 
 ## 07.jpg · 06 · 조던
 
-📷 **사진:** 1985년 에어 조던 1 (빨강·검정)
+📷 **사진:** Air Jordan 1, 1985 (red and black 'Bred')
 
 **제목:** 신인 한 명에게 신발 라인을 걸다
 
@@ -93,7 +93,7 @@ Nike는 공장을 짓지 않았다.
 
 ## 08.jpg · 07 · 저스트 두 잇
 
-📷 **사진:** 1988년 Just Do It 광고 (없으면 Just Do It 문구)
+📷 **사진:** Nike 'Just Do It' ad, 1988 (or the Just Do It slogan)
 
 **제목:** 광고 한 줄로 누구나의 신발이 되다
 
@@ -106,7 +106,7 @@ Nike는 공장을 짓지 않았다.
 
 ## 09.jpg · 08 · 떠날 때
 
-📷 **사진:** 2000년대 나이트 (Nike 본사 행사)
+📷 **사진:** Phil Knight in the 2000s (at a Nike headquarters event)
 
 **제목:** 40년 만에 대표에서 물러나다
 
@@ -120,7 +120,7 @@ Nike는 공장을 짓지 않았다.
 
 ## 10.jpg · 마무리
 
-📷 **사진:** Nike 로고 (어두운 배경, 표지 스티커도 여기서 오려 냄)
+📷 **사진:** Nike logo on a dark background (the cover sticker is cut from this too)
 
 **제목:** 수입상에서 세계 1등 운동화로
 

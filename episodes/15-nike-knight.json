@@ -11,7 +11,7 @@
       "type": "cover",
       "photo": null,
       "title": "회계사 청년이\n신발 수입상에서\nNike를 세우다",
-      "photo_hint": "필 나이트 얼굴 (1970~80년대 Nike 신발을 든 사진이면 가장 좋음, 표지 Nike 로고 스티커는 마무리 장 로고에서 오려 냄)"
+      "photo_hint": "Phil Knight portrait (1970s–80s, ideally holding Nike shoes; cover Nike logo sticker is cut from the last slide's logo)"
     },
     {
       "index": "01 · 리포트",
@@ -23,7 +23,7 @@
         "대학 육상 선수였던 그는 비싼 독일 운동화가 시장을 쥔 걸 알았다.",
         "졸업한 해 11월 일본 고베로 가 오니츠카의 타이거 운동화를 보고, 미국 서부 판매권을 따냈다."
       ],
-      "photo_hint": "1960년대 일본 오니츠카 타이거 운동화 (없으면 1960년대 고베 거리)"
+      "photo_hint": "Onitsuka Tiger running shoes from 1960s Japan (or Kobe street, 1960s)"
     },
     {
       "index": "02 · 트렁크",
@@ -35,7 +35,7 @@
         "낮엔 회계사로 일하고, 주말엔 차 트렁크에 운동화를 싣고 육상 대회를 돌며 팔았다.",
         "첫해 1,300켤레, 약 8,000달러어치를 팔았고, 1969년에야 회계사 일을 그만뒀다."
       ],
-      "photo_hint": "1960년대 녹색 플리머스 밸리언트 (없으면 1960년대 육상 대회장)"
+      "photo_hint": "Green 1960s Plymouth Valiant (or a 1960s track meet)"
     },
     {
       "index": "03 · 결별",
@@ -47,7 +47,7 @@
         "나이트는 일본 무역상사 닛쇼의 돈을 빌려 다른 공장에 직접 신발을 주문했고, 1972년 오니츠카와 갈라섰다.",
         "첫 직원이 꿈에서 본 이름 Nike를 붙이고, 디자인 학생에게 35달러를 주고 스우시 로고를 받았다."
       ],
-      "photo_hint": "초기 Nike 스우시 로고 스케치 (없으면 1972년 첫 Nike 신발)"
+      "photo_hint": "Original Nike swoosh logo sketch (or the first Nike shoe, 1972)"
     },
     {
       "index": "04 · 공장 없이",
@@ -59,7 +59,7 @@
         "매출은 1976년 1,400만 달러에서 이듬해 2,800만 달러로 뛰었고, 1979년엔 미국에서 팔린 러닝화 절반 가까이가 Nike였다.",
         "1980년 미국 판매에서 독일 아디다스를 앞질렀고, 그해 12월 상장했다."
       ],
-      "photo_hint": "1970년대 후반 Nike 러닝화 광고 (없으면 1980년 무렵 나이트)"
+      "photo_hint": "Nike running shoe ad, late 1970s (or Phil Knight around 1980)"
     },
     {
       "index": "05 · 위기",
@@ -71,7 +71,7 @@
         "1984년 연간 이익이 30% 가까이 줄었고, 분기 적자까지 났다.",
         "그해 직원 약 400명을 내보냈다."
       ],
-      "photo_hint": "1980년대 에어로빅 열풍 (없으면 1980년대 Nike 본사)"
+      "photo_hint": "1980s aerobics craze (or Nike headquarters in the 1980s)"
     },
     {
       "index": "06 · 조던",
@@ -83,7 +83,7 @@
         "다른 회사들이 선수를 기존 신발 광고에 세울 때, Nike는 그의 이름을 단 신발 라인을 따로 만들고 판매액 일부를 나눠 줬다.",
         "1985년 나온 에어 조던은 첫 물량 5만 켤레가 매진됐다."
       ],
-      "photo_hint": "1985년 에어 조던 1 (빨강·검정)"
+      "photo_hint": "Air Jordan 1, 1985 (red and black 'Bred')"
     },
     {
       "index": "07 · 저스트 두 잇",
@@ -94,7 +94,7 @@
         "1988년 'Just Do It' 광고를 시작했다. 선수용 신발 대신, 운동하려는 누구에게나 거는 말이었다.",
         "매출은 1988년 12억 달러에서 1991년 30억 달러를 넘었고, 1997년엔 92억 달러를 기록했다."
       ],
-      "photo_hint": "1988년 Just Do It 광고 (없으면 Just Do It 문구)"
+      "photo_hint": "Nike 'Just Do It' ad, 1988 (or the Just Do It slogan)"
     },
     {
       "type": "stats",
@@ -118,7 +118,7 @@
         "2004년 11월 대표에서 물러나 이사회 의장으로 남았고, 2016년 6월 이사회에서도 나왔다.",
         "그해 창업 이야기를 담은 회고록 '슈독'을 펴냈다."
       ],
-      "photo_hint": "2000년대 나이트 (Nike 본사 행사)"
+      "photo_hint": "Phil Knight in the 2000s (at a Nike headquarters event)"
     },
     {
       "type": "outro",
@@ -131,7 +131,7 @@
         "신인 선수에게 신발 라인을 건 판단"
       ],
       "button": "지금 팔로우 →",
-      "photo_hint": "Nike 로고 (어두운 배경, 표지 스티커도 여기서 오려 냄)"
+      "photo_hint": "Nike logo on a dark background (the cover sticker is cut from this too)"
     }
   ],
   "caption": "회계사 청년이 신발 수입상에서 Nike를 세우다.\n\n필 나이트는 일본 운동화가 독일 운동화를 이긴다는 리포트를 쓰고, 일본에서 들여온 운동화를 차 트렁크에 싣고 팔았어요. 공급처에 쫓겨나자 직접 브랜드를 만들었고, 공장 대신 설계와 광고에 돈을 써 미국 1등이 됐어요. 위기 때는 신인 마이클 조던에게 신발 라인을 걸었어요.\n\n💬 처음 산 Nike 신발, 기억나세요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Phil Knight / Air Jordan\n- Nike, The Handshake That Started It All\n- Company-Histories, NIKE Inc. Company History\n- Nice Kicks, How Blue Ribbon Sports Became Nike\n- Phil Knight, Shoe Dog (2016)\n- The Spokesman-Review, Nike co-founder Knight resigns as CEO (2004.11.19)\n\n#기업인집중탐구 #필나이트 #나이키 #Nike #창업 #창업스토리 #스타트업 #자기계발"

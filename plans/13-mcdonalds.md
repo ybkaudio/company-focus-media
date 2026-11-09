@@ -6,14 +6,14 @@
 
 ## 01.jpg · 표지
 
-📷 **사진:** 딕(리처드)·맥(모리스) 맥도날드 형제가 함께 선 사진 (1950년대 첫 가게 앞이면 가장 좋음, 레이 크록과 헷갈리지 않게, 표지 McDonald's 로고 스티커는 마무리 장 로고에서 오려 냄)
+📷 **사진:** Dick (Richard) and Mac (Maurice) McDonald brothers together (ideally in front of their first store, 1950s; not Ray Kroc; cover McDonald's logo sticker is cut from the last slide's logo)
 
 **제목:** 햄버거 가게를 공장처럼 바꾼 형제
 
 
 ## 02.jpg · 01 · 극장
 
-📷 **사진:** 1930년대 글렌도라 비컨 극장 (없으면 1930년대 할리우드 스튜디오)
+📷 **사진:** Beacon Theater in Glendora, California, 1930s (or a 1930s Hollywood studio)
 
 **제목:** 할리우드에서 극장 주인이 되다
 
@@ -26,7 +26,7 @@
 
 ## 03.jpg · 02 · 드라이브인
 
-📷 **사진:** 1940년대 샌버너디노 맥도날드 바비큐 드라이브인과 종업원 (없으면 1940년대 미국 드라이브인)
+📷 **사진:** McDonald's Bar-B-Q drive-in in San Bernardino with carhops, 1940s (or a 1940s American drive-in)
 
 **제목:** 차에 탄 손님에게 바비큐를 팔다
 
@@ -41,7 +41,7 @@
 
 ## 04.jpg · 03 · 분석
 
-📷 **사진:** 1940년대 드라이브인에 모인 10대들 (없으면 1940년대 맥도날드 메뉴판)
+📷 **사진:** Teenagers at a drive-in restaurant, 1940s (or a 1940s McDonald's menu board)
 
 **제목:** 매출의 80%가 햄버거임을 알아내다
 
@@ -54,7 +54,7 @@
 
 ## 05.jpg · 04 · 스피디
 
-📷 **사진:** 1950년대 맥도날드 주문 창구 앞에 줄 선 손님들
+📷 **사진:** Customers lined up at a McDonald's walk-up window, 1950s
 
 **제목:** 메뉴를 9개로 줄이고 부엌을 공장처럼 바꾸다
 
@@ -71,7 +71,7 @@
 
 ## 06.jpg · 05 · 가맹
 
-📷 **사진:** 1953년 무렵 황금 아치가 달린 초기 맥도날드 매장 (다우니 매장 사진 가능)
+📷 **사진:** Early McDonald's restaurant with golden arches, around 1953 (the Downey store is fine)
 
 **제목:** 황금 아치를 세우고 가맹점을 내다
 
@@ -84,7 +84,7 @@
 
 ## 07.jpg · 06 · 크록
 
-📷 **사진:** 1950년대 맥도날드 매장에서 쓰던 멀티믹서 (없으면 레이 크록과 형제)
+📷 **사진:** Multimixer milkshake machine used at 1950s McDonald's (or Ray Kroc with the brothers)
 
 **제목:** 믹서 8대를 보고 찾아온 판매원
 
@@ -97,7 +97,7 @@
 
 ## 08.jpg · 07 · 떠날 때
 
-📷 **사진:** 'BIG M' 간판이 달린 샌버너디노 첫 가게 (없으면 1960년대 맥도날드 형제)
+📷 **사진:** Original San Bernardino store with the 'BIG M' sign (or the McDonald brothers in the 1960s)
 
 **제목:** 이름까지 넘기고 회사를 팔다
 
@@ -113,7 +113,7 @@
 
 ## 09.jpg · 마무리
 
-📷 **사진:** McDonald's 로고 (어두운 배경, 표지 스티커도 여기서 오려 냄)
+📷 **사진:** McDonald's logo on a dark background (the cover sticker is cut from this too)
 
 **제목:** 속도와 값으로 패스트푸드를 만들다
 

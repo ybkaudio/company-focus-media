@@ -6,14 +6,14 @@
 
 ## 01.jpg · 표지
 
-📷 **사진:** 프레드 스미스 얼굴 (1970~80년대 FedEx 비행기 앞 사진이면 가장 좋음, 표지 FedEx 로고 스티커는 마무리 장 로고에서 오려 냄)
+📷 **사진:** Fred Smith portrait (1970s–80s, ideally in front of a FedEx plane; cover FedEx logo sticker is cut from the last slide's logo)
 
 **제목:** 대학 리포트 속 하룻밤 배송, FedEx가 되다
 
 
 ## 02.jpg · 01 · 리포트
 
-📷 **사진:** 1960년대 예일대 캠퍼스 (없으면 대학 시절 스미스)
+📷 **사진:** Yale University campus in the 1960s (or Fred Smith as a Yale student)
 
 **제목:** 대학 리포트에 하룻밤 배송을 쓰다
 
@@ -26,7 +26,7 @@
 
 ## 03.jpg · 02 · 해병대
 
-📷 **사진:** 해병대 장교 시절 스미스 (없으면 베트남전 해병대 보급 사진)
+📷 **사진:** Fred Smith as a U.S. Marine Corps officer (or Marine supply operations in the Vietnam War)
 
 **제목:** 베트남에서 보급의 낭비를 보다
 
@@ -39,7 +39,7 @@
 
 ## 04.jpg · 03 · 창업
 
-📷 **사진:** 보라색 Federal Express 도장의 팰컨 20 제트기
+📷 **사진:** Federal Express Dassault Falcon 20 jet in purple livery
 
 **제목:** 작은 제트기를 먼저 사들이다
 
@@ -54,7 +54,7 @@
 
 ## 05.jpg · 04 · 허브
 
-📷 **사진:** 1970년대 멤피스 공항에 줄지어 선 Federal Express 팰컨 제트기
+📷 **사진:** Federal Express Falcon jets lined up at Memphis airport, 1970s
 
 **제목:** 모든 화물을 멤피스로 모으다
 
@@ -71,7 +71,7 @@ Federal Express는 미국 가운데에 있고 격납고가 넉넉한 멤피스�
 
 ## 06.jpg · 05 · 흑자
 
-📷 **사진:** 1970년대 Federal Express 분류장에서 소포를 나르는 직원들
+📷 **사진:** Federal Express sorting hub workers handling packages, 1970s
 
 **제목:** 26개월 만에 흑자를 내다
 
@@ -84,7 +84,7 @@ Federal Express는 미국 가운데에 있고 격납고가 넉넉한 멤피스�
 
 ## 07.jpg · 06 · 규제
 
-📷 **사진:** 1970년대 말 Federal Express 보잉 727 화물기
+📷 **사진:** Federal Express Boeing 727 cargo plane, late 1970s
 
 **제목:** 워싱턴에 머물며 규제를 풀다
 
@@ -101,7 +101,7 @@ Federal Express는 미국 가운데에 있고 격납고가 넉넉한 멤피스�
 
 ## 08.jpg · 07 · 10억 달러
 
-📷 **사진:** 1980년대 FedEx 직원이 소포 바코드를 스캔하는 모습 (없으면 1980년대 멤피스 허브)
+📷 **사진:** FedEx courier scanning a package barcode, 1980s (or the Memphis hub, 1980s)
 
 **제목:** 10년 만에 매출 10억 달러를 넘다
 
@@ -114,7 +114,7 @@ Federal Express는 미국 가운데에 있고 격납고가 넉넉한 멤피스�
 
 ## 09.jpg · 08 · 떠날 때
 
-📷 **사진:** 2010년대 후반~2022년 무렵 스미스 (FedEx 행사 무대)
+📷 **사진:** Fred Smith around 2018–2022 (on stage at a FedEx event)
 
 **제목:** 51년 만에 대표에서 물러나다
 
@@ -128,7 +128,7 @@ Federal Express는 미국 가운데에 있고 격납고가 넉넉한 멤피스�
 
 ## 10.jpg · 마무리
 
-📷 **사진:** FedEx 로고 (어두운 배경, 표지 스티커도 여기서 오려 냄)
+📷 **사진:** FedEx logo on a dark background (the cover sticker is cut from this too)
 
 **제목:** 하룻밤 배송이라는 시장을 만들다
 

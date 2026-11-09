@@ -6,14 +6,14 @@
 
 ## 01.jpg · 표지
 
-📷 **사진:** 제프 베이조스 얼굴 (1990년대 후반 책 더미나 차고 사무실 앞 사진이면 가장 좋음, 표지 Amazon 로고 스티커는 마무리 장 로고에서 오려 냄)
+📷 **사진:** Jeff Bezos portrait (late 1990s, ideally with stacks of books or at the garage office; cover Amazon logo sticker is cut from the last slide's logo)
 
 **제목:** 월가 펀드 부사장이 차고에서 Amazon을 세우다
 
 
 ## 02.jpg · 01 · 월가
 
-📷 **사진:** 1990년대 초 월가 사무실 (없으면 1990년대 뉴욕 월가 거리)
+📷 **사진:** Wall Street office, early 1990s (or a 1990s Wall Street street scene)
 
 **제목:** 인터넷 숫자를 보고 책을 고르다
 
@@ -28,7 +28,7 @@
 
 ## 03.jpg · 02 · 시애틀
 
-📷 **사진:** 벨뷰 차고 사무실 (Amazon 공식 사진 있음, 없으면 1990년대 시애틀 풍경)
+📷 **사진:** Bezos's Bellevue garage office (official Amazon photo exists; or 1990s Seattle)
 
 **제목:** 회사를 그만두고 시애틀로 가다
 
@@ -43,7 +43,7 @@
 
 ## 04.jpg · 03 · 개점
 
-📷 **사진:** 1995년 Amazon.com 첫 홈페이지 화면 (없으면 초기 Amazon 포장 상자)
+📷 **사진:** Amazon.com homepage, 1995 (or an early Amazon shipping box)
 
 **제목:** 두 달 만에 50개 주에 책을 팔다
 
@@ -56,7 +56,7 @@
 
 ## 05.jpg · 04 · 위기
 
-📷 **사진:** 2000년대 초 Amazon 물류 창고 내부
+📷 **사진:** Inside an Amazon fulfillment center, early 2000s
 
 **제목:** 주가가 90% 떨어져도 값을 내리다
 
@@ -71,7 +71,7 @@
 
 ## 06.jpg · 05 · 프라임
 
-📷 **사진:** Amazon Prime 상자 (없으면 Prime 로고가 찍힌 배송 트럭)
+📷 **사진:** Amazon Prime box (or a delivery truck with the Prime logo)
 
 **제목:** 배송비를 없애 버리다
 
@@ -84,7 +84,7 @@
 
 ## 07.jpg · 06 · AWS
 
-📷 **사진:** AWS 데이터센터 내부 (없으면 AWS 로고)
+📷 **사진:** Inside an AWS data center (or the AWS logo)
 
 **제목:** 자기 서버를 상품으로 팔다
 
@@ -99,7 +99,7 @@
 
 ## 08.jpg · 07 · 1조 달러
 
-📷 **사진:** 2018년 무렵 시애틀 Amazon 본사 (스피어스 유리 돔)
+📷 **사진:** Amazon headquarters in Seattle, The Spheres, around 2018
 
 **제목:** 두 번째로 1조 달러 회사가 되다
 
@@ -112,7 +112,7 @@
 
 ## 09.jpg · 08 · 떠날 때
 
-📷 **사진:** 2021년 무렵 베이조스 (블루 오리진 비행복 사진도 좋음)
+📷 **사진:** Jeff Bezos around 2021 (a Blue Origin flight suit photo is also good)
 
 **제목:** 27년 만에 대표에서 물러나다
 
@@ -126,7 +126,7 @@
 
 ## 10.jpg · 마무리
 
-📷 **사진:** Amazon 로고 (어두운 배경, 표지 스티커도 여기서 오려 냄)
+📷 **사진:** Amazon logo on a dark background (the cover sticker is cut from this too)
 
 **제목:** 인터넷 서점을 모든 것의 가게로
 
