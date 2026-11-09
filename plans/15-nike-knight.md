@@ -114,7 +114,7 @@ Nike는 공장을 짓지 않았다.
 
 **제목:** 40년 만에 대표에서 물러나다
 
-- **약 120억 달러** — 연 매출 (대표에서 물러난 2004년)
+- **약 217억 달러** — 회사 가치 (대표에서 물러난 2004년)
 - **40년** — 블루 리본 창업부터 떠날 때까지
 
 2004년 11월 대표에서 물러나 이사회 의장으로 남았고, 2016년 6월 이사회에서도 나왔다.
@@ -155,5 +155,7 @@ Nike를 세운 두 사람 중, #05의 코치 빌 바워만에 이은 나머지 �
 - Nice Kicks, How Blue Ribbon Sports Became Nike
 - Phil Knight, Shoe Dog (2016)
 - The Spokesman-Review, Nike co-founder Knight resigns as CEO (2004.11.19)
+- Nike 2005 회계연도 2분기 보고서(10-Q), 발행 주식 수 (2004.11.30)
+- AP(Fox News), Nike stock price falls on news of Phil Knight's departure (2004.11.19)
 
 #기업인집중탐구 #필나이트 #나이키 #Nike #창업 #창업스토리 #스타트업 #자기계발
