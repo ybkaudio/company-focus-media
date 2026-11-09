@@ -11,7 +11,16 @@
       "type": "cover",
       "photo": null,
       "title": "월가 펀드 부사장이\n차고에서\nAmazon을 세우다",
-      "photo_hint": "Jeff Bezos portrait (late 1990s, ideally with stacks of books or at the garage office; cover Amazon logo sticker is cut from the last slide's logo)"
+      "photo_hint": "Jeff Bezos portrait (late 1990s, ideally with stacks of books or at the garage office; cover Amazon logo sticker is cut from the last slide's logo)",
+      "sticker": {
+        "src": "14-amazon/sticker-logo.png",
+        "size": 330,
+        "right": 60,
+        "top": 810
+      },
+      "body": [
+        "기업인집중탐구 #14"
+      ]
     },
     {
       "index": "01 · 월가",
@@ -47,7 +56,8 @@
         "두 달 만에 미국 50개 주 전부와 45개가 넘는 나라에서 주문이 들어왔고, 주간 매출이 2만 달러에 이르렀다.",
         "매장도 재고도 없이, 주문이 들어오면 유통 창고에서 책을 받아 보내는 구조였다."
       ],
-      "photo_hint": "Amazon.com homepage, 1995 (or an early Amazon shipping box)"
+      "photo_hint": "Amazon.com homepage, 1995 (or an early Amazon shipping box)",
+      "bgpos": "center top"
     },
     {
       "index": "04 · 위기",
@@ -95,7 +105,8 @@
         "그해 AWS는 매출의 11%였지만 영업이익의 약 59%를 벌었다.",
         "쇼핑은 값을 낮춰 손님을 모으고, 클라우드가 이익을 내는 구조였다."
       ],
-      "photo_hint": "Amazon headquarters in Seattle, The Spheres, around 2018"
+      "photo_hint": "Amazon headquarters in Seattle, The Spheres, around 2018",
+      "bgpos": "center bottom"
     },
     {
       "type": "stats",
