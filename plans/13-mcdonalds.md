@@ -88,7 +88,7 @@
 
 📷 **Photo:** Multimixer milkshake machine used at 1950s McDonald's (or Ray Kroc with the brothers)
 
-**제목:** 믹서 8대를 보고 찾아온 판매원
+**제목:** 확장 가능성을 보고 찾아온 판매원 레이 크록
 
 셰이크 여러 잔을 한 번에 만드는 믹서를 팔던 레이 크록은, 작은 가게 하나가 이 믹서를 8대나 산 것을 보고 1954년 샌버너디노를 찾아왔다.
 
