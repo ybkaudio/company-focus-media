@@ -32,7 +32,13 @@
         "면접 과제로 그린 그림이 PayPal의 첫 로고가 됐고, 그는 15번째 직원이자 첫 디자이너로 들어갔다.",
         "이곳에서 엔지니어 스티브 첸, 자웨드 카림과 함께 일했다."
       ],
-      "photo_hint": "초기 PayPal 로고 (1999~2000년)"
+      "photo_hint": "헐리·첸·카림 사진 (PayPal 로고는 스티커)",
+      "sticker": {
+        "src": "10-youtube/sticker-paypal.png",
+        "size": 340,
+        "right": 50,
+        "top": 190
+      }
     },
     {
       "index": "02 · 창업",
@@ -81,7 +87,13 @@
         "차고에서 사이트를 만들기 시작한 지 20개월 만이었고, 협상은 닷새도 걸리지 않았다.",
         "헐리가 받은 Google 주식은 약 3억 4,560만 달러어치였다."
       ],
-      "photo_hint": "2006년 10월 헐리·첸 인수 발표 사진 (없으면 Google·YouTube 로고)"
+      "photo_hint": "Google 인수 화면 (매각 발표 영상은 스티커)",
+      "sticker": {
+        "src": "10-youtube/sticker-sold.png",
+        "size": 330,
+        "right": 50,
+        "top": 190
+      }
     },
     {
       "type": "stats",
