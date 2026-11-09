@@ -109,7 +109,7 @@
 
 📷 **Photo:** Amazon headquarters in Seattle, The Spheres, around 2018
 
-**제목:** 두 번째로 1조 달러 회사가 되다
+**제목:** 미국 사상 두 번째 1조 달러 회사가 되다
 
 2018년 9월 Amazon은 애플에 이어 미국에서 두 번째로 시가총액 1조 달러를 넘었다.
 
