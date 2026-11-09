@@ -17,7 +17,7 @@
 
 📷 **Photo:** Wall Street office, early 1990s (or a 1990s Wall Street street scene)
 
-**제목:** 인터넷 숫자를 보고 책을 고르다
+**제목:** 늘어나는 온라인 거래 시장에 책 판매로 진입하다
 
 프린스턴대에서 컴퓨터공학을 공부한 베이조스는 월가 헤지펀드 D. E. Shaw의 부사장으로 인터넷에서 할 만한 사업을 찾고 있었다.
 
