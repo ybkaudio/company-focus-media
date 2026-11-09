@@ -18,8 +18,7 @@
       "title_logo": {
         "src": "11-paypal/title-logo.png",
         "height": 119,
-        "valign": "-28px",
-        "css": "filter:drop-shadow(0 0 3px rgba(255,255,255,.9)) drop-shadow(0 0 10px rgba(255,255,255,.35))"
+        "valign": "-28px"
       }
     },
     {
