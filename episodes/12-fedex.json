@@ -15,8 +15,11 @@
         "src": "12-fedex/sticker-logo.png",
         "size": 300,
         "right": 60,
-        "top": 808
-      }
+        "top": 810
+      },
+      "body": [
+        "기업인집중탐구 #12"
+      ]
     },
     {
       "index": "01 · 리포트",
