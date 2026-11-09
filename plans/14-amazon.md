@@ -109,11 +109,11 @@
 
 📷 **Photo:** Amazon headquarters in Seattle, The Spheres, around 2018
 
-**제목:** 미국 사상 두 번째 1조 달러 회사가 되다
+**제목:** 사상 여섯 번째 1조 달러 회사가 되다
 
-2018년 9월 Amazon은 애플에 이어 미국에서 두 번째로 시가총액 1조 달러를 넘었다.
+2018년 9월 장중에 잠깐 1조 달러를 찍었던 Amazon은 2020년 2월 4일 처음으로 종가 1조 달러를 넘겨, 종가 기준 사상 여섯 번째 1조 달러 회사가 됐다.
 
-그해 AWS는 매출의 11%였지만 영업이익의 약 59%를 벌었다.
+직전 해인 2019년 AWS는 매출의 약 12%였지만 영업이익의 약 63%를 벌었다.
 
 쇼핑은 값을 낮춰 손님을 모으고, 클라우드가 이익을 내는 구조였다.
 
@@ -162,8 +162,9 @@
 - Amazon 1997 연차 보고서(10-K), 순매출 1996·1997
 - CNBC, Amazon stock lost more than 90% in the dot-com bust (2018.12.18)
 - TechCrunch, Andy Jassy's brief history of the genesis of AWS (2016.07.02)
-- Light Reading, AWS Drives More Than Half of Amazon's Operating Income (2019.01)
+- Amazon 2019 연차 보고서(10-K), 부문별 매출·영업이익
 - AFP(Dawn), Amazon becomes second US company to reach $1 trillion (2018.09.04)
+- Bloomberg, Amazon Finally Closes Above $1 Trillion After Months of Flirting (2020.02.04)
 - AP(KSL), Amazon begins new chapter as Bezos hands over CEO role (2021.07.05)
 
 #기업인집중탐구 #제프베이조스 #아마존 #Amazon #창업 #창업스토리 #스타트업 #자기계발
