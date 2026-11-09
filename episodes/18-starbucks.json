@@ -14,7 +14,13 @@
       "photo_hint": "The original Starbucks store near Pike Place Market, Seattle, 1970s (or Jerry Baldwin in the 1970s; cover Starbucks logo sticker is cut from the last slide's logo)",
       "body": [
         "기업인집중탐구 #18"
-      ]
+      ],
+      "sticker": {
+        "src": "18-starbucks/sticker.png",
+        "size": 260,
+        "right": 60,
+        "top": 470
+      }
     },
     {
       "index": "01 · 견습",
