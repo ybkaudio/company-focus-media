@@ -15,10 +15,10 @@
       ],
       "photo_hint": "올레 키르크 크리스티안센 얼굴 (사용자가 지정한 흑백 사진)",
       "sticker": {
-        "src": "09-lego/sticker.png",
+        "src": "09-lego/sticker-logo.png",
         "size": 300,
         "right": 60,
-        "top": 560
+        "top": 706
       }
     },
     {
