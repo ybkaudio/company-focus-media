@@ -98,9 +98,11 @@
 
 닷컴 거품이 꺼지자 주가는 2년 사이 90% 넘게 떨어졌다.
 
-그는 창고 운영을 효율화해 아낀 비용으로 책값을 더 내렸다.
+그는 창고 운영을 효율화해 아낀 비용으로 책·음악·영상 값을 내렸고, 2001년 7월엔 20달러 넘는 책을 정가보다 30% 싸게 팔았다.
 
 싸지자 손님과 매출이 늘었고, 2001년 4분기 매출 11억 달러로 처음 흑자를 냈다.
+
+이듬해엔 99달러 넘게 사면 어떤 상품이든 배송비를 받지 않았고, 8월엔 그 기준을 25달러까지 낮췄다.
 
 
 ## 08.jpg · 07 · 프라임
@@ -162,7 +164,7 @@
 
 📷 **Photo:** Amazon logo on a dark background (the cover sticker is cut from this too)
 
-**제목:** 인터넷 서점을 모든 것의 가게로
+**제목:** 온라인 서점을 인터넷 쇼핑몰로
 
 - 리뷰와 제휴 링크로 모은 손님
 - 위기에도 값을 내린 장기 투자
@@ -192,5 +194,8 @@
 - AFP(Dawn), Amazon becomes second US company to reach $1 trillion (2018.09.04)
 - Bloomberg, Amazon Finally Closes Above $1 Trillion After Months of Flirting (2020.02.04)
 - AP(KSL), Amazon begins new chapter as Bezos hands over CEO role (2021.07.05)
+- Amazon 2001 주주 서한 (2002.04)
+- Publishers Weekly, Lower Prices, More Used Product for Amazon.com's Book Group (2001.07.30)
+- Amazon 보도자료, 무료 배송 기준 25달러로 인하 (2002.08)
 
 #기업인집중탐구 #제프베이조스 #아마존 #Amazon #창업 #창업스토리 #스타트업 #자기계발
