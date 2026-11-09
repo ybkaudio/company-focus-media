@@ -17,9 +17,9 @@
       ],
       "sticker": {
         "src": "18-starbucks/sticker.png",
-        "size": 260,
+        "size": 100,
         "right": 60,
-        "top": 470
+        "top": 811
       }
     },
     {
