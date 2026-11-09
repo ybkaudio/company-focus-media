@@ -17,7 +17,7 @@
 
 📷 **Photo:** Odeo office in San Francisco, 2005 (or the Odeo website screenshot)
 
-**제목:** 팟캐스트 회사 Odeo를 세우다
+**제목:** 팟캐스트 회사 Odeo, iTunes에 자리를 잃다
 
 노아 글래스는 휴대폰으로 녹음해 블로그에 올리는 서비스 <AudBlog>를 만들었다.
 
@@ -30,7 +30,7 @@ Blogger를 만든 에번 윌리엄스와 손잡고 팟캐스트 회사 <Odeo>를
 
 📷 **Photo:** Valencia Street, San Francisco at night in the rain (or Noah Glass and Jack Dorsey, 2006)
 
-**제목:** 비 오는 차 안에서 상태 공유를 떠올리다
+**제목:** 비 오는 밤 차 안에서 나온 '상태 공유' 아이디어
 
 직원 잭 도시는 지금 뭘 하는지 짧게 알리는 '상태' 아이디어를 갖고 있었다.
 
@@ -43,7 +43,7 @@ Blogger를 만든 에번 윌리엄스와 손잡고 팟캐스트 회사 <Odeo>를
 
 📷 **Photo:** Dictionary entry for the word 'twitter' (or the early Twttr logo, 2006)
 
-**제목:** 사전을 뒤져 Twttr라는 이름을 짓다
+**제목:** 사전 속 twitch 옆에서 찾아낸 이름, Twttr
 
 휴대폰이 떨리는 것을 보고 글래스는 사전에서 'twitch'를 찾다가 바로 옆 'twitter'를 발견했다.
 

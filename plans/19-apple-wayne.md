@@ -17,7 +17,7 @@
 
 📷 **Photo:** 1970s slot machines in a Nevada casino
 
-**제목:** 슬롯머신 사업으로 빚을 지다
+**제목:** 슬롯머신 사업, 빚만 남기다
 
 제도사로 일하던 로널드 웨인은 1971년 슬롯머신 사업을 차렸다.
 
@@ -30,7 +30,7 @@
 
 📷 **Photo:** Atari office or arcade cabinets, mid-1970s (Gran Trak 10 cabinet)
 
-**제목:** Atari에서 두 청년을 만나다
+**제목:** Atari에서 만난 두 청년, 잡스와 워즈니악
 
 웨인은 게임 회사 <Atari>에서 문서 관리 체계를 만들고 게임기 겉모양을 설계했다.
 
@@ -43,7 +43,7 @@
 
 📷 **Photo:** The 1976 Apple Computer partnership agreement signed by Jobs, Wozniak and Wayne
 
-**제목:** 지분 10%로 Apple을 함께 세우다
+**제목:** 지분 10%, 두 사람 사이의 결정표
 
 지분은 잡스와 워즈니악이 45%씩, 웨인이 10%를 갖기로 했다.
 
@@ -56,7 +56,7 @@
 
 📷 **Photo:** The first Apple logo, 1976 (Isaac Newton under the apple tree, drawn by Ronald Wayne)
 
-**제목:** 첫 로고와 설명서를 만들다
+**제목:** 사과나무 아래 뉴턴, Apple의 첫 로고
 
 제도사였던 웨인은 사과나무 아래 앉은 뉴턴을 펜으로 그려 Apple의 첫 로고를 만들었다.
 
@@ -69,7 +69,7 @@ Apple I 사용 설명서도 그가 썼다.
 
 📷 **Photo:** Apple I computer board, 1976 (or the Byte Shop store in Mountain View)
 
-**제목:** 첫 주문 50대를 따내다
+**제목:** Byte Shop에서 받은 첫 주문 50대
 
 컴퓨터 가게 <Byte Shop>이 조립된 Apple I 50대를 한 대 500달러에 주문했다.
 
@@ -82,7 +82,7 @@ Apple I 사용 설명서도 그가 썼다.
 
 📷 **Photo:** Ronald Wayne in later years (2010s interview photo)
 
-**제목:** 12일 만에 지분을 팔고 나가다
+**제목:** 12일 만에 800달러에 지분을 넘기다
 
 - **8,000달러** — 회사 가치 (웨인의 10% 지분값으로 셈한 1976년)
 - **12일** — 창업부터 떠날 때까지
