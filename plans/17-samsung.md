@@ -2,7 +2,7 @@
 
 > 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
 
-🎵 **추천 음악:** Viva la Vida – Coldplay (작은 시작에서 제국을 세우는 가사) / 없으면 검색어 'cinematic piano'
+🎵 **추천 음악:** Viva la Vida – Coldplay (한 시대를 이끈 사람을 노래하는 웅장한 곡) / 없으면 검색어 'cinematic piano'
 
 ## 01.jpg · 표지
 
