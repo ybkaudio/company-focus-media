@@ -8,7 +8,7 @@
 
 📷 **Photo:** Dick (Richard) and Mac (Maurice) McDonald brothers together (ideally in front of their first store, 1950s; not Ray Kroc; cover McDonald's logo sticker is cut from the last slide's logo)
 
-**제목:** 햄버거 가게를 공장처럼 바꾼 형제
+**제목:** 햄버거 공장을 세운 형제
 
 기업인집중탐구 #13
 
@@ -128,7 +128,7 @@
 
 ## 설명란 (캡션)
 
-햄버거 가게를 공장처럼 바꾼 형제, McDonald's를 만들다.
+햄버거 공장을 세운 형제, McDonald's를 만들다.
 
 극장 사업에 실패한 맥도날드 형제는 드라이브인 식당의 매출 80%가 햄버거라는 걸 알아냈어요. 종업원과 접시를 없애고 메뉴를 9가지로 줄인 뒤, 부엌을 조립 라인처럼 나눠 햄버거값을 절반으로 내렸어요. 이 방식을 보고 찾아온 레이 크록과 함께 가맹점을 늘렸지만, 1961년 이름까지 넘기고 회사를 팔았어요.
 
