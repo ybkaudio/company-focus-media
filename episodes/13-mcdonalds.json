@@ -10,7 +10,16 @@
       "type": "cover",
       "photo": null,
       "title": "햄버거 가게를\n공장처럼 바꾼\n형제",
-      "photo_hint": "Dick (Richard) and Mac (Maurice) McDonald brothers together (ideally in front of their first store, 1950s; not Ray Kroc; cover McDonald's logo sticker is cut from the last slide's logo)"
+      "photo_hint": "Dick (Richard) and Mac (Maurice) McDonald brothers together (ideally in front of their first store, 1950s; not Ray Kroc; cover McDonald's logo sticker is cut from the last slide's logo)",
+      "sticker": {
+        "src": "13-mcdonalds/sticker-logo.png",
+        "size": 260,
+        "right": 60,
+        "top": 810
+      },
+      "body": [
+        "기업인집중탐구 #13"
+      ]
     },
     {
       "index": "01 · 극장",
