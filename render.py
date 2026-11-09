@@ -87,7 +87,12 @@ def slide_html(ep, s, i, n, base):
     if s.get("when"):
         head += f'<div class="when">{e(s["when"])}</div>'
     if t == "cover":
-        body = (f'<div class="handle">{e(ep["handle"]).upper()}</div><h1>{e(s["title"])}</h1>'
+        h1 = e(s["title"])
+        if s.get("title_logo"):   # 제목 속 "{logo}" 자리에 로고 이미지를 글자 대신 넣음
+            tl = s["title_logo"]; lp = base / tl["src"]
+            lu = "data:image/png;base64," + base64.b64encode(lp.read_bytes()).decode()
+            h1 = h1.replace("{logo}", f'<img src="{lu}" style="height:{tl.get("height",96)}px;vertical-align:{tl.get("valign","-8px")}">')
+        body = (f'<div class="handle">{e(ep["handle"]).upper()}</div><h1>{h1}</h1>'
                 f'<div class="dv"></div><div class="who">{e(ep["person"])} · {e(ep.get("company_ko") or ep["company"])}</div><p>{lines(s["body"])}</p>')
         return f'<div class="s cover">{bg}<div class="{shade}"></div>{head}<div class="txt">{body}</div></div>'
     if t == "stats":

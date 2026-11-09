@@ -9,18 +9,17 @@
     {
       "type": "cover",
       "photo": null,
-      "title": "PayPal,\n일론 머스크의 시작",
+      "title": "{logo},\n일론 머스크의 시작",
       "photo_hint": "20대 후반 머스크가 사무실 칸막이 창으로 몸을 내민 사진 (사용자 지정)",
       "body": [
         "기업인집중탐구 #11"
       ],
-      "sticker": {
+      "bgpos": "right center",
+      "title_logo": {
         "src": "11-paypal/sticker-logo.png",
-        "size": 300,
-        "right": 60,
-        "top": 808
-      },
-      "bgpos": "right center"
+        "height": 110,
+        "valign": "-14px"
+      }
     },
     {
       "index": "01 · 코딩",
@@ -96,11 +95,11 @@
       "index": "06 · 합병",
       "when": "2000 · 28세",
       "photo": null,
-      "title": "경쟁사 Confinity와\n합치다",
+      "title": "경쟁사 Confinity와\n합쳐 PayPal이 되다",
       "body": [
         "같은 동네의 <Confinity>도 이메일 송금 서비스 'PayPal'로 같은 방식의 보너스를 주며 경쟁했다.",
         "두 회사가 보너스로 돈을 쏟아붓자, 2000년 3월 둘은 합병했다.",
-        "최대 주주가 된 머스크가 CEO를 맡았다."
+        "최대 주주가 된 머스크가 CEO를 맡았고, 합친 회사는 2001년 이름을 PayPal로 바꿨다."
       ],
       "photo_hint": "피터 틸과 머스크, PayPal 화면 앞",
       "bgsize": "1080px auto",
