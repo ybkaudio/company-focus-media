@@ -32,7 +32,7 @@
 
 📷 **Photo:** Bezos's Bellevue garage office (official Amazon photo exists; or 1990s Seattle)
 
-**제목:** 회사를 그만두고 시애틀로 가다
+**제목:** 회사를 그만두고 시애틀에 본거지를 잡다
 
 그는 여든 살에 돌아봤을 때 해 보지 않은 걸 더 후회하겠다고 판단해 회사를 나왔다.
 
