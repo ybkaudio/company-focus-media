@@ -1,0 +1,144 @@
+{
+  "no": 17,
+  "company": "Samsung",
+  "company_ko": "삼성",
+  "person": "이병철",
+  "accent": "#3D7BF7",
+  "handle": "@company.focus",
+  "music": "Viva la Vida – Coldplay (작은 시작에서 제국을 세우는 가사) / 없으면 검색어 'cinematic piano'",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": null,
+      "title": "국수 공장 주인이\n삼성을 세우기까지",
+      "photo_hint": "Lee Byung-chul (founder of Samsung) portrait, 1950s–1970s (cover Samsung logo sticker is cut from the last slide's logo)",
+      "body": [
+        "기업인집중탐구 #17"
+      ]
+    },
+    {
+      "index": "01 · 첫 실패",
+      "when": "1937 · 27세",
+      "photo": null,
+      "title": "은행 돈으로 산 땅을\n한 번에 잃다",
+      "body": [
+        "지주 집안의 막내 이병철은 1936년 아버지에게 받은 땅을 밑천으로 동업자 둘과 정미소를 차려 이듬해 이익을 냈다.",
+        "그 돈으로 운수업을 하고, 은행에서 돈을 빌려 땅을 사들여 1년 만에 200만 평 지주가 됐다.",
+        "1937년 중일전쟁이 터지고 일본 정부가 은행 대출을 막자 땅과 정미소, 운수회사를 모두 잃었다.",
+        "그는 이때 빚으로 덩치를 키우면 바깥 사정 하나에 무너진다는 것을 배웠다."
+      ],
+      "photo_hint": "Rice mill or rural Gyeongsang farmland, 1930s Korea"
+    },
+    {
+      "index": "02 · 창업",
+      "when": "1938 · 28세",
+      "photo": null,
+      "title": "대구에\n삼성상회를 열다",
+      "body": [
+        "1938년 3월 1일 대구 서문시장 옆에 자본금 3만 원으로 <삼성상회>를 열었다.",
+        "대구 근교 청과물과 동해안 건어물을 모아 만주와 베이징에 팔았다.",
+        "1층에 제면기를 들여 '별표국수'를 만들었고, 이것이 삼성의 첫 제조업이 됐다."
+      ],
+      "photo_hint": "Samsung Sanghoe building in Daegu, 1938 (the original Samsung store)"
+    },
+    {
+      "index": "03 · 무역",
+      "when": "1948 · 38세",
+      "photo": null,
+      "title": "서울로 올라가\n무역업계 1위가 되다",
+      "body": [
+        "해방 뒤 1948년 11월 서울 종로에 무역회사 <삼성물산공사>를 세웠다.",
+        "1년 반 만에 무역업계 1위에 올랐지만, 한국전쟁으로 서울의 재산을 잃었다.",
+        "부산에서 다시 무역을 시작하며, 한국이 무엇을 비싸게 수입하는지 가장 가까이에서 봤다."
+      ],
+      "photo_hint": "Seoul Jongno street or Busan port, late 1940s–early 1950s"
+    },
+    {
+      "index": "04 · 설탕",
+      "when": "1953 · 43세",
+      "photo": null,
+      "title": "수입하던 설탕을\n직접 만들다",
+      "body": [
+        "1953년 한국은 설탕의 97.5%를 수입했고, 값은 600g에 300환까지 올라 있었다.",
+        "그는 사 오던 물건을 직접 만들기로 하고 <제일제당>을 세워 그해 11월 첫 설탕을 생산했다.",
+        "600g에 48환으로 내놓자 수입 설탕이 밀려났고, 1958년 국산 설탕이 시장을 거의 다 차지했다.",
+        "이듬해 <제일모직>도 같은 방식으로 세워 수입 양복지를 국산으로 바꿨다."
+      ],
+      "photo_hint": "Cheil Jedang sugar factory in Busan, 1953 (or early Korean sugar packaging)"
+    },
+    {
+      "index": "05 · 전자",
+      "when": "1969 · 59세",
+      "photo": null,
+      "title": "직원 36명으로\n삼성전자를 세우다",
+      "body": [
+        "1969년 1월 직원 36명으로 <삼성전자공업>을 세웠다.",
+        "처음엔 일본 기업과 손잡고 흑백 TV 같은 가전제품부터 만들었다.",
+        "1970년 매출은 약 25만 달러였지만, 가전에서 쌓은 생산 경험이 뒤의 반도체 사업 기반이 됐다."
+      ],
+      "photo_hint": "Samsung Electronics black-and-white TV production line, early 1970s"
+    },
+    {
+      "index": "06 · 동경 구상",
+      "when": "1983 · 73세",
+      "photo": null,
+      "title": "73세에\n반도체를 하겠다고 선언하다",
+      "body": [
+        "1983년 2월 8일 도쿄에서 그는 메모리 반도체 사업에 뛰어들기로 결심했다.",
+        "재계와 업계는 기술도 돈도 부족하다며 실패를 예상했다.",
+        "한 달 뒤 삼성은 반도체 사업 진출을 공식 발표하고 64K D램 개발에 들어갔다."
+      ],
+      "photo_hint": "Lee Byung-chul visiting a semiconductor plant, 1983–1984"
+    },
+    {
+      "index": "07 · 64K D램",
+      "when": "1983 · 73세",
+      "photo": null,
+      "title": "9개월 만에\n64K D램을 만들다",
+      "body": [
+        "선언 9개월 뒤인 1983년 11월, 삼성은 미국과 일본에 이어 세계 세 번째로 64K D램 개발에 성공했다.",
+        "가전용 칩을 겨우 만들던 회사가 메모리 반도체 기술을 갖게 된 것이다.",
+        "이 결정은 삼성이 뒷날 세계 메모리 반도체 1위로 가는 출발점이 됐다."
+      ],
+      "photo_hint": "Samsung 64K DRAM chip, 1983 (or the Giheung semiconductor plant, 1984)"
+    },
+    {
+      "type": "stats",
+      "index": "08 · 떠날 때",
+      "when": "1987 · 77세",
+      "photo": null,
+      "title": "49년 동안\n회장 자리를 지키다",
+      "stats": [
+        {
+          "cap": "삼성그룹 매출 (1987년)",
+          "num": "약 17",
+          "unit": "조 원"
+        },
+        {
+          "cap": "삼성상회 창업부터 떠날 때까지",
+          "num": "49",
+          "unit": "년"
+        }
+      ],
+      "body": [
+        "1938년 삼성상회부터 49년 동안 회장으로 회사를 이끌었다.",
+        "1987년 11월 19일 회장 자리에 있던 채 세상을 떠났다."
+      ],
+      "photo_hint": "Lee Byung-chul in the 1980s (late portrait)"
+    },
+    {
+      "type": "outro",
+      "index": "마무리",
+      "photo": null,
+      "title": "국수 공장에서\n반도체 삼성까지",
+      "points": [
+        "빚으로 키운 첫 실패에서 배운 신중함",
+        "수입하던 물건을 직접 만든 눈",
+        "일흔이 넘어 다음 산업에 건 결단"
+      ],
+      "button": "지금 팔로우 →",
+      "photo_hint": "Samsung logo on a dark background (the cover sticker is cut from this too)"
+    }
+  ],
+  "caption": "국수 공장 주인이 삼성을 세우기까지.\n\n이병철은 빚으로 사들인 땅을 전쟁 한 번에 잃은 뒤, 대구의 작은 가게에서 청과물과 국수를 팔며 다시 시작했어요. 무역을 하며 본 비싼 수입품, 설탕과 양복지를 직접 만들어 회사를 키웠고, 일흔셋에 반도체에 뛰어들어 9개월 만에 64K D램을 만들었어요.\n\n💬 늦은 나이에 새로 시작한 일, 있으세요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Lee Byung-chul\n- 뉴데일리, 부도 위기로... 호암과 아산 '실패에서 교훈 얻다' (2015.01.29)\n- 주간경향, 대구 삼성상회 터 (2015.04.07)\n- 서울신문, 호암 이병철 탄생 100주년 (2010.02.08)\n- CJ뉴스룸, 우리나라 최초의 설탕 탄생기\n- 삼성전자 뉴스룸, 2.8 동경구상\n- 뉴시스, 삼성전자 창립 50주년 (2019.10.30)\n- 머니투데이, 이건희號 20년 (2007.11.29)\n\n#기업인집중탐구 #이병철 #삼성 #삼성전자 #창업 #창업스토리 #반도체 #자기계발"
+}
