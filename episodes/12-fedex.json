@@ -10,7 +10,13 @@
       "type": "cover",
       "photo": null,
       "title": "대학 리포트 속\n하룻밤 배송,\nFedEx가 되다",
-      "photo_hint": "Fred Smith portrait (1970s–80s, ideally in front of a FedEx plane; cover FedEx logo sticker is cut from the last slide's logo)"
+      "photo_hint": "Fred Smith portrait (1970s–80s, ideally in front of a FedEx plane; cover FedEx logo sticker is cut from the last slide's logo)",
+      "sticker": {
+        "src": "12-fedex/sticker-logo.png",
+        "size": 300,
+        "right": 60,
+        "top": 808
+      }
     },
     {
       "index": "01 · 리포트",
