@@ -122,7 +122,9 @@ def main(path):
     path = pathlib.Path(path)
     ep = json.loads(path.read_text())
     slides = ep["slides"]
-    assert 1 <= len(slides) <= 10, "자동 게시(Metricool·인스타 API)는 캐러셀 최대 10장"
+    assert 1 <= len(slides) <= 20, "인스타 캐러셀은 최대 20장"
+    if len(slides) > 10:
+        print(f"알림: {len(slides)}장이라 자동 게시(Metricool·API, 최대 10장)는 안 됨 → 사용자가 앱에서 수동 게시")
     out = pathlib.Path("out") / path.stem
     out.mkdir(parents=True, exist_ok=True)
     for old in out.glob("[0-9]*.png"):
