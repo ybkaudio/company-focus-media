@@ -10,7 +10,10 @@
       "type": "cover",
       "photo": null,
       "title": "Tesla보다 먼저,\n머스크가 만든\nPayPal",
-      "photo_hint": "20대 후반 머스크가 사무실 칸막이 창으로 몸을 내민 사진 (사용자 지정)"
+      "photo_hint": "20대 후반 머스크가 사무실 칸막이 창으로 몸을 내민 사진 (사용자 지정)",
+      "body": [
+        "기업인집중탐구 #15"
+      ]
     },
     {
       "index": "01 · 코딩",
@@ -49,7 +52,7 @@
       ],
       "photo_hint": "Zip2 웹사이트 화면 (형제 사진은 스티커)",
       "bgsize": "1080px auto",
-      "bgpos": "center 90px",
+      "bgpos": "center 170px",
       "sticker": {
         "src": "15-paypal/sticker-brothers.png",
         "size": 300,
@@ -100,7 +103,7 @@
       "index": "07 · 상장",
       "when": "2002 · 30세",
       "photo": null,
-      "title": "eBay 판매자의 지갑이 되어\n상장하다",
+      "title": "eBay 판매자의\n지갑이 되어 상장하다",
       "body": [
         "개인 판매자는 카드 결제를 받기 어려웠지만, PayPal은 이메일 주소만 있으면 돈을 주고받게 해 줬다.",
         "그래서 eBay 경매 판매자들이 몰렸고, eBay가 직접 만든 결제 서비스보다 PayPal을 더 많이 받았다.",
