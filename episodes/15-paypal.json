@@ -10,7 +10,7 @@
       "type": "cover",
       "photo": null,
       "title": "Tesla보다 먼저,\n머스크가 만든\nPayPal",
-      "photo_hint": "일론 머스크 얼굴 (옆 사람이 걸리지 않게 자르기)"
+      "photo_hint": "20대 후반 머스크가 사무실 칸막이 창으로 몸을 내민 사진 (사용자 지정)"
     },
     {
       "index": "01 · 코딩",
@@ -47,9 +47,15 @@
         "신문사에 지도와 동네 가게 정보를 묶은 온라인 안내 서비스를 팔았다.",
         "1999년 컴팩이 Zip2를 3억 700만 달러에 사들였고, 그는 지분 7%의 몫으로 2,200만 달러를 받았다."
       ],
-      "photo_hint": "젊은 일론·킴벌 형제",
+      "photo_hint": "Zip2 웹사이트 화면 (형제 사진은 스티커)",
       "bgsize": "1080px auto",
-      "bgpos": "center 90px"
+      "bgpos": "center 90px",
+      "sticker": {
+        "src": "15-paypal/sticker-brothers.png",
+        "size": 300,
+        "right": 50,
+        "top": 190
+      }
     },
     {
       "index": "04 · 창업",
@@ -74,7 +80,7 @@
         "가입하면 20달러, 친구를 데려오면 10달러를 줬다.",
         "두 달 만에 가입자가 20만 명을 넘었다."
       ],
-      "photo_hint": "[새로 필요] 1999~2000년 X.com 또는 PayPal 가입 보너스 안내 화면 (없으면 2000년 무렵 PayPal 웹사이트 첫 화면)"
+      "photo_hint": "PayPal 가입 보너스 안내 화면 (2020년 날짜 문구는 잘라 냄)"
     },
     {
       "index": "06 · 합병",
@@ -100,7 +106,7 @@
         "그래서 eBay 경매 판매자들이 몰렸고, eBay가 직접 만든 결제 서비스보다 PayPal을 더 많이 받았다.",
         "2002년 2월 상장 첫날 주가가 55% 가까이 올랐다."
       ],
-      "photo_hint": "[새로 필요] 2002년 무렵 eBay 경매 화면의 PayPal 결제 버튼 (없으면 2002년 PayPal 상장 날 나스닥 화면)"
+      "photo_hint": "PayPal 화면 앞의 머스크 (2000년 무렵)"
     },
     {
       "type": "stats",
@@ -124,7 +130,7 @@
         "2000년 신혼여행 중 이사회가 그를 CEO에서 물러나게 했고, 2002년 eBay 인수 때 1억 7,580만 달러를 받았다.",
         "그는 이 돈을 같은 해 세운 SpaceX와 2004년 투자한 Tesla에 쏟았다."
       ],
-      "photo_hint": "eBay·PayPal 로고 건물"
+      "photo_hint": "eBay·PayPal 로고"
     },
     {
       "type": "outro",
@@ -137,7 +143,7 @@
         "경쟁사와 합쳐 시장을 차지한 판단"
       ],
       "button": "지금 팔로우 →",
-      "photo_hint": "초창기 SpaceX 건물 (PayPal로 번 돈이 간 곳)"
+      "photo_hint": "SpaceX 드래곤 캡슐 앞 머스크 (PayPal로 번 돈이 간 곳)"
     }
   ],
   "caption": "Tesla보다 먼저, 일론 머스크는 은행을 다시 만들려 했어요.\n\n스코샤은행 인턴 시절 은행이 새로운 시도를 하지 않는다고 본 그는 첫 회사 Zip2를 판 돈으로 온라인 금융 회사 X.com을 세웠어요. 가입 보너스로 사용자를 모았고, 경쟁사 Confinity와 합쳐 PayPal을 키웠어요. CEO 자리에선 밀려났지만, 최대 주주로 받은 1억 7,580만 달러는 다음 회사의 밑천이 됐어요.\n\n💬 경쟁사와 합치는 것, 여러분이라면 할 수 있을까요? 댓글로 의견을 남겨 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Elon Musk / X.com (bank)\n- Fortune, The little-known story about Elon Musk's first post-grad internship (Jimmy Soni 『The Founders』 발췌)\n- American Banker, X.com Scraps Bank Strategy To Focus on PayPal System (2000.10.11)\n- CNN Money, PayPal IPO: Best first day (2002.02.15)\n- CNN Money, eBay to buy PayPal (2002.07.08)\n- PayPal 보도자료, eBay to Acquire PayPal (2002.07.08)\n- Snopes, Was Elon Musk fired from PayPal?\n\n#기업인집중탐구 #일론머스크 #페이팔 #PayPal #창업 #창업스토리 #스타트업 #자기계발",
