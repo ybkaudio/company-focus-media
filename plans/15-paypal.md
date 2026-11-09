@@ -1,4 +1,4 @@
-# 기업인집중탐구 특별편 #01 · 일론 머스크 (PayPal)
+# 기업인집중탐구 #15 · 일론 머스크 (PayPal)
 
 > 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
 
@@ -9,8 +9,6 @@
 📷 **사진:** 일론 머스크 얼굴 (옆 사람이 걸리지 않게 자르기)
 
 **제목:** Tesla보다 먼저, 머스크가 만든 PayPal
-
-기업인집중탐구 특별편 #01 · PayPal 편
 
 
 ## 02.jpg · 01 · 코딩
@@ -93,7 +91,20 @@
 최대 주주가 된 머스크가 CEO를 맡았다.
 
 
-## 08.jpg · 07 · 떠날 때
+## 08.jpg · 07 · 상장
+
+📷 **사진:** [새로 필요] 2002년 무렵 eBay 경매 화면의 PayPal 결제 버튼 (없으면 2002년 PayPal 상장 날 나스닥 화면)
+
+**제목:** eBay 판매자의 지갑이 되어 상장하다
+
+개인 판매자는 카드 결제를 받기 어려웠지만, PayPal은 이메일 주소만 있으면 돈을 주고받게 해 줬다.
+
+그래서 eBay 경매 판매자들이 몰렸고, eBay가 직접 만든 결제 서비스보다 PayPal을 더 많이 받았다.
+
+2002년 2월 상장 첫날 주가가 55% 가까이 올랐다.
+
+
+## 09.jpg · 08 · 떠날 때
 
 📷 **사진:** eBay·PayPal 로고 건물
 
@@ -107,7 +118,7 @@
 그는 이 돈을 같은 해 세운 SpaceX와 2004년 투자한 Tesla에 쏟았다.
 
 
-## 09.jpg · 마무리
+## 10.jpg · 마무리
 
 📷 **사진:** 초창기 SpaceX 건물 (다음 편 예고)
 
@@ -128,15 +139,15 @@ Tesla보다 먼저, 일론 머스크는 은행을 다시 만들려 했어요.
 
 💬 경쟁사와 합치는 것, 여러분이라면 할 수 있을까요? 댓글로 의견을 남겨 주세요.
 
-🚀 다음 특별편: PayPal로 번 돈을 건 로켓 회사, SpaceX
-
 📌 저장해 두고 다음 편도 확인하세요.
 
 출처
 - Wikipedia, Elon Musk / X.com (bank)
 - Fortune, The little-known story about Elon Musk's first post-grad internship (Jimmy Soni 『The Founders』 발췌)
 - American Banker, X.com Scraps Bank Strategy To Focus on PayPal System (2000.10.11)
+- CNN Money, PayPal IPO: Best first day (2002.02.15)
 - CNN Money, eBay to buy PayPal (2002.07.08)
+- PayPal 보도자료, eBay to Acquire PayPal (2002.07.08)
 - Snopes, Was Elon Musk fired from PayPal?
 
-#기업인집중탐구 #특별편 #일론머스크 #페이팔 #PayPal #창업 #창업스토리 #스타트업
+#기업인집중탐구 #일론머스크 #페이팔 #PayPal #창업 #창업스토리 #스타트업 #자기계발
