@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Chung Ju-yung (founder of Hyundai) portrait, 1970s (ideally at a Hyundai construction site or the Ulsan shipyard; cover Hyundai logo sticker is cut from the last slide's logo)
+📷 **Photo:** 정주영 현대 창업주 인물 사진, 1970년대 (현대 건설 현장이나 울산 조선소면 더 좋음. 표지 현대 로고 스티커는 마지막 장 로고에서 오려 씀)
 
 **제목:** 쌀가게 배달원이 현대를 세우기까지
 
@@ -15,7 +15,7 @@
 
 ## 02.jpg · 01 · 쌀가게
 
-📷 **Photo:** Seoul rice shop or auto repair garage, 1930s–1940s (colonial-era Keijō)
+📷 **Photo:** 1930~40년대 서울(경성)의 쌀가게나 자동차 수리 공장
 
 **제목:** 쌀가게에서 쌓은 신용으로 수리 공장을 세우다
 
@@ -30,7 +30,7 @@
 
 ## 03.jpg · 02 · 창업
 
-📷 **Photo:** Hyundai Civil Works / Hyundai Construction office sign, late 1940s (or a Seoul street in 1947)
+📷 **Photo:** 1940년대 후반 현대토건사·현대건설 간판 (또는 1947년 서울 거리)
 
 **제목:** 수리비 받던 관청에서 건설 회사를 떠올리다
 
@@ -43,7 +43,7 @@
 
 ## 04.jpg · 03 · 보리밭
 
-📷 **Photo:** UN Memorial Cemetery in Busan, 1950s (or U.S. Army construction work in Korea during the Korean War)
+📷 **Photo:** 1950년대 부산 유엔군 묘지 (또는 6·25 전쟁 중 미군 공사 현장)
 
 **제목:** 한겨울 묘지에 보리를 옮겨 심다
 
@@ -58,7 +58,7 @@
 
 ## 05.jpg · 04 · 고속도로
 
-📷 **Photo:** Gyeongbu Expressway construction, 1968–1970 (or the opening ceremony on July 7, 1970)
+📷 **Photo:** 경부고속도로 공사 현장, 1968~1970년 (또는 1970년 7월 7일 개통식)
 
 **제목:** 경부고속도로를 2년 5개월 만에 깔다
 
@@ -71,7 +71,7 @@
 
 ## 06.jpg · 05 · 조선소
 
-📷 **Photo:** Hyundai Ulsan shipyard under construction in the early 1970s (or the Korean 500-won note with the turtle ship)
+📷 **Photo:** 1970년대 초 공사 중인 현대 울산 조선소 (또는 거북선이 그려진 옛 500원 지폐)
 
 **제목:** 500원 지폐로 조선소 지을 돈을 빌리다
 
@@ -84,7 +84,7 @@
 
 ## 07.jpg · 06 · 중동
 
-📷 **Photo:** Jubail Industrial Harbour construction in Saudi Arabia, 1976–1979 (steel jackets on barges)
+📷 **Photo:** 사우디아라비아 주베일 산업항 공사, 1976~1979년 (바지선에 실린 철 구조물)
 
 **제목:** 20세기 최대 공사를 사우디에서 따내다
 
@@ -99,7 +99,7 @@
 
 ## 08.jpg · 07 · 미국 진출
 
-📷 **Photo:** Hyundai Excel launch in the United States, 1986 (ad or cars on a U.S. dealer lot)
+📷 **Photo:** 1986년 미국에 출시된 현대 엑셀 (광고나 미국 판매점에 서 있는 차)
 
 **제목:** Excel로 미국에 차를 팔다
 
@@ -112,7 +112,7 @@
 
 ## 09.jpg · 08 · 떠날 때
 
-📷 **Photo:** Chung Ju-yung in his last years, around 1998–2000 (the 1998 cattle drive to North Korea photo is also fine)
+📷 **Photo:** 말년의 정주영, 1998~2000년 무렵 (1998년 소 떼 방북 사진도 좋음)
 
 **제목:** 53년 만에 경영에서 물러나다
 
@@ -128,7 +128,7 @@
 
 ## 10.jpg · 마무리
 
-📷 **Photo:** Hyundai logo on a dark background (the cover sticker is cut from this too)
+📷 **Photo:** 어두운 배경의 현대 로고 (표지 스티커도 여기서 오려 씀)
 
 **제목:** 쌀가게 신용으로 재계 1위 현대까지
 

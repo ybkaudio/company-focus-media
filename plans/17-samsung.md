@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Lee Byung-chul (founder of Samsung) portrait, 1950s–1970s (cover Samsung logo sticker is cut from the last slide's logo)
+📷 **Photo:** 이병철 삼성 창업주 인물 사진, 1950~1970년대 (표지 삼성 로고 스티커는 마지막 장 로고에서 오려 씀)
 
 **제목:** 국수 공장 주인이 삼성을 세우기까지
 
@@ -15,7 +15,7 @@
 
 ## 02.jpg · 01 · 첫 실패
 
-📷 **Photo:** Rice mill or rural Gyeongsang farmland, 1930s Korea
+📷 **Photo:** 1930년대 정미소나 경상도 시골 논밭
 
 **제목:** 은행 돈으로 산 땅을 한 번에 잃다
 
@@ -30,7 +30,7 @@
 
 ## 03.jpg · 02 · 창업
 
-📷 **Photo:** Samsung Sanghoe building in Daegu, 1938 (the original Samsung store)
+📷 **Photo:** 1938년 대구 삼성상회 건물 (삼성의 첫 가게)
 
 **제목:** 대구에 삼성상회를 열다
 
@@ -43,7 +43,7 @@
 
 ## 04.jpg · 03 · 무역
 
-📷 **Photo:** Seoul Jongno street or Busan port, late 1940s–early 1950s
+📷 **Photo:** 1940년대 후반~1950년대 초 서울 종로 거리나 부산항
 
 **제목:** 서울로 올라가 무역업계 1위가 되다
 
@@ -56,7 +56,7 @@
 
 ## 05.jpg · 04 · 설탕
 
-📷 **Photo:** Cheil Jedang sugar factory in Busan, 1953 (or early Korean sugar packaging)
+📷 **Photo:** 1953년 부산 제일제당 설탕 공장 (또는 초기 국산 설탕 포장)
 
 **제목:** 수입하던 설탕을 직접 만들다
 
@@ -71,7 +71,7 @@
 
 ## 06.jpg · 05 · 전자
 
-📷 **Photo:** Samsung Electronics black-and-white TV production line, early 1970s
+📷 **Photo:** 1970년대 초 삼성전자 흑백 TV 생산 라인
 
 **제목:** 직원 36명으로 삼성전자를 세우다
 
@@ -84,7 +84,7 @@
 
 ## 07.jpg · 06 · 동경 구상
 
-📷 **Photo:** Lee Byung-chul visiting a semiconductor plant, 1983–1984
+📷 **Photo:** 반도체 공장을 둘러보는 이병철, 1983~1984년
 
 **제목:** 73세에 반도체를 하겠다고 선언하다
 
@@ -97,7 +97,7 @@
 
 ## 08.jpg · 07 · 64K D램
 
-📷 **Photo:** Samsung 64K DRAM chip, 1983 (or the Giheung semiconductor plant, 1984)
+📷 **Photo:** 1983년 삼성 64K D램 칩 (또는 1984년 기흥 반도체 공장)
 
 **제목:** 9개월 만에 64K D램을 만들다
 
@@ -110,7 +110,7 @@
 
 ## 09.jpg · 08 · 떠날 때
 
-📷 **Photo:** Lee Byung-chul in the 1980s (late portrait)
+📷 **Photo:** 1980년대 이병철 (말년 인물 사진)
 
 **제목:** 49년 동안 회장 자리를 지키다
 
@@ -124,7 +124,7 @@
 
 ## 10.jpg · 마무리
 
-📷 **Photo:** Samsung logo on a dark background (the cover sticker is cut from this too)
+📷 **Photo:** 어두운 배경의 삼성 로고 (표지 스티커도 여기서 오려 씀)
 
 **제목:** 국수 공장에서 반도체 삼성까지
 
