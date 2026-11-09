@@ -19,7 +19,8 @@
         "size": 300,
         "right": 60,
         "top": 808
-      }
+      },
+      "bgpos": "right center"
     },
     {
       "index": "01 · 코딩",
