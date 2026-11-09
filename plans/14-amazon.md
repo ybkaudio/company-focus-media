@@ -47,20 +47,48 @@
 
 📷 **Photo:** Amazon.com homepage, 1995 (or an early Amazon shipping box)
 
-**제목:** 리뷰와 제휴 링크로 손님을 끌어모으다
+**제목:** 두 달 만에 50개 주에 책을 팔다
 
-1995년 7월 문을 연 Amazon.com은 재고 없이 주문이 오면 유통 창고에서 책을 받아 보냈고, 두 달 만에 미국 50개 주와 45개국에서 주문이 들어왔다.
+1995년 7월 온라인 서점 Amazon.com이 문을 열었다.
+
+두 달 만에 미국 50개 주 전부와 45개가 넘는 나라에서 주문이 들어왔고, 주간 매출이 2만 달러에 이르렀다.
+
+매장도 재고도 없이, 주문이 들어오면 유통 창고에서 책을 받아 보내는 구조였다.
+
+
+## 05.jpg · 04 · 손님
+
+📷 **Photo:** Amazon.com book page with customer reviews, late 1990s (or Jeff Bezos at Amazon in 1996–97)
+
+**제목:** 리뷰와 제휴 링크로 손님을 끌어모으다
 
 처음부터 독자 서평을 나쁜 평까지 그대로 실었다.
 
 출판사는 반발했지만, 손님은 점원 대신 다른 독자의 말을 믿고 샀다.
 
-1996년엔 다른 웹사이트가 책 링크를 걸어 팔리면 수수료를 주는 '어소시에이트'를 열어 수많은 사이트를 홍보 창구로 만들었고, 1997년엔 AOL·Yahoo 같은 포털의 서점 자리를 샀다.
+1996년엔 다른 웹사이트가 책 링크를 걸어 팔리면 수수료를 주는 '어소시에이트'를 열었다.
+
+광고비를 미리 쓰지 않고 팔린 만큼만 내는 방식이라, 수많은 사이트가 Amazon의 홍보 창구가 됐다.
+
+1997년엔 AOL·Yahoo 같은 포털의 서점 자리를 샀다.
 
 매출은 1996년 1,570만 달러에서 1997년 1억 4,780만 달러로 뛰었다.
 
 
-## 05.jpg · 04 · 위기
+## 06.jpg · 05 · 확장
+
+📷 **Photo:** Amazon.com homepage around 1999 showing music, video, toys and electronics tabs
+
+**제목:** 책에서 모든 것의 가게로
+
+1998년 음악 CD와 DVD를 시작으로, 1999년엔 장난감·전자제품까지 늘렸다.
+
+이미 찾아오는 손님에게 다른 물건도 팔면, 손님을 새로 모으는 비용 없이 매출을 늘릴 수 있었다.
+
+2000년엔 다른 판매자도 같은 상품 페이지에서 팔 수 있는 마켓플레이스를 열어, 재고를 쌓지 않고도 파는 물건을 크게 늘렸다.
+
+
+## 07.jpg · 06 · 위기
 
 📷 **Photo:** Inside an Amazon fulfillment center, early 2000s
 
@@ -75,22 +103,20 @@
 싸지자 손님과 매출이 늘었고, 2001년 4분기 매출 11억 달러로 처음 흑자를 냈다.
 
 
-## 06.jpg · 05 · 확장
+## 08.jpg · 07 · 프라임
 
 📷 **Photo:** Amazon Prime box (or a delivery truck with the Prime logo)
 
 **제목:** Amazon Prime, 모든 상품을 배송비 없이
 
-1998년 음악 CD와 DVD를 시작으로 1999년 장난감·전자제품까지 늘렸고, 2000년엔 다른 판매자도 같은 상품 페이지에서 팔 수 있는 마켓플레이스를 열어 재고를 쌓지 않고도 파는 물건을 크게 늘렸다.
-
-2005년엔 한 해 79달러를 내면 주문마다 이틀 배송이 무료인 Amazon Prime을 내놓았다.
+2005년 한 해 79달러를 내면 주문마다 이틀 배송이 무료인 Amazon Prime을 내놓았다.
 
 그전엔 일정 금액 넘게 사야 배송비가 면제돼, 작은 물건 하나는 다른 곳에서 사기 쉬웠다.
 
 회비를 한 번 내면 배송비를 따질 이유가 사라져, 회원이 무엇이든 먼저 Amazon에서 사게 만드는 장치였다.
 
 
-## 07.jpg · 06 · AWS
+## 09.jpg · 08 · AWS
 
 📷 **Photo:** Inside an AWS data center (or the AWS logo)
 
@@ -105,7 +131,7 @@
 2006년 문을 연 AWS는 서버를 사지 않고 쓴 만큼만 돈을 내는 방식이었다.
 
 
-## 08.jpg · 07 · 1조 달러
+## 10.jpg · 09 · 1조 달러
 
 📷 **Photo:** Amazon headquarters in Seattle, The Spheres, around 2018
 
@@ -118,7 +144,7 @@
 쇼핑은 값을 낮춰 손님을 모으고, 클라우드가 이익을 내는 구조였다.
 
 
-## 09.jpg · 08 · 떠날 때
+## 11.jpg · 10 · 떠날 때
 
 📷 **Photo:** Jeff Bezos around 2021 (a Blue Origin flight suit photo is also good)
 
@@ -132,7 +158,7 @@
 보름 뒤 자신이 세운 우주 기업 블루 오리진의 첫 유인 우주 비행에 직접 올랐다.
 
 
-## 10.jpg · 마무리
+## 12.jpg · 마무리
 
 📷 **Photo:** Amazon logo on a dark background (the cover sticker is cut from this too)
 
