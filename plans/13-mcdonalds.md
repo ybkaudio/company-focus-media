@@ -45,7 +45,7 @@
 
 📷 **Photo:** Teenagers at a drive-in restaurant, 1940s (or a 1940s McDonald's menu board)
 
-**제목:** 매출의 80%가 햄버거임을 알아내다
+**제목:** 만들기 쉬운 햄버거가 매출의 80%였다
 
 전쟁이 끝나자 샌버너디노에 드라이브인이 늘어 경쟁이 붙었다.
 
