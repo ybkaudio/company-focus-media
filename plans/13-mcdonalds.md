@@ -6,14 +6,14 @@
 
 ## 01.jpg · 표지
 
-📷 **사진:** Dick (Richard) and Mac (Maurice) McDonald brothers together (ideally in front of their first store, 1950s; not Ray Kroc; cover McDonald's logo sticker is cut from the last slide's logo)
+📷 **Photo:** Dick (Richard) and Mac (Maurice) McDonald brothers together (ideally in front of their first store, 1950s; not Ray Kroc; cover McDonald's logo sticker is cut from the last slide's logo)
 
 **제목:** 햄버거 가게를 공장처럼 바꾼 형제
 
 
 ## 02.jpg · 01 · 극장
 
-📷 **사진:** Beacon Theater in Glendora, California, 1930s (or a 1930s Hollywood studio)
+📷 **Photo:** Beacon Theater in Glendora, California, 1930s (or a 1930s Hollywood studio)
 
 **제목:** 할리우드에서 극장 주인이 되다
 
@@ -26,7 +26,7 @@
 
 ## 03.jpg · 02 · 드라이브인
 
-📷 **사진:** McDonald's Bar-B-Q drive-in in San Bernardino with carhops, 1940s (or a 1940s American drive-in)
+📷 **Photo:** McDonald's Bar-B-Q drive-in in San Bernardino with carhops, 1940s (or a 1940s American drive-in)
 
 **제목:** 차에 탄 손님에게 바비큐를 팔다
 
@@ -41,7 +41,7 @@
 
 ## 04.jpg · 03 · 분석
 
-📷 **사진:** Teenagers at a drive-in restaurant, 1940s (or a 1940s McDonald's menu board)
+📷 **Photo:** Teenagers at a drive-in restaurant, 1940s (or a 1940s McDonald's menu board)
 
 **제목:** 매출의 80%가 햄버거임을 알아내다
 
@@ -54,7 +54,7 @@
 
 ## 05.jpg · 04 · 스피디
 
-📷 **사진:** Customers lined up at a McDonald's walk-up window, 1950s
+📷 **Photo:** Customers lined up at a McDonald's walk-up window, 1950s
 
 **제목:** 메뉴를 9개로 줄이고 부엌을 공장처럼 바꾸다
 
@@ -71,7 +71,7 @@
 
 ## 06.jpg · 05 · 가맹
 
-📷 **사진:** Early McDonald's restaurant with golden arches, around 1953 (the Downey store is fine)
+📷 **Photo:** Early McDonald's restaurant with golden arches, around 1953 (the Downey store is fine)
 
 **제목:** 황금 아치를 세우고 가맹점을 내다
 
@@ -84,7 +84,7 @@
 
 ## 07.jpg · 06 · 크록
 
-📷 **사진:** Multimixer milkshake machine used at 1950s McDonald's (or Ray Kroc with the brothers)
+📷 **Photo:** Multimixer milkshake machine used at 1950s McDonald's (or Ray Kroc with the brothers)
 
 **제목:** 믹서 8대를 보고 찾아온 판매원
 
@@ -97,7 +97,7 @@
 
 ## 08.jpg · 07 · 떠날 때
 
-📷 **사진:** Original San Bernardino store with the 'BIG M' sign (or the McDonald brothers in the 1960s)
+📷 **Photo:** Original San Bernardino store with the 'BIG M' sign (or the McDonald brothers in the 1960s)
 
 **제목:** 이름까지 넘기고 회사를 팔다
 
@@ -113,7 +113,7 @@
 
 ## 09.jpg · 마무리
 
-📷 **사진:** McDonald's logo on a dark background (the cover sticker is cut from this too)
+📷 **Photo:** McDonald's logo on a dark background (the cover sticker is cut from this too)
 
 **제목:** 속도와 값으로 패스트푸드를 만들다
 

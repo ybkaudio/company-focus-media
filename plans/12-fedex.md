@@ -6,14 +6,14 @@
 
 ## 01.jpg · 표지
 
-📷 **사진:** Fred Smith portrait (1970s–80s, ideally in front of a FedEx plane; cover FedEx logo sticker is cut from the last slide's logo)
+📷 **Photo:** Fred Smith portrait (1970s–80s, ideally in front of a FedEx plane; cover FedEx logo sticker is cut from the last slide's logo)
 
 **제목:** 대학 리포트 속 하룻밤 배송, FedEx가 되다
 
 
 ## 02.jpg · 01 · 리포트
 
-📷 **사진:** Yale University campus in the 1960s (or Fred Smith as a Yale student)
+📷 **Photo:** Yale University campus in the 1960s (or Fred Smith as a Yale student)
 
 **제목:** 대학 리포트에 하룻밤 배송을 쓰다
 
@@ -26,7 +26,7 @@
 
 ## 03.jpg · 02 · 해병대
 
-📷 **사진:** Fred Smith as a U.S. Marine Corps officer (or Marine supply operations in the Vietnam War)
+📷 **Photo:** Fred Smith as a U.S. Marine Corps officer (or Marine supply operations in the Vietnam War)
 
 **제목:** 베트남에서 보급의 낭비를 보다
 
@@ -39,7 +39,7 @@
 
 ## 04.jpg · 03 · 창업
 
-📷 **사진:** Federal Express Dassault Falcon 20 jet in purple livery
+📷 **Photo:** Federal Express Dassault Falcon 20 jet in purple livery
 
 **제목:** 작은 제트기를 먼저 사들이다
 
@@ -54,7 +54,7 @@
 
 ## 05.jpg · 04 · 허브
 
-📷 **사진:** Federal Express Falcon jets lined up at Memphis airport, 1970s
+📷 **Photo:** Federal Express Falcon jets lined up at Memphis airport, 1970s
 
 **제목:** 모든 화물을 멤피스로 모으다
 
@@ -71,7 +71,7 @@ Federal Express는 미국 가운데에 있고 격납고가 넉넉한 멤피스�
 
 ## 06.jpg · 05 · 흑자
 
-📷 **사진:** Federal Express sorting hub workers handling packages, 1970s
+📷 **Photo:** Federal Express sorting hub workers handling packages, 1970s
 
 **제목:** 26개월 만에 흑자를 내다
 
@@ -84,7 +84,7 @@ Federal Express는 미국 가운데에 있고 격납고가 넉넉한 멤피스�
 
 ## 07.jpg · 06 · 규제
 
-📷 **사진:** Federal Express Boeing 727 cargo plane, late 1970s
+📷 **Photo:** Federal Express Boeing 727 cargo plane, late 1970s
 
 **제목:** 워싱턴에 머물며 규제를 풀다
 
@@ -101,7 +101,7 @@ Federal Express는 미국 가운데에 있고 격납고가 넉넉한 멤피스�
 
 ## 08.jpg · 07 · 10억 달러
 
-📷 **사진:** FedEx courier scanning a package barcode, 1980s (or the Memphis hub, 1980s)
+📷 **Photo:** FedEx courier scanning a package barcode, 1980s (or the Memphis hub, 1980s)
 
 **제목:** 10년 만에 매출 10억 달러를 넘다
 
@@ -114,7 +114,7 @@ Federal Express는 미국 가운데에 있고 격납고가 넉넉한 멤피스�
 
 ## 09.jpg · 08 · 떠날 때
 
-📷 **사진:** Fred Smith around 2018–2022 (on stage at a FedEx event)
+📷 **Photo:** Fred Smith around 2018–2022 (on stage at a FedEx event)
 
 **제목:** 51년 만에 대표에서 물러나다
 
@@ -128,7 +128,7 @@ Federal Express는 미국 가운데에 있고 격납고가 넉넉한 멤피스�
 
 ## 10.jpg · 마무리
 
-📷 **사진:** FedEx logo on a dark background (the cover sticker is cut from this too)
+📷 **Photo:** FedEx logo on a dark background (the cover sticker is cut from this too)
 
 **제목:** 하룻밤 배송이라는 시장을 만들다
 

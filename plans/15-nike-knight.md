@@ -6,14 +6,14 @@
 
 ## 01.jpg · 표지
 
-📷 **사진:** Phil Knight portrait (1970s–80s, ideally holding Nike shoes; cover Nike logo sticker is cut from the last slide's logo)
+📷 **Photo:** Phil Knight portrait (1970s–80s, ideally holding Nike shoes; cover Nike logo sticker is cut from the last slide's logo)
 
 **제목:** 회계사 청년이 신발 수입상에서 Nike를 세우다
 
 
 ## 02.jpg · 01 · 리포트
 
-📷 **사진:** Onitsuka Tiger running shoes from 1960s Japan (or Kobe street, 1960s)
+📷 **Photo:** Onitsuka Tiger running shoes from 1960s Japan (or Kobe street, 1960s)
 
 **제목:** 일본 운동화가 독일을 이긴다고 쓰다
 
@@ -26,7 +26,7 @@
 
 ## 03.jpg · 02 · 트렁크
 
-📷 **사진:** Green 1960s Plymouth Valiant (or a 1960s track meet)
+📷 **Photo:** Green 1960s Plymouth Valiant (or a 1960s track meet)
 
 **제목:** 자동차 트렁크에서 운동화를 팔다
 
@@ -39,7 +39,7 @@
 
 ## 04.jpg · 03 · 결별
 
-📷 **사진:** Original Nike swoosh logo sketch (or the first Nike shoe, 1972)
+📷 **Photo:** Original Nike swoosh logo sketch (or the first Nike shoe, 1972)
 
 **제목:** 공급처에 쫓겨나 자기 브랜드를 만들다
 
@@ -52,7 +52,7 @@
 
 ## 05.jpg · 04 · 공장 없이
 
-📷 **사진:** Nike running shoe ad, late 1970s (or Phil Knight around 1980)
+📷 **Photo:** Nike running shoe ad, late 1970s (or Phil Knight around 1980)
 
 **제목:** 공장 없이 미국 1등이 되다
 
@@ -67,7 +67,7 @@ Nike는 공장을 짓지 않았다.
 
 ## 06.jpg · 05 · 위기
 
-📷 **사진:** 1980s aerobics craze (or Nike headquarters in the 1980s)
+📷 **Photo:** 1980s aerobics craze (or Nike headquarters in the 1980s)
 
 **제목:** 유행이 바뀌자 적자를 내다
 
@@ -80,7 +80,7 @@ Nike는 공장을 짓지 않았다.
 
 ## 07.jpg · 06 · 조던
 
-📷 **사진:** Air Jordan 1, 1985 (red and black 'Bred')
+📷 **Photo:** Air Jordan 1, 1985 (red and black 'Bred')
 
 **제목:** 신인 한 명에게 신발 라인을 걸다
 
@@ -93,7 +93,7 @@ Nike는 공장을 짓지 않았다.
 
 ## 08.jpg · 07 · 저스트 두 잇
 
-📷 **사진:** Nike 'Just Do It' ad, 1988 (or the Just Do It slogan)
+📷 **Photo:** Nike 'Just Do It' ad, 1988 (or the Just Do It slogan)
 
 **제목:** 광고 한 줄로 누구나의 신발이 되다
 
@@ -106,7 +106,7 @@ Nike는 공장을 짓지 않았다.
 
 ## 09.jpg · 08 · 떠날 때
 
-📷 **사진:** Phil Knight in the 2000s (at a Nike headquarters event)
+📷 **Photo:** Phil Knight in the 2000s (at a Nike headquarters event)
 
 **제목:** 40년 만에 대표에서 물러나다
 
@@ -120,7 +120,7 @@ Nike는 공장을 짓지 않았다.
 
 ## 10.jpg · 마무리
 
-📷 **사진:** Nike logo on a dark background (the cover sticker is cut from this too)
+📷 **Photo:** Nike logo on a dark background (the cover sticker is cut from this too)
 
 **제목:** 수입상에서 세계 1등 운동화로
 

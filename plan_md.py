@@ -23,7 +23,7 @@ def main(path):
         name = "표지" if t == "cover" else s["index"]
         out.append(f"## {i:02d}.jpg · {name}")
         out.append("")
-        out.append(f"📷 **사진:** {s.get('photo_hint', '')}")
+        out.append(f"📷 **Photo:** {s.get('photo_hint', '')}")
         out.append("")
         out.append(f"**제목:** {s['title'].replace(chr(10), ' ')}")
         out.append("")
