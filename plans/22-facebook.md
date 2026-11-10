@@ -45,7 +45,7 @@
 
 📷 **Photo:** Early TheFacebook profile page or list of supported colleges, 2004
 
-**제목:** 학교를 하나씩 열어 34개 대학으로 넓히다
+**제목:** 확장되며 서버 비용이 늘자 광고 수익을 계획하다
 
 처음엔 하버드 이메일이 있어야만 가입할 수 있어, 실제로 아는 사람끼리만 연결됐다.
 
