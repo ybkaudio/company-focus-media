@@ -32,7 +32,8 @@
         "면접 과제로 그린 그림이 페이팔의 첫 로고가 됐고, 그는 15번째 직원이자 첫 디자이너로 들어갔다.",
         "이곳에서 엔지니어 스티브 첸, 자웨드 카림과 함께 일했다."
       ],
-      "photo_hint": "헐리·첸·카림 사진 (PayPal 로고는 스티커)"
+      "photo_hint": "헐리·첸·카림 사진 (PayPal 로고는 스티커)",
+      "value": "회사 설립 전"
     },
     {
       "index": "02 · 창업",
@@ -45,7 +46,8 @@
         "처음 정한 쓰임새는 혼자인 사람이 자기소개 영상을 올려 짝을 찾는 데이트 사이트였고, 구호는 'Tune in, Hook up'이었다.",
         "대표를 맡은 헐리는 로고와 화면을 디자인했다."
       ],
-      "photo_hint": "YouTube's first homepage as a video dating site, 2005 ('Tune In Hook Up', Wayback Machine screenshot)"
+      "photo_hint": "YouTube's first homepage as a video dating site, 2005 ('Tune In Hook Up', Wayback Machine screenshot)",
+      "value": "투자 받기 전"
     },
     {
       "index": "03 · 방향 전환",
@@ -58,7 +60,8 @@
         "그래서 데이트를 버리고 누구나 어떤 영상이든 올릴 수 있게 바꿨다.",
         "4월 23일 자웨드 카림이 첫 영상 '동물원에 간 나'를 올렸고, 6월 사이트를 새로 꾸민 뒤 사람들이 온갖 영상을 올리기 시작했다."
       ],
-      "photo_hint": "'Me at the zoo' first YouTube video, April 23, 2005 (screenshot)"
+      "photo_hint": "'Me at the zoo' first YouTube video, April 23, 2005 (screenshot)",
+      "value": "투자 받기 전"
     },
     {
       "index": "04 · 첫 성과",
@@ -71,7 +74,8 @@
         "7월에는 영상을 블로그나 다른 사이트에 붙여 넣는 기능을 더해, 사람들이 직접 퍼 나르게 했다.",
         "하루 3만 명이던 방문자는 8개월 만에 하루 200만 명을 넘었다."
       ],
-      "photo_hint": "2005년 무렵 YouTube 영상 페이지 화면"
+      "photo_hint": "2005년 무렵 YouTube 영상 페이지 화면",
+      "value": "회사 가치 약 1,000만 달러(추정)"
     },
     {
       "index": "05 · 성장",
@@ -83,7 +87,8 @@
         "2006년 7월 유튜브 영상은 하루 평균 1억 번 재생됐고, 매일 새 영상이 6만 5,000개씩 올라왔다.",
         "문을 연 지 1년 남짓 만에 세계에서 가장 많이 찾는 사이트 10위 안에 들었다."
       ],
-      "photo_hint": "2006년 무렵 YouTube 첫 화면 또는 헐리·첸 사진"
+      "photo_hint": "2006년 무렵 YouTube 첫 화면 또는 헐리·첸 사진",
+      "value": "회사 가치 약 4,000만 달러(추정)"
     },
     {
       "index": "06 · 매각",
@@ -101,7 +106,8 @@
         "size": 481,
         "right": 519,
         "top": 210
-      }
+      },
+      "value": "회사 가치 16억 5,000만 달러(인수가)"
     },
     {
       "index": "07 · 성장",
@@ -114,7 +120,8 @@
         "12월엔 영상을 올린 사람에게도 광고 수익을 나누는 파트너 프로그램을 열어, 영상을 직업으로 만드는 사람들이 생겼다.",
         "2009년 10월 하루 조회수는 10억 번을 넘었다."
       ],
-      "photo_hint": "YouTube homepage or YouTube Partner Program page, 2007 (screenshot)"
+      "photo_hint": "YouTube homepage or YouTube Partner Program page, 2007 (screenshot)",
+      "value": "회사 가치 16억 5,000만 달러(인수가 기준)"
     },
     {
       "type": "stats",
@@ -139,7 +146,8 @@
         "2010년 10월 대표에서 물러나 고문으로 남았다.",
         "이후 동영상 앱 MixBit을 만들었고, 농구팀 Golden State Warriors와 축구팀 LAFC의 공동 구단주가 됐다."
       ],
-      "photo_hint": "2010년 무렵 행사 무대의 헐리"
+      "photo_hint": "2010년 무렵 행사 무대의 헐리",
+      "value": "회사 가치 16억 5,000만 달러(인수가 기준)"
     },
     {
       "type": "outro",
@@ -155,6 +163,6 @@
       "photo_hint": "YouTube 로고 (어두운 배경, 표지 스티커도 여기서 오려 냄)"
     }
   ],
-  "caption": "이 화가 지망생은 유튜브를 만듦.\n\n채드 헐리는 면접에서 그린 그림이 페이팔 첫 로고가 된 디자이너였어요. 파티 영상이 너무 커서 이메일로 못 보낸 날, 동료들과 차고에서 영상 데이트 사이트로 유튜브를 시작했어요. 아무도 영상을 올리지 않자 누구나 어떤 영상이든 올리는 사이트로 바꿨고, 설치도 가입도 필요 없는 영상 사이트로 20개월 만에 구글에 16억 5,000만 달러에 팔았어요.\n\n🔗 페이팔 마피아 시리즈. 헐리와 공동 창업자 스티브 첸·자웨드 카림은 모두 페이팔 출신이에요. 페이팔이 eBay에 팔린 뒤 그곳 사람들이 세운 회사들을 이어서 다뤄요: 일론 머스크의 페이팔(#11)·SpaceX(#24)·Tesla(#25), 피터 틸(#26).\n\n💬 여러분이 처음 본 유튜브 영상은 뭐였나요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Chad Hurley / History of YouTube\n- Encyclopedia.com, Chen, Steve and Hurley, Chad\n- The Wall Street Journal(위키 인용), 헐리의 Google 주식 가치 (2007.02)\n- YouTube 공식 연혁(press timeline, 2012)\n- MediaPost, Viacom Sues YouTube For Major Copyright Violations (2007.03)\n- Fox News, YouTube started out as a dating service, co-founder tells SXSW (2016.03)\n- Tubefilter, YouTube Was First Conceived As A Dating Site (2016.03.15)\n- Vice, 10 Years Ago Today, YouTube Launched as a Dating Website (2015.04.23)\n- The Guardian, YouTube's past as a video dating website (2016.03.16)\n\n#기업집중탐구 #페이팔마피아 #채드헐리 #유튜브 #YouTube #창업 #창업스토리 #스타트업 #자기계발",
+  "caption": "이 화가 지망생은 유튜브를 만듦.\n\n채드 헐리는 면접에서 그린 그림이 페이팔 첫 로고가 된 디자이너였어요. 파티 영상이 너무 커서 이메일로 못 보낸 날, 동료들과 차고에서 영상 데이트 사이트로 유튜브를 시작했어요. 아무도 영상을 올리지 않자 누구나 어떤 영상이든 올리는 사이트로 바꿨고, 설치도 가입도 필요 없는 영상 사이트로 20개월 만에 구글에 16억 5,000만 달러에 팔았어요.\n\n🔗 페이팔 마피아 시리즈. 헐리와 공동 창업자 스티브 첸·자웨드 카림은 모두 페이팔 출신이에요. 페이팔이 eBay에 팔린 뒤 그곳 사람들이 세운 회사들을 이어서 다뤄요: 일론 머스크의 페이팔(#11)·SpaceX(#24)·Tesla(#25), 피터 틸(#26).\n\n💬 여러분이 처음 본 유튜브 영상은 뭐였나요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Chad Hurley / History of YouTube\n- Encyclopedia.com, Chen, Steve and Hurley, Chad\n- The Wall Street Journal(위키 인용), 헐리의 Google 주식 가치 (2007.02)\n- YouTube 공식 연혁(press timeline, 2012)\n- MediaPost, Viacom Sues YouTube For Major Copyright Violations (2007.03)\n- Fox News, YouTube started out as a dating service, co-founder tells SXSW (2016.03)\n- Tubefilter, YouTube Was First Conceived As A Dating Site (2016.03.15)\n- Vice, 10 Years Ago Today, YouTube Launched as a Dating Website (2015.04.23)\n- The Guardian, YouTube's past as a video dating website (2016.03.16)\n- 장별 회사 가치: 투자 라운드 가치는 공개되지 않아, 세쿼이아가 1,150만 달러로 약 30%를 가졌다는 보도(TechCrunch, 2006.10)로 추정. 구글 인수 뒤에는 인수가 기준\n\n#기업집중탐구 #페이팔마피아 #채드헐리 #유튜브 #YouTube #창업 #창업스토리 #스타트업 #자기계발",
   "music": "Mr. Brightside – The Killers (YouTube가 생긴 2004~05년 히트곡) / 없으면 검색어 'indie rock 2000s'"
 }
