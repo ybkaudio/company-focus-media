@@ -13,7 +13,7 @@
 기업인집중탐구 #15
 
 
-## 02.jpg · 01 · 리포트
+## 02.jpg · 01 · 계기
 
 📷 **Photo:** Onitsuka Tiger running shoes from 1960s Japan (or Kobe street, 1960s)
 
@@ -26,7 +26,7 @@
 졸업한 해 11월 일본 고베로 가 오니츠카의 타이거 운동화를 보고, 미국 서부 판매권을 따냈다.
 
 
-## 03.jpg · 02 · 트렁크
+## 03.jpg · 02 · 창업
 
 📷 **Photo:** Green 1960s Plymouth Valiant (or a 1960s track meet)
 
@@ -41,7 +41,7 @@
 첫해 약 8,000달러어치를 팔았고, 1969년에야 회계사 일을 그만뒀다.
 
 
-## 04.jpg · 03 · 결별
+## 04.jpg · 03 · 위기
 
 📷 **Photo:** Original Nike swoosh logo sketch (or the first Nike shoe, 1972)
 
@@ -54,7 +54,7 @@
 첫 직원이 꿈에서 본 이름 Nike를 붙이고, 디자인 학생에게 35달러를 주고 스우시 로고를 받았다.
 
 
-## 05.jpg · 04 · 공장 없이
+## 05.jpg · 04 · 성장
 
 📷 **Photo:** Nike running shoe ad, late 1970s (or Phil Knight around 1980)
 
@@ -82,7 +82,7 @@ Nike는 공장을 짓지 않았다.
 그해 직원 약 400명을 내보냈다.
 
 
-## 07.jpg · 06 · 조던
+## 07.jpg · 06 · 성장
 
 📷 **Photo:** Air Jordan 1, 1985 (red and black 'Bred')
 
@@ -95,7 +95,7 @@ Nike는 공장을 짓지 않았다.
 1985년 나온 에어 조던은 첫 물량 5만 켤레가 매진됐다.
 
 
-## 08.jpg · 07 · 저스트 두 잇
+## 08.jpg · 07 · 정점
 
 📷 **Photo:** Nike 'Just Do It' ad, 1988 (or the Just Do It slogan)
 

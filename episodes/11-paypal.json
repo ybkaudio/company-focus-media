@@ -22,7 +22,7 @@
       }
     },
     {
-      "index": "01 · 코딩",
+      "index": "01 · 배경",
       "when": "1983 · 12세",
       "photo": null,
       "title": "열두 살에 만든\n게임을 팔다",
@@ -34,7 +34,7 @@
       "photo_hint": "어린 시절 머스크"
     },
     {
-      "index": "02 · 은행",
+      "index": "02 · 계기",
       "when": "1989 · 18세",
       "photo": null,
       "title": "캐나다로 건너가\n은행의 한계를 보다",
@@ -46,7 +46,7 @@
       "photo_hint": "토론토 스코샤은행 본사 건물"
     },
     {
-      "index": "03 · 첫 창업",
+      "index": "03 · 배경",
       "when": "1995 · 24세",
       "photo": null,
       "title": "대학원 대신\n동생과 창업하다",
@@ -80,7 +80,7 @@
       "bgpos": "center 150px"
     },
     {
-      "index": "05 · 가입 보너스",
+      "index": "05 · 성장",
       "when": "1999 · 28세",
       "photo": null,
       "title": "가입하면 돈을 줘\n사용자를 모으다",
@@ -92,7 +92,7 @@
       "photo_hint": "PayPal 가입 보너스 안내 화면 (2020년 날짜 문구는 잘라 냄)"
     },
     {
-      "index": "06 · 합병",
+      "index": "06 · 확장",
       "when": "2000 · 28세",
       "photo": null,
       "title": "경쟁사 Confinity와\n합쳐 PayPal이 되다",
@@ -106,7 +106,7 @@
       "bgpos": "center 90px"
     },
     {
-      "index": "07 · 상장",
+      "index": "07 · 정점",
       "when": "2002 · 30세",
       "photo": null,
       "title": "eBay 판매자의\n지갑이 되어 상장하다",

@@ -23,7 +23,7 @@
       ]
     },
     {
-      "index": "01 · 월가",
+      "index": "01 · 계기",
       "when": "1994 · 30세",
       "photo": null,
       "title": "인터넷의 확장에 힘입어\n온라인 서점을 계획하다",
@@ -35,7 +35,7 @@
       "photo_hint": "Wall Street office, early 1990s (or a 1990s Wall Street street scene)"
     },
     {
-      "index": "02 · 시애틀",
+      "index": "02 · 창업",
       "when": "1994 · 30세",
       "photo": null,
       "title": "회사를 그만두고\n시애틀에 본거지를 잡다",
@@ -47,7 +47,7 @@
       "photo_hint": "Bezos's Bellevue garage office (official Amazon photo exists; or 1990s Seattle)"
     },
     {
-      "index": "03 · 개점",
+      "index": "03 · 첫 성과",
       "when": "1995 · 31세",
       "photo": null,
       "title": "두 달 만에\n50개 주에 책을 팔다",
@@ -60,7 +60,7 @@
       "bgpos": "center top"
     },
     {
-      "index": "04 · 손님",
+      "index": "04 · 성장",
       "when": "1996 · 32세",
       "photo": null,
       "title": "리뷰와 제휴 링크로\n손님을 끌어모으다",
@@ -98,7 +98,7 @@
       "photo_hint": "Inside an Amazon fulfillment center, early 2000s"
     },
     {
-      "index": "07 · 프라임",
+      "index": "07 · 성장",
       "when": "2005 · 41세",
       "photo": null,
       "title": "Amazon Prime,\n모든 상품을 배송비 없이",
@@ -110,7 +110,7 @@
       "photo_hint": "Amazon Prime box (or a delivery truck with the Prime logo)"
     },
     {
-      "index": "08 · AWS",
+      "index": "08 · 확장",
       "when": "2006 · 42세",
       "photo": null,
       "title": "자기 서버를\n상품으로 팔다",
@@ -122,7 +122,7 @@
       "photo_hint": "Inside an AWS data center (or the AWS logo)"
     },
     {
-      "index": "09 · 1조 달러",
+      "index": "09 · 정점",
       "when": "2020 · 56세",
       "photo": null,
       "title": "사상 여섯 번째\n1조 달러 회사가 되다",

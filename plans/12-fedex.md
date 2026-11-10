@@ -13,7 +13,7 @@
 기업인집중탐구 #12
 
 
-## 02.jpg · 01 · 리포트
+## 02.jpg · 01 · 계기
 
 📷 **Photo:** Yale University campus in the 1960s (or Fred Smith as a Yale student)
 
@@ -26,7 +26,7 @@
 한 회사가 자기 비행기와 트럭으로 화물을 한곳에 모았다가 나눠 보내는 방식을 답으로 내놓았다.
 
 
-## 03.jpg · 02 · 해병대
+## 03.jpg · 02 · 배경
 
 📷 **Photo:** Fred Smith as a U.S. Marine Corps officer (or Marine supply operations in the Vietnam War)
 
@@ -39,7 +39,7 @@
 필요한 물건을 필요한 날 보내는 체계가 있으면 재고를 쌓아 둘 필요가 없었다.
 
 
-## 04.jpg · 03 · 정비 회사
+## 04.jpg · 03 · 배경
 
 📷 **Photo:** Aircraft maintenance hangar in Little Rock, Arkansas around 1970 (Arkansas Aviation Sales, engine overhaul / mechanics at work; or Fred Smith at Little Rock airport)
 
@@ -58,7 +58,7 @@
 대학 리포트에 쓴 하룻밤 배송이 꼭 필요하다는 걸 직접 겪은 것이다.
 
 
-## 05.jpg · 04 · 투자
+## 05.jpg · 04 · 자금
 
 📷 **Photo:** Federal Express Dassault Falcon 20 jet in purple livery
 
@@ -73,7 +73,7 @@
 큰 화물기는 허가에 몇 년이 걸렸지만 작은 비행기는 허가 없이 띄울 수 있어, 작은 제트기 팰컨 20을 30여 대 사들였다.
 
 
-## 06.jpg · 05 · 허브
+## 06.jpg · 05 · 창업
 
 📷 **Photo:** Federal Express Falcon jets lined up at Memphis airport, 1970s
 
@@ -90,7 +90,7 @@ Federal Express는 미국 한가운데에 있고 날씨로 비행이 끊기는 �
 1973년 4월 17일 첫날 밤, 팰컨 14대가 25개 도시에 소포 186개를 날랐다.
 
 
-## 07.jpg · 06 · 운영
+## 07.jpg · 06 · 첫 성과
 
 📷 **Photo:** Federal Express sorting hub workers handling packages, 1970s
 
@@ -120,7 +120,7 @@ Federal Express는 미국 한가운데에 있고 날씨로 비행이 끊기는 �
 1976년에는 하루 평균 소포 1만 9,000개를 날랐다.
 
 
-## 09.jpg · 08 · 규제
+## 09.jpg · 08 · 성장
 
 📷 **Photo:** Federal Express Boeing 727 cargo plane, late 1970s
 
@@ -137,7 +137,7 @@ Federal Express는 미국 한가운데에 있고 날씨로 비행이 끊기는 �
 이듬해 뉴욕증권거래소에 상장했다.
 
 
-## 10.jpg · 09 · 10억 달러
+## 10.jpg · 09 · 성장
 
 📷 **Photo:** FedEx courier scanning a package barcode, 1980s (or the Memphis hub, 1980s)
 
@@ -150,7 +150,7 @@ Federal Express는 미국 한가운데에 있고 날씨로 비행이 끊기는 �
 1983년 다른 회사를 사들이지 않고 창업 10년 만에 매출 10억 달러를 넘긴 첫 미국 회사가 됐다.
 
 
-## 11.jpg · 10 · 세계
+## 11.jpg · 10 · 확장
 
 📷 **Photo:** Flying Tiger Line Boeing 747 freighter repainted in Federal Express colors, 1989
 
@@ -163,7 +163,7 @@ Federal Express는 미국 한가운데에 있고 날씨로 비행이 끊기는 �
 아시아·유럽·남미 큰 공항의 착륙권을 한 번에 얻었고, 해외 항공 화물 매출이 두 배 가까이 늘었다.
 
 
-## 12.jpg · 11 · 육상
+## 12.jpg · 11 · 확장
 
 📷 **Photo:** FedEx Ground delivery truck, early 2000s (or a FedEx Kinko's store, 2004)
 
@@ -176,7 +176,7 @@ Federal Express는 미국 한가운데에 있고 날씨로 비행이 끊기는 �
 RPS는 FedEx Ground가 됐고, 2004년엔 복사·인쇄점 <Kinko's>를 24억 달러에 사 동네 매장도 얻었다.
 
 
-## 13.jpg · 12 · 유럽
+## 13.jpg · 12 · 확장
 
 📷 **Photo:** TNT Express trucks with FedEx branding in Europe, 2016–2018
 

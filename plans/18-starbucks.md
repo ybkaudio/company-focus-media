@@ -13,7 +13,7 @@
 기업인집중탐구 #18
 
 
-## 02.jpg · 01 · 견습
+## 02.jpg · 01 · 배경
 
 📷 **Photo:** Alfred Peet at Peet's Coffee & Tea in Berkeley, 1960s–1970s
 
@@ -41,7 +41,7 @@
 집에서 내려 마실 좋은 원두를 사게 하는 것이 목표였다.
 
 
-## 04.jpg · 03 · 이름
+## 04.jpg · 03 · 창업
 
 📷 **Photo:** Original 1971 Starbucks two-tailed siren logo (brown version)
 
@@ -54,7 +54,7 @@
 디자이너 테리 헤클러는 'st'로 시작하는 이름이 강하게 들린다고 했고, 바다 이야기에 맞춰 꼬리 둘 달린 인어 로고를 그렸다.
 
 
-## 05.jpg · 04 · 로스팅
+## 05.jpg · 04 · 성장
 
 📷 **Photo:** Coffee roasting at the early Starbucks roasting plant in Seattle, 1970s
 
@@ -67,7 +67,7 @@
 캔 커피만 있던 시장에서 갓 볶은 원두를 찾는 손님이 늘어, 1981 회계연도 매출은 440만 달러로 한 해 49% 늘었다.
 
 
-## 06.jpg · 05 · 에스프레소
+## 06.jpg · 05 · 확장
 
 📷 **Photo:** Starbucks espresso bar at 4th Avenue and Spring Street, Seattle, 1984 (or young Howard Schultz)
 
@@ -80,7 +80,7 @@
 볼드윈은 원두 회사로 남기를 원해 음료 매장을 늘리지 않았고, 슐츠는 1985년 나가 자기 카페를 차렸다.
 
 
-## 07.jpg · 06 · Peet's 인수
+## 07.jpg · 06 · 확장
 
 📷 **Photo:** Peet's Coffee & Tea store on Vine Street, Berkeley, 1980s
 

@@ -13,7 +13,7 @@
 기업인집중탐구 #21
 
 
-## 02.jpg · 01 · 사진
+## 02.jpg · 01 · 배경
 
 📷 **Photo:** Holga toy camera with a square film photo (or Florence street photo, mid-2000s)
 
@@ -26,7 +26,7 @@
 이 정사각형 화면과 옛 필름 느낌은 훗날 Instagram의 사진 형식과 필터로 이어졌다.
 
 
-## 03.jpg · 02 · 실리콘밸리
+## 03.jpg · 02 · 배경
 
 📷 **Photo:** Google campus in Mountain View, 2006-2008 (or Odeo office, 2005)
 
@@ -39,7 +39,7 @@
 3년 뒤 Google을 나와 여행 추천 스타트업 <Nextstop>으로 갔다.
 
 
-## 04.jpg · 03 · Burbn
+## 04.jpg · 03 · 계기
 
 📷 **Photo:** Early Burbn app screenshot (2010)
 
@@ -52,7 +52,7 @@ Nextstop에 다니며 밤마다 코딩을 익힌 그는 위치 체크인과 사�
 친구들과 어디서 무엇을 하는지 알리고 약속을 잡는 앱이었다.
 
 
-## 05.jpg · 04 · 창업 자금
+## 05.jpg · 04 · 자금
 
 📷 **Photo:** Kevin Systrom and Mike Krieger together, early Instagram days (2010)
 
@@ -65,7 +65,7 @@ Nextstop에 다니며 밤마다 코딩을 익힌 그는 위치 체크인과 사�
 이 돈으로 스탠퍼드 후배 개발자 마이크 크리거를 공동 창업자로 데려왔다.
 
 
-## 06.jpg · 05 · 방향 전환
+## 06.jpg · 05 · 창업
 
 📷 **Photo:** Whiteboard sketch or early Instagram prototype (2010)
 
@@ -78,7 +78,7 @@ Burbn은 이미 인기를 끌던 체크인 앱 <Foursquare>와 너무 비슷했�
 그래서 사진 올리기·좋아요·댓글만 남기고 나머지 기능을 모두 덜어 냈다.
 
 
-## 07.jpg · 06 · 필터
+## 07.jpg · 06 · 창업
 
 📷 **Photo:** Early Instagram filter selection screen on an iPhone 4 (X-Pro II filter)
 
@@ -91,7 +91,7 @@ Burbn은 이미 인기를 끌던 체크인 앱 <Foursquare>와 너무 비슷했�
 사진은 당시 iPhone 화면 너비에 맞춘 640픽셀 정사각형으로 정해 빠르게 올라가게 했다.
 
 
-## 08.jpg · 07 · 출시
+## 08.jpg · 07 · 첫 성과
 
 📷 **Photo:** Instagram 1.0 app icon and App Store page, October 2010
 
@@ -106,7 +106,7 @@ Burbn은 이미 인기를 끌던 체크인 앱 <Foursquare>와 너무 비슷했�
 출시 두 달여 만인 12월 사용자가 100만 명을 넘었다.
 
 
-## 09.jpg · 08 · 투자
+## 09.jpg · 08 · 성장
 
 📷 **Photo:** Instagram Android launch, April 2012 (Google Play listing or news photo)
 
@@ -119,7 +119,7 @@ iPhone 전용이던 앱을 2012년 4월 3일 Android로 내놓자 하루도 안 
 같은 달 회사 가치를 5억 달러로 인정받으며 5,000만 달러를 투자받았다.
 
 
-## 10.jpg · 09 · 인수
+## 10.jpg · 09 · 매각
 
 📷 **Photo:** Kevin Systrom and Mark Zuckerberg, 2012 (or Facebook acquires Instagram news photo)
 
@@ -132,7 +132,7 @@ iPhone 전용이던 앱을 2012년 4월 3일 Android로 내놓자 하루도 안 
 지분 약 40%를 가졌던 시스트롬은 약 4억 달러를 받았고, CEO로 남아 Facebook의 서버와 인프라를 쓰면서 Instagram의 브랜드와 제품은 따로 운영했다.
 
 
-## 11.jpg · 10 · 수익
+## 11.jpg · 10 · 성장
 
 📷 **Photo:** First Instagram sponsored post in the feed, November 2013 (screenshot)
 
@@ -145,7 +145,7 @@ iPhone 전용이던 앱을 2012년 4월 3일 Android로 내놓자 하루도 안 
 광고는 친구 사진 사이에 같은 정사각형 사진으로 섞여 들어갔다.
 
 
-## 12.jpg · 11 · Stories
+## 12.jpg · 11 · 확장
 
 📷 **Photo:** Instagram Stories launch, August 2016 (Stories bar at the top of the app)
 
@@ -158,7 +158,7 @@ iPhone 전용이던 앱을 2012년 4월 3일 Android로 내놓자 하루도 안 
 Stories 사용자는 두 달 만에 1억 명, 2017년 4월 2억 명이 되며 Snapchat 전체 사용자 수를 넘어섰다.
 
 
-## 13.jpg · 12 · 10억 명
+## 13.jpg · 12 · 정점
 
 📷 **Photo:** Kevin Systrom on stage at the IGTV launch event, June 2018
 

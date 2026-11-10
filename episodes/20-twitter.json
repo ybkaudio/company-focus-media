@@ -23,7 +23,7 @@
       }
     },
     {
-      "index": "01 · AudBlog",
+      "index": "01 · 배경",
       "when": "2003",
       "photo": null,
       "title": "전화로 녹음해 올리는\n음성 블로그를 만들다",
@@ -36,7 +36,7 @@
       "title_size": 76
     },
     {
-      "index": "02 · 동업",
+      "index": "02 · 배경",
       "when": "2004",
       "photo": null,
       "title": "이웃 윌리엄스와 손잡고\nBlogger 사용자에게 열다",
@@ -49,7 +49,7 @@
       "title_size": 76
     },
     {
-      "index": "03 · Odeo",
+      "index": "03 · 위기",
       "when": "2005",
       "photo": null,
       "title": "공동 창립한 팟캐스트 회사,\n새 아이디어를 탐색하다",
@@ -62,7 +62,7 @@
       "title_size": 80
     },
     {
-      "index": "04 · 아이디어",
+      "index": "04 · 계기",
       "when": "2006",
       "photo": null,
       "title": "외로움을 느끼다가\n공유할 방법을 찾다",
@@ -74,7 +74,7 @@
       "photo_hint": "Valencia Street, San Francisco at night in the rain (or Noah Glass and Jack Dorsey, 2006)"
     },
     {
-      "index": "05 · 이름",
+      "index": "05 · 창업",
       "when": "2006",
       "photo": null,
       "title": "사전에서 찾은 단어에서\n영감을 얻다",
@@ -86,7 +86,7 @@
       "photo_hint": "Dictionary entry for the word 'twitter' (or the early Twttr logo, 2006)"
     },
     {
-      "index": "06 · 출시",
+      "index": "06 · 첫 성과",
       "when": "2006",
       "photo": null,
       "title": "Twttr 프로젝트를 맡아\n서비스를 공개하다",
@@ -100,7 +100,7 @@
       "bgpos": "center 150px"
     },
     {
-      "index": "07 · 갈등",
+      "index": "07 · 위기",
       "when": "2006",
       "photo": null,
       "title": "이혼과 불안 속에\n팀과 부딪치다",

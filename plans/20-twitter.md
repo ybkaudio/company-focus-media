@@ -13,7 +13,7 @@
 기업인집중탐구 #20
 
 
-## 02.jpg · 01 · AudBlog
+## 02.jpg · 01 · 배경
 
 📷 **Photo:** AudBlog / audioBLOGGER website screenshot, 2003 (or a young Noah Glass photo)
 
@@ -28,7 +28,7 @@
 첫 글은 무료, 그 뒤로는 월 3달러였다.
 
 
-## 03.jpg · 02 · 동업
+## 03.jpg · 02 · 배경
 
 📷 **Photo:** Audioblogger + Blogger logos or Blogger-era Evan Williams with Noah Glass (avoid photos where Williams could be mistaken for Glass)
 
@@ -41,7 +41,7 @@ AudBlog는 Blogger와 손잡고 Audioblogger라는 이름으로 Blogger 사용�
 녹음한 목소리를 인터넷으로 나누는 이 경험이 다음 회사 Odeo로 이어졌다.
 
 
-## 04.jpg · 03 · Odeo
+## 04.jpg · 03 · 위기
 
 📷 **Photo:** Odeo office in San Francisco, 2005 (or the Odeo website screenshot)
 
@@ -54,7 +54,7 @@ Google을 나온 윌리엄스가 아이팟에 녹음을 옮겨 듣는 팟캐스�
 2005년 Apple이 iTunes에 팟캐스트를 넣자 Odeo는 설 자리를 잃었고, 회사는 새 아이디어를 찾아야 했다.
 
 
-## 05.jpg · 04 · 아이디어
+## 05.jpg · 04 · 계기
 
 📷 **Photo:** Valencia Street, San Francisco at night in the rain (or Noah Glass and Jack Dorsey, 2006)
 
@@ -67,7 +67,7 @@ Google을 나온 윌리엄스가 아이팟에 녹음을 옮겨 듣는 팟캐스�
 사람들을 덜 외롭게 만드는 서비스로 바꿔, 도시와 개발자 플로리안 웨버와 함께 Odeo 팀에 내놓았다.
 
 
-## 06.jpg · 05 · 이름
+## 06.jpg · 05 · 창업
 
 📷 **Photo:** Dictionary entry for the word 'twitter' (or the early Twttr logo, 2006)
 
@@ -80,7 +80,7 @@ Google을 나온 윌리엄스가 아이팟에 녹음을 옮겨 듣는 팟캐스�
 모음을 빼 'Twttr'로 이름을 정했다.
 
 
-## 07.jpg · 06 · 출시
+## 07.jpg · 06 · 첫 성과
 
 📷 **Photo:** Jack Dorsey's first tweet 'just setting up my twttr', March 21, 2006 (screenshot)
 
@@ -93,7 +93,7 @@ Google을 나온 윌리엄스가 아이팟에 녹음을 옮겨 듣는 팟캐스�
 Odeo 투자자 조지 재커리는 '노아는 Twitter에 미친 듯이 열광했다'고 말했다.
 
 
-## 08.jpg · 07 · 갈등
+## 08.jpg · 07 · 위기
 
 📷 **Photo:** Noah Glass at Odeo, 2005–2006
 

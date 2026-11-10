@@ -13,7 +13,7 @@
 기업인집중탐구 #19
 
 
-## 02.jpg · 01 · 첫 사업
+## 02.jpg · 01 · 배경
 
 📷 **Photo:** 1970s slot machines in a Nevada casino
 
@@ -26,7 +26,7 @@
 이 일로 사업 빚이 개인에게 어떻게 돌아오는지 몸으로 알게 됐다.
 
 
-## 03.jpg · 02 · Atari
+## 03.jpg · 02 · 계기
 
 📷 **Photo:** Atari office or arcade cabinets, mid-1970s (Gran Trak 10 cabinet)
 
@@ -52,7 +52,7 @@
 웨인이 동업 계약서를 직접 써, 1976년 4월 1일 셋은 <Apple Computer>를 세웠다.
 
 
-## 05.jpg · 04 · 로고
+## 05.jpg · 04 · 창업
 
 📷 **Photo:** The first Apple logo, 1976 (Isaac Newton under the apple tree, drawn by Ronald Wayne)
 
@@ -65,7 +65,7 @@ Apple I 사용 설명서도 그가 썼다.
 두 청년이 기계를 만드는 동안, 회사의 문서와 얼굴은 웨인이 맡았다.
 
 
-## 06.jpg · 05 · 첫 주문
+## 06.jpg · 05 · 첫 성과
 
 📷 **Photo:** Apple I computer board, 1976 (or the Byte Shop store in Mountain View)
 
@@ -92,7 +92,7 @@ Apple I 사용 설명서도 그가 썼다.
 슬롯머신 실패를 겪은 그는 외상 부품값에 재산을 잃을까 봐 12일 만에 800달러를 받고 지분을 넘겼다.
 
 
-## 08.jpg · 07 · 대가
+## 08.jpg · 07 · 그 뒤
 
 📷 **Photo:** Ronald Wayne portrait in later years (dark background)
 

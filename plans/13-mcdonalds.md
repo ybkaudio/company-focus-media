@@ -13,7 +13,7 @@
 기업인집중탐구 #13
 
 
-## 02.jpg · 01 · 극장
+## 02.jpg · 01 · 배경
 
 📷 **Photo:** Beacon Theater in Glendora, California, 1930s (or a 1930s Hollywood studio)
 
@@ -26,7 +26,7 @@
 대공황 속에 매점 매출로도 비용을 메우지 못했고, 1937년 극장을 팔았다.
 
 
-## 03.jpg · 02 · 드라이브인
+## 03.jpg · 02 · 창업
 
 📷 **Photo:** McDonald's Bar-B-Q drive-in in San Bernardino with carhops, 1940s (or a 1940s American drive-in)
 
@@ -41,7 +41,7 @@
 매출은 곧 한 해 20만 달러를 넘었다.
 
 
-## 04.jpg · 03 · 분석
+## 04.jpg · 03 · 계기
 
 📷 **Photo:** Teenagers at a drive-in restaurant, 1940s (or a 1940s McDonald's menu board)
 
@@ -54,7 +54,7 @@
 진짜 접시와 컵은 깨지거나 없어졌고, 10대들이 모여 노는 곳이 되면서 가족 손님은 발길을 끊었다.
 
 
-## 05.jpg · 04 · 스피디
+## 05.jpg · 04 · 첫 성과
 
 📷 **Photo:** Customers lined up at a McDonald's walk-up window, 1950s
 
@@ -71,7 +71,7 @@
 빨리 만드니 많이 팔 수 있어 햄버거값을 30센트에서 15센트로 내렸고, 싸고 빠른 음식을 찾던 가족과 직장인이 몰려 1950년대 초 매출은 한 해 35만 달러가 됐다.
 
 
-## 06.jpg · 05 · 가맹
+## 06.jpg · 05 · 확장
 
 📷 **Photo:** Early McDonald's restaurant with golden arches, around 1953 (the Downey store is fine)
 
@@ -84,7 +84,7 @@
 가맹점은 똑같은 부엌과 메뉴를 그대로 가져가 같은 속도로 햄버거를 팔 수 있었다.
 
 
-## 07.jpg · 06 · 크록
+## 07.jpg · 06 · 확장
 
 📷 **Photo:** Multimixer milkshake machine used at 1950s McDonald's (or Ray Kroc with the brothers)
 

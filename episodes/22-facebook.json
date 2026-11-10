@@ -17,7 +17,7 @@
       "photo_hint": "Eduardo Saverin portrait (2010s; cover Facebook logo sticker, please also send a Facebook logo image)"
     },
     {
-      "index": "01 · 투자",
+      "index": "01 · 배경",
       "when": "2001 · 19세",
       "photo": null,
       "title": "허리케인 경로를 읽어\n30만 달러를 벌다",
@@ -30,7 +30,7 @@
       "photo_hint": "Harvard Yard, early 2000s (or a hurricane satellite map)"
     },
     {
-      "index": "02 · 창업",
+      "index": "02 · 자금",
       "when": "2004 · 21세",
       "photo": null,
       "title": "첫 자금을 대고\n지분 30%를 받다",
@@ -42,7 +42,7 @@
       "photo_hint": "TheFacebook.com homepage, February 2004 (screenshot)"
     },
     {
-      "index": "03 · 확장",
+      "index": "03 · 성장",
       "when": "2004 · 21세",
       "photo": null,
       "title": "대학을 하나씩 열어\n34개 대학으로 넓히다",
@@ -54,7 +54,7 @@
       "photo_hint": "Early TheFacebook profile page or list of supported colleges, 2004"
     },
     {
-      "index": "04 · 갈림길",
+      "index": "04 · 위기",
       "when": "2004 · 22세",
       "photo": null,
       "title": "뉴욕에 남아 광고를 팔며\n회사와 멀어지다",
@@ -66,7 +66,7 @@
       "photo_hint": "Palo Alto house used as Facebook's first office, 2004 (or Sean Parker, 2004)"
     },
     {
-      "index": "05 · 계좌 동결",
+      "index": "05 · 위기",
       "when": "2004 · 22세",
       "photo": null,
       "title": "회사 계좌를 묶었다가\n의결권을 넘겨주다",
@@ -78,7 +78,7 @@
       "photo_hint": "Eduardo Saverin, mid-2000s"
     },
     {
-      "index": "06 · 100만 명",
+      "index": "06 · 정점",
       "when": "2004 · 22세",
       "photo": null,
       "title": "출시 10개월 만에\n사용자 100만 명을 넘기다",

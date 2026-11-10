@@ -26,7 +26,7 @@
 프랭크는 형 댄과 함께 어머니에게 600달러를 빌렸고, 피자를 만들 줄 몰라 문을 열기 2주 전에 배웠다.
 
 
-## 03.jpg · 02 · 이름
+## 03.jpg · 02 · 창업
 
 📷 **Photo:** Original Pizza Hut sign on the first store in Wichita (or the Carney brothers at the first store)
 
@@ -39,7 +39,7 @@
 첫 가게는 일주일에 약 1,500달러어치를 팔았고, 형제는 첫해에 가게를 6곳으로 늘렸다.
 
 
-## 04.jpg · 03 · 가맹점
+## 04.jpg · 03 · 성장
 
 📷 **Photo:** Pizza Hut franchise store, Topeka, Kansas (late 1950s-60s)
 
@@ -52,7 +52,7 @@
 가맹점주는 처음 100달러와 매달 100달러를 냈고, 매장은 1963년 24곳, 1966년 140곳으로 늘었다.
 
 
-## 05.jpg · 04 · 빨간 지붕
+## 05.jpg · 04 · 성장
 
 📷 **Photo:** Classic red-roof Pizza Hut restaurant building, late 1960s-70s
 
@@ -65,7 +65,7 @@
 1960년대 말 매장은 300곳을 넘었고 일주일에 100만 명 넘는 손님이 찾았다.
 
 
-## 06.jpg · 05 · 상장
+## 06.jpg · 05 · 성장
 
 📷 **Photo:** Frank Carney as Pizza Hut president, 1969-1973 (or Pizza Hut stock certificate)
 
@@ -78,7 +78,7 @@
 1973년엔 회장과 CEO까지 맡았다.
 
 
-## 07.jpg · 06 · 세계 1위
+## 07.jpg · 06 · 정점
 
 📷 **Photo:** Busy Pizza Hut restaurant interior, 1970s
 

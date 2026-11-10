@@ -13,7 +13,7 @@
 기업인집중탐구 #14
 
 
-## 02.jpg · 01 · 월가
+## 02.jpg · 01 · 계기
 
 📷 **Photo:** Wall Street office, early 1990s (or a 1990s Wall Street street scene)
 
@@ -28,7 +28,7 @@
 온라인이라면 모든 책을 한 화면에 올릴 수 있었다.
 
 
-## 03.jpg · 02 · 시애틀
+## 03.jpg · 02 · 창업
 
 📷 **Photo:** Bezos's Bellevue garage office (official Amazon photo exists; or 1990s Seattle)
 
@@ -43,7 +43,7 @@
 1994년 7월 회사를 세우고 벨뷰의 셋집 차고에서 일을 시작했다.
 
 
-## 04.jpg · 03 · 개점
+## 04.jpg · 03 · 첫 성과
 
 📷 **Photo:** Amazon.com homepage, 1995 (or an early Amazon shipping box)
 
@@ -56,7 +56,7 @@
 매장도 재고도 없이, 주문이 들어오면 유통 창고에서 책을 받아 보내는 구조였다.
 
 
-## 05.jpg · 04 · 손님
+## 05.jpg · 04 · 성장
 
 📷 **Photo:** Amazon.com book page with customer reviews, late 1990s (or Jeff Bezos at Amazon in 1996–97)
 
@@ -105,7 +105,7 @@
 이듬해엔 99달러 넘게 사면 어떤 상품이든 배송비를 받지 않았고, 8월엔 그 기준을 25달러까지 낮췄다.
 
 
-## 08.jpg · 07 · 프라임
+## 08.jpg · 07 · 성장
 
 📷 **Photo:** Amazon Prime box (or a delivery truck with the Prime logo)
 
@@ -118,7 +118,7 @@
 회비를 한 번 내면 배송비를 따질 이유가 사라져, 회원이 무엇이든 먼저 Amazon에서 사게 만드는 장치였다.
 
 
-## 09.jpg · 08 · AWS
+## 09.jpg · 08 · 확장
 
 📷 **Photo:** Inside an AWS data center (or the AWS logo)
 
@@ -133,7 +133,7 @@
 2006년 문을 연 AWS는 서버를 사지 않고 쓴 만큼만 돈을 내는 방식이었다.
 
 
-## 10.jpg · 09 · 1조 달러
+## 10.jpg · 09 · 정점
 
 📷 **Photo:** Amazon headquarters in Seattle, The Spheres, around 2018
 

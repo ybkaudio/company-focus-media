@@ -22,7 +22,7 @@
       ]
     },
     {
-      "index": "01 · 리포트",
+      "index": "01 · 계기",
       "when": "1965 · 21세",
       "photo": null,
       "title": "대학 리포트에서\n화물 하룻밤 배송을 떠올리다",
@@ -34,7 +34,7 @@
       "photo_hint": "Yale University campus in the 1960s (or Fred Smith as a Yale student)"
     },
     {
-      "index": "02 · 해병대",
+      "index": "02 · 배경",
       "when": "1966 · 22세",
       "photo": null,
       "title": "군대 창고 보급의\n비효율을 느끼다",
@@ -46,7 +46,7 @@
       "photo_hint": "Fred Smith as a U.S. Marine Corps officer (or Marine supply operations in the Vietnam War)"
     },
     {
-      "index": "03 · 정비 회사",
+      "index": "03 · 배경",
       "when": "1970 · 25세",
       "photo": null,
       "title": "비행기 정비와 판매를 하면서\n대학 리포트를 떠올리다",
@@ -60,7 +60,7 @@
       "title_size": 80
     },
     {
-      "index": "04 · 투자",
+      "index": "04 · 자금",
       "when": "1971 · 26세",
       "photo": null,
       "title": "항공 특송 시장을 조사하고\n제트기 30여 대를 사들이다",
@@ -74,7 +74,7 @@
       "title_size": 80
     },
     {
-      "index": "05 · 허브",
+      "index": "05 · 창업",
       "when": "1973 · 28세",
       "photo": null,
       "title": "소포를 모아 나눌\n격납고를 구하다",
@@ -87,7 +87,7 @@
       "photo_hint": "Federal Express Falcon jets lined up at Memphis airport, 1970s"
     },
     {
-      "index": "06 · 운영",
+      "index": "06 · 첫 성과",
       "when": "1973 · 28세",
       "photo": null,
       "title": "밤새 화물을\n미국 각 도시로 보내다",
@@ -112,7 +112,7 @@
       "title_size": 80
     },
     {
-      "index": "08 · 규제",
+      "index": "08 · 성장",
       "when": "1977 · 33세",
       "photo": null,
       "title": "항공 규제를 풀어내\n대형 화물기를 띄우다",
@@ -125,7 +125,7 @@
       "photo_hint": "Federal Express Boeing 727 cargo plane, late 1970s"
     },
     {
-      "index": "09 · 10억 달러",
+      "index": "09 · 성장",
       "when": "1983 · 39세",
       "photo": null,
       "title": "관리 시스템을 구축하고\n매출 10억 달러를 넘기다",
@@ -137,7 +137,7 @@
       "photo_hint": "FedEx courier scanning a package barcode, 1980s (or the Memphis hub, 1980s)"
     },
     {
-      "index": "10 · 세계",
+      "index": "10 · 확장",
       "when": "1989 · 44세",
       "photo": null,
       "title": "Flying Tigers를 사서\n세계 공항에 내리다",
@@ -149,7 +149,7 @@
       "photo_hint": "Flying Tiger Line Boeing 747 freighter repainted in Federal Express colors, 1989"
     },
     {
-      "index": "11 · 육상",
+      "index": "11 · 확장",
       "when": "1998 · 53세",
       "photo": null,
       "title": "트럭 택배를 더해\n하늘과 땅을 잇다",
@@ -161,7 +161,7 @@
       "photo_hint": "FedEx Ground delivery truck, early 2000s (or a FedEx Kinko's store, 2004)"
     },
     {
-      "index": "12 · 유럽",
+      "index": "12 · 확장",
       "when": "2016 · 71세",
       "photo": null,
       "title": "TNT를 사서\n유럽 도로망을 얻다",

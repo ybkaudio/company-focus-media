@@ -13,7 +13,7 @@
 기업인집중탐구 #22
 
 
-## 02.jpg · 01 · 투자
+## 02.jpg · 01 · 배경
 
 📷 **Photo:** Harvard Yard, early 2000s (or a hurricane satellite map)
 
@@ -28,7 +28,7 @@
 이 투자 경험 덕분에 그는 친구 마크 저커버그의 사업에서 돈과 사업 쪽을 맡게 됐다.
 
 
-## 03.jpg · 02 · 창업
+## 03.jpg · 02 · 자금
 
 📷 **Photo:** TheFacebook.com homepage, February 2004 (screenshot)
 
@@ -43,7 +43,7 @@
 4월에는 플로리다에 회사를 세우고 회사 은행 계좌를 직접 관리했다.
 
 
-## 04.jpg · 03 · 확장
+## 04.jpg · 03 · 성장
 
 📷 **Photo:** Early TheFacebook profile page or list of supported colleges, 2004
 
@@ -56,7 +56,7 @@
 2004년 6월 34개 대학, 사용자 10만 명 가까이로 늘었고, 늘어나는 서버 비용을 벌기 위해 세버린은 광고주를 찾아 나섰다.
 
 
-## 05.jpg · 04 · 갈림길
+## 05.jpg · 04 · 위기
 
 📷 **Photo:** Palo Alto house used as Facebook's first office, 2004 (or Sean Parker, 2004)
 
@@ -69,7 +69,7 @@
 파커는 7월 델라웨어에 새 법인을 세워 플로리다 회사의 사이트를 넘겨받게 했고, 9월엔 PayPal 공동 창업자 피터 틸이 50만 달러를 투자했다.
 
 
-## 06.jpg · 05 · 계좌 동결
+## 06.jpg · 05 · 위기
 
 📷 **Photo:** Eduardo Saverin, mid-2000s
 
@@ -82,7 +82,7 @@
 10월 세버린은 새 법인 주식을 받는 대신 자신의 의결권과 지적 재산을 저커버그에게 넘기는 계약에 서명했다.
 
 
-## 07.jpg · 06 · 100만 명
+## 07.jpg · 06 · 정점
 
 📷 **Photo:** Facebook 1 million users milestone, December 2004 (or early Facebook office party photo)
 
