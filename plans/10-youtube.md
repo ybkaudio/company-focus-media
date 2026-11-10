@@ -30,20 +30,35 @@
 
 ## 03.jpg · 02 · 창업
 
-📷 **Photo:** 첫 영상 'Me at the zoo' 화면 (없으면 2005년 초기 YouTube 화면)
+📷 **Photo:** YouTube's first homepage as a video dating site, 2005 ('Tune In Hook Up', Wayback Machine screenshot)
 
-**제목:** 영상을 공유하기 위해 YouTube를 만들다
+**제목:** 영상 데이트 사이트로 YouTube를 시작하다
 
 2005년 1월 첸의 집 저녁 파티를 찍은 영상이 너무 커서 이메일로 보낼 수 없었다.
 
-사진은 플리커에서 쉽게 나누는데 영상은 왜 안 되나 싶었던 셋은, 2월 헐리의 차고에서 사이트를 만들기 시작했다.
+영상을 쉽게 올리고 볼 곳을 만들기로 한 셋은, 2월 14일 밸런타인데이에 주소를 등록하고 헐리의 차고에서 사이트를 만들었다.
 
-처음엔 2005년 2월 14일 주소를 등록한 영상 데이트 사이트로 시작했지만, 닷새 동안 영상이 하나도 올라오지 않자 어떤 영상이든 올릴 수 있게 바꿨다.
+처음 정한 쓰임새는 혼자인 사람이 자기소개 영상을 올려 짝을 찾는 데이트 사이트였고, 구호는 'Tune in, Hook up'이었다.
 
-4월 23일 자웨드 카림이 유튜브 첫 영상 '동물원에 간 나'를 올렸고, 대표를 맡은 헐리는 로고와 화면을 디자인했다.
+대표를 맡은 헐리는 로고와 화면을 디자인했다.
 
 
-## 04.jpg · 03 · 첫 성과
+## 04.jpg · 03 · 방향 전환
+
+📷 **Photo:** 'Me at the zoo' first YouTube video, April 23, 2005 (screenshot)
+
+**제목:** 아무도 올리지 않자 어떤 영상이든 받기로 하다
+
+문을 열었지만 데이트 영상을 올리는 사람은 없었다.
+
+세 사람은 라스베이거스와 로스앤젤레스의 생활 정보 사이트 <Craigslist>에 영상을 올리면 여성에게 20달러를 주겠다는 광고까지 냈지만, 아무도 응하지 않았다.
+
+그래서 데이트를 버리고 누구나 어떤 영상이든 올릴 수 있게 바꿨다.
+
+4월 23일 자웨드 카림이 첫 영상 '동물원에 간 나'를 올렸고, 6월 사이트를 새로 꾸민 뒤 사람들이 온갖 영상을 올리기 시작했다.
+
+
+## 05.jpg · 04 · 첫 성과
 
 📷 **Photo:** 2005년 무렵 YouTube 영상 페이지 화면
 
@@ -58,7 +73,7 @@ YouTube는 설치도 가입도 없이 클릭 한 번으로 재생되게 했고, 
 하루 3만 명이던 방문자는 8개월 만에 하루 200만 명을 넘었다.
 
 
-## 05.jpg · 04 · 성장
+## 06.jpg · 05 · 성장
 
 📷 **Photo:** 2006년 무렵 YouTube 첫 화면 또는 헐리·첸 사진
 
@@ -71,7 +86,7 @@ YouTube는 설치도 가입도 없이 클릭 한 번으로 재생되게 했고, 
 문을 연 지 1년 남짓 만에 세계에서 가장 많이 찾는 사이트 10위 안에 들었다.
 
 
-## 06.jpg · 05 · 매각
+## 07.jpg · 06 · 매각
 
 📷 **Photo:** Google 인수 화면 (매각 발표 영상은 스티커)
 
@@ -84,7 +99,7 @@ YouTube는 설치도 가입도 없이 클릭 한 번으로 재생되게 했고, 
 헐리가 받은 Google 주식은 약 3억 4,560만 달러어치였다.
 
 
-## 07.jpg · 06 · 성장
+## 08.jpg · 07 · 성장
 
 📷 **Photo:** YouTube homepage or YouTube Partner Program page, 2007 (screenshot)
 
@@ -99,7 +114,7 @@ YouTube는 그해 10월 올라온 영상을 저작권자의 원본과 자동으�
 2009년 10월 하루 조회수는 10억 번을 넘었다.
 
 
-## 08.jpg · 07 · 떠날 때
+## 09.jpg · 08 · 떠날 때
 
 📷 **Photo:** 2010년 무렵 행사 무대의 헐리
 
@@ -115,7 +130,7 @@ Google에 팔린 뒤에도 4년 동안 대표를 맡아 YouTube를 이끌었다.
 이후 동영상 앱 MixBit을 만들었고, 농구팀 Golden State Warriors와 축구팀 LAFC의 공동 구단주가 됐다.
 
 
-## 09.jpg · 마무리
+## 10.jpg · 마무리
 
 📷 **Photo:** YouTube 로고 (어두운 배경, 표지 스티커도 여기서 오려 냄)
 
@@ -146,5 +161,7 @@ Google에 팔린 뒤에도 4년 동안 대표를 맡아 YouTube를 이끌었다.
 - MediaPost, Viacom Sues YouTube For Major Copyright Violations (2007.03)
 - Fox News, YouTube started out as a dating service, co-founder tells SXSW (2016.03)
 - Tubefilter, YouTube Was First Conceived As A Dating Site (2016.03.15)
+- Vice, 10 Years Ago Today, YouTube Launched as a Dating Website (2015.04.23)
+- The Guardian, YouTube's past as a video dating website (2016.03.16)
 
 #기업인집중탐구 #채드헐리 #유튜브 #YouTube #창업 #창업스토리 #스타트업 #자기계발
