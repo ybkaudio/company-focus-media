@@ -8,7 +8,7 @@
 
 📷 **Photo:** Ronald Wayne in front of an Apple Store (Apple logo is in the photo, so no logo sticker)
 
-**제목:** 12일 만에 애플을 떠난 세 번째 창업자
+**제목:** 애플 지분 10%를 단돈 800달러에 넘기다
 
 기업집중탐구 #19
 
@@ -84,7 +84,7 @@ Apple I 사용 설명서도 그가 썼다.
 
 📷 **Photo:** Ronald Wayne in later years (2010s interview photo)
 
-**제목:** 12일 만에 800달러에 지분을 넘기다
+**제목:** 빚을 떠안을까 봐 12일 만에 떠나다
 
 - **8,000달러** — 회사 가치 (웨인의 10% 지분값으로 셈한 1976년)
 - **12일** — 창업부터 떠날 때까지
