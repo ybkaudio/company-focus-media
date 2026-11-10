@@ -128,12 +128,6 @@
         "일본 조선소들은 경쟁자가 될 한국 조선소에 기술을 내주지 않았다. 그는 돈과 기술을 구하러 영국으로 갔다."
       ],
       "photo_hint": "(기존 09 사진 그대로) 거북선·울산조선소",
-      "sticker": {
-        "src": "16-hyundai/sticker-500won.png",
-        "size": 420,
-        "right": 50,
-        "top": 190
-      },
       "value": "회사 가치 약 1억 달러(추정)"
     },
     {
@@ -147,7 +141,13 @@
         "롱바텀은 현대의 공사 현장을 둘러본 뒤 현대가 대형 조선소와 큰 배를 지을 수 있다는 추천서를 Barclays에 보냈고, 현대는 약 4,300만 달러 차관의 길을 열었다."
       ],
       "photo_hint": "Chung Ju-yung with A&P Appledore in London (Sept 1971), or the 1970s Korean 500 won banknote with the turtle ship",
-      "value": "회사 가치 약 1억 달러(추정)"
+      "value": "회사 가치 약 1억 달러(추정)",
+      "sticker": {
+        "src": "16-hyundai/sticker-500won.png",
+        "size": 420,
+        "right": 50,
+        "top": 190
+      }
     },
     {
       "index": "10 · 확장",
