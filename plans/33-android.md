@@ -163,7 +163,7 @@ Android는 원래 디지털카메라용 운영체제였어요.
 
 📊 Android는 Google 안의 사업이라 따로 매긴 회사 가치가 없어, 떠날 때 숫자는 Google이 발표한 Android 기기 수(2013년 3월)로 적었어요.
 
-🔗 검색 시리즈. Android를 산 Google 이야기는 #32, 같은 해 iPhone을 내놓은 Apple 이야기는 #01에서 볼 수 있어요.
+🔗 검색 시리즈. Android를 산 Google 이야기는 #32, Android 설계를 바꾸게 한 iPhone의 Apple 이야기는 #01에서 볼 수 있어요.
 
 💬 첫 스마트폰은 Android였나요, iPhone이었나요? 댓글로 알려 주세요.
 
