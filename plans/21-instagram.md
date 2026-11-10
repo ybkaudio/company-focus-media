@@ -65,7 +65,7 @@ Nextstop에 다니며 밤마다 코딩을 익힌 그는 위치 체크인과 사�
 이 돈으로 스탠퍼드 후배 개발자 마이크 크리거를 공동 창업자로 데려왔다.
 
 
-## 06.jpg · 05 · 창업
+## 06.jpg · 05 · 방향 전환
 
 📷 **Photo:** Whiteboard sketch or early Instagram prototype (2010)
 

@@ -54,7 +54,7 @@ Google을 나온 윌리엄스가 아이팟에 녹음을 옮겨 듣는 팟캐스�
 2005년 Apple이 iTunes에 팟캐스트를 넣자 Odeo는 설 자리를 잃었고, 회사는 새 아이디어를 찾아야 했다.
 
 
-## 05.jpg · 04 · 계기
+## 05.jpg · 04 · 방향 전환
 
 📷 **Photo:** Valencia Street, San Francisco at night in the rain (or Noah Glass and Jack Dorsey, 2006)
 

@@ -41,7 +41,7 @@
 첫해 약 8,000달러어치를 팔았고, 1969년에야 회계사 일을 그만뒀다.
 
 
-## 04.jpg · 03 · 위기
+## 04.jpg · 03 · 방향 전환
 
 📷 **Photo:** Original Nike swoosh logo sketch (or the first Nike shoe, 1972)
 

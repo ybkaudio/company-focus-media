@@ -54,7 +54,7 @@
 진짜 접시와 컵은 깨지거나 없어졌고, 10대들이 모여 노는 곳이 되면서 가족 손님은 발길을 끊었다.
 
 
-## 05.jpg · 04 · 첫 성과
+## 05.jpg · 04 · 방향 전환
 
 📷 **Photo:** Customers lined up at a McDonald's walk-up window, 1950s
 
