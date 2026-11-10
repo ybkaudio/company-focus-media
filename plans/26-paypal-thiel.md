@@ -71,22 +71,33 @@
 2000년 1월 하루 9,000명씩 가입했고, 7월에는 eBay 경매 약 200만 건이 PayPal을 받아 eBay가 직접 만든 결제 서비스 <Billpoint>보다 5배 많았다.
 
 
-## 06.jpg · 05 · 위기
+## 06.jpg · 05 · 확장
 
 📷 **Photo:** Peter Thiel and Elon Musk together around 2000 (PayPal era group photo, crop others if unclear)
 
-**제목:** 경쟁사와 합친 뒤 경영에서 물러나다
+**제목:** 경쟁사와 합치고 1억 달러를 모으다
 
 머스크의 <X.com>도 같은 이메일 송금에 보너스를 쏟아부으며 경쟁했다(#11).
 
-2000년 3월 두 회사는 합병했고 이름은 X.com으로 정했다.
+두 회사 모두 보너스로 돈이 빠르게 나가자, 2000년 3월 합병했고 이름은 X.com으로 정했다.
 
-4월 머스크가 CEO, 그는 이사회 의장이 됐다.
+4월 합친 회사는 Madison Dearborn·Goldman Sachs·Sequoia Capital 등에서 1억 달러를 모았다.
+
+그 직후 인터넷 기업 주가가 내려앉아 투자 유치가 어려워졌고, 회사는 이 돈으로 버텼다.
+
+
+## 07.jpg · 06 · 위기
+
+📷 **Photo:** Peter Thiel portrait 2000
+
+**제목:** CEO를 넘기고 경영에서 물러나다
+
+4월 머스크가 합친 회사의 CEO, 그는 이사회 의장이 됐다.
 
 5월 그는 직원들에게 지쳤고 자신은 관리자보다 큰 그림을 그리는 쪽에 가깝다는 이메일을 보내고 회사 일에서 물러났다.
 
 
-## 07.jpg · 06 · 위기
+## 08.jpg · 07 · 위기
 
 📷 **Photo:** Peter Thiel portrait 2000-2001, PayPal office Palo Alto
 
@@ -99,7 +110,7 @@
 CEO로 돌아온 그는 10월 X.com의 은행 업무를 닫고 송금 하나에 집중했으며, 2001년 회사 이름을 PayPal로 바꿨다.
 
 
-## 08.jpg · 07 · 위기
+## 09.jpg · 08 · 위기
 
 📷 **Photo:** PayPal office / engineers working, around 2001
 
@@ -114,7 +125,7 @@ CEO로 돌아온 그는 10월 X.com의 은행 업무를 닫고 송금 하나에 
 다만 이때까지 흑자를 낸 분기는 없었다.
 
 
-## 09.jpg · 08 · 성장
+## 10.jpg · 09 · 성장
 
 📷 **Photo:** PayPal logo on eBay listing, or PayPal 2001 homepage
 
@@ -127,7 +138,7 @@ eBay는 2000년 3월 은행 Wells Fargo와 손잡고 Billpoint를 내놨지만, 
 2001년 말 계정은 1,280만 개, 그중 5분의 1이 사업자 계정이었고 온라인 결제 시장의 약 65%를 차지했다.
 
 
-## 10.jpg · 09 · 정점
+## 11.jpg · 10 · 정점
 
 📷 **Photo:** PayPal IPO day, February 2002 (Peter Thiel at NASDAQ if available)
 
@@ -138,7 +149,7 @@ eBay는 2000년 3월 은행 Wells Fargo와 손잡고 Billpoint를 내놨지만, 
 첫날 주가는 20달러 넘게 마감해 약 55% 올랐다.
 
 
-## 11.jpg · 10 · 떠날 때
+## 12.jpg · 11 · 떠날 때
 
 📷 **Photo:** Peter Thiel portrait 2002, or eBay–PayPal acquisition news photo
 
@@ -152,7 +163,7 @@ eBay는 2000년 3월 은행 Wells Fargo와 손잡고 Billpoint를 내놨지만, 
 10월 인수가 끝나자 떠났고, 2004년 Facebook의 첫 외부 투자자가 됐다(#22).
 
 
-## 12.jpg · 마무리
+## 13.jpg · 마무리
 
 📷 **Photo:** Peter Thiel portrait (person photo for the closing slide)
 
@@ -178,6 +189,7 @@ PayPal을 처음 CEO로 이끈 사람은 머스크가 아니었어요.
 📌 저장해 두고 다음 편도 확인하세요.
 
 출처
+- PayPal 보도자료, X.com raises $100 million (2000.04.05)
 - Wikipedia, Peter Thiel / Confinity / Timeline of PayPal
 - Business Insider, How a 23-year-old Max Levchin got Peter Thiel to invest in under 24 hours (2018.01)
 - Commoncog, The PayPal Idea Maze (Jimmy Soni 『The Founders』 인용)

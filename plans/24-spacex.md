@@ -56,7 +56,20 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 엔진과 몸체 대부분을 사 오지 않고 회사 안에서 직접 만들어, 외주 업체의 마진을 줄였다.
 
 
-## 05.jpg · 04 · 위기
+## 05.jpg · 04 · 자금
+
+📷 **Photo:** NASA COTS announcement 2006, or early Dragon capsule mockup / SpaceX Hawthorne factory 2006-2007
+
+**제목:** 첫 궤도 비행 전에 2억 7,800만 달러를 따다
+
+2006년 8월 NASA는 우주정거장 화물 운송을 민간에 맡기려는 개발 사업에 SpaceX를 골라 2억 7,800만 달러를 주기로 했다.
+
+단계별 목표를 이룰 때마다 돈을 받는 방식이었고, 회사는 이 돈으로 더 큰 로켓 <Falcon 9>과 화물 우주선 <Dragon> 개발에 들어갔다.
+
+그해 3월 첫 Falcon 1 발사가 실패해, 아직 로켓을 한 번도 궤도에 올리지 못한 때였다.
+
+
+## 06.jpg · 05 · 위기
 
 📷 **Photo:** Falcon 1 launch failure on Omelek Island, Kwajalein, 2006-2008
 
@@ -71,7 +84,7 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 머스크는 네 번째 발사가 Falcon 1에 쓸 마지막 돈이었다고 말했다.
 
 
-## 06.jpg · 05 · 첫 성과
+## 07.jpg · 06 · 첫 성과
 
 📷 **Photo:** Falcon 1 Flight 4 lifting off, September 28 2008 (or SpaceX team celebrating)
 
@@ -84,7 +97,7 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 발사 가격은 약 700만 달러로, 작은 위성을 싸게 올리려는 고객을 받을 수 있게 됐다.
 
 
-## 07.jpg · 06 · 자금
+## 08.jpg · 07 · 자금
 
 📷 **Photo:** NASA logo with SpaceX Dragon cargo capsule, or Musk at NASA event 2008-2010
 
@@ -97,7 +110,7 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 이 계약으로 회사는 파산 위기를 넘겼고, 더 큰 로켓 <Falcon 9> 개발을 이어 갔다.
 
 
-## 08.jpg · 07 · 성장
+## 09.jpg · 08 · 성장
 
 📷 **Photo:** Dragon capsule captured by the ISS robotic arm, May 2012
 
@@ -110,7 +123,7 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 정부만 하던 우주정거장 보급을 민간 회사가 맡는 길이 열렸다.
 
 
-## 09.jpg · 08 · 방향 전환
+## 10.jpg · 09 · 방향 전환
 
 📷 **Photo:** Falcon 9 first stage landing (Orbcomm-2 landing, December 2015, or twin booster landing)
 
@@ -125,7 +138,7 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 이후 한 부스터를 20번 넘게 다시 쓰며 발사 횟수를 늘렸다.
 
 
-## 10.jpg · 09 · 확장
+## 11.jpg · 10 · 확장
 
 📷 **Photo:** Crew Dragon Demo-2 launch, May 30 2020
 
@@ -138,7 +151,7 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 NASA 감사관실은 좌석당 비용을 약 5,500만 달러로 추산했다.
 
 
-## 11.jpg · 10 · 확장
+## 12.jpg · 11 · 확장
 
 📷 **Photo:** Starlink satellites stacked before deployment, or Starlink dish
 
@@ -153,7 +166,7 @@ NASA 감사관실은 좌석당 비용을 약 5,500만 달러로 추산했다.
 2025년 말 가입자 890만 명, 그해 매출 187억 달러 중 61%가 Starlink에서 나왔다.
 
 
-## 12.jpg · 11 · 정점
+## 13.jpg · 12 · 정점
 
 📷 **Photo:** Elon Musk portrait, 2025-2026
 
@@ -167,7 +180,7 @@ NASA 감사관실은 좌석당 비용을 약 5,500만 달러로 추산했다.
 2026년 6월 xAI를 합친 SpaceX가 사상 최대 규모로 상장했고, 그는 지금도 CEO다.
 
 
-## 13.jpg · 마무리
+## 14.jpg · 마무리
 
 📷 **Photo:** Elon Musk with Falcon 9 or Starship (person photo for the closing slide)
 
@@ -193,6 +206,7 @@ NASA 감사관실은 좌석당 비용을 약 5,500만 달러로 추산했다.
 📌 저장해 두고 다음 편도 확인하세요.
 
 출처
+- The Space Review, SpaceX COTS demonstration plan (2006.09)
 - Wikipedia, History of SpaceX / Falcon 1 / Commercial Resupply Services / Initial public offering of SpaceX
 - WIRED, Elon Musk interview (2012.10.21)
 - NASA 보도자료, Commercial Resupply Services contracts (2008.12.23)

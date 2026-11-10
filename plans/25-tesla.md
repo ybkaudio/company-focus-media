@@ -112,7 +112,37 @@ Roadster는 2012년까지 약 2,450대가 팔려, 전기차도 팔린다는 걸 
 그해 5월 첫 분기 흑자를 냈고 정부 대출도 일찍 갚았다.
 
 
-## 09.jpg · 08 · 위기
+## 09.jpg · 08 · 확장
+
+📷 **Photo:** Tesla Gigafactory 1 in Nevada, aerial view 2016-2017
+
+**제목:** 배터리값을 30% 낮추려 직접 배터리 공장을 짓다
+
+대중 차를 만들려면 차 값에서 가장 비싼 배터리 값을 내려야 했다.
+
+2014년 7월 일본 Panasonic과 손잡고 미국 네바다에 최대 50억 달러짜리 배터리 공장 'Gigafactory'를 짓기로 했다.
+
+Panasonic이 배터리 셀을 만들고 Tesla가 묶는 방식으로, 대량 생산으로 배터리 값을 약 30% 낮추는 것이 목표였다.
+
+이 공장이 다음 대중 차 Model 3의 배터리를 맡았다.
+
+
+## 10.jpg · 09 · 확장
+
+📷 **Photo:** Tesla Solar Roof / SolarCity panels, 2016 (or Musk at Solar Roof unveiling, Oct 2016)
+
+**제목:** 사촌들의 태양광 회사를 26억 달러에 사들이다
+
+2016년 사촌 린든·피터 라이브가 세우고 그가 이사회 의장이자 최대 주주였던 태양광 회사 <SolarCity>를 주식 약 26억 달러어치로 사들였다.
+
+전기차에 태양광 발전과 가정용 배터리를 묶어 에너지 회사로 넓힌다는 계산이었지만, SolarCity는 적자에 빚이 많은 회사였다.
+
+주주들은 그가 양쪽 회사를 다 가진 채 무리하게 밀어붙였다며 소송을 냈다.
+
+2022년 법원은 값은 공정했다고 판단했지만, 그가 거래에 필요 이상으로 관여했다고 지적했다.
+
+
+## 11.jpg · 10 · 위기
 
 📷 **Photo:** Tesla Model 3 tent assembly line at Fremont, 2018
 
@@ -125,7 +155,7 @@ Roadster는 2012년까지 약 2,450대가 팔려, 전기차도 팔린다는 걸 
 2018년 4월 그는 '지나친 자동화는 실수였다, 사람이 과소평가됐다'고 인정했고, 공장 옆 천막에 생산 라인을 하나 더 세워 물량을 맞췄다.
 
 
-## 10.jpg · 09 · 위기
+## 12.jpg · 11 · 위기
 
 📷 **Photo:** Elon Musk tweet screenshot 'funding secured', or Musk portrait 2018
 
@@ -140,7 +170,7 @@ Roadster는 2012년까지 약 2,450대가 팔려, 전기차도 팔린다는 걸 
 CEO 자리는 지켰다.
 
 
-## 11.jpg · 10 · 확장
+## 13.jpg · 12 · 확장
 
 📷 **Photo:** Tesla Gigafactory Shanghai, 2019-2020
 
@@ -153,7 +183,7 @@ CEO 자리는 지켰다.
 2020년 회사 설립 17년 만에 처음 한 해 7억 2,100만 달러 흑자를 냈다.
 
 
-## 12.jpg · 11 · 정점
+## 14.jpg · 13 · 정점
 
 📷 **Photo:** Elon Musk portrait with Tesla, 2025-2026
 
@@ -167,7 +197,7 @@ CEO 자리는 지켰다.
 그는 지금도 CEO다.
 
 
-## 13.jpg · 마무리
+## 15.jpg · 마무리
 
 📷 **Photo:** Elon Musk portrait (person photo for the closing slide)
 
@@ -184,7 +214,7 @@ CEO 자리는 지켰다.
 
 Tesla를 세운 사람은 사실 일론 머스크가 아니었어요.
 
-머스크는 2004년 남이 세운 전기차 회사에 650만 달러를 넣고 의장이 됐어요. 비싼 스포츠카로 번 돈으로 싼 차를 만든다는 순서를 세웠고, 파산 직전 직접 CEO를 맡아 자기 돈을 넣었어요. Google에 회사를 팔 뻔했고, 로봇에 맡긴 Model 3 공장과 트윗 한 줄로 큰 대가도 치렀지만, 지금은 한 해 163만 대를 파는 회사가 됐어요.
+머스크는 2004년 남이 세운 전기차 회사에 650만 달러를 넣고 의장이 됐어요. 비싼 스포츠카로 번 돈으로 싼 차를 만든다는 순서를 세웠고, 파산 직전 직접 CEO를 맡아 자기 돈을 넣었어요. Google에 회사를 팔 뻔했고, 배터리 공장을 직접 짓고 사촌들의 태양광 회사를 사들였다가 소송도 겪었어요. 로봇에 맡긴 Model 3 공장과 트윗 한 줄로 큰 대가도 치렀지만, 지금은 한 해 163만 대를 파는 회사가 됐어요.
 
 🔗 PayPal 마피아 시리즈. 머스크가 이 투자금을 번 PayPal 이야기는 #11, 같은 해 파산 위기를 함께 넘긴 SpaceX는 #24, 같은 PayPal 출신 채드 헐리의 YouTube는 #10, PayPal 공동 창업자 피터 틸 이야기는 #26에서 볼 수 있어요.
 
@@ -193,6 +223,8 @@ Tesla를 세운 사람은 사실 일론 머스크가 아니었어요.
 📌 저장해 두고 다음 편도 확인하세요.
 
 출처
+- Renewable Energy World, Panasonic agrees to help Tesla build battery Gigafactory (2014.07)
+- Insurance Journal(AP), Judge rules for Musk in Tesla-SolarCity lawsuit (2022.04)
 - Wikipedia, History of Tesla, Inc. / AC Propulsion / Tesla Roadster (first generation)
 - Tesla 블로그, The Secret Tesla Motors Master Plan (2006.08)
 - Tesla Form 8-K, NUMMI 공장 매입 (2010)
