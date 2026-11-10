@@ -167,6 +167,8 @@ PayPal, 일론 머스크의 시작.
 
 스코샤은행 인턴 시절 은행이 새로운 시도를 하지 않는다고 본 그는 첫 회사 Zip2를 판 돈으로 온라인 금융 회사 X.com을 세웠어요. 가입 보너스로 사용자를 모았고, 사람들이 가장 반긴 이메일 송금에 사업을 집중했어요. 이어 경쟁사 Confinity와 합쳐 PayPal을 키웠어요. CEO 자리에선 밀려났지만, 최대 주주로 받은 1억 7,580만 달러는 다음 회사의 밑천이 됐어요.
 
+🔗 PayPal 마피아 시리즈. PayPal을 거쳐 간 사람들은 회사가 eBay에 팔린 뒤 YouTube·Tesla·SpaceX·LinkedIn 같은 회사를 세워 'PayPal 마피아'로 불려요. PayPal 첫 디자이너 채드 헐리의 YouTube는 #10, 이 돈으로 시작한 머스크의 SpaceX·Tesla는 #24·#25, PayPal 공동 창업자 피터 틸은 #26에서 이어져요.
+
 💬 경쟁사와 합치는 것, 여러분이라면 할 수 있을까요? 댓글로 의견을 남겨 주세요.
 
 📌 저장해 두고 다음 편도 확인하세요.
@@ -184,4 +186,4 @@ PayPal, 일론 머스크의 시작.
 - Fox Business, Elon Musk was dethroned by Peter Thiel in a coup (2022)
 - Snopes, Was Elon Musk Fired from PayPal? (2022)
 
-#기업집중탐구 #일론머스크 #페이팔 #PayPal #창업 #창업스토리 #스타트업 #자기계발
+#기업집중탐구 #페이팔마피아 #일론머스크 #페이팔 #PayPal #창업 #창업스토리 #스타트업 #자기계발
