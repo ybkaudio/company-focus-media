@@ -8,7 +8,7 @@
 
 📷 **Photo:** Dick (Richard) and Mac (Maurice) McDonald brothers together (ideally in front of their first store, 1950s; not Ray Kroc; cover McDonald's logo sticker is cut from the last slide's logo)
 
-**제목:** 햄버거 공장을 세운 형제
+**제목:** 햄버거 공장 맥도날드의 시작
 
 기업집중탐구 #13
 
@@ -30,7 +30,7 @@
 
 📷 **Photo:** McDonald's Bar-B-Q drive-in in San Bernardino with carhops, 1940s (or a 1940s American drive-in)
 
-**제목:** 드라이브인 바비큐 식당, 맥도날드의 시작
+**제목:** 핫도그 노점에서 드라이브인 바비큐 식당으로
 
 극장을 판 해 66번 국도 옆에 핫도그와 오렌지주스를 파는 노점을 열었다.
 
