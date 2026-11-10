@@ -8,7 +8,7 @@
 
 📷 **Photo:** Twitter logo on a presentation screen (cropped), with a Noah Glass photo at Odeo as the sticker
 
-**제목:** Twitter라는 이름을 짓고 쫓겨난 창업자
+**제목:** Twitter를 만들었는데.. 쫓겨나다?
 
 기업인집중탐구 #20
 
