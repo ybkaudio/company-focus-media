@@ -15,12 +15,8 @@
       "body": [
         "기업집중탐구 #18"
       ],
-      "sticker": {
-        "src": "18-starbucks/sticker.png",
-        "size": 280,
-        "right": 400,
-        "top": 345
-      }
+      "bgsize": "1080px auto",
+      "bgpos": "center top"
     },
     {
       "index": "01 · 배경",
@@ -33,8 +29,8 @@
         "피트는 이들이 가게를 열면 볶은 원두를 대 주기로 했다."
       ],
       "photo_hint": "Alfred Peet at Peet's Coffee & Tea in Berkeley, 1960s–1970s",
-      "bgsize": "1080px auto",
-      "bgpos": "center top"
+      "bgsize": "1600px auto",
+      "bgpos": "-516px top"
     },
     {
       "index": "02 · 창업",
