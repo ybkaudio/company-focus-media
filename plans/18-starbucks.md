@@ -140,7 +140,7 @@ Peet's 인수로 빚이 커졌고 동업자 바우커도 떠났다.
 
 📷 **Photo:** Starbucks logo on a dark background (the cover sticker is cut from this too)
 
-**제목:** 원두 한 봉지에서 스타벅스가 시작되다
+**제목:** 원두 몇 봉지에서 스타벅스가 시작되다
 
 - 스승에게 배워 직접 볶은 원두
 - 소설에서 길어 올린 이름과 로고
