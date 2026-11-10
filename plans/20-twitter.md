@@ -110,7 +110,7 @@ Twitter를 자기 프로젝트로 지키려 했고, 윌리엄스가 자신을 �
 
 ## 09.jpg · 08 · 떠날 때
 
-📷 **Photo:** Noah Glass in the 2010s (interview photo)
+📷 **Photo:** Noah Glass himself, 2005–2006 (or the Odeo office in 2006 with no people in it)
 
 **제목:** 자기가 이름 지은 회사에서 해고되다
 
