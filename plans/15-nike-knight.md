@@ -56,6 +56,40 @@
 
 ## 05.jpg · 04 · 성장
 
+📷 **Photo:** Bill Bowerman working on shoes in his workshop, or the Nike Cortez (1972)
+
+**제목:** 코치 바워만의 설계, Nike 신발의 뼈대가 되다
+
+신발 설계와 시험은 공동 창업자 바워만이 맡았다.
+
+1968년 회사의 첫 인기 상품 코르테즈도 그가 밑창 전체에 쿠션을 깔아 설계한 훈련화였다(#05).
+
+오니츠카와 갈라선 뒤 그가 설계한 신발은 Nike 이름으로 나왔다.
+
+남이 만든 신발을 떼어 오던 회사가 자기 설계를 갖게 된 것이다.
+
+그해 바워만은 뮌헨 올림픽 미국 대표팀 감독을 끝으로 코치에서 물러나 신발 개발에 힘을 쏟았다.
+
+
+## 06.jpg · 05 · 성장
+
+📷 **Photo:** Bowerman's waffle iron / Nike Waffle Trainer (1974-75)
+
+**제목:** 와플 기계로 만든 밑창, 미국 1등 훈련화가 되다
+
+1971년 오리건대 트랙이 딱딱한 우레탄으로 바뀌자 쇠징은 너무 깊이 박히고 징 없는 신발은 미끄러졌다.
+
+바워만은 아내의 와플 기계에 고무를 부어 각진 돌기가 촘촘한 밑창을 만들었다.
+
+돌기 모서리가 쇠징 없이 바닥을 붙잡았고, 고무를 덜 써 가벼웠다.
+
+징이 없어 아스팔트에서도 신을 수 있어, 1975년 나온 '와플 트레이너'는 조깅 붐을 타고 미국에서 가장 많이 팔린 훈련화가 됐다.
+
+바워만은 작업실에서 접착제를 오래 다뤄 다리 신경을 다쳐 1970년대 말부터 회사 일을 줄였고, 1999년 이사회에서 물러났다.
+
+
+## 07.jpg · 06 · 성장
+
 📷 **Photo:** Nike running shoe ad, late 1970s (or Phil Knight around 1980)
 
 **제목:** 공장 없이 미국 1등이 되다
@@ -69,7 +103,7 @@ Nike는 공장을 짓지 않았다.
 1980년 미국 판매에서 독일 아디다스를 앞질렀고, 그해 12월 상장했다.
 
 
-## 06.jpg · 05 · 위기
+## 08.jpg · 07 · 위기
 
 📷 **Photo:** 1980s aerobics craze (or Nike headquarters in the 1980s)
 
@@ -82,7 +116,7 @@ Nike는 공장을 짓지 않았다.
 그해 직원 약 400명을 내보냈다.
 
 
-## 07.jpg · 06 · 성장
+## 09.jpg · 08 · 성장
 
 📷 **Photo:** Air Jordan 1, 1985 (red and black 'Bred')
 
@@ -95,7 +129,7 @@ Nike는 공장을 짓지 않았다.
 1985년 나온 에어 조던은 첫 물량 5만 켤레가 매진됐다.
 
 
-## 08.jpg · 07 · 정점
+## 10.jpg · 09 · 정점
 
 📷 **Photo:** Nike 'Just Do It' ad, 1988 (or the Just Do It slogan)
 
@@ -108,7 +142,7 @@ Nike는 공장을 짓지 않았다.
 매출은 1988년 12억 달러에서 1991년 30억 달러를 넘었고, 1997년엔 92억 달러를 기록했다.
 
 
-## 09.jpg · 08 · 위기
+## 11.jpg · 10 · 위기
 
 📷 **Photo:** Phil Knight at the National Press Club, Washington D.C., May 1998
 
@@ -121,7 +155,7 @@ Nike는 공장을 짓지 않았다.
 그해 5월 나이트는 직접 기자 회견을 열어 지난 몇 년의 비판을 인정하고, 신발 공장 노동자 최소 나이를 18세로 올리고 미국 실내 공기 기준을 적용하며 외부 단체가 공장을 점검하게 하겠다고 약속했다.
 
 
-## 10.jpg · 09 · 떠날 때
+## 12.jpg · 11 · 떠날 때
 
 📷 **Photo:** Phil Knight in the 2000s (at a Nike headquarters event)
 
@@ -135,7 +169,7 @@ Nike는 공장을 짓지 않았다.
 그해 창업 이야기를 담은 회고록 '슈독'을 펴냈다.
 
 
-## 11.jpg · 마무리
+## 13.jpg · 마무리
 
 📷 **Photo:** Nike logo on a dark background (the cover sticker is cut from this too)
 
@@ -174,5 +208,7 @@ Nike를 세운 두 사람 중, #05의 코치 빌 바워만에 이은 나머지 �
 - Seattle Times, Nike chief falls short on pledge to labor (2001.05.17)
 - Oregon Sports Hall of Fame, NIKE Inc. (블루 리본 스포츠 500달러씩)
 - 장별 회사 가치: 상장 전·자료 없는 해는 연 매출 1배로 추정(1964년 8,000달러, 1972년 196만 달러, 1984년 약 9억 달러, Funding Universe). 1980년 상장 때는 나이트 지분 46%가 1억 7,800만 달러였다는 기록(Shortform 『슈독』 요약)으로 추정, 1988년 시가총액 10억 달러 돌파(Benzinga), 1998년은 연말 시가총액(companiesmarketcap)
+- Nike, From Waffle Iron to World Stage: The True Story of the Nike Moon Shoe
+- HISTORY, Nike patent: waffle sole trainers invented in waffle iron
 
 #기업집중탐구 #필나이트 #나이키 #Nike #창업 #창업스토리 #스타트업 #자기계발
