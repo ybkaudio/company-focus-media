@@ -30,7 +30,7 @@
 
 📷 **Photo:** Fred Smith as a U.S. Marine Corps officer (or Marine supply operations in the Vietnam War)
 
-**제목:** 군인으로서 창고 보급의 한계를 느끼다
+**제목:** 창고 보급의 비효율을 느낀 군인
 
 졸업 뒤 해병대 장교가 되어 베트남에 두 번 파병됐고, 소대장과 공중 관측 장교로 일하며 1969년 대위로 전역했다.
 
