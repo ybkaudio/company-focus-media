@@ -84,7 +84,7 @@ Apple I 사용 설명서도 그가 썼다.
 
 📷 **Photo:** Ronald Wayne in later years (2010s interview photo)
 
-**제목:** 빚을 떠안을까 봐 12일 만에 떠나다
+**제목:** 12일 만에 빚이 두려워 나가다
 
 - **8,000달러** — 회사 가치 (웨인의 10% 지분값으로 셈한 1976년)
 - **12일** — 창업부터 떠날 때까지
@@ -98,7 +98,7 @@ Apple I 사용 설명서도 그가 썼다.
 
 📷 **Photo:** Ronald Wayne portrait in later years (dark background)
 
-**제목:** 빚 걱정에 판 10%, 가장 비싼 실수가 되다
+**제목:** 불안 속에 판 10%, 세상에서 가장 비싼 실수가 되다
 
 이듬해 그는 1,500달러를 더 받고 Apple에 대한 모든 권리를 포기했다.
 
@@ -113,7 +113,7 @@ Apple은 1980년 12월 상장 첫날 회사 가치가 약 18억 달러가 됐고
 
 📷 **Photo:** Ronald Wayne portrait (person photo for the closing slide)
 
-**제목:** 애플의 첫 그림을 그린 사람
+**제목:** 불안이 남긴 거대한 아쉬움
 
 - 두 청년의 의견을 정리한 중재
 - 회사의 시작을 정한 동업 계약서
