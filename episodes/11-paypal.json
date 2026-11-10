@@ -57,14 +57,13 @@
         "1999년 컴팩이 Zip2를 3억 700만 달러에 사들였고, 그는 지분 7%의 몫으로 2,200만 달러를 받았다."
       ],
       "photo_hint": "Zip2 웹사이트 화면 (형제 사진은 스티커)",
-      "bgsize": "1080px auto",
-      "bgpos": "center 170px",
       "sticker": {
         "src": "11-paypal/sticker-brothers.png",
         "size": 300,
         "right": 50,
         "top": 190
-      }
+      },
+      "shade": "strong"
     },
     {
       "index": "04 · 창업",
@@ -76,8 +75,7 @@
         "계좌·투자·송금을 인터넷 한곳에서 하게 하고, 이메일 주소만 알면 돈을 보낼 수 있게 했다."
       ],
       "photo_hint": "초기 X.com 웹사이트 화면",
-      "bgsize": "640px auto",
-      "bgpos": "center 150px"
+      "shade": "strong"
     },
     {
       "index": "05 · 성장",
