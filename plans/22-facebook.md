@@ -8,7 +8,7 @@
 
 📷 **Photo:** Eduardo Saverin portrait (2010s; cover Facebook logo sticker, please also send a Facebook logo image)
 
-**제목:** 회사에서 쫓겨난 페이스북 공동 창업자
+**제목:** 비운의 쫓겨난 페이스북 공동 창업자
 
 기업집중탐구 #22
 
@@ -45,7 +45,7 @@
 
 📷 **Photo:** Early TheFacebook profile page or list of supported colleges, 2004
 
-**제목:** 확장되며 서버 비용이 늘자 광고 수익을 계획하다
+**제목:** 서버 비용이 늘자 광고 수익을 계획하다
 
 처음엔 하버드 이메일이 있어야만 가입할 수 있어, 실제로 아는 사람끼리만 연결됐다.
 
@@ -121,7 +121,7 @@
 
 **제목:** 비운의 초기 주주
 
-- 뉴욕에 남아 핵심 결정에서 빠진 거리
+- 뉴욕에 남아 핵심 결정에서 빠지다
 - 항의로 법인 계좌를 동결해 잃은 신뢰
 - 의결권 위임 뒤 신주 발행으로 희석된 지분
 
