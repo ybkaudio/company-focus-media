@@ -141,7 +141,7 @@ Federal Express는 미국 한가운데에 있고 날씨로 비행이 끊기는 �
 
 📷 **Photo:** FedEx courier scanning a package barcode, 1980s (or the Memphis hub, 1980s)
 
-**제목:** 10년 만에 매출 10억 달러를 넘다
+**제목:** 관리 시스템을 구축하고 매출 10억 달러를 넘기다
 
 컴퓨터를 쓰는 회사가 늘수록 부품과 서류를 하룻밤 사이에 받아야 할 곳도 늘었다.
 
