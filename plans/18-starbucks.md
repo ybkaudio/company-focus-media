@@ -17,7 +17,7 @@
 
 📷 **Photo:** Alfred Peet at Peet's Coffee & Tea in Berkeley, 1960s–1970s
 
-**제목:** 피츠에서 커피 볶는 법을 배우다
+**제목:** Peet's에서 커피 볶는 법을 배우다
 
 시애틀에는 신선하게 볶은 원두를 파는 곳이 없어, 친구 고든 바우커는 캐나다 밴쿠버까지 차를 몰고 가 원두를 사 오곤 했다.
 
@@ -96,7 +96,7 @@
 
 📷 **Photo:** Peet's Coffee & Tea store on Vine Street, Berkeley, 1980s
 
-**제목:** 스승의 회사 피츠를 사들이다
+**제목:** 스승의 회사 Peet's를 사들이다
 
 1984년 10월 볼드윈이 이끌던 원래의 스타벅스 회사가 투자자들과 함께 스승의 회사 <Peet's>를 380만 달러에 샀다.
 
@@ -109,7 +109,7 @@
 
 📷 **Photo:** Jerry Baldwin in later years (Peet's or coffee industry event)
 
-**제목:** 스타벅스를 팔고 피츠에 남다
+**제목:** 스타벅스를 팔고 Peet's에 남다
 
 - **380만 달러** — 회사 가치 (슐츠에게 판 1987년)
 - **16년** — 창업부터 떠날 때까지

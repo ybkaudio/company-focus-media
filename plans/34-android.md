@@ -43,7 +43,7 @@
 
 📷 **Photo:** T-Mobile Sidekick (Danger Hiptop) phone, 2002-2004
 
-**제목:** 첫 회사 데인저에서 사이드킥 폰을 만들다
+**제목:** 첫 회사 Danger에서 Sidekick 폰을 만들다
 
 1999년 동료들과 <Danger>를 세우고 CEO를 맡았다.
 

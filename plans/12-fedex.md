@@ -154,7 +154,7 @@ Federal Express는 미국 한가운데에 있고 날씨로 비행이 끊기는 �
 
 📷 **Photo:** Flying Tiger Line Boeing 747 freighter repainted in Federal Express colors, 1989
 
-**제목:** 플라잉 타이거즈를 사서 세계 공항에 내리다
+**제목:** Flying Tigers를 사서 세계 공항에 내리다
 
 해외로 화물을 보내려면 나라마다 그 나라 공항에 내릴 권리가 필요했다.
 
