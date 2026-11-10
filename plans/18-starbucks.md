@@ -109,7 +109,20 @@ Peet's를 사느라 빚이 커졌고, 동업자 바우커도 지분을 팔고 �
 그 뒤 Peet's 회장으로 2001년 상장까지 회사를 이끌었다.
 
 
-## 09.jpg · 마무리
+## 09.jpg · 08 · 그 뒤
+
+📷 **Photo:** Starbucks cafe in the 1990s with customers inside (or a modern Starbucks store)
+
+**제목:** 거절한 음료 매장이 Starbucks를 키우다
+
+볼드윈은 커피를 마시며 머무는 매장을 늘리자는 슐츠의 제안을 받아들이지 않고, 원두 회사로 남는 길을 택했다.
+
+1987년 Starbucks를 산 슐츠는 바로 그 음료 매장을 늘렸고, 1992년 6월 상장 때 매장은 165곳이었다.
+
+매장은 1996년 1,000곳, 2005년 1만 곳을 넘었고, 2023년엔 세계 3만 8,000곳이 넘는다.
+
+
+## 10.jpg · 마무리
 
 📷 **Photo:** Starbucks logo on a dark background (the cover sticker is cut from this too)
 
@@ -136,5 +149,7 @@ Peet's를 사느라 빚이 커졌고, 동업자 바우커도 지분을 팔고 �
 - HistoryLink, Starbucks: The Early Years (Essay 20292)
 - Wikipedia, Jerry Baldwin / History of Starbucks
 - University of San Francisco Magazine, Coffee Kings (2020.05)
+- Starbucks Company Timeline (Starbucks 공식)
+- Fox Business, History of Starbucks (2023)
 
 #기업인집중탐구 #제리볼드윈 #스타벅스 #Starbucks #창업 #창업스토리 #커피 #자기계발

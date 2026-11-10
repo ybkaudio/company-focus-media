@@ -43,7 +43,24 @@
 1994년 7월 회사를 세우고 벨뷰의 셋집 차고에서 일을 시작했다.
 
 
-## 04.jpg · 03 · 첫 성과
+## 04.jpg · 03 · 자금
+
+📷 **Photo:** Jeff Bezos in the early Amazon garage/office, 1995–1996
+
+**제목:** 부모와 지인 돈으로 시작해 벤처 투자 800만 달러를 받다
+
+1995년 부모가 노후 자금에서 약 24만 5,000달러를 넣었다.
+
+그는 돈을 잃을 확률이 70%라고 미리 말했다.
+
+그해 지인 20여 명을 설득해 한 사람당 수만 달러씩, 모두 약 100만 달러를 더 모았다.
+
+1996년 6월 벤처캐피털 <Kleiner Perkins>가 800만 달러를 넣었다.
+
+상장 전 받은 유일한 벤처 투자였고, 이 돈으로 직원과 창고를 늘렸다.
+
+
+## 05.jpg · 04 · 첫 성과
 
 📷 **Photo:** Amazon.com homepage, 1995 (or an early Amazon shipping box)
 
@@ -56,7 +73,7 @@
 매장도 재고도 없이, 주문이 들어오면 유통 창고에서 책을 받아 보내는 구조였다.
 
 
-## 05.jpg · 04 · 성장
+## 06.jpg · 05 · 성장
 
 📷 **Photo:** Amazon.com book page with customer reviews, late 1990s (or Jeff Bezos at Amazon in 1996–97)
 
@@ -75,7 +92,7 @@
 매출은 1996년 1,570만 달러에서 1997년 1억 4,780만 달러로 뛰었다.
 
 
-## 06.jpg · 05 · 확장
+## 07.jpg · 06 · 확장
 
 📷 **Photo:** Amazon.com homepage around 1999 showing music, video, toys and electronics tabs
 
@@ -88,7 +105,7 @@
 2000년엔 다른 판매자도 같은 상품 페이지에서 팔 수 있는 마켓플레이스를 열어, 재고를 쌓지 않고도 파는 물건을 크게 늘렸다.
 
 
-## 07.jpg · 06 · 위기
+## 08.jpg · 07 · 위기
 
 📷 **Photo:** Inside an Amazon fulfillment center, early 2000s
 
@@ -105,7 +122,7 @@
 이듬해엔 99달러 넘게 사면 어떤 상품이든 배송비를 받지 않았고, 8월엔 그 기준을 25달러까지 낮췄다.
 
 
-## 08.jpg · 07 · 성장
+## 09.jpg · 08 · 성장
 
 📷 **Photo:** Amazon Prime box (or a delivery truck with the Prime logo)
 
@@ -118,7 +135,7 @@
 회비를 한 번 내면 배송비를 따질 이유가 사라져, 회원이 무엇이든 먼저 Amazon에서 사게 만드는 장치였다.
 
 
-## 09.jpg · 08 · 확장
+## 10.jpg · 09 · 확장
 
 📷 **Photo:** Inside an AWS data center (or the AWS logo)
 
@@ -133,7 +150,20 @@
 2006년 문을 연 AWS는 서버를 사지 않고 쓴 만큼만 돈을 내는 방식이었다.
 
 
-## 10.jpg · 09 · 정점
+## 11.jpg · 10 · 확장
+
+📷 **Photo:** First Kindle (2007) or a Whole Foods store with Amazon signage (2017)
+
+**제목:** Kindle과 Whole Foods로 새 시장에 들어가다
+
+2007년 11월 전자책 단말기 Kindle을 내놓아, 책을 사면 몇십 초 만에 내려받아 읽게 했다.
+
+2014년엔 스마트폰 Fire Phone을 냈지만 팔리지 않아, 1억 7,000만 달러를 손실로 처리하고 이듬해 생산을 멈췄다.
+
+2017년 식료품 체인 <Whole Foods>를 137억 달러에 사들여, 온라인에 없던 매장 460여 곳과 신선식품을 얻었다.
+
+
+## 12.jpg · 11 · 정점
 
 📷 **Photo:** Amazon headquarters in Seattle, The Spheres, around 2018
 
@@ -146,7 +176,7 @@
 쇼핑은 값을 낮춰 손님을 모으고, 클라우드가 이익을 내는 구조였다.
 
 
-## 11.jpg · 10 · 떠날 때
+## 13.jpg · 12 · 떠날 때
 
 📷 **Photo:** Jeff Bezos around 2021 (a Blue Origin flight suit photo is also good)
 
@@ -160,7 +190,7 @@
 보름 뒤 자신이 세운 우주 기업 블루 오리진의 첫 유인 우주 비행에 직접 올랐다.
 
 
-## 12.jpg · 마무리
+## 14.jpg · 마무리
 
 📷 **Photo:** Amazon logo on a dark background (the cover sticker is cut from this too)
 
@@ -197,5 +227,9 @@
 - Amazon 2001 주주 서한 (2002.04)
 - Publishers Weekly, Lower Prices, More Used Product for Amazon.com's Book Group (2001.07.30)
 - Amazon 보도자료, 무료 배송 기준 25달러로 인하 (2002.08)
+- Bloomberg, A hidden Amazon fortune: Bezos parents could be worth billions (2018.07.31)
+- Business Insider, Jeff Bezos told what may be the best startup investment story ever (2016)
+- Fortune, Amazon CEO Jeff Bezos on the Fire Phone failure (2014.12.02)
+- Wikipedia, History of Amazon
 
 #기업인집중탐구 #제프베이조스 #아마존 #Amazon #창업 #창업스토리 #스타트업 #자기계발

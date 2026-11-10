@@ -108,7 +108,20 @@ Nike는 공장을 짓지 않았다.
 매출은 1988년 12억 달러에서 1991년 30억 달러를 넘었고, 1997년엔 92억 달러를 기록했다.
 
 
-## 09.jpg · 08 · 떠날 때
+## 09.jpg · 08 · 위기
+
+📷 **Photo:** Phil Knight at the National Press Club, Washington D.C., May 1998
+
+**제목:** 하청 공장 노동 비판에 공장 기준을 바꾸다
+
+1990년대 들어 Nike 신발을 만드는 아시아 하청 공장의 낮은 임금, 어린 노동자, 나쁜 작업 환경이 언론과 대학가에서 거세게 비판받았다.
+
+1998년 3월엔 아시아 경제 위기와 재고 탓에 분기 이익이 69% 줄었다.
+
+그해 5월 나이트는 직접 기자 회견을 열어 지난 몇 년의 비판을 인정하고, 신발 공장 노동자 최소 나이를 18세로 올리고 미국 실내 공기 기준을 적용하며 외부 단체가 공장을 점검하게 하겠다고 약속했다.
+
+
+## 10.jpg · 09 · 떠날 때
 
 📷 **Photo:** Phil Knight in the 2000s (at a Nike headquarters event)
 
@@ -122,7 +135,7 @@ Nike는 공장을 짓지 않았다.
 그해 창업 이야기를 담은 회고록 '슈독'을 펴냈다.
 
 
-## 10.jpg · 마무리
+## 11.jpg · 마무리
 
 📷 **Photo:** Nike logo on a dark background (the cover sticker is cut from this too)
 
@@ -157,5 +170,7 @@ Nike를 세운 두 사람 중, #05의 코치 빌 바워만에 이은 나머지 �
 - The Spokesman-Review, Nike co-founder Knight resigns as CEO (2004.11.19)
 - Nike 2005 회계연도 2분기 보고서(10-Q), 발행 주식 수 (2004.11.30)
 - AP(Fox News), Nike stock price falls on news of Phil Knight's departure (2004.11.19)
+- CNN Money, Nike to improve labor conditions (1998.05.12)
+- Seattle Times, Nike chief falls short on pledge to labor (2001.05.17)
 
 #기업인집중탐구 #필나이트 #나이키 #Nike #창업 #창업스토리 #스타트업 #자기계발
