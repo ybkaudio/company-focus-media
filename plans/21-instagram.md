@@ -69,7 +69,7 @@ Nextstop에 다니며 밤마다 코딩을 익힌 그는 위치 체크인과 사�
 
 📷 **Photo:** Whiteboard sketch or early Instagram prototype (2010)
 
-**제목:** 사용자를 보고 사진만 남겨 덜어 내다
+**제목:** 사용자 행동을 분석해 사진만 남기자고 결정하다
 
 Burbn은 이미 인기를 끌던 체크인 앱 <Foursquare>와 너무 비슷했고, 기능이 많아 쓰기 어려웠다.
 
@@ -95,7 +95,7 @@ Burbn은 이미 인기를 끌던 체크인 앱 <Foursquare>와 너무 비슷했�
 
 📷 **Photo:** Instagram 1.0 app icon and App Store page, October 2010
 
-**제목:** 출시 첫날 2만 5천 명이 내려받다
+**제목:** "인스타그램", 출시와 함께 2만 5천 명이 내려받다
 
 '즉석카메라(instant camera)'와 '전보(telegram)'를 합쳐 이름을 <Instagram>으로 바꿨다.
 
