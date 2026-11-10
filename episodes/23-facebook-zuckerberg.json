@@ -17,9 +17,9 @@
       "photo_hint": "Mark Zuckerberg in his Harvard dorm room, 2004 (the dorm photo you sent for #22 works; well-known founder, so no logo sticker)",
       "sticker": {
         "src": "23-facebook-zuckerberg/sticker-logo.png",
-        "size": 190,
-        "right": 165,
-        "top": 1042
+        "size": 260,
+        "right": 130,
+        "top": 1007
       }
     },
     {
