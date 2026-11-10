@@ -13,7 +13,24 @@
 기업집중탐구 #25
 
 
-## 02.jpg · 01 · 계기
+## 02.jpg · 01 · 배경
+
+📷 **Photo:** [새 사진 필요] Young Elon Musk as a teenager in South Africa (or Isaac Asimov's Foundation book cover)
+
+**제목:** 『파운데이션』을 읽고 별을 오가는 인류를 꿈꾸다
+
+남아프리카공화국에서 자란 10대 시절, 그는 아이작 아시모프의 SF 소설 『파운데이션』 시리즈를 즐겨 읽었다.
+
+은하 제국이 무너진 뒤 지식을 지켜 암흑기를 줄이려는 사람들의 이야기다.
+
+그는 이 책에서 문명이 무너질 위험에 대비해 인류가 할 수 있는 일을 해야 한다는 생각을 얻었다고 여러 번 말했다.
+
+인류가 한 행성에만 머물면 한 번의 재난으로 끝날 수 있다고 봤고, 별을 오가는 문명(starfaring civilization)이 되는 미래가 가장 설렌다고 말했다.
+
+이 생각이 뒤에 SpaceX의 목표가 된다.
+
+
+## 03.jpg · 02 · 계기
 
 📷 **Photo:** NASA website or Mars surface image (Mars Oasis greenhouse concept art if available)
 
@@ -28,7 +45,7 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 화성에서 자라는 첫 생명을 보여 주면 사람들의 관심이 살아나고 NASA 예산도 늘 것이라는 계산이었다.
 
 
-## 03.jpg · 02 · 방향 전환
+## 04.jpg · 03 · 방향 전환
 
 📷 **Photo:** Moscow in winter, early 2000s (or Russian Dnepr rocket launch)
 
@@ -47,7 +64,7 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 그는 비싼 건 재료가 아니라 만드는 방식이라고 보고, 화분 대신 싼 로켓을 직접 만드는 회사로 계획을 바꿨다.
 
 
-## 04.jpg · 03 · 창업
+## 05.jpg · 04 · 창업
 
 📷 **Photo:** Early SpaceX factory in El Segundo, Musk with Tom Mueller (crop other people if unclear)
 
@@ -66,7 +83,22 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 목표는 발사 비용을 10분의 1로 낮추는 것이었다.
 
 
-## 05.jpg · 04 · 자금
+## 06.jpg · 05 · 위기
+
+📷 **Photo:** [새 사진 필요] Falcon 1 Flight 1 on Omelek Island, Kwajalein Atoll, March 2006 (or Omelek launch site)
+
+**제목:** 첫 발사 25초 만에 바다로 떨어지다
+
+공군 기지 발사장 일정이 밀리자, 회사는 태평양 마셜제도의 작은 섬 오멜렉에 발사장을 차렸다.
+
+2006년 3월 첫 Falcon 1이 이륙했지만 약 25초 만에 엔진에 불이 붙어 바다로 떨어졌다.
+
+원인은 연료관을 죈 알루미늄 너트 하나였다.
+
+섬의 바닷바람에 부식돼 틈이 생겼고, 그 틈으로 연료가 샜다.
+
+
+## 07.jpg · 06 · 자금
 
 📷 **Photo:** NASA COTS announcement 2006, or early Dragon capsule mockup / SpaceX Hawthorne factory 2006-2007
 
@@ -79,24 +111,24 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 그해 3월 첫 Falcon 1 발사가 실패해, 아직 로켓을 한 번도 궤도에 올리지 못한 때였다.
 
 
-## 06.jpg · 05 · 위기
+## 08.jpg · 07 · 위기
 
 📷 **Photo:** Falcon 1 launch failure on Omelek Island, Kwajalein, 2006-2008
 
-**제목:** 세 번 연속 실패, 마지막 한 발만 남다
+**제목:** 두 번 더 실패하고 마지막 한 발만 남다
 
-첫 로켓 <Falcon 1>은 2006년 3월 연료관을 죈 너트가 바닷바람에 부식돼 불이 나 떨어졌다.
+2007년 3월 두 번째 Falcon 1은 우주까지 올라갔지만, 2단 연료가 출렁여 엔진이 일찍 꺼져 궤도에 오르지 못했다.
 
-2007년 3월에는 연료가 출렁여 엔진이 꺼졌고, 2008년 8월에는 분리된 1단이 2단에 부딪혔다.
+2008년 8월 세 번째 발사에서는 분리된 1단이 남은 추력으로 밀려 올라와 2단에 부딪혔다.
 
-같은 해 Tesla도 급여를 못 줄 만큼 자금이 말라, 그는 남은 돈을 두 회사에 나눠 넣었다.
+새 엔진에 맞춰 분리 시간을 다시 계산하지 않은 탓이었다.
 
-2008년 8월 PayPal 동료 피터 틸의 투자사 Founders Fund가 2천만 달러를 넣었다(#27).
+그달 PayPal 동료 피터 틸의 투자사 Founders Fund가 2천만 달러를 넣었다(#27).
 
-머스크는 네 번째 발사가 Falcon 1에 쓸 마지막 돈이었다고 말했다.
+머스크는 직원들에게 절대 포기하지 않겠다는 글을 보냈고, 남은 돈은 로켓 한 발 분이었다.
 
 
-## 07.jpg · 06 · 첫 성과
+## 09.jpg · 08 · 첫 성과
 
 📷 **Photo:** Falcon 1 Flight 4 lifting off, September 28 2008 (or SpaceX team celebrating)
 
@@ -106,14 +138,33 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 
 세 번째 실패 뒤 6주 만에 남은 부품으로 다시 조립한 로켓이었다.
 
-민간 자금으로 만든 액체연료 로켓이 궤도에 오른 첫 사례였다.
+관제실 영상에는 두 팔을 들고 환호하는 그의 모습이 남았고, 그는 직원들 앞에서 인생 최고의 날 중 하나라고 말했다.
 
-발사 가격은 약 700만 달러로, 작은 위성을 싸게 올리려는 고객을 받을 수 있게 됐다.
+민간 자금으로 만든 액체연료 로켓이 궤도에 오른 첫 사례였다.
 
 2009년 7월에는 말레이시아 위성을 올려 첫 상업 발사를 했다.
 
 
-## 08.jpg · 07 · 자금
+## 10.jpg · 09 · 위기
+
+📷 **Photo:** [새 사진 필요] Elon Musk in 2008 (stressed, at SpaceX or Tesla), or Tesla Roadster 2008
+
+**제목:** Tesla와 SpaceX 중 하나만 살릴까, 둘 다에 걸다
+
+궤도에 오른 뒤에도 돈이 없었다.
+
+그해 가을 금융위기로 투자가 끊겼고, Tesla는 Roadster를 만들수록 손해가 나 고객 예약금과 Roadster 판매 대금으로 겨우 버텼다.
+
+그는 남은 돈을 한 회사에 몰면 그 회사는 살아도 다른 회사는 확실히 죽고, 나누면 둘 다 죽을 수 있다고 봤다.
+
+인생에서 가장 어려운 결정이었다고 말한 끝에 둘로 나눠 넣었다.
+
+개인 생활비는 친구들에게 빌렸다.
+
+12월에는 두 회사 모두 몇 주 안에 돈이 바닥날 처지였다.
+
+
+## 11.jpg · 10 · 자금
 
 📷 **Photo:** NASA logo with SpaceX Dragon cargo capsule, or Musk at NASA event 2008-2010
 
@@ -121,12 +172,16 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 
 2008년 12월 23일 NASA는 국제우주정거장 화물 운송 12회를 16억 달러에 SpaceX에 맡겼다.
 
+전화로 소식을 들은 그는 NASA 담당자에게 사랑한다고 외쳤다.
+
 2011년 우주왕복선 퇴역을 앞두고 NASA가 운송을 민간 업체에서 사는 방식으로 바꾼 덕이었다.
 
-이 계약으로 회사는 파산 위기를 넘겼고, 더 큰 로켓 <Falcon 9> 개발을 이어 갔다.
+다음 날인 12월 24일에는 Tesla의 투자 유치도 마감 몇 시간을 앞두고 성사됐다.
+
+두 회사가 같은 주에 파산 위기를 넘겼다.
 
 
-## 09.jpg · 08 · 성장
+## 12.jpg · 11 · 성장
 
 📷 **Photo:** Dragon capsule captured by the ISS robotic arm, May 2012
 
@@ -141,22 +196,60 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 정부만 하던 우주정거장 보급을 민간 회사가 맡는 길이 열렸다.
 
 
-## 10.jpg · 09 · 방향 전환
+## 13.jpg · 12 · 위기
+
+📷 **Photo:** [새 사진 필요] Falcon 9 booster crash/explosion on the drone ship, January or April 2015 (SpaceX released video)
+
+**제목:** 바다 위 배에 내리려다 연달아 부서지다
+
+한 번 쓰고 버리던 1단 로켓을 되찾으려고, 2012년부터 텍사스에서 작은 시험 로켓을 띄웠다 내리는 연습을 했다.
+
+2015년 1월 바다에 띄운 무인 배에 처음 내리려 했지만, 날개 조종용 유압유가 떨어져 배에 부딪혀 폭발했다.
+
+4월에는 내려앉고도 기울어 쓰러졌다.
+
+6월에는 우주정거장 화물을 실은 Falcon 9이 공중에서 부서졌다.
+
+그해 1월 Google 등에서 10억 달러를 투자받아 버틸 돈은 있었다.
+
+
+## 14.jpg · 13 · 방향 전환
 
 📷 **Photo:** Falcon 9 first stage landing (Orbcomm-2 landing, December 2015, or twin booster landing)
 
-**제목:** 버리던 로켓을 착륙시켜 다시 쏘아 올리다
-
-그때까지 로켓은 한 번 쓰면 바다에 버렸다.
+**제목:** 불을 뿜으며 돌아온 로켓, 착륙장에 똑바로 서다
 
 머스크는 Falcon 9 한 발 6천만 달러 중 연료값은 약 0.3%라며, 몸체를 다시 쓰면 값이 크게 내려간다고 봤다.
 
-2015년 12월 1단 로켓을 처음 땅에 세웠고, 2017년 3월 착륙했던 로켓을 다시 쏘아 올렸다.
+2015년 12월 21일 위성을 올리고 돌아온 1단이 엔진을 거꾸로 뿜으며 내려와 플로리다 착륙장에 똑바로 섰다.
+
+그는 관제실 밖으로 뛰어나가 소닉붐을 들었다.
+
+2016년 9월 발사대 폭발로 위성을 잃기도 했지만, 2017년 3월 착륙했던 로켓을 다시 쏘아 올렸다.
 
 이후 한 부스터를 20번 넘게 다시 쓰며 발사 횟수를 늘렸다.
 
 
-## 11.jpg · 10 · 확장
+## 15.jpg · 14 · 성장
+
+📷 **Photo:** [새 사진 필요] Falcon Heavy side boosters landing simultaneously (Feb 2018), or Starman in the Tesla Roadster with Earth behind
+
+**제목:** 자기 Roadster를 싣고 쏜 Falcon Heavy, 부스터 둘이 나란히 내려앉다
+
+2018년 2월 Falcon 9 세 대를 묶은 <Falcon Heavy>가 첫 발사에 나섰다.
+
+엔진 27개로, 당시 운용 중인 로켓 가운데 가장 힘이 셌다.
+
+시험 발사라 실을 화물이 없어, 그는 자기 체리색 Tesla Roadster에 우주복 마네킹 'Starman'을 앉혀 실었다.
+
+차 안에서는 데이비드 보위의 'Space Oddity'가 흘렀다.
+
+옆의 부스터 두 개는 동시에 돌아와 나란히 착륙했다.
+
+그는 성공 확률을 반반으로 봤다고 말했다.
+
+
+## 16.jpg · 15 · 확장
 
 📷 **Photo:** Crew Dragon Demo-2 launch, May 30 2020
 
@@ -169,7 +262,24 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 NASA 감사관실은 좌석당 비용을 약 5,500만 달러로 추산했다.
 
 
-## 12.jpg · 11 · 확장
+## 17.jpg · 16 · 확장
+
+📷 **Photo:** [새 사진 필요] Starship Super Heavy booster caught by the launch tower 'chopsticks' (Mechazilla), October 2024
+
+**제목:** 폭발을 거듭한 Starship, 발사탑 팔로 부스터를 잡다
+
+사람을 화성에 보낼 초대형 로켓 <Starship>은 2023년 4월 첫 시험 비행에서 약 4분 만에 폭발했다.
+
+11월 두 번째도 폭발로 끝났다.
+
+회사는 터질 때마다 자료를 모아 고쳐 다시 쏘는 방식을 이어 갔고, 2024년 6월 네 번째 비행에서 처음 바다에 계획대로 내려앉았다.
+
+2024년 10월 다섯 번째 비행에서는 돌아오는 1단 부스터를 발사탑의 두 팔(젓가락)이 공중에서 붙잡았다.
+
+착륙 다리 없이 로켓을 바로 다시 쓰기 위한 방식이었다.
+
+
+## 18.jpg · 17 · 확장
 
 📷 **Photo:** Starlink satellites stacked before deployment, or Starlink dish
 
@@ -184,7 +294,7 @@ NASA 감사관실은 좌석당 비용을 약 5,500만 달러로 추산했다.
 2025년 말 가입자 890만 명, 그해 매출 187억 달러 중 61%가 Starlink에서 나왔다.
 
 
-## 13.jpg · 12 · 정점
+## 19.jpg · 18 · 정점
 
 📷 **Photo:** Elon Musk portrait, 2025-2026
 
@@ -195,12 +305,10 @@ NASA 감사관실은 좌석당 비용을 약 5,500만 달러로 추산했다.
 
 2025년 세계 궤도 발사의 약 51%가 SpaceX였다.
 
-화성까지 사람을 실어 나를 초대형 로켓 <Starship>도 2023년부터 시험 발사를 이어 가고 있다.
-
 2026년 6월 xAI를 합친 SpaceX가 사상 최대 규모로 상장했고, 그는 지금도 CEO다.
 
 
-## 14.jpg · 마무리
+## 20.jpg · 마무리
 
 📷 **Photo:** Elon Musk with Falcon 9 or Starship (person photo for the closing slide)
 
@@ -208,7 +316,7 @@ NASA 감사관실은 좌석당 비용을 약 5,500만 달러로 추산했다.
 
 - 재료값 2%를 보고 로켓을 직접 만든 원가 감각
 - 세 번 실패에도 마지막 돈으로 네 번째를 쏜 배짱
-- 버리던 로켓을 착륙시켜 다시 쓴 발상
+- 부서지는 착륙을 거듭해 로켓을 다시 쓴 집념
 
 
 ---
