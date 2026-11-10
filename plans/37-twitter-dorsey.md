@@ -80,7 +80,7 @@
 
 📷 **Photo:** Jack Dorsey and Jim McKelvey together, 2009-2010 (crop others if unclear)
 
-**제목:** 카드를 못 받은 유리 공예가와 Square를 세우다
+**제목:** 카드를 못 받은 유리 공예가와 스퀘어를 세우다
 
 고향에서 함께 일했던 짐 매켈비는 유리 공예품을 팔다 손님이 카드밖에 없어 판매를 놓쳤다.
 

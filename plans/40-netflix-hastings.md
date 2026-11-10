@@ -108,7 +108,7 @@ Blockbuster는 거절했다.
 
 📷 **Photo:** Blockbuster Total Access advertisement, 2006-2007
 
-**제목:** Blockbuster의 추격에 가입자가 줄다
+**제목:** 블록버스터의 추격에 가입자가 줄다
 
 2004년 Blockbuster도 우편 DVD 구독을 시작했고, 2006년에는 우편으로 받은 DVD를 매장에서 바로 바꿔 주는 서비스까지 내놨다.
 

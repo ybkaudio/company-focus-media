@@ -30,7 +30,7 @@
 
 📷 **Photo:** Evan Williams and Meg Hourihan at Pyra Labs, 1999-2000 (crop others if unclear)
 
-**제목:** 할 일 관리 프로그램 회사 Pyra를 세우다
+**제목:** 할 일 관리 프로그램 회사 파이라를 세우다
 
 1999년 1월 멕 후리한과 <Pyra Labs>를 세웠다.
 
@@ -41,7 +41,7 @@
 
 📷 **Photo:** Blogger homepage screenshot, 1999-2001
 
-**제목:** 메모 기능을 떼어 Blogger로 내놓다
+**제목:** 메모 기능을 떼어 블로거로 내놓다
 
 Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999년 8월 <Blogger>로 공개했다.
 
@@ -67,7 +67,7 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 
 📷 **Photo:** Evan Williams at Google around 2003-2004, or Blogger with Google branding 2003
 
-**제목:** 버텨 낸 Blogger를 구글에 팔다
+**제목:** 버텨 낸 블로거를 구글에 팔다
 
 2003년 2월 Google이 Pyra Labs를 샀다(#33).
 
@@ -78,7 +78,7 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 
 📷 **Photo:** Odeo office San Francisco 2005-2006, or Evan Williams 2005
 
-**제목:** 팟캐스트 회사 Odeo, 애플에 밀리다
+**제목:** 팟캐스트 회사 오데오, 애플에 밀리다
 
 이웃 노아 글래스와 팟캐스트 회사 <Odeo>를 세우고 초기 자금을 댔다(#20).
 
@@ -91,7 +91,7 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 
 📷 **Photo:** Early Twitter (twttr) team at Odeo office 2006, or Evan Williams and Biz Stone (crop others if unclear)
 
-**제목:** Odeo를 되사고 트위터에 걸다
+**제목:** 오데오를 되사고 트위터에 걸다
 
 2006년 Odeo 안에서 짧은 글로 근황을 알리는 'Twttr'가 만들어졌다.
 

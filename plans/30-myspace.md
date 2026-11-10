@@ -32,7 +32,7 @@ UC 버클리에서 영문학을 공부한 뒤 샌프란시스코 록밴드 Swank
 
 📷 **Photo:** Tom Anderson and Chris DeWolfe together, early 2000s (crop others if unclear)
 
-**제목:** Xdrive 동료와 마케팅 회사를 세우다
+**제목:** 엑스드라이브 동료와 마케팅 회사를 세우다
 
 2000년 영화 대학원 시절 전단을 보고 온라인 저장 서비스 <XDrive>에 들어가 카피라이터로 일하며 영업·마케팅 부사장 크리스 드울프를 만났다.
 
@@ -45,7 +45,7 @@ UC 버클리에서 영문학을 공부한 뒤 샌프란시스코 록밴드 Swank
 
 📷 **Photo:** Early Myspace homepage screenshot, 2003-2004
 
-**제목:** Friendster를 보고 열흘 만에 사이트를 만들다
+**제목:** 프렌드스터를 보고 열흘 만에 사이트를 만들다
 
 2003년 eUniverse 직원 몇몇이 쓰던 소셜 사이트 <Friendster>의 인기 기능을 따라, 약 열흘 만에 첫 Myspace를 만들었다.
 
@@ -73,7 +73,7 @@ eUniverse가 시작 자금을 대고 지분 과반을 가졌으며, 드울프가
 
 📷 **Photo:** Customized Myspace band profile page, mid-2000s, or Arctic Monkeys 2005
 
-**제목:** Friendster와 달리 뭐든 올리게 하다
+**제목:** 프렌드스터와 달리 뭐든 올리게 하다
 
 Friendster는 실명이 아닌 팬·패러디 계정 약 2만 개를 지우고 올릴 수 있는 것을 제한했다.
 
@@ -86,7 +86,7 @@ Myspace는 규칙을 거의 두지 않았고, 가입하지 않아도 둘러볼 �
 
 📷 **Photo:** Rupert Murdoch with Myspace founders, 2005-2006 (crop others if unclear)
 
-**제목:** 2년 만에 News Corp에 5억 8천만 달러에 팔리다
+**제목:** 2년 만에 뉴스코프에 5억 8천만 달러에 팔리다
 
 2005년 2월 드울프는 Facebook의 저커버그와 인수 이야기를 나누기도 했다.
 
