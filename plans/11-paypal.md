@@ -93,7 +93,22 @@
 최대 주주가 된 머스크가 CEO를 맡았고, 합친 회사는 2001년 이름을 PayPal로 바꿨다.
 
 
-## 08.jpg · 07 · 정점
+## 08.jpg · 07 · 위기
+
+📷 **Photo:** Elon Musk and Peter Thiel at X.com / PayPal, around 2000
+
+**제목:** 사기 피해와 갈등 속에 CEO에서 밀려나다
+
+가입자가 늘자 남의 카드로 돈을 빼 가는 사기도 늘어, 한때 한 달에 1,000만 달러 넘게 잃었다.
+
+머스크는 시스템을 Microsoft의 Windows로 옮기자고 밀어붙였고, Confinity 출신 엔지니어들은 쓰던 Unix를 지키자며 맞섰다.
+
+이름을 두고도 그는 X.com을 고집했지만, 다른 임원들은 사용자에게 더 알려진 PayPal을 원했다.
+
+2000년 9월 미뤘던 신혼여행 겸 투자 유치 출장으로 호주행 비행기에 오른 사이, 임원들이 이사회에 불신임 편지를 냈고 피터 틸이 CEO를 넘겨받았다.
+
+
+## 09.jpg · 08 · 정점
 
 📷 **Photo:** PayPal 화면 앞의 머스크 (2000년 무렵)
 
@@ -106,7 +121,7 @@
 2002년 2월 상장 첫날 주가가 55% 가까이 올랐다.
 
 
-## 09.jpg · 08 · 떠날 때
+## 10.jpg · 09 · 떠날 때
 
 📷 **Photo:** eBay·PayPal 로고
 
@@ -115,12 +130,12 @@
 - **15억 달러** — 회사 가치 (eBay가 인수한 2002년)
 - **3년** — X.com 창업부터 떠날 때까지
 
-2000년 신혼여행 중 이사회가 그를 CEO에서 물러나게 했고, 2002년 eBay 인수 때 1억 7,580만 달러를 받았다.
+CEO에서 물러난 뒤에도 최대 주주로 남았고, 2002년 eBay가 PayPal을 사들일 때 1억 7,580만 달러를 받았다.
 
 그는 이 돈을 같은 해 세운 SpaceX와 2004년 투자한 Tesla에 쏟았다.
 
 
-## 10.jpg · 마무리
+## 11.jpg · 마무리
 
 📷 **Photo:** SpaceX 드래곤 캡슐 앞 머스크 (PayPal로 번 돈이 간 곳)
 
@@ -151,5 +166,8 @@ PayPal, 일론 머스크의 시작.
 - CNN Money, eBay to buy PayPal (2002.07.08)
 - PayPal 보도자료, eBay to Acquire PayPal (2002.07.08)
 - Snopes, Was Elon Musk fired from PayPal?
+- Jessica Livingston, Founders at Work (Max Levchin 인터뷰, 2007)
+- Fox Business, Elon Musk was dethroned by Peter Thiel in a coup (2022)
+- Snopes, Was Elon Musk Fired from PayPal? (2022)
 
 #기업인집중탐구 #일론머스크 #페이팔 #PayPal #창업 #창업스토리 #스타트업 #자기계발

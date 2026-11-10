@@ -106,11 +106,9 @@
 - **270만 달러** — 회사 가치 (크록에게 판 1961년)
 - **21년** — 샌버너디노 개업부터 떠날 때까지
 
-형제는 크록이 원한 빠른 확장도, 설계 변경도 막았다.
+형제가 빠른 확장을 막자, 크록은 1961년 형제가 부른 270만 달러를 빌려 회사를 샀다.
 
-1961년 형제가 270만 달러를 부르자, 크록은 돈을 빌려 회사를 샀다.
-
-형제는 첫 가게를 지켰지만 이름을 넘겨 '빅 엠'으로 바꿔야 했고, 근처에 McDonald's가 들어선 뒤 문을 닫았다.
+해마다 매출 일부를 주겠다는 로열티 약속은 계약서에서 빠져 악수로만 남았고, 한 번도 지급되지 않았다(2012년 기준 해마다 약 3억 달러).
 
 
 ## 09.jpg · 08 · 그 뒤
@@ -118,6 +116,8 @@
 📷 **Photo:** Ray Kroc in the 1970s (or a McDonald's restaurant abroad in the 1970s, e.g. Canada/Tokyo)
 
 **제목:** 레이 크록, 글로벌 프랜차이즈로 만들다
+
+형제는 첫 가게를 지켰지만 이름을 넘겨 '빅 엠'으로 바꿔야 했고, 근처에 McDonald's가 들어선 뒤 문을 닫았다.
 
 형제에게서 회사를 사들인 크록은 회사가 땅과 건물을 잡아 가맹점에 웃돈을 붙여 다시 빌려주는 방식으로, 햄버거가 아니라 부동산으로 안정적인 수입을 만들었다.
 
@@ -158,5 +158,7 @@
 - New England Historical Society, When Dad Lost His Job, the McDonald Brothers Started a Fast-Food Empire
 - Los Angeles Almanac, McDonald brothers in Glendora, Arcadia, Monrovia
 - FundingUniverse, McDonald's Corporation History
+- NZ Herald, Revealed: the unsavoury past of McDonald's founders (2017)
+- Mashed, Shady things people forgot about Ray Kroc
 
 #기업인집중탐구 #맥도날드형제 #맥도날드 #McDonalds #창업 #창업스토리 #스타트업 #자기계발
