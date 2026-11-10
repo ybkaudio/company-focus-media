@@ -173,5 +173,6 @@ Nike를 세운 두 사람 중, #05의 코치 빌 바워만에 이은 나머지 �
 - CNN Money, Nike to improve labor conditions (1998.05.12)
 - Seattle Times, Nike chief falls short on pledge to labor (2001.05.17)
 - Oregon Sports Hall of Fame, NIKE Inc. (블루 리본 스포츠 500달러씩)
+- 장별 회사 가치: 1980년 상장 때는 나이트 지분 46%가 1억 7,800만 달러였다는 기록(『슈독』 요약, Shortform)으로 추정, 1984년은 연 매출, 1988년 시가총액 10억 달러 돌파(Benzinga), 1998년은 연말 시가총액(companiesmarketcap)
 
 #기업집중탐구 #필나이트 #나이키 #Nike #창업 #창업스토리 #스타트업 #자기계발
