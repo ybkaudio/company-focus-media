@@ -47,7 +47,7 @@
 
 📷 **Photo:** 'Me at the zoo' first YouTube video, April 23, 2005 (screenshot)
 
-**제목:** 아무도 올리지 않자 어떤 영상이든 받기로 하다
+**제목:** 어떤 영상이든 받기로 하다
 
 문을 열었지만 데이트 영상을 올리는 사람은 없었다.
 
