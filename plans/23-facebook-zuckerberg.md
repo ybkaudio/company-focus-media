@@ -45,7 +45,7 @@ Microsoft·AOL 등이 사겠다고 나섰고, 제안 금액은 최대 200만 달
 
 📷 **Photo:** Facemash website screenshot, November 2003 (or Kirkland House, Harvard)
 
-**제목:** 하룻밤 만든 Facemash, 몇 시간 만에 2만 2천 표
+**제목:** 얼평 사이트 Facemash, 폭발적인 반응을 얻다
 
 2003년 11월 그는 기숙사 사진 명부의 학생 얼굴 두 장을 나란히 놓고 고르게 하는 사이트 'Facemash'를 하룻밤에 만들었다.
 
