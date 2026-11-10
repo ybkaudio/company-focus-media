@@ -17,9 +17,10 @@
       ],
       "sticker": {
         "src": "19-apple-wayne/sticker-logo.png",
-        "size": 260,
-        "right": 130,
-        "top": 1011
+        "size": 215,
+        "right": 152,
+        "top": 975,
+        "fixed": true
       }
     },
     {
