@@ -30,7 +30,7 @@ Blogger를 만든 에번 윌리엄스와 손잡고 팟캐스트 회사 <Odeo>를
 
 📷 **Photo:** Valencia Street, San Francisco at night in the rain (or Noah Glass and Jack Dorsey, 2006)
 
-**제목:** 비 오는 밤 차 안에서 나온 '상태 공유' 아이디어
+**제목:** 외로움을 느끼다가 공유할 방법을 찾다
 
 직원 잭 도시는 지금 뭘 하는지 짧게 알리는 '상태' 아이디어를 갖고 있었다.
 
