@@ -33,7 +33,8 @@
         "전화를 걸어 최대 4분을 녹음하면 몇 초 만에 블로그에 음성 글이 올라갔다. 첫 글은 무료, 그 뒤로는 월 3달러였다."
       ],
       "photo_hint": "완료 (ILM 작업실 사진)",
-      "title_size": 76
+      "title_size": 76,
+      "value": "Odeo 설립 전"
     },
     {
       "index": "02 · 배경",
@@ -46,7 +47,8 @@
         "녹음한 목소리를 인터넷으로 나누는 이 경험이 다음 회사 Odeo로 이어졌다."
       ],
       "photo_hint": "완료 (정장 사진, 250px라 더 큰 판이 있으면 교체)",
-      "title_size": 76
+      "title_size": 76,
+      "value": "Odeo 설립 전"
     },
     {
       "index": "03 · 위기",
@@ -59,7 +61,8 @@
         "2005년 Apple이 iTunes에 팟캐스트를 넣자 Odeo는 설 자리를 잃었고, 회사는 새 아이디어를 찾아야 했다."
       ],
       "photo_hint": "Odeo office in San Francisco, 2005 (or the Odeo website screenshot)",
-      "title_size": 80
+      "title_size": 80,
+      "value": "회사 가치 약 500만 달러(추정)"
     },
     {
       "index": "04 · 방향 전환",
@@ -71,7 +74,8 @@
         "비 오는 밤 샌프란시스코의 차 안에서 이야기를 나누던 글래스는, 이혼 중이라 외로웠던 자기 처지와 그 아이디어를 이었다.",
         "사람들을 덜 외롭게 만드는 서비스로 바꿔, 도시와 개발자 플로리안 웨버와 함께 Odeo 팀에 내놓았다."
       ],
-      "photo_hint": "Valencia Street, San Francisco at night in the rain (or Noah Glass and Jack Dorsey, 2006)"
+      "photo_hint": "Valencia Street, San Francisco at night in the rain (or Noah Glass and Jack Dorsey, 2006)",
+      "value": "회사 가치 약 500만 달러(추정)"
     },
     {
       "index": "05 · 창업",
@@ -83,7 +87,8 @@
         "'새들이 짧게 지저귀는 소리'라는 뜻이 짧은 글을 주고받는 서비스와 맞았다.",
         "모음을 빼 'Twttr'로 이름을 정했다."
       ],
-      "photo_hint": "Dictionary entry for the word 'twitter' (or the early Twttr logo, 2006)"
+      "photo_hint": "Dictionary entry for the word 'twitter' (or the early Twttr logo, 2006)",
+      "value": "회사 가치 약 500만 달러(추정)"
     },
     {
       "index": "06 · 첫 성과",
@@ -97,7 +102,8 @@
       ],
       "photo_hint": "Jack Dorsey's first tweet 'just setting up my twttr', March 21, 2006 (screenshot)",
       "bgsize": "1000px auto",
-      "bgpos": "center 150px"
+      "bgpos": "center 150px",
+      "value": "회사 가치 약 500만 달러(추정)"
     },
     {
       "index": "07 · 위기",
@@ -109,7 +115,8 @@
         "Twitter를 자기 프로젝트로 지키려 했고, 윌리엄스가 자신을 빼려 한다고 의심했다. 직원들에게 언성을 높이는 일도 잦았다.",
         "그가 고민을 털어놓던 도시는 윌리엄스에게 글래스를 내보내지 않으면 자기가 나가겠다고 했다."
       ],
-      "photo_hint": "Noah Glass himself, 2005–2006 (or the Odeo office in 2006 with no people in it)"
+      "photo_hint": "Noah Glass himself, 2005–2006 (or the Odeo office in 2006 with no people in it)",
+      "value": "회사 가치 약 500만 달러(추정)"
     },
     {
       "type": "stats",
@@ -133,7 +140,8 @@
         "2006년 7월 윌리엄스는 글래스를 해고했고, 그는 약간의 현금과 주식만 받았다.",
         "10월 윌리엄스가 투자금 약 500만 달러를 돌려주고 회사를 되샀고, 글래스는 창업 이야기에서 빠졌다."
       ],
-      "photo_hint": "Noah Glass in the 2010s (interview photo)"
+      "photo_hint": "Noah Glass in the 2010s (interview photo)",
+      "value": "회사 가치 약 500만 달러(추정)"
     },
     {
       "type": "outro",
@@ -149,5 +157,5 @@
       "photo_hint": "Twitter bird logo on a dark background (the cover sticker is cut from this too)"
     }
   ],
-  "caption": "Twitter를 만들었는데.. 쫓겨났다?\n\n노아 글래스는 전화로 녹음해 블로그에 올리는 AudBlog로 시작해 팟캐스트 회사 Odeo를 세웠고, Odeo가 Apple에 밀리자, 잭 도시의 '상태 알리기' 아이디어를 사람들을 덜 외롭게 하는 서비스로 키웠어요. 사전에서 'twitter'라는 단어를 찾아 이름도 지었지만, 첫 메시지가 올라간 지 넉 달 만에 자기가 이름 붙인 회사에서 해고됐어요.\n\n🔗 Twitter 시리즈. Odeo를 함께 세우고 Twitter CEO가 된 에반 윌리엄스 이야기는 #35, 첫 트윗을 보낸 잭 도시 이야기는 #36에서 이어져요.\n\n💬 여러분의 첫 트윗은 무엇이었나요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Noah Glass\n- Business Insider, What Happened To Forgotten Twitter Co-Founder Noah Glass (2013.10)\n- Fast Company, Noah Glass: Twitter's Long Lost Winklevoss (2011.04.13)\n- IBTimes, Who Is Noah Glass? 9 Things To Know About Ousted Twitter Founder (2013.10)\n- The Week, One of Twitter's masterminds won't be getting rich off Twitter (2013)\n- NPR, Nick Bilton On Twitter's Creation Myth & 'Forgotten Founder' (2013.11.07)\n- TechCrunch, Odeo Bought Back From Investors (2006.10)\n- Business Insider, The Real History Of Twitter (2011.04)\n- Literary Hub, On the Unlikely Origins of Twitter (2018)\n- NBC News, Blogging for the eyes and ears (2004)\n- Poynter, Listen in on a weblog (2003.03.14)\n- GigaOm, AudioBlogger on Odeo, Finished (2006.10)\n- Nick Bilton, Hatching Twitter (2013)\n\n#기업집중탐구 #노아글래스 #트위터 #Twitter #창업 #창업스토리 #스타트업 #자기계발"
+  "caption": "Twitter를 만들었는데.. 쫓겨났다?\n\n노아 글래스는 전화로 녹음해 블로그에 올리는 AudBlog로 시작해 팟캐스트 회사 Odeo를 세웠고, Odeo가 Apple에 밀리자, 잭 도시의 '상태 알리기' 아이디어를 사람들을 덜 외롭게 하는 서비스로 키웠어요. 사전에서 'twitter'라는 단어를 찾아 이름도 지었지만, 첫 메시지가 올라간 지 넉 달 만에 자기가 이름 붙인 회사에서 해고됐어요.\n\n🔗 Twitter 시리즈. Odeo를 함께 세우고 Twitter CEO가 된 에반 윌리엄스 이야기는 #35, 첫 트윗을 보낸 잭 도시 이야기는 #36에서 이어져요.\n\n💬 여러분의 첫 트윗은 무엇이었나요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Noah Glass\n- Business Insider, What Happened To Forgotten Twitter Co-Founder Noah Glass (2013.10)\n- Fast Company, Noah Glass: Twitter's Long Lost Winklevoss (2011.04.13)\n- IBTimes, Who Is Noah Glass? 9 Things To Know About Ousted Twitter Founder (2013.10)\n- The Week, One of Twitter's masterminds won't be getting rich off Twitter (2013)\n- NPR, Nick Bilton On Twitter's Creation Myth & 'Forgotten Founder' (2013.11.07)\n- TechCrunch, Odeo Bought Back From Investors (2006.10)\n- Business Insider, The Real History Of Twitter (2011.04)\n- Literary Hub, On the Unlikely Origins of Twitter (2018)\n- NBC News, Blogging for the eyes and ears (2004)\n- Poynter, Listen in on a weblog (2003.03.14)\n- GigaOm, AudioBlogger on Odeo, Finished (2006.10)\n- Nick Bilton, Hatching Twitter (2013)\n- 장별 회사 가치: Odeo 투자금 500만 달러와, 2006년 10월 윌리엄스가 투자금 약 500만 달러를 돌려주고 되산 값으로 추정\n\n#기업집중탐구 #노아글래스 #트위터 #Twitter #창업 #창업스토리 #스타트업 #자기계발"
 }

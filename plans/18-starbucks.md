@@ -168,5 +168,6 @@ Peet's 인수로 빚이 커졌고 동업자 바우커도 떠났다.
 - Starbucks Company Timeline (Starbucks 공식)
 - Fox Business, History of Starbucks (2023)
 - Funding Universe, Starbucks Corporation History / St. Mary's Univ. StMU Research Scholars (에스프레소 바 손님 수, 슐츠 회고록 인용)
+- 장별 회사 가치: 비상장이라 시작 자금(약 9,500달러)과 연 매출 1배로 추정(1981년 440만, 1984년 650만, Peet's 인수 뒤 두 회사 합계 1,200만 달러), 1987년은 슐츠 측에 판 값
 
 #기업집중탐구 #제리볼드윈 #스타벅스 #Starbucks #창업 #창업스토리 #커피 #자기계발

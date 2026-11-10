@@ -140,5 +140,6 @@ Apple은 1980년 12월 상장 첫날 회사 가치가 약 18억 달러가 됐고
 - Wikipedia, Apple Inc. (1980 상장, 2018 시가총액 1조 달러)
 - KQED, Sotheby's auctioning Apple Computer's founding contract
 - Fortune, Steve Jobs sold his Volkswagen to raise $1,300 (2025.12)
+- 장별 회사 가치: 웨인이 10% 지분을 800달러에 넘긴 값으로 셈한 약 8,000달러(추정)
 
 #기업집중탐구 #로널드웨인 #애플 #Apple #창업 #창업스토리 #스티브잡스 #자기계발

@@ -161,5 +161,6 @@ Twitter를 만들었는데.. 쫓겨났다?
 - Poynter, Listen in on a weblog (2003.03.14)
 - GigaOm, AudioBlogger on Odeo, Finished (2006.10)
 - Nick Bilton, Hatching Twitter (2013)
+- 장별 회사 가치: Odeo 투자금 500만 달러와, 2006년 10월 윌리엄스가 투자금 약 500만 달러를 돌려주고 되산 값으로 추정
 
 #기업집중탐구 #노아글래스 #트위터 #Twitter #창업 #창업스토리 #스타트업 #자기계발
