@@ -16,10 +16,10 @@
         "기업인집중탐구 #20"
       ],
       "sticker": {
-        "src": "20-twitter/photos/sticker-glass.png",
-        "size": 340,
-        "right": 60,
-        "top": 180
+        "src": "20-twitter/photos/sticker-twitter.png",
+        "size": 240,
+        "right": 50,
+        "top": 90
       }
     },
     {
