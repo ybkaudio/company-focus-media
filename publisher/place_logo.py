@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""표지 로고 스티커를 인물 줄 오른쪽(중심 820,1137)에 글자와 안 겹치게 배치. 사용: python3 publisher/place_logo.py 19-apple-wayne ..."""
+"""표지 로고 스티커를 인물 줄 오른쪽(가로 중심 820, 세로 중심 = 인물 줄과 기업집중탐구 줄 사이 가운데, 11/11 사용자)에 글자와 안 겹치게 배치. 사용: python3 publisher/place_logo.py 19-apple-wayne ..."""
 import json,sys,pathlib
 import os; os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))); sys.path.insert(0,'.')
 import render
@@ -18,6 +18,7 @@ with sync_playwright() as pw:
             if c.exists() and not s.get('photo'): s['photo']=str(c.relative_to(p.parent))
         pg.set_content(f'<html><head><meta charset="utf-8"><style>:root{{--a:{ep["accent"]}}}{render.CSS}</style></head><body>{render.slide_html(ep,s,1,len(ep["slides"]),p.parent)}</body></html>')
         rects=pg.evaluate("""()=>{const out=[];for(const q of ['.txt h1','.txt p','.txt .who','.txt .handle']){for(const el of document.querySelectorAll(q)){const rg=document.createRange();rg.selectNodeContents(el);for(const r of rg.getClientRects())out.push([r.left,r.top,r.right,r.bottom]);}}return out;}""")
+        CY=pg.evaluate("""()=>{const a=document.querySelector('.txt .who').getBoundingClientRect(),b=document.querySelector('.txt p').getBoundingClientRect();return (a.bottom+b.top)/2}""")
         im=Image.open(p.parent/k['src']); asp=im.height/im.width
         maxw=260 if asp>0.6 else 360
         w=maxw
