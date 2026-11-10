@@ -71,7 +71,7 @@ Apple I 사용 설명서도 그가 썼다.
 
 📷 **Photo:** Apple I computer board, 1976 (or the Byte Shop store in Mountain View)
 
-**제목:** Byte Shop에서 받은 첫 주문 50대
+**제목:** 바이트숍에서 첫 대량 주문을 받다
 
 컴퓨터 가게 <Byte Shop>이 조립된 Apple I 50대를 한 대 500달러에 주문했다.
 
