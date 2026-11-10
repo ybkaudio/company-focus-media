@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Reed Hastings with Netflix logo behind him, 2000s-2010s (logo visible, so no sticker)
+📷 **Photo:** Reed Hastings with Netflix logo behind him, 2000s-2010s (logo visible, so no sticker) / COVER LOGO: Netflix logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
 **제목:** 우편 DVD에서 시작한 1,500억 달러 회사
 

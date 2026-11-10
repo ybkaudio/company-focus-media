@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Andy Rubin holding an early Android phone (T-Mobile G1), 2008, with Android logo visible (if no logo, production adds an Android logo sticker)
+📷 **Photo:** Andy Rubin holding an early Android phone (T-Mobile G1), 2008, with Android logo visible (if no logo, production adds an Android logo sticker) / COVER LOGO: Android logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
 **제목:** 카메라 운영체제에서 세계 1위 스마트폰 OS로
 

@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Howard Schultz holding a Starbucks cup in a Starbucks store, 1990s-2000s (logo visible, so no sticker)
+📷 **Photo:** Howard Schultz holding a Starbucks cup in a Starbucks store, 1990s-2000s (logo visible, so no sticker) / COVER LOGO: Starbucks logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
 **제목:** 주방용품 판매원이 키운 1,130억 달러 커피 체인
 

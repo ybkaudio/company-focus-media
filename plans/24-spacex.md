@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Elon Musk at SpaceX factory with Falcon 1 or Falcon 9 behind him, 2000s (SpaceX logo visible, so no sticker)
+📷 **Photo:** Elon Musk at SpaceX factory with Falcon 1 or Falcon 9 behind him, 2000s (SpaceX logo visible, so no sticker) / COVER LOGO: SpaceX logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
 **제목:** 화성 화분 계획에서 시작한 2조 달러 로켓 회사
 

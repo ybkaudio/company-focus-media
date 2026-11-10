@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Colonel Harland Sanders in white suit with KFC sign or bucket, 1960s (KFC logo visible, so no sticker; if no logo, production adds a KFC logo sticker)
+📷 **Photo:** Colonel Harland Sanders in white suit with KFC sign or bucket, 1960s (KFC logo visible, so no sticker; if no logo, production adds a KFC logo sticker) / COVER LOGO: KFC logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
 **제목:** 주유소 식당에서 시작한 600개 매장 치킨 체인
 

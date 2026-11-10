@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Tom Anderson ("Tom from Myspace") with Myspace logo, mid-2000s (if no logo visible, production adds a Myspace logo sticker)
+📷 **Photo:** Tom Anderson ("Tom from Myspace") with Myspace logo, mid-2000s (if no logo visible, production adds a Myspace logo sticker) / COVER LOGO: Myspace logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
 **제목:** 열흘 만에 시작한 미국 1위 웹사이트
 

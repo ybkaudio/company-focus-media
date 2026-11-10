@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Frank Carney portrait (1960s-70s; cover Pizza Hut logo sticker, please also send a Pizza Hut logo image)
+📷 **Photo:** Frank Carney portrait (1960s-70s; cover Pizza Hut logo sticker, please also send a Pizza Hut logo image) / COVER LOGO: Pizza Hut logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
 **제목:** 600달러로 시작한 세계 1위 피자 체인
 

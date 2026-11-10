@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Ray Kroc in front of a McDonald's restaurant with golden arches, late 1950s-1960s (logo visible, so no sticker)
+📷 **Photo:** Ray Kroc in front of a McDonald's restaurant with golden arches, late 1950s-1960s (logo visible, so no sticker) / COVER LOGO: McDonald's logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
 **제목:** 믹서 판매원에서 시작한 7,500개 매장 체인
 

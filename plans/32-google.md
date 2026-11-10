@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Larry Page and Sergey Brin together with Google logo, around 1999-2003 (if no logo visible, production adds a Google logo sticker)
+📷 **Photo:** Larry Page and Sergey Brin together with Google logo, around 1999-2003 (if no logo visible, production adds a Google logo sticker) / COVER LOGO: Google logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
 **제목:** 박사 연구에서 시작한 9천억 달러 검색 회사
 

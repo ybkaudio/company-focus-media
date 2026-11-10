@@ -11,8 +11,10 @@
       "type": "cover",
       "photo": null,
       "title": "블로그 도구에서 시작한\n10억 달러 SNS",
-      "body": ["기업집중탐구 #35"],
-      "photo_hint": "Evan Williams with Twitter logo, around 2009-2010 (if no logo visible, production adds a Twitter bird logo sticker)"
+      "body": [
+        "기업집중탐구 #35"
+      ],
+      "photo_hint": "Evan Williams with Twitter logo, around 2009-2010 (if no logo visible, production adds a Twitter bird logo sticker) / COVER LOGO: Twitter logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)"
     },
     {
       "index": "01 · 배경",
@@ -156,8 +158,16 @@
       ],
       "photo_hint": "Evan Williams portrait around 2010",
       "stats": [
-        {"cap": "떠날 때 회사 가치 (업계 추정, 2010년 10월)", "num": "약 10", "unit": "억 달러"},
-        {"cap": "Twitter 시작부터 떠날 때까지", "num": "약 4", "unit": "년"}
+        {
+          "cap": "떠날 때 회사 가치 (업계 추정, 2010년 10월)",
+          "num": "약 10",
+          "unit": "억 달러"
+        },
+        {
+          "cap": "Twitter 시작부터 떠날 때까지",
+          "num": "약 4",
+          "unit": "년"
+        }
       ]
     },
     {

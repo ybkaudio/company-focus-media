@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Evan Williams with Twitter logo, around 2009-2010 (if no logo visible, production adds a Twitter bird logo sticker)
+📷 **Photo:** Evan Williams with Twitter logo, around 2009-2010 (if no logo visible, production adds a Twitter bird logo sticker) / COVER LOGO: Twitter logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
 **제목:** 블로그 도구에서 시작한 10억 달러 SNS
 

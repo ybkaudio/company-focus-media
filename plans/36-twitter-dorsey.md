@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Jack Dorsey with Twitter logo, around 2015-2021 (if no logo visible, production adds a Twitter bird logo sticker)
+📷 **Photo:** Jack Dorsey with Twitter logo, around 2015-2021 (if no logo visible, production adds a Twitter bird logo sticker) / COVER LOGO: Twitter logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
 **제목:** 배차 프로그램에서 370억 달러 SNS로
 

@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Young Elon Musk with the first Tesla Roadster, around 2008 (Tesla logo visible, so no sticker)
+📷 **Photo:** Young Elon Musk with the first Tesla Roadster, around 2008 (Tesla logo visible, so no sticker) / COVER LOGO: Tesla logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
 **제목:** 650만 달러 투자로 시작한 1.6조 달러 전기차 회사
 

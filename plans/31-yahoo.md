@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Jerry Yang (with David Filo, crop if needed) and Yahoo! logo, late 1990s (if no logo visible, production adds a Yahoo! logo sticker)
+📷 **Photo:** Jerry Yang (with David Filo, crop if needed) and Yahoo! logo, late 1990s (if no logo visible, production adds a Yahoo! logo sticker) / COVER LOGO: Yahoo logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
 **제목:** 사이트 목록에서 시작한 1,250억 달러 포털
 

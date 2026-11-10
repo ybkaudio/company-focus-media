@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Peter Thiel portrait around 2000-2002 with PayPal logo visible (if no logo, production adds a PayPal logo sticker)
+📷 **Photo:** Peter Thiel portrait around 2000-2002 with PayPal logo visible (if no logo, production adds a PayPal logo sticker) / COVER LOGO: PayPal logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
 **제목:** 10만 달러 투자로 시작한 15억 달러 결제 회사
 
