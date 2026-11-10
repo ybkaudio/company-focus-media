@@ -8,7 +8,7 @@
 
 📷 **Photo:** Kevin Systrom portrait around 2012 (Instagram CEO period)
 
-**제목:** 체크인 앱에서 10억 명의 사진 앱으로
+**제목:** 체크인 앱에서 시작한 10억 명의 사진 앱
 
 기업인집중탐구 #21
 
@@ -17,7 +17,7 @@
 
 📷 **Photo:** Holga toy camera with a square film photo (or Florence street photo, mid-2000s)
 
-**제목:** 피렌체에서 만난 네모난 장난감 카메라
+**제목:** 피렌체의 장난감 카메라로 네모난 사진에 빠지다
 
 스탠퍼드에서 경영과학을 공부하던 케빈 시스트롬은 3학년 겨울 학기에 이탈리아 피렌체에서 사진을 배웠다.
 
@@ -30,7 +30,7 @@
 
 📷 **Photo:** Google campus in Mountain View, 2006-2008 (or Odeo office, 2005)
 
-**제목:** Odeo 인턴에서 Google 마케터로
+**제목:** Odeo 인턴을 거쳐 Google에서 마케팅을 맡다
 
 졸업 전 여름, 그는 팟캐스트 회사 <Odeo>에서 인턴을 하며 훗날 Twitter를 만드는 에번 윌리엄스, 잭 도시와 함께 일했다.
 
@@ -43,7 +43,7 @@
 
 📷 **Photo:** Early Burbn app screenshot (2010)
 
-**제목:** 밤마다 익힌 코딩으로 만든 체크인 앱 Burbn
+**제목:** 밤마다 코딩을 익혀 체크인 앱 Burbn을 만들다
 
 Nextstop에 다니며 밤마다 코딩을 익힌 그는 위치 체크인과 사진 공유를 합친 앱을 직접 만들었다.
 
@@ -56,7 +56,7 @@ Nextstop에 다니며 밤마다 코딩을 익힌 그는 위치 체크인과 사�
 
 📷 **Photo:** Kevin Systrom and Mike Krieger together, early Instagram days (2010)
 
-**제목:** 회사를 나온 지 2주 만에 50만 달러를 받다
+**제목:** 회사를 나온 지 2주 만에 50만 달러를 투자받다
 
 시제품을 본 투자자들이 관심을 보이자 그는 회사를 그만뒀다.
 
@@ -69,7 +69,7 @@ Nextstop에 다니며 밤마다 코딩을 익힌 그는 위치 체크인과 사�
 
 📷 **Photo:** Whiteboard sketch or early Instagram prototype (2010)
 
-**제목:** 기능이 너무 많은 Burbn, 사진만 남기다
+**제목:** 사용자를 보고 사진만 남겨 덜어 내다
 
 Burbn은 이미 인기를 끌던 체크인 앱 <Foursquare>와 너무 비슷했고, 기능이 많아 쓰기 어려웠다.
 
@@ -82,7 +82,7 @@ Burbn은 이미 인기를 끌던 체크인 앱 <Foursquare>와 너무 비슷했�
 
 📷 **Photo:** Early Instagram filter selection screen on an iPhone 4 (X-Pro II filter)
 
-**제목:** 흐린 휴대폰 사진을 살린 필터 하나
+**제목:** 흐린 휴대폰 사진을 살리는 필터를 만들다
 
 여자 친구 니콜이 휴대폰으로 찍은 사진이 예쁘게 나오지 않는다고 하자, 그는 첫 필터 'X-Pro II'를 만들었다.
 
@@ -95,7 +95,7 @@ Burbn은 이미 인기를 끌던 체크인 앱 <Foursquare>와 너무 비슷했�
 
 📷 **Photo:** Instagram 1.0 app icon and App Store page, October 2010
 
-**제목:** 출시 첫날 2만 5천 명이 몰리다
+**제목:** 출시 첫날 2만 5천 명이 내려받다
 
 '즉석카메라(instant camera)'와 '전보(telegram)'를 합쳐 이름을 <Instagram>으로 바꿨다.
 
@@ -110,7 +110,7 @@ Burbn은 이미 인기를 끌던 체크인 앱 <Foursquare>와 너무 비슷했�
 
 📷 **Photo:** Instagram Android launch, April 2012 (Google Play listing or news photo)
 
-**제목:** Android 출시 하루 만에 100만 다운로드
+**제목:** Android로 넓혀 하루 만에 100만 번 내려받다
 
 2011년 2월 투자사 <Benchmark> 등에서 약 700만 달러를 받았다.
 
@@ -123,7 +123,7 @@ iPhone 전용이던 앱을 2012년 4월 3일 Android로 내놓자 하루도 안 
 
 📷 **Photo:** Kevin Systrom and Mark Zuckerberg, 2012 (or Facebook acquires Instagram news photo)
 
-**제목:** 직원 13명 회사, 10억 달러에 팔리다
+**제목:** 직원 13명으로 10억 달러에 팔리다
 
 2012년 4월 9일 <Facebook>이 현금과 주식 10억 달러에 Instagram을 사겠다고 발표했다.
 
@@ -136,7 +136,7 @@ iPhone 전용이던 앱을 2012년 4월 3일 Android로 내놓자 하루도 안 
 
 📷 **Photo:** First Instagram sponsored post in the feed, November 2013 (screenshot)
 
-**제목:** 15초 동영상과 첫 광고
+**제목:** 동영상과 광고를 더해 돈을 벌기 시작하다
 
 2013년 6월 15초짜리 동영상을 올리는 기능을 더했다.
 
@@ -149,7 +149,7 @@ iPhone 전용이던 앱을 2012년 4월 3일 Android로 내놓자 하루도 안 
 
 📷 **Photo:** Instagram Stories launch, August 2016 (Stories bar at the top of the app)
 
-**제목:** 24시간 뒤 사라지는 "Stories"
+**제목:** 사라지는 사진을 빠르게 들여 Stories를 내놓다
 
 2016년 8월 24시간이 지나면 사라지는 사진·동영상 기능 <Stories>를 내놓았다.
 
@@ -162,7 +162,7 @@ Stories 사용자는 두 달 만에 1억 명, 2017년 4월 2억 명이 되며 Sn
 
 📷 **Photo:** Kevin Systrom on stage at the IGTV launch event, June 2018
 
-**제목:** 출시 8년 만에 사용자 10억 명
+**제목:** 출시 8년 만에 사용자 10억 명을 넘기다
 
 2018년 6월 Instagram의 월간 사용자가 10억 명을 넘었다.
 
@@ -177,7 +177,7 @@ Stories 사용자는 두 달 만에 1억 명, 2017년 4월 2억 명이 되며 Sn
 
 📷 **Photo:** Kevin Systrom portrait, 2018
 
-**제목:** Facebook과의 갈등, Instagram을 떠나다
+**제목:** 저커버그와 부딪치고 Instagram을 떠나다
 
 - **약 1,000억 달러** — 회사 가치 (블룸버그 인텔리전스 추정, 2018년)
 - **약 8년** — Instagram 출시부터 떠날 때까지
@@ -202,7 +202,7 @@ Stories 사용자는 두 달 만에 1억 명, 2017년 4월 2억 명이 되며 Sn
 
 ## 설명란 (캡션)
 
-체크인 앱에서 10억 명의 사진 앱으로.
+체크인 앱에서 시작한 10억 명의 사진 앱.
 
 케빈 시스트롬은 체크인 앱 Burbn에서 사람들이 사진만 올린다는 걸 보고 나머지를 모두 덜어 냈어요. 흐린 휴대폰 사진을 살리는 필터로 출시 첫날 2만 5천 명이 몰렸고, 직원 13명일 때 Facebook에 10억 달러에 팔렸어요. 그 뒤에도 Stories로 사용자 10억 명을 넘긴 뒤 떠났어요.
 

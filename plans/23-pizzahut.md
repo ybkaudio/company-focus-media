@@ -8,7 +8,7 @@
 
 📷 **Photo:** Frank Carney portrait (1960s-70s; cover Pizza Hut logo sticker, please also send a Pizza Hut logo image)
 
-**제목:** 600달러에서 세계 1위 피자 체인으로
+**제목:** 600달러로 시작한 세계 1위 피자 체인
 
 기업인집중탐구 #23
 
@@ -30,7 +30,7 @@
 
 📷 **Photo:** Original Pizza Hut sign on the first store in Wichita (or the Carney brothers at the first store)
 
-**제목:** 간판에 들어갈 여덟 글자, Pizza Hut
+**제목:** 여덟 글자 간판에 맞춰 Pizza Hut이라 짓다
 
 1958년 5월 31일 위치토에 첫 가게를 열었다.
 
@@ -43,7 +43,7 @@
 
 📷 **Photo:** Pizza Hut franchise store, Topeka, Kansas (late 1950s-60s)
 
-**제목:** 은행이 믿지 않아도 가맹점을 내주다
+**제목:** 가맹점주의 돈으로 3년 만에 140곳으로 늘리다
 
 위치토의 은행들은 피자 가게를 미덥지 않게 봤다.
 
@@ -56,7 +56,7 @@
 
 📷 **Photo:** Classic red-roof Pizza Hut restaurant building, late 1960s-70s
 
-**제목:** 빨간 지붕, 어디서나 같은 가게
+**제목:** 빨간 지붕을 통일해 어디서나 같은 가게를 만들다
 
 가맹점이 늘면서 Pizza Hut은 빨간 지붕을 얹은 같은 모양의 건물을 매장 표준으로 정했다.
 
@@ -69,7 +69,7 @@
 
 📷 **Photo:** Frank Carney as Pizza Hut president, 1969-1973 (or Pizza Hut stock certificate)
 
-**제목:** 사장이 되어 주식시장에 오르다
+**제목:** 사장을 맡아 회사를 상장시키다
 
 1969년 프랭크는 사장을 맡았고, 같은 해 회사를 주식시장에 상장했다.
 
@@ -82,7 +82,7 @@
 
 📷 **Photo:** Busy Pizza Hut restaurant interior, 1970s
 
-**제목:** 매장 수와 매출 모두 세계 1위 피자 체인
+**제목:** 매장 수와 매출 모두 세계 1위에 오르다
 
 1971년 Pizza Hut은 매장 수와 매출 모두에서 세계 1위 피자 체인이 됐다.
 
@@ -95,7 +95,7 @@
 
 📷 **Photo:** PepsiCo and Pizza Hut, 1977 (news photo or Pizza Hut sign with PepsiCo era branding)
 
-**제목:** PepsiCo에 3억 2천만 달러로
+**제목:** PepsiCo에 3억 2천만 달러에 팔다
 
 1977년 11월 음료·식품 회사 <PepsiCo>가 주식 3억 2천만 달러어치로 Pizza Hut을 인수했다.
 
@@ -133,7 +133,7 @@
 
 ## 설명란 (캡션)
 
-어머니에게 빌린 600달러에서 세계 1위 피자 체인으로.
+어머니에게 빌린 600달러로 시작한 세계 1위 피자 체인.
 
 프랭크 카니는 열아홉 살에 형과 함께 빈 건물에 피자 가게를 열었어요. 은행이 믿어 주지 않자 가맹점으로 매장을 늘렸고, 빨간 지붕 건물을 표준으로 삼아 13년 만에 세계 1위 피자 체인을 만들었어요. 1977년 PepsiCo에 회사를 판 뒤 1980년 피자 업계를 떠났어요.
 
