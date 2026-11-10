@@ -23,16 +23,19 @@ jobs:
       - uses: actions/checkout@v4
       - name: 게시할 편 확인
         id: due
+        env:
+          HAS_TOKEN: ${{ secrets.IG_TOKEN != '' }}
         run: |
+          if [ "$HAS_TOKEN" != "true" ]; then echo "run=0" >> "$GITHUB_OUTPUT"; echo "IG_TOKEN 없음: 직접 게시 꺼짐(Aside 사용 중)"; exit 0; fi
           python3 - <<'PY' >> "$GITHUB_OUTPUT"
           import json, datetime as dt
           s = json.load(open("publisher/schedule.json")); st = json.load(open("publisher/published.json"))
           now = dt.datetime.now(dt.timezone.utc)
           due = [i for i in s if dt.datetime.fromisoformat(i["at"]) <= now and st.get(i["folder"].rstrip("/"), {}).get("status") not in ("published", "skipped")]
-          print("run=" + ("1" if due else "0"))
+          print("run=" + ("1" if due or "${{ github.event_name }}" == "workflow_dispatch" else "0"))
           PY
       - name: 게시
-        if: steps.due.outputs.run == '1' || github.event_name == 'workflow_dispatch'
+        if: steps.due.outputs.run == '1'
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
@@ -40,7 +43,7 @@ jobs:
           ONLY: ${{ inputs.only }}
         run: python3 publisher/ig_publish.py
       - name: 게시 기록 저장
-        if: always() && (steps.due.outputs.run == '1' || github.event_name == 'workflow_dispatch')
+        if: always() && steps.due.outputs.run == '1'
         run: |
           git config user.name "ig-publisher"; git config user.email "actions@users.noreply.github.com"
           if ! git diff --quiet publisher/published.json; then

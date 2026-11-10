@@ -1,3 +1,58 @@
 [
-  {"at": "2026-11-12T00:00:00+09:00", "folder": "posts/11-paypal-final", "note": "#11 일론 머스크·PayPal 12장"}
+ {
+  "at": "2026-11-12T00:00:00+09:00",
+  "folder": "posts/11-paypal-final",
+  "episode": "#11 일론 머스크·PayPal",
+  "count": 12,
+  "first_line": "PayPal, 일론 머스크의 시작."
+ },
+ {
+  "at": "2026-11-12T12:00:00+09:00",
+  "folder": "posts/12-fedex-final",
+  "episode": "#12 FedEx",
+  "count": 15,
+  "first_line": "대학 리포트에서 시작한 세계 최대 화물 항공사."
+ },
+ {
+  "at": "2026-11-13T12:00:00+09:00",
+  "folder": "posts/14-amazon-final",
+  "episode": "#14 Amazon",
+  "count": 14,
+  "first_line": "차고에서 Amazon을 만들다."
+ },
+ {
+  "at": "2026-11-14T00:00:00+09:00",
+  "folder": "posts/15-nike-knight-final",
+  "episode": "#15 Nike 필 나이트",
+  "count": 11,
+  "first_line": "코치의 제자였던 회계사 청년이 Nike를 키우기까지."
+ },
+ {
+  "at": "2026-11-14T12:00:00+09:00",
+  "folder": "posts/16-hyundai-final",
+  "episode": "#16 현대 정주영",
+  "count": 15,
+  "first_line": "70원 훔쳐 가출한 소년, 자산 89조 그룹을 만들다."
+ },
+ {
+  "at": "2026-11-15T00:00:00+09:00",
+  "folder": "posts/17-samsung-final",
+  "episode": "#17 삼성 이병철",
+  "count": 11,
+  "first_line": "국수 공장 주인이 삼성을 세우기까지."
+ },
+ {
+  "at": "2026-11-17T00:00:00+09:00",
+  "folder": "posts/21-instagram-final",
+  "episode": "#21 Instagram 시스트롬",
+  "count": 15,
+  "first_line": "체크인 앱에서 시작한 10억 명의 사진 앱."
+ },
+ {
+  "at": "2026-11-18T00:00:00+09:00",
+  "folder": "posts/23-facebook-zuckerberg-final",
+  "episode": "#23 저커버그",
+  "count": 19,
+  "first_line": "기숙사 방의 사이트는 어떻게 하루 36억 명이 쓰는 회사가 됐을까요?"
+ }
 ]
