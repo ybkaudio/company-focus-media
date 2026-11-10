@@ -17,9 +17,9 @@
       ],
       "sticker": {
         "src": "18-starbucks/sticker.png",
-        "size": 100,
-        "right": 60,
-        "top": 811
+        "size": 280,
+        "right": 400,
+        "top": 345
       }
     },
     {
@@ -32,7 +32,9 @@
         "1970년 12월 제리 볼드윈과 바우커는 버클리의 원두 가게 <Peet's>에서 잠깐 일하며 앨프리드 피트에게 커피를 배웠다.",
         "피트는 이들이 가게를 열면 볶은 원두를 대 주기로 했다."
       ],
-      "photo_hint": "Alfred Peet at Peet's Coffee & Tea in Berkeley, 1960s–1970s"
+      "photo_hint": "Alfred Peet at Peet's Coffee & Tea in Berkeley, 1960s–1970s",
+      "bgsize": "1080px auto",
+      "bgpos": "center top"
     },
     {
       "index": "02 · 창업",
