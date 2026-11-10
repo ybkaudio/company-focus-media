@@ -87,7 +87,9 @@
         "머스크는 기술 책임자(CTO)로 물러났다.",
         "1998년 경쟁사 CitySearch와의 합병은 그가 이사회를 설득해 막았다."
       ],
-      "photo_hint": "Zip2 office or Elon and Kimbal Musk at Zip2, 1996-1998"
+      "photo_hint": "Zip2 office or Elon and Kimbal Musk at Zip2, 1996-1998",
+      "bgsize": "1080px auto",
+      "bgpos": "center top"
     },
     {
       "index": "06 · 매각",
@@ -99,7 +101,8 @@
         "지분 7%를 가진 그는 2,200만 달러를, 동생 킴벌은 1,500만 달러를 받았다.",
         "이 돈이 다음 회사의 밑천이 됐다."
       ],
-      "photo_hint": "Compaq logo / Compaq–Zip2 acquisition news, 1999 (or young Musk with his first sports car bought with the proceeds)"
+      "photo_hint": "Compaq logo / Compaq–Zip2 acquisition news, 1999 (or young Musk with his first sports car bought with the proceeds)",
+      "bgpos": "right top"
     },
     {
       "index": "07 · 창업",
@@ -161,7 +164,8 @@
         "가입자는 100만 명을 넘었지만, 보너스와 사기 손실로 돈이 빠르게 나가던 때였다.",
         "그 직후 인터넷 기업 주가가 내려앉아 투자 유치가 어려워졌고, 회사는 이 돈으로 버텼다."
       ],
-      "photo_hint": "X.com / PayPal office in Palo Alto, 2000"
+      "photo_hint": "X.com / PayPal office in Palo Alto, 2000",
+      "bgpos": "left top"
     },
     {
       "index": "12 · 위기",
