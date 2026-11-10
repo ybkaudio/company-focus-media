@@ -1,0 +1,280 @@
+# 기업집중탐구 #23 · 마크 저커버그 (Facebook)
+
+> 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
+
+🎵 **추천 음악:** Hand Covers Bruise – Trent Reznor & Atticus Ross (영화 '소셜 네트워크' 테마) / 없으면 검색어 'the social network'
+
+## 01.jpg · 표지
+
+📷 **Photo:** Mark Zuckerberg in his Harvard dorm room, 2004 (the dorm photo you sent for #22 works; well-known founder, so no logo sticker)
+
+**제목:** 기숙사 방에서 시작한 하루 36억 명의 Meta
+
+기업집중탐구 #23
+
+
+## 02.jpg · 01 · 배경
+
+📷 **Photo:** Young Mark Zuckerberg at a computer, 1990s (or Zuckerberg family home in Dobbs Ferry, NY)
+
+**제목:** 아버지 치과에 메신저를 만들어 주다
+
+뉴욕 교외에서 치과 의사 아버지와 정신과 의사 어머니 사이에서 태어난 마크 저커버그는 어릴 때부터 프로그래밍을 배웠다.
+
+12세에 집과 아버지 치과의 컴퓨터를 잇는 메신저 'ZuckNet'을 만들어, 접수 직원이 소리치지 않고 환자가 왔다고 알릴 수 있게 했다.
+
+사람들이 실제로 쓰는 소통 도구를 직접 만드는 경험은 이때 시작됐다.
+
+
+## 03.jpg · 02 · 배경
+
+📷 **Photo:** Phillips Exeter Academy campus, early 2000s (or Synapse Media Player screenshot)
+
+**제목:** 음악 앱을 만들어 인수 제안을 거절하다
+
+고등학생 때 친구와 함께 사용자의 음악 취향을 익혀 다음 곡을 골라 주는 프로그램 'Synapse'를 만들었다.
+
+Microsoft와 AOL이 프로그램을 사고 그를 채용하겠다고 했지만, 그는 거절하고 2002년 하버드에 들어갔다.
+
+사용자의 행동을 보고 맞춰 주는 프로그램이라는 생각은 훗날 Facebook에도 이어졌다.
+
+
+## 04.jpg · 03 · 계기
+
+📷 **Photo:** Facemash website screenshot, November 2003 (or Kirkland House, Harvard)
+
+**제목:** 하룻밤 만든 Facemash, 몇 시간 만에 2만 2천 표
+
+2003년 11월 그는 기숙사 사진 명부의 학생 얼굴 두 장을 나란히 놓고 고르게 하는 사이트 'Facemash'를 하룻밤에 만들었다.
+
+몇 시간 만에 450명 가까이가 들어와 2만 2천 번 넘게 투표했다.
+
+학교는 허락 없이 사진을 썼다며 사이트를 막고 그를 징계 위원회에 세웠지만, 학생들이 온라인에서 서로를 보고 싶어 한다는 것이 드러났다.
+
+
+## 05.jpg · 04 · 계기
+
+📷 **Photo:** Winklevoss twins at Harvard, mid-2000s
+
+**제목:** 선배들의 사이트를 맡고, 자기 사이트를 먼저 열다
+
+같은 무렵 하버드 선배 윙클보스 쌍둥이와 디비야 나렌드라가 하버드 학생 교류 사이트 'HarvardConnection' 개발을 그에게 맡겼다.
+
+저커버그는 그 일을 미루면서 자기 사이트를 따로 만들어 먼저 열었다.
+
+선배들은 아이디어를 훔쳤다며 소송을 냈고, 2008년 Facebook이 현금 2천만 달러와 주식을 주는 것으로 합의했다(당시 가치 약 6,500만 달러).
+
+
+## 06.jpg · 05 · 창업
+
+📷 **Photo:** TheFacebook profile page, 2004 (screenshot; the Mark Zuckerberg profile screen you sent for #22 works)
+
+**제목:** 하버드 학생만 받아 한 달 만에 절반이 가입
+
+2004년 2월 4일 기숙사 방에서 하버드 학생끼리 프로필을 보는 사이트 <TheFacebook>을 열었다.
+
+첫 자금은 친구 에두아르도 세버린(#22 주인공)이 댔다.
+
+하버드 이메일이 있어야 가입할 수 있고 실명을 썼기 때문에, 학생들은 실제로 아는 사람의 진짜 정보라 믿고 썼다.
+
+하루 만에 1,200명 넘게 가입했고, 한 달 안에 하버드 학부생 절반 이상이 들어왔다.
+
+
+## 07.jpg · 06 · 성장
+
+📷 **Photo:** Early TheFacebook college list or campus students using it, 2004
+
+**제목:** 학교를 하나씩 열어 10개월 만에 100만 명
+
+3월 스탠퍼드·컬럼비아·예일에 열었고, 이어 아이비리그와 보스턴 지역 대학, 미국·캐나다 대부분의 대학으로 넓혔다.
+
+한 학교씩 열면 그 학교 학생들이 친구를 따라 한꺼번에 들어와, 학교마다 빠르게 자리를 잡았다.
+
+2004년 12월 사용자가 100만 명을 넘었다.
+
+
+## 08.jpg · 07 · 자금
+
+📷 **Photo:** Palo Alto house used as Facebook's first office, 2004 (or Zuckerberg with Sean Parker)
+
+**제목:** 팔로알토로 옮겨 틸에게 50만 달러를 받다
+
+여름방학에 캘리포니아 팔로알토로 옮겨 개발에 집중했고, <Napster>를 만든 숀 파커가 합류해 회사 운영과 투자 유치를 맡았다.
+
+PayPal 공동 창업자 피터 틸이 50만 달러를 넣고 회사의 10.2%를 받았다.
+
+이 과정에서 세버린은 회사에서 밀려났다(#22).
+
+2005년에는 투자사 <Accel>이 1,270만 달러를 넣었고, 회사 가치는 9,800만 달러로 평가됐다.
+
+
+## 09.jpg · 08 · 확장
+
+📷 **Photo:** Facebook sign-up page, 2006 (open registration)
+
+**제목:** 대학생 전용 문을 열어 누구나 가입하게 하다
+
+2005년 9월 고등학생에게, 2006년 5월에는 회사 직원들에게 문을 열었다.
+
+2006년 9월 26일부터는 이메일만 있으면 13세 이상 누구나 가입할 수 있게 했다.
+
+대학생 사이트에서 모든 사람의 사이트가 되면서 2008년 8월 사용자가 1억 명을 넘었다.
+
+
+## 10.jpg · 09 · 위기
+
+📷 **Photo:** Facebook News Feed, 2006 (screenshot) or Students Against Facebook News Feed group
+
+**제목:** 10억 달러를 거절하고 뉴스피드를 지키다
+
+2006년 Yahoo가 회사를 10억 달러에 사겠다고 했지만 저커버그는 거절했고, 그 뒤 1년 안에 경영진 대부분이 회사를 떠났다.
+
+같은 9월 친구들의 새 소식을 한 화면에 모아 보여 주는 '뉴스피드'를 내놓자, 사생활 침해라며 수십만 명이 반대 그룹에 들어왔다.
+
+그는 사과하고 공개 범위를 고르는 설정을 더했지만 뉴스피드는 없애지 않았고, 이 화면이 Facebook의 중심이 됐다.
+
+
+## 11.jpg · 10 · 확장
+
+📷 **Photo:** Zuckerberg on stage at f8, May 2007
+
+**제목:** 외부 개발자에게 문을 열고 Microsoft 투자를 받다
+
+2007년 5월 외부 개발자가 Facebook 안에서 돌아가는 게임·앱을 만들 수 있게 '플랫폼'을 열었다.
+
+사람들이 Facebook 안에서 머무는 시간이 늘었고, 10월 Microsoft가 2억 4천만 달러에 지분 1.6%를 샀다.
+
+회사 가치 150억 달러로 본 셈이다.
+
+11월에는 다른 쇼핑 사이트에서 산 물건을 친구들에게 알리는 광고 'Beacon'을 내놨다가, 사생활 반발로 2009년 접었다.
+
+
+## 12.jpg · 11 · 성장
+
+📷 **Photo:** Mark Zuckerberg and Sheryl Sandberg, 2008
+
+**제목:** Google 광고 전문가를 데려와 흑자를 내다
+
+Beacon 실패 뒤 광고로 돈 버는 구조가 필요해지자, 2008년 3월 Google에서 광고 사업을 키운 셰릴 샌드버그를 2인자(COO)로 데려왔다.
+
+샌드버그는 사용자가 직접 적은 나이·지역·관심사로 광고 대상을 고르는 광고 판매 조직을 만들었다.
+
+2009년 9월 처음으로 들어온 돈이 나간 돈보다 많아졌고, 2010년 7월 사용자가 5억 명을 넘었다.
+
+
+## 13.jpg · 12 · 정점
+
+📷 **Photo:** Zuckerberg ringing the Nasdaq bell at Facebook HQ, May 18, 2012
+
+**제목:** 1,040억 달러에 상장하고 10억 명을 넘기다
+
+2012년 5월 18일 주당 38달러로 상장하며 160억 달러를 모았다.
+
+회사 가치는 1,040억 달러였다.
+
+그해 10월 한 달에 한 번 이상 쓰는 사람이 10억 명을 넘었다.
+
+
+## 14.jpg · 13 · 방향 전환
+
+📷 **Photo:** Facebook iPhone app, 2012-2013 (native app relaunch) or Zuckerberg at TechCrunch Disrupt, September 2012
+
+**제목:** 휴대폰 앱을 새로 짜서 광고 62%를 휴대폰에서
+
+상장 직후 주가가 반 토막(9월 17달러대)이 났다.
+
+사람들은 휴대폰으로 옮겨 가는데, 휴대폰 화면에는 광고를 거의 못 붙이고 있었다.
+
+저커버그는 웹 기술(HTML5)로 휴대폰 앱을 만든 것이 가장 큰 실수였다고 인정하고, 앱을 휴대폰 전용으로 새로 만들었다.
+
+뉴스피드 사이에 광고를 넣는 방식으로 바꾸자, 2014년 6월 광고 매출의 62%가 휴대폰에서 나왔다.
+
+
+## 15.jpg · 14 · 확장
+
+📷 **Photo:** Instagram, WhatsApp, Oculus logos together (or Zuckerberg with Jan Koum, 2014)
+
+**제목:** Instagram·WhatsApp을 사들이다
+
+사람들이 옮겨 가는 앱을 경쟁자가 되기 전에 샀다.
+
+2012년 Instagram을 10억 달러에(#21 케빈 시스트롬 편), 2014년 메신저 WhatsApp을 약 190억 달러에, 가상현실 기기 회사 Oculus를 20억 달러에 샀다.
+
+Facebook을 덜 쓰는 젊은 사용자와 해외 사용자도 회사 안에 남게 됐다.
+
+
+## 16.jpg · 15 · 위기
+
+📷 **Photo:** Mark Zuckerberg testifying before the US Congress, April 2018
+
+**제목:** 8,700만 명 정보 유출로 의회 청문회에 서다
+
+2018년 한 정치 컨설팅 회사 <Cambridge Analytica>가 Facebook 퀴즈 앱으로 사용자 최대 8,700만 명의 정보를 가져가 선거 광고에 쓴 사실이 드러났다.
+
+저커버그는 4월 미국 의회 청문회에 나가 책임을 인정했다.
+
+2019년 미국 연방거래위원회(FTC)는 Facebook에 벌금 50억 달러를 매겼다.
+
+
+## 17.jpg · 16 · 위기
+
+📷 **Photo:** Zuckerberg presenting Meta rebrand / metaverse avatar, October 2021
+
+**제목:** 이름을 Meta로 바꾸고 회사 가치 3분의 2를 잃다
+
+2021년 10월 가상 공간 '메타버스'에 회사의 미래를 걸겠다며 회사 이름을 Meta로 바꿨다.
+
+가상현실 부서는 2022년 한 해에만 137억 달러를 잃었고, 광고 성장도 꺾이며 시가총액이 9,360억 달러(2021년 말)에서 3,190억 달러(2022년 말)로 줄었다.
+
+저커버그는 2022년 11월부터 직원 약 2만 1천 명을 줄이며 2023년을 '효율의 해'로 정했고, 그해 말 시가총액은 9,100억 달러로 돌아왔다.
+
+
+## 18.jpg · 17 · 정점
+
+📷 **Photo:** Mark Zuckerberg portrait, 2025-2026
+
+**제목:** 22년째 직접 이끌며 하루 36억 명이 쓰다
+
+- **약 1.6조 달러** — 회사 가치 (시가총액, 2026년 10월)
+- **약 22년** — Facebook 출시부터 지금까지
+
+2026년 3분기 Meta 앱을 하루 36억 명이 썼다.
+
+그는 지금도 CEO로 회사를 이끈다.
+
+
+## 19.jpg · 마무리
+
+📷 **Photo:** Mark Zuckerberg portrait (person photo for the closing slide)
+
+**제목:** 기숙사 사이트를 36억 명의 습관으로
+
+- 필요한 것을 바로 만들어 보는 실행력
+- 학교 하나씩, 문을 넓혀 간 확장 판단
+- 실수를 인정하고 방향을 바꾸는 결단
+
+
+---
+
+## 설명란 (캡션)
+
+영화 '소셜 네트워크'의 주인공, 기숙사 방의 사이트는 어떻게 하루 36억 명이 쓰는 회사가 됐을까요?
+
+마크 저커버그는 하버드 이메일로만 가입받는 사이트로 시작해 학교를 하나씩 열고, 결국 누구나 가입하게 했어요. 상장 뒤 휴대폰에서 광고를 못 붙이는 실수를 인정하고 앱을 새로 만들었고, Instagram·WhatsApp을 사들였죠. 메타버스에 건 큰돈으로 회사 가치의 3분의 2를 잃었다가 다시 일으켜 세운 것도 그였어요.
+
+🔗 Facebook에 첫 돈을 댔다가 밀려난 공동 창업자 에두아르도 세버린 이야기는 #22에서, Instagram을 만든 케빈 시스트롬 이야기는 #21에서
+
+💬 Yahoo의 10억 달러 제안, 여러분이라면 받았을까요? 댓글로 알려 주세요.
+
+📌 저장해 두고 다음 편도 확인하세요.
+
+출처
+- Wikipedia, Mark Zuckerberg / History of Facebook / Facemash / ConnectU
+- Harvard Crimson, Facemash 보도 (2003.11)
+- Facebook S-1 상장 신고서 (2012)
+- TechCrunch Disrupt 인터뷰, Zuckerberg "biggest mistake HTML5" (2012.9)
+- FTC 보도자료, Facebook $5 billion penalty (2019.7)
+- Meta 분기 실적 (2022 연간, 2026년 3분기)
+- StockAnalysis, Meta Platforms market cap (2026.10.23)
+
+#기업집중탐구 #마크저커버그 #페이스북 #Facebook #메타 #Meta #소셜네트워크 #창업 #스타트업 #자기계발
