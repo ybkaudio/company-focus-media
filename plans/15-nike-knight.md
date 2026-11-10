@@ -58,7 +58,7 @@
 
 📷 **Photo:** Bill Bowerman working on shoes in his workshop, or the Nike Cortez (1972)
 
-**제목:** 코치 바워만의 설계, Nike 신발의 뼈대가 되다
+**제목:** 바워만 코치의 설계, Nike 신발의 뼈대가 되다
 
 신발 설계와 시험은 공동 창업자 바워만이 맡았다.
 
