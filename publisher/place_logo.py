@@ -19,7 +19,7 @@ with sync_playwright() as pw:
             if c.exists() and not s.get('photo'): s['photo']=str(c.relative_to(p.parent))
         pg.set_content(f'<html><head><meta charset="utf-8"><style>:root{{--a:{ep["accent"]}}}{render.CSS}</style></head><body>{render.slide_html(ep,s,1,len(ep["slides"]),p.parent)}</body></html>')
         rects=pg.evaluate("""()=>{const out=[];for(const q of ['.txt h1','.txt p','.txt .who','.txt .handle']){for(const el of document.querySelectorAll(q)){const rg=document.createRange();rg.selectNodeContents(el);for(const r of rg.getClientRects())out.push([r.left,r.top,r.right,r.bottom]);}}return out;}""")
-        CY=pg.evaluate("""()=>{const a=document.querySelector('.txt .who').getBoundingClientRect(),b=document.querySelector('.txt p').getBoundingClientRect();return (a.bottom+b.top)/2}""")
+        CY=1137   # 11/11 사용자: 줄 사이 가운데는 너무 낮아 원래 위치로 되돌림
         im=Image.open(p.parent/k['src']); asp=im.height/im.width
         maxw=260 if asp>0.6 else 360
         w=maxw
