@@ -8,7 +8,7 @@
 
 📷 **Photo:** Masaru Ibuka portrait with Sony logo or early Sony product, 1950s-60s (if no logo visible, production adds a Sony logo sticker) / COVER LOGO: Sony logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 라디오 수리점에서 세계의 Sony로
+**제목:** 라디오 수리점에서 세계의 소니로
 
 기업집중탐구 #31
 

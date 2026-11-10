@@ -8,7 +8,7 @@
 
 📷 **Photo:** Twitter logo on a presentation screen (cropped), with a Noah Glass photo at Odeo as the sticker
 
-**제목:** Twitter를 만들었는데.. 쫓겨났다?
+**제목:** 트위터를 만들었는데.. 쫓겨났다?
 
 기업집중탐구 #20
 

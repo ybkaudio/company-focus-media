@@ -8,7 +8,7 @@
 
 📷 **Photo:** Ronald Wayne in front of an Apple Store (Apple logo is in the photo, so no logo sticker)
 
-**제목:** 12일 만에 Apple을 떠난 세 번째 창업자
+**제목:** 12일 만에 애플을 떠난 세 번째 창업자
 
 기업집중탐구 #19
 
