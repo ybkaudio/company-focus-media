@@ -8,7 +8,7 @@
 
 📷 **Photo:** Twitter logo on a presentation screen (cropped), with a Noah Glass photo at Odeo as the sticker
 
-**제목:** Twitter를 만들었는데.. 쫓겨나다?
+**제목:** Twitter를 만들었는데.. 쫓겨났다?
 
 기업인집중탐구 #20
 
@@ -137,7 +137,7 @@ Twitter를 자기 프로젝트로 지키려 했고, 윌리엄스가 자신을 �
 
 ## 설명란 (캡션)
 
-Twitter를 만들었는데.. 쫓겨나다?
+Twitter를 만들었는데.. 쫓겨났다?
 
 노아 글래스는 전화로 녹음해 블로그에 올리는 AudBlog로 시작해 팟캐스트 회사 Odeo를 세웠고, Odeo가 Apple에 밀리자, 잭 도시의 '상태 알리기' 아이디어를 사람들을 덜 외롭게 하는 서비스로 키웠어요. 사전에서 'twitter'라는 단어를 찾아 이름도 지었지만, 첫 메시지가 올라간 지 넉 달 만에 자기가 이름 붙인 회사에서 해고됐어요.
 
