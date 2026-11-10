@@ -96,7 +96,7 @@
 
 📷 **Photo:** Amazon.com homepage around 1999 showing music, video, toys and electronics tabs
 
-**제목:** 온라인 서점에서 모든 것을 파는 가게로
+**제목:** 온라인 책가게에서 모든 것을 파는 가게로
 
 1998년 음악 CD와 DVD를 시작으로, 1999년엔 장난감·전자제품까지 늘렸다.
 
