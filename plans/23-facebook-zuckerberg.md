@@ -41,7 +41,7 @@ Microsoft·AOL 등이 사겠다고 나섰고, 제안 금액은 최대 200만 달
 대학에 간 뒤 팔기로 마음을 바꿨지만 회사들은 이미 관심을 잃었고, 그는 훗날 순진했다고 돌아봤다.
 
 
-## 04.jpg · 03 · 계기
+## 04.jpg · 03 · 또라이
 
 📷 **Photo:** Facemash website screenshot, November 2003 (or Kirkland House, Harvard)
 
@@ -54,7 +54,7 @@ Microsoft·AOL 등이 사겠다고 나섰고, 제안 금액은 최대 200만 달
 학교는 허락 없이 사진을 썼다며 사이트를 막고 그를 징계 위원회에 세웠지만, 학생들이 온라인에서 서로를 보고 싶어 한다는 것이 드러났다.
 
 
-## 05.jpg · 04 · 계기
+## 05.jpg · 04 · 또라이
 
 📷 **Photo:** Winklevoss twins at Harvard, mid-2000s
 
