@@ -249,7 +249,7 @@ Beacon 실패 뒤 광고로 돈 버는 구조가 필요해지자, 2008년 3월 G
 
 📷 **Photo:** Mark Zuckerberg portrait (person photo for the closing slide)
 
-**제목:** 기숙사 사이트를 36억 명의 습관으로
+**제목:** 하버드 교류앱에서 1.6조 초거대 기업으로
 
 - 하룻밤에 Facemash를 만든 코딩 실력
 - 양심보다 이득을 우선시한 얍삽함
