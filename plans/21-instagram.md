@@ -110,7 +110,7 @@ Burbn은 이미 인기를 끌던 체크인 앱 <Foursquare>와 너무 비슷했�
 
 📷 **Photo:** Instagram Android launch, April 2012 (Google Play listing or news photo)
 
-**제목:** 안드로이드로 넓혀 하루 만에 100만 번 내려받다
+**제목:** 안드로이드에서 하루만에 100만 다운로드를 달성하다
 
 2011년 2월 투자사 <Benchmark> 등에서 약 700만 달러를 받았다.
 
