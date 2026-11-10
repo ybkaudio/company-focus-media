@@ -17,7 +17,7 @@
 
 📷 **Photo:** Yale University campus in the 1960s (or Fred Smith as a Yale student)
 
-**제목:** 대학 리포트에서 시작된 "화물 하룻밤 배송"의 아이디어
+**제목:** 대학 리포트에서 화물 하룻밤 배송을 떠올리다
 
 프레드 스미스는 1944년 미국 미시시피주에서 버스 회사와 식당 체인을 세운 사업가의 아들로 태어났고, 10대에 비행기 조종을 배웠다.
 
@@ -30,7 +30,7 @@
 
 📷 **Photo:** Fred Smith as a U.S. Marine Corps officer (or Marine supply operations in the Vietnam War)
 
-**제목:** 창고 보급의 비효율을 느낀 군인
+**제목:** 군대 창고 보급의 비효율을 느끼다
 
 졸업 뒤 해병대 장교가 되어 베트남에 두 번 파병됐고, 소대장과 공중 관측 장교로 일하며 1969년 대위로 전역했다.
 
@@ -150,7 +150,44 @@ Federal Express는 미국 한가운데에 있고 날씨로 비행이 끊기는 �
 1983년 다른 회사를 사들이지 않고 창업 10년 만에 매출 10억 달러를 넘긴 첫 미국 회사가 됐다.
 
 
-## 11.jpg · 10 · 떠날 때
+## 11.jpg · 10 · 세계
+
+📷 **Photo:** Flying Tiger Line Boeing 747 freighter repainted in Federal Express colors, 1989
+
+**제목:** Flying Tigers를 사서 세계 공항에 내리다
+
+해외로 화물을 보내려면 나라마다 그 나라 공항에 내릴 권리가 필요했다.
+
+1989년 58개국을 오가던 국제 화물 항공사 <Flying Tiger Line>을 약 8억 8,500만 달러에 사들였다.
+
+아시아·유럽·남미 큰 공항의 착륙권을 한 번에 얻었고, 해외 항공 화물 매출이 두 배 가까이 늘었다.
+
+
+## 12.jpg · 11 · 육상
+
+📷 **Photo:** FedEx Ground delivery truck, early 2000s (or a FedEx Kinko's store, 2004)
+
+**제목:** 트럭 택배를 더해 하늘과 땅을 잇다
+
+1994년 회사 이름을 FedEx로 줄이고, 고객이 웹사이트에서 직접 소포 위치를 확인하게 했다.
+
+1998년 트럭 택배 회사 <RPS>를 거느린 Caliber System을 주식 24억 달러어치로 사들여, 급하지 않은 소포는 트럭으로 받았다.
+
+RPS는 FedEx Ground가 됐고, 2004년엔 복사·인쇄점 <Kinko's>를 24억 달러에 사 동네 매장도 얻었다.
+
+
+## 13.jpg · 12 · 유럽
+
+📷 **Photo:** TNT Express trucks with FedEx branding in Europe, 2016–2018
+
+**제목:** TNT를 사서 유럽 도로망을 얻다
+
+2016년 유럽 곳곳에 트럭 배송망을 가진 네덜란드 택배 회사 <TNT Express>를 44억 유로(약 48억 달러)에 사들였다.
+
+그가 대표에서 물러나던 2022년 회사 매출은 약 935억 달러였다.
+
+
+## 14.jpg · 13 · 떠날 때
 
 📷 **Photo:** Fred Smith around 2018–2022 (on stage at a FedEx event)
 
@@ -164,7 +201,7 @@ Federal Express는 미국 한가운데에 있고 날씨로 비행이 끊기는 �
 의장으로 있던 2025년 6월 80세로 세상을 떠나, 해병대 장교로서 알링턴 국립묘지에 묻혔다.
 
 
-## 12.jpg · 마무리
+## 15.jpg · 마무리
 
 📷 **Photo:** FedEx logo on a dark background (the cover sticker is cut from this too)
 
@@ -197,5 +234,8 @@ Federal Express는 미국 한가운데에 있고 날씨로 비행이 끊기는 �
 - Entrepreneur, Fred Smith: An Overnight Success
 - Encyclopedia.com, Smith, Fred 1944–
 - Flying Magazine, How Fred Smith Built FedEx Into World's Biggest Cargo Airline (2025.06)
+- Encyclopedia.com, FedEx Corp (Flying Tigers 약 8억 8,500만 달러, 1994 FedEx·온라인 조회)
+- CNN Money, FedEx acquires Caliber (1997.10.06)
+- Wikipedia, FedEx / Flying Tiger Line (TNT 44억 유로, 2022 매출)
 
 #기업인집중탐구 #프레드스미스 #페덱스 #FedEx #창업 #창업스토리 #스타트업 #자기계발
