@@ -99,7 +99,7 @@ Nike는 공장을 짓지 않았다.
 
 📷 **Photo:** Nike 'Just Do It' ad, 1988 (or the Just Do It slogan)
 
-**제목:** 광고 한 줄로 누구나의 신발이 되다
+**제목:** 광고 한 줄로 모두의 신발이 되다
 
 1988년 'Just Do It' 광고를 시작했다.
 
