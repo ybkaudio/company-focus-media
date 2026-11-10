@@ -1,0 +1,183 @@
+{
+  "no": 11,
+  "company": "Zip2",
+  "company_ko": "Zip2",
+  "person": "일론 머스크",
+  "accent": "#E8452C",
+  "handle": "@company.focus",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": null,
+      "title": "사무실 소파에서 시작한\n머스크의 첫 회사",
+      "body": [
+        "기업집중탐구 #11"
+      ],
+      "photo_hint": "20대 머스크가 사무실 칸막이 창으로 몸을 내민 사진 (기존 #11 표지) / COVER LOGO: Zip2 logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)",
+      "bgpos": "right center"
+    },
+    {
+      "index": "01 · 배경",
+      "when": "1983 · 12세",
+      "photo": null,
+      "value": "회사 설립 전",
+      "title": "열두 살에 만든 게임,\n500달러에 팔리다",
+      "body": [
+        "일론 머스크는 1971년 남아프리카공화국 프리토리아에서 태어났다.",
+        "부모가 이혼한 뒤 컴퓨터가 있는 아버지 집에서 살기를 택했고, 프로그래밍은 책을 보며 혼자 익혔다.",
+        "열두 살에 만든 우주 게임 '블래스타'의 코드를 컴퓨터 잡지에 약 500달러에 팔았다. 소프트웨어로 처음 번 돈이었다."
+      ],
+      "photo_hint": "어린 시절 머스크 (기존 사진)"
+    },
+    {
+      "index": "02 · 배경",
+      "when": "1989 · 18세",
+      "photo": null,
+      "value": "회사 설립 전",
+      "title": "군 복무 대신\n혼자 캐나다로 건너가다",
+      "body": [
+        "남아공은 백인 남성에게 군 복무를 의무로 시켰다. 그는 복무를 피하려고 캐나다 태생인 어머니를 통해 캐나다 여권을 받았다.",
+        "1989년 6월 혼자 건너가 서스캐처원의 육촌 집에 머물며 농장과 제재소에서 일했고, 1990년 퀸스대에 들어갔다.",
+        "대학 시절 스코샤은행 인턴을 하며 은행이 새로운 시도를 꺼린다는 걸 봤다. 이 경험은 훗날 온라인 은행 X.com으로 이어진다(#24)."
+      ],
+      "photo_hint": "토론토 스코샤은행 본사 건물 (기존 사진)"
+    },
+    {
+      "index": "03 · 배경",
+      "when": "1992 · 21세",
+      "photo": null,
+      "value": "회사 설립 전",
+      "title": "집을 클럽으로 바꿔\n하룻밤에 월세를 벌다",
+      "body": [
+        "1992년 미국 펜실베이니아대로 옮겨 물리학과 경제학을 공부했다.",
+        "학비와 생활비를 스스로 벌어야 했던 그는 친구 아데오 레시와 방 10개짜리 집을 빌려 주말마다 입장료 5달러를 받는 파티를 열었다. 많을 땐 하룻밤에 500명이 와 한 달 집세가 나왔다.",
+        "1994년 여름에는 실리콘밸리의 에너지 저장 스타트업과 게임 스타트업에서 인턴을 하며 창업 회사가 일하는 방식을 직접 봤다."
+      ],
+      "photo_hint": "Elon Musk at University of Pennsylvania, early 1990s (기존 사진)"
+    },
+    {
+      "index": "04 · 계기",
+      "when": "1995 · 24세",
+      "photo": null,
+      "value": "회사 설립 전",
+      "title": "스탠퍼드 대학원 대신\n인터넷 창업을 택하다",
+      "body": [
+        "1995년 스탠퍼드 재료공학 대학원에 합격했지만 등록하지 않았다.",
+        "그해 8월 웹 브라우저 회사 Netscape가 상장하며 인터넷 회사에 돈이 몰리던 때였다. 그는 Netscape에 입사 지원서를 냈지만 답을 받지 못했다.",
+        "취직 대신 직접 회사를 차리기로 했다. 동네 가게 대부분이 아직 인터넷에 없다는 점을 사업 기회로 봤다."
+      ],
+      "photo_hint": "Stanford University campus 1995, or Netscape office / Netscape Navigator screen (1995)"
+    },
+    {
+      "index": "05 · 창업",
+      "when": "1995 · 24세",
+      "photo": null,
+      "value": "회사 가치 약 1만 5,000달러(추정)",
+      "title": "1만 5,000달러로\n지도 안내 회사를 세우다",
+      "body": [
+        "1995년 동생 킴벌, 투자자 그렉 커리와 <Global Link Information Network>를 세웠다. 시작 자본금은 머스크 2,000달러, 킴벌 5,000달러, 커리 8,000달러를 합친 1만 5,000달러였다.",
+        "무료로 풀린 지도 데이터에 팔로알토 업체 목록을 붙여, 가게를 검색하면 위치와 가는 길까지 보여 주는 서비스를 만들었다. 종이 전화번호부로는 할 수 없던 일이었다.",
+        "나머지 운영 자금은 소수의 엔젤 투자자에게서 받았다."
+      ],
+      "photo_hint": "Zip2 웹사이트 화면 (형제 사진은 스티커, 기존 사진)",
+      "sticker": {
+        "src": "11-zip2/sticker-brothers.png",
+        "size": 300,
+        "right": 50,
+        "top": 190
+      },
+      "shade": "strong"
+    },
+    {
+      "index": "06 · 창업",
+      "when": "1995 · 24세",
+      "photo": null,
+      "value": "회사 가치 약 1만 5,000달러(추정)",
+      "title": "사무실에서 먹고 자며\n낮엔 서비스, 밤엔 코딩",
+      "body": [
+        "팔로알토의 작은 사무실을 빌려 집 대신 썼다. 소파에서 자고 샤워는 근처 YMCA에서 했다.",
+        "서버로 쓸 컴퓨터가 한 대뿐이라 낮에는 웹사이트를 돌리고, 밤에는 그 컴퓨터로 코드를 고쳤다. 그는 일주일 내내 그렇게 지냈다고 말했다.",
+        "투자자에게 보여 줄 때는 평범한 PC를 큰 케이스에 넣어 소형 슈퍼컴퓨터처럼 보이게 했다."
+      ],
+      "photo_hint": "Elon and Kimbal Musk at the Zip2 office (기존 형제 사진)"
+    },
+    {
+      "index": "07 · 자금",
+      "when": "1996 · 25세",
+      "photo": null,
+      "value": "회사 가치 약 1,000만 달러(추정)",
+      "title": "300만 달러를 받고\nCEO 자리를 내주다",
+      "body": [
+        "1996년 벤처캐피털 <Mohr Davidow>가 300만 달러를 넣었고, 회사 이름을 Zip2로 바꿨다.",
+        "신주를 발행해 투자를 받으면서 창업자들의 지분이 희석됐고, 이사회는 투자사 쪽이 주도하게 됐다.",
+        "경영 경험이 있는 리치 소킨이 CEO가 됐고, 머스크는 기술 책임자(CTO)로 물러났다."
+      ],
+      "photo_hint": "Zip2 office 1996-1998 / Mohr Davidow Ventures logo (or Rich Sorkin)"
+    },
+    {
+      "index": "08 · 방향 전환",
+      "when": "1997 · 26세",
+      "photo": null,
+      "value": "회사 가치 약 1,000만 달러(추정)",
+      "title": "가게 대신 신문사에 팔아\n160곳과 손잡다",
+      "body": [
+        "가게를 한 곳씩 찾아가 광고를 파는 방식은 느렸다. 투자사는 신문사에 지역 안내 소프트웨어를 파는 쪽으로 사업을 바꿨다.",
+        "신문사는 이미 동네 광고 영업망과 독자를 갖고 있었다. Zip2는 신문사 한 곳과 계약하면 그 도시의 가게와 독자를 한꺼번에 얻었다.",
+        "New York Times, Knight Ridder, Hearst가 고객이 됐고, 1998년까지 신문사 약 160곳과 계약해 그중 20곳에 도시 안내 사이트를 만들었다. 중고차 매물을 잇는 Auto Guide도 냈다."
+      ],
+      "photo_hint": "1990s newspaper city guide website powered by Zip2 (e.g. New York Today) / Zip2 Auto Guide screen"
+    },
+    {
+      "index": "09 · 위기",
+      "when": "1998 · 27세",
+      "photo": null,
+      "value": "회사 가치 약 1,000만 달러(추정)",
+      "title": "경쟁사 CitySearch와의\n합병을 막아 내다",
+      "body": [
+        "1998년 4월 Zip2는 도시 안내 시장의 가장 큰 경쟁사 <CitySearch>와 약 3억 달러 규모의 합병을 발표했다.",
+        "머스크는 처음엔 찬성했지만 곧 이사회를 설득해 합병을 멈추게 했다.",
+        "5월 두 회사는 문화와 기술이 맞지 않는다며 계획을 접었다. Zip2는 혼자 남아 다음 인수자를 찾게 됐다."
+      ],
+      "photo_hint": "CitySearch website (1998) / news clipping '2 Web Ventures End Merger Plan' (NYT, 1998.05.18)"
+    },
+    {
+      "type": "stats",
+      "index": "10 · 떠날 때",
+      "when": "1999 · 28세",
+      "photo": null,
+      "title": "Compaq에 회사를 팔고\n2,200만 달러를 받다",
+      "stats": [
+        {
+          "cap": "회사 가치 (Compaq이 인수한 1999년)",
+          "num": "3.07",
+          "unit": "억 달러"
+        },
+        {
+          "cap": "창업부터 떠날 때까지",
+          "num": "4",
+          "unit": "년"
+        }
+      ],
+      "body": [
+        "1999년 2월 <Compaq>이 검색 엔진 AltaVista를 키우려고 Zip2를 현금 3억 700만 달러에 샀다.",
+        "지분 7%를 가진 그는 2,200만 달러를 받았고, 한 달 뒤 그중 약 1,200만 달러로 X.com을 세웠다(#24에서 이어짐)."
+      ],
+      "photo_hint": "1999년 McLaren F1을 받은 머스크 (기존 사진)"
+    },
+    {
+      "type": "outro",
+      "index": "마무리",
+      "photo": null,
+      "title": "취직 대신 창업,\n밤낮없이 직접 짠 첫 회사",
+      "points": [
+        "열두 살부터 혼자 익힌 프로그래밍",
+        "지도와 업체 목록을 묶어 길 안내로 만든 아이디어",
+        "사무실에서 먹고 자며 서비스를 돌린 실행력"
+      ],
+      "button": "지금 팔로우 →",
+      "photo_hint": "Zip2 logo, or young Elon Musk around 1999"
+    }
+  ],
+  "caption": "머스크의 첫 회사, Zip2.\n\n군 복무를 피해 혼자 캐나다로 건너간 일론 머스크는, 스탠퍼드 대학원 대신 1만 5,000달러로 지도 안내 회사를 세웠어요. 사무실에서 먹고 자며 코드를 짰고, 300만 달러를 투자받으며 CEO 자리를 내줬어요. 신문사 160곳에 소프트웨어를 판 Zip2는 4년 만에 Compaq에 3억 700만 달러에 팔렸고, 그가 받은 2,200만 달러는 다음 회사 X.com의 밑천이 됐어요.\n\n🔗 머스크 시리즈. 이 돈으로 세운 X.com이 PayPal이 되는 이야기는 #24, 그 뒤 SpaceX·Tesla는 #25·#26에서 이어져요. PayPal 공동 창업자 피터 틸은 #27, PayPal 첫 디자이너 채드 헐리의 YouTube는 #10에서 볼 수 있어요.\n\n💬 대학원과 창업 중 하나를 골라야 한다면 어느 쪽을 택하시겠어요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Elon Musk / Zip2\n- Ashlee Vance, 『Elon Musk』 (2015)\n- CNBC, Elon Musk's college parties (2019.10)\n- ZDNet, Zip2 and CitySearch to merge (1998.04.03)\n- The New York Times, 2 Web Ventures End Merger Plan (1998.05.18)\n- The New York Times, Compaq to buy Zip2 (1999.02)\n- 장별 회사 가치: 1995년은 세 창업자가 처음 넣은 1만 5,000달러, 1996~1998년은 Mohr Davidow 300만 달러를 지분 약 30%로 셈한 추정, 1999년은 Compaq 인수가\n\n#기업집중탐구 #일론머스크 #Zip2 #ElonMusk #창업 #창업스토리 #스타트업 #자기계발",
+  "music": "Wonderwall – Oasis (Zip2를 세운 1995년의 히트곡) / 없으면 인스타 음악 검색어 '90s britpop'"
+}

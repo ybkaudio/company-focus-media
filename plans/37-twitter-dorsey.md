@@ -1,0 +1,199 @@
+# 기업집중탐구 #37 · 잭 도시 (Twitter)
+
+> 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
+
+🎵 **추천 음악:** Rockin' Robin – Bobby Day ('tweet, tweet' 가사가 Twitter와 어울리는 곡) / 없으면 검색어 'rockin robin'
+
+## 01.jpg · 표지
+
+📷 **Photo:** Jack Dorsey with Twitter logo, around 2015-2021 (if no logo visible, production adds a Twitter bird logo sticker) / COVER LOGO: Twitter logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
+
+**제목:** 배차 프로그램에서 370억 달러 SNS로
+
+기업집중탐구 #37
+
+
+## 02.jpg · 01 · 배경
+
+📷 **Photo:** Young Jack Dorsey, 1990s (St. Louis era if available)
+
+**제목:** 14살에 택시 배차 프로그램을 짜다
+
+세인트루이스에서 자랐고, 14살 때부터 택시·구급차가 지금 어디서 무엇을 하는지 알려 주는 배차 시스템에 빠졌다.
+
+직접 배차 프로그램을 짰고, 고향의 출판 회사에서 일하며 뒤에 Square를 함께 세울 짐 매켈비를 만났다.
+
+뉴욕대를 졸업 한 학기를 남기고 그만뒀다.
+
+
+## 03.jpg · 02 · 계기
+
+📷 **Photo:** Jack Dorsey's early sketch of 'stat.us' status idea (2000), or dispatch screen
+
+**제목:** 지금 뭐 하는지 알리는 서비스를 떠올리다
+
+2000년 오클랜드에서 웹으로 택배·택시·응급 차량을 배차하는 회사를 차렸다.
+
+차량들이 짧은 메시지로 현재 상태를 계속 알리는 모습을 보며, 사람도 지금 하는 일을 짧게 알리는 서비스를 생각했다.
+
+같은 해 7월 이 실시간 상태 메시지 아이디어를 처음 정리했다.
+
+
+## 04.jpg · 03 · 창업
+
+📷 **Photo:** Jack Dorsey's first tweet screenshot 'just setting up my twttr' (March 21, 2006)
+
+**제목:** 2주 만에 만든 시제품으로 첫 트윗을 올리다
+
+팟캐스트 회사 Odeo에서 일하던 그는 새 아이디어를 찾던 회사에 상태 메시지 서비스를 내놨다(#20).
+
+휴대폰 문자로 쓰기로 하고 비즈 스톤과 약 2주 만에 시제품을 만들었다.
+
+2006년 3월 21일 첫 메시지 'just setting up my twttr'를 올렸다.
+
+
+## 05.jpg · 04 · 첫 성과
+
+📷 **Photo:** Jack Dorsey at Twitter office 2007, or SXSW 2007
+
+**제목:** 독립한 Twitter의 첫 CEO가 되다
+
+2007년 Twitter가 Odeo에서 떨어져 나와 회사가 되자 그가 CEO를 맡았다.
+
+3월 SXSW 축제에서 하루 트윗이 3배로 늘며 이름이 알려졌다(#36).
+
+
+## 06.jpg · 05 · 위기
+
+📷 **Photo:** Twitter 'fail whale' error page 2008, or Jack Dorsey portrait 2008
+
+**제목:** 서버 장애 끝에 CEO에서 밀려나다
+
+이용자가 몰리면서 서버가 자주 멈췄고, 회사 운영도 흔들렸다.
+
+2008년 10월 이사회는 그를 CEO에서 물리고 실권 없는 의장으로 앉혔다.
+
+일찍 퇴근해 요가와 패션 디자인 수업을 다닌 것도 문제로 거론됐다고 전해진다.
+
+
+## 07.jpg · 06 · 창업
+
+📷 **Photo:** Jack Dorsey and Jim McKelvey together, 2009-2010 (crop others if unclear)
+
+**제목:** 카드를 못 받은 유리 공예가와 Square를 세우다
+
+고향에서 함께 일했던 짐 매켈비는 유리 공예품을 팔다 손님이 카드밖에 없어 판매를 놓쳤다.
+
+작은 판매자는 카드 단말기를 들이기 어려웠고, 2009년 두 사람은 결제 회사 <Square>를 세웠다.
+
+
+## 08.jpg · 07 · 성장
+
+📷 **Photo:** Square card reader plugged into iPhone headphone jack, 2010
+
+**제목:** 휴대폰 이어폰 단자에 카드 리더기를 꽂다
+
+2010년 5월 휴대폰 이어폰 단자에 꽂는 작은 카드 리더기를 내놨다.
+
+카드를 긁고 금액을 고른 뒤 화면에 서명하면 결제가 끝났다.
+
+비싼 단말기 없이도 노점·소상공인이 카드를 받을 수 있게 됐다.
+
+
+## 09.jpg · 08 · 정점
+
+📷 **Photo:** Jack Dorsey at Twitter IPO, NYSE, November 2013
+
+**제목:** Twitter 상장 첫날 주가가 73% 오르다
+
+2011년 3월 제품을 맡는 회장으로 Twitter에 돌아왔다.
+
+2013년 11월 Twitter는 주당 26달러로 상장해 약 18억 달러를 모았다.
+
+첫날 주가는 44.90달러로 마감했다.
+
+
+## 10.jpg · 09 · 위기
+
+📷 **Photo:** Jack Dorsey portrait 2015, or Square IPO at NYSE November 2015
+
+**제목:** 두 회사 CEO를 맡고 직원 8%를 줄이다
+
+이용자 증가가 멈추자 CEO 딕 코스톨로가 물러났고, 2015년 7월 그가 임시 CEO, 10월 정식 CEO가 됐다.
+
+Square CEO도 그대로 맡아 두 회사를 함께 이끌었다.
+
+그해 10월 직원 약 8%인 336명을 줄였고, 11월 Square를 상장했다.
+
+
+## 11.jpg · 10 · 위기
+
+📷 **Photo:** Jack Dorsey portrait around 2020
+
+**제목:** 행동주의 펀드가 교체를 요구하다
+
+2020년 2월 행동주의 펀드 <Elliott Management>가 두 회사를 함께 맡는 그를 바꾸려 했다.
+
+Twitter는 Elliott·Silver Lake와 합의해 이사 3명을 새로 들였다.
+
+수익화 일간 활성 이용자(mDAU)를 20% 이상 늘리는 목표도 받아들였다.
+
+
+## 12.jpg · 11 · 성장
+
+📷 **Photo:** Twitter headquarters San Francisco 2021, or Jack Dorsey on stage 2021
+
+**제목:** 하루 이용자 2억 1,100만 명을 넘기다
+
+2021년 3분기 수익화 일간 활성 이용자(mDAU)는 2억 1,100만 명으로 1년 새 13% 늘었다.
+
+Elliott과 합의한 성장 목표에 다가서는 숫자였다.
+
+
+## 13.jpg · 12 · 떠날 때
+
+📷 **Photo:** Jack Dorsey portrait 2021
+
+**제목:** 창업자에게서 벗어날 때라며 CEO를 내려놓다
+
+- **약 370억 달러** — 떠날 때 회사 가치 (시가총액, 2021년 11월)
+- **약 15년** — 첫 트윗부터 떠날 때까지
+
+2021년 11월 29일 '회사가 창업자에게서 벗어날 준비가 됐다'며 물러나 CTO 파라그 아그라왈에게 넘겼다.
+
+이틀 뒤 Square는 이름을 <Block>으로 바꿨다.
+
+
+## 14.jpg · 마무리
+
+📷 **Photo:** Jack Dorsey portrait (person photo for the closing slide)
+
+**제목:** 배차 화면을 보고 사람의 지금을 나누다
+
+- 어린 시절 관심을 서비스로 바꾼 발상
+- 밀려난 뒤 새 회사를 세운 재기
+- 작은 판매자의 불편을 푼 결제
+
+
+---
+
+## 설명란 (캡션)
+
+첫 트윗을 올린 사람은 Twitter에서 두 번 떠났어요.
+
+잭 도시는 14살부터 빠졌던 배차 시스템에서 '지금 뭐 하는지 알리는' 서비스를 떠올렸고, 2006년 첫 트윗을 올렸어요. 2008년 CEO에서 밀려난 뒤 카드 결제 회사 Square를 세웠고, 2015년 Twitter CEO로 돌아와 두 회사를 함께 이끌었어요. 행동주의 펀드의 압박 속에 이용자를 늘린 뒤 2021년 스스로 물러났어요.
+
+🔗 Twitter 시리즈. Twitter라는 이름을 지은 노아 글래스는 #20, 그를 대신해 CEO가 된 에번 윌리엄스는 #36에서 볼 수 있어요.
+
+💬 회사에서 밀려났다가 돌아간다면 어떤 기분일까요? 댓글로 알려 주세요.
+
+📌 저장해 두고 다음 편도 확인하세요.
+
+출처
+- Wikipedia, Jack Dorsey / History of Twitter
+- St. Louis Public Radio, For Jim McKelvey, the path to success is clear as glass (2012.06)
+- The Motley Fool, Interesting numbers from Twitter's IPO (2013.11.08)
+- Al Jazeera, Dorsey steps down as Twitter CEO (2021.11.29)
+- Business Insider, Twitter market value jumps on Dorsey news (2021.11.29)
+
+#기업집중탐구 #잭도시 #트위터 #Twitter #스퀘어 #Square #창업 #창업스토리 #스타트업 #자기계발

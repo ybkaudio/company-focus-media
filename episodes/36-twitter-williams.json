@@ -1,0 +1,188 @@
+{
+  "no": 36,
+  "company": "Twitter",
+  "company_ko": "Twitter",
+  "person": "에번 윌리엄스",
+  "accent": "#1DA1F2",
+  "handle": "@company.focus",
+  "music": "Three Little Birds – Bob Marley (작은 새 로고의 Twitter와 어울리는 곡) / 없으면 검색어 'three little birds'",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": null,
+      "title": "블로그 도구에서 시작한\n10억 달러 SNS",
+      "body": [
+        "기업집중탐구 #36"
+      ],
+      "photo_hint": "Evan Williams with Twitter logo, around 2009-2010 (if no logo visible, production adds a Twitter bird logo sticker) / COVER LOGO: Twitter logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)"
+    },
+    {
+      "index": "01 · 배경",
+      "when": "1997 · 25세",
+      "photo": null,
+      "title": "네브래스카 농장을 떠나\n실리콘밸리로 가다",
+      "body": [
+        "1972년 네브래스카의 농가에서 자랐고, 여름이면 밭에 물 대는 일을 도왔다.",
+        "네브래스카대를 1년 반 만에 그만두고 고향에서 작은 인터넷 사업을 하다가 캘리포니아로 옮겼다.",
+        "웹으로 누구나 무언가를 펴낼 수 있다는 데 관심이 많았다."
+      ],
+      "photo_hint": "Young Evan Williams, late 1990s"
+    },
+    {
+      "index": "02 · 창업",
+      "when": "1999 · 26세",
+      "photo": null,
+      "title": "할 일 관리 프로그램 회사\nPyra를 세우다",
+      "body": [
+        "1999년 1월 멕 후리한과 <Pyra Labs>를 세웠다.",
+        "처음 만들던 제품은 프로젝트 관리·연락처·할 일 목록을 합친 웹 프로그램 'Pyra'였다."
+      ],
+      "photo_hint": "Evan Williams and Meg Hourihan at Pyra Labs, 1999-2000 (crop others if unclear)"
+    },
+    {
+      "index": "03 · 방향 전환",
+      "when": "1999 · 27세",
+      "photo": null,
+      "title": "메모 기능을 떼어\nBlogger로 내놓다",
+      "body": [
+        "Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999년 8월 <Blogger>로 공개했다.",
+        "웹페이지 코드를 몰라도 글을 쓰면 바로 인터넷에 올라가, 누구나 자기 웹사이트에 글을 쌓을 수 있었다.",
+        "회사는 본래 제품 대신 Blogger에 집중했고, 그는 '블로거'라는 말을 널리 퍼뜨렸다."
+      ],
+      "photo_hint": "Blogger homepage screenshot, 1999-2001"
+    },
+    {
+      "index": "04 · 위기",
+      "when": "2001 · 28세",
+      "photo": null,
+      "title": "돈이 떨어져\n혼자 남다",
+      "body": [
+        "2001년 1월 초기 투자금이 바닥났다.",
+        "직원들은 몇 주를 월급 없이 일하다 공동 창업자 후리한까지 모두 떠났고, 그는 1월 31일 '돈이 없고 팀을 잃었다'고 공개했다.",
+        "혼자 서비스를 이어 가다 4월 소프트웨어 회사 <Trellix>의 투자를 받아 살아남았다."
+      ],
+      "photo_hint": "Evan Williams portrait around 2001"
+    },
+    {
+      "index": "05 · 매각",
+      "when": "2003 · 30세",
+      "photo": null,
+      "title": "버텨 낸 Blogger를\nGoogle에 팔다",
+      "body": [
+        "2003년 2월 Google이 Pyra Labs를 샀다(#33).",
+        "그는 Google에서 Blogger를 계속 맡았고, 2004년 10월 Google을 떠났다."
+      ],
+      "photo_hint": "Evan Williams at Google around 2003-2004, or Blogger with Google branding 2003"
+    },
+    {
+      "index": "06 · 위기",
+      "when": "2005 · 33세",
+      "photo": null,
+      "title": "팟캐스트 회사 Odeo,\nApple에 밀리다",
+      "body": [
+        "이웃 노아 글래스와 팟캐스트 회사 <Odeo>를 세우고 초기 자금을 댔다(#20).",
+        "2005년 Apple이 iTunes에 팟캐스트를 넣자 Odeo는 설 자리를 잃었다.",
+        "회사는 새 아이디어를 찾아야 했다."
+      ],
+      "photo_hint": "Odeo office San Francisco 2005-2006, or Evan Williams 2005"
+    },
+    {
+      "index": "07 · 방향 전환",
+      "when": "2006 · 34세",
+      "photo": null,
+      "title": "Odeo를 되사고\nTwitter에 걸다",
+      "body": [
+        "2006년 Odeo 안에서 짧은 글로 근황을 알리는 'Twttr'가 만들어졌다.",
+        "그는 Twttr를 이끌던 글래스를 내보냈고, 2006년 말 비즈 스톤 등과 <Obvious Corp>를 세워 투자자들에게서 Odeo의 자산을 되샀다.",
+        "투자자 돈이 아닌 자기 돈으로 Twitter의 미래를 산 셈이었다."
+      ],
+      "photo_hint": "Early Twitter (twttr) team at Odeo office 2006, or Evan Williams and Biz Stone (crop others if unclear)"
+    },
+    {
+      "index": "08 · 성장",
+      "when": "2007 · 35세",
+      "photo": null,
+      "title": "SXSW에서 하루 글이\n3배로 늘다",
+      "body": [
+        "2007년 3월 기술·음악 축제 SXSW 기간에 하루 트윗이 약 2만 개에서 6만 개로 늘었다.",
+        "행사장 사람들이 지금 어디서 무엇을 하는지 실시간으로 나누는 데 Twitter를 썼다.",
+        "4월 Twitter는 별도 회사로 독립했다."
+      ],
+      "photo_hint": "SXSW 2007 Twitter screens in Austin, or Twitter founders at SXSW 2007"
+    },
+    {
+      "index": "09 · 위기",
+      "when": "2008 · 36세",
+      "photo": null,
+      "title": "서버가 자주 멈추자\n직접 CEO를 맡다",
+      "body": [
+        "이용자가 갑자기 늘면서 서버가 자주 멈췄다.",
+        "2008년 10월 이사회는 CEO 잭 도시를 의장으로 물리고, 의장이던 윌리엄스를 CEO로 앉혔다(#37).",
+        "그는 서비스 안정과 제품을 직접 챙겼다."
+      ],
+      "photo_hint": "Twitter 'fail whale' error page, 2008, or Evan Williams 2008"
+    },
+    {
+      "index": "10 · 성장",
+      "when": "2008 · 36세",
+      "photo": null,
+      "title": "Facebook의 인수 제안을\n거절하다",
+      "body": [
+        "2008년 10월 말 Facebook이 Twitter 인수를 논의했고, Twitter 측은 회사 가치로 5억 달러를 내세웠다.",
+        "그는 Twitter가 10억 달러 회사의 '몇 배'가 될 것이며, 회사 문화도 맞지 않는다는 이메일을 이사회에 보냈다.",
+        "이사회는 인수를 거절했다."
+      ],
+      "photo_hint": "Evan Williams portrait 2008-2009, or Twitter office San Francisco 2009"
+    },
+    {
+      "index": "11 · 첫 성과",
+      "when": "2010 · 38세",
+      "photo": null,
+      "title": "검색 광고로\n첫 수입원을 만들다",
+      "body": [
+        "2010년 4월 검색 결과 맨 위에 기업 트윗을 올려 주는 광고를 시작했다.",
+        "몇 달 만에 30곳이 넘는 기업과 광고 계약을 맺었다.",
+        "그해 6월 하루 트윗은 약 6,500만 개였다."
+      ],
+      "photo_hint": "Twitter Promoted Tweets announcement 2010, or Evan Williams on stage 2010"
+    },
+    {
+      "index": "12 · 떠날 때",
+      "when": "2010 · 38세",
+      "type": "stats",
+      "photo": null,
+      "title": "제품에 집중하겠다며\nCEO에서 물러나다",
+      "body": [
+        "2010년 10월 제품 전략에 집중하겠다며 CEO를 COO 딕 코스톨로에게 넘겼다.",
+        "2012년 글쓰기 플랫폼 <Medium>을 세웠다."
+      ],
+      "photo_hint": "Evan Williams portrait around 2010",
+      "stats": [
+        {
+          "cap": "떠날 때 회사 가치 (업계 추정, 2010년 10월)",
+          "num": "약 10",
+          "unit": "억 달러"
+        },
+        {
+          "cap": "Twitter 시작부터 떠날 때까지",
+          "num": "약 4",
+          "unit": "년"
+        }
+      ]
+    },
+    {
+      "type": "outro",
+      "index": "마무리",
+      "photo": null,
+      "title": "곁가지 아이디어를\n본업으로 키우다",
+      "points": [
+        "메모 도구를 Blogger로 키운 안목",
+        "혼자 남아도 버틴 끈기",
+        "자기 돈으로 Twitter에 건 판단"
+      ],
+      "button": "지금 팔로우 →",
+      "photo_hint": "Evan Williams portrait (person photo for the closing slide)"
+    }
+  ],
+  "caption": "블로그와 Twitter, 두 번 모두 곁가지에서 시작됐어요.\n\n에번 윌리엄스는 할 일 관리 프로그램을 만들다 메모 기능을 떼어 Blogger로 내놨고, 돈이 떨어져 혼자 남고도 버텨 Google에 팔았어요. 팟캐스트 회사 Odeo가 실패하자 그 안의 작은 프로젝트 Twitter를 자기 돈으로 되샀고, CEO가 돼 Facebook의 인수 제안을 거절했어요. 첫 광고 수입을 만든 뒤 2010년 CEO에서 물러났어요.\n\n🔗 Twitter 시리즈. Twitter라는 이름을 지은 노아 글래스 이야기는 #20, 첫 트윗을 올린 잭 도시 이야기는 #37에서 이어져요.\n\n💬 블로그와 Twitter 중 무엇을 먼저 써 봤나요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Evan Williams / Pyra Labs / History of Twitter\n- Dan Bricklin, Bricklin on Technology: How Blogging Helped Blogger\n- TechCrunch, The Three Reasons Twitter Didn't Sell To Facebook (2013.11.04)\n- UPI, Twitter CEO steps aside (2010.10.04)\n\n#기업집중탐구 #에번윌리엄스 #트위터 #Twitter #블로거 #Blogger #창업 #창업스토리 #스타트업 #자기계발"
+}
