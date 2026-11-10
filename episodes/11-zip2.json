@@ -8,18 +8,23 @@
   "slides": [
     {
       "type": "cover",
-      "photo": null,
       "title": "사무실 소파에서 시작한\n머스크의 첫 회사",
       "body": [
         "기업집중탐구 #11"
       ],
       "photo_hint": "20대 머스크가 사무실 칸막이 창으로 몸을 내민 사진 (기존 #11 표지) / COVER LOGO: Zip2 logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)",
-      "bgpos": "right center"
+      "sticker": {
+        "src": "11-zip2/sticker-logo.png",
+        "size": 250,
+        "right": 135,
+        "top": 1032
+      },
+      "bgsize": "auto 1350px",
+      "bgpos": "-470px 0px"
     },
     {
       "index": "01 · 배경",
       "when": "1983 · 12세",
-      "photo": null,
       "value": "회사 설립 전",
       "title": "열두 살에 만든 게임,\n500달러에 팔리다",
       "body": [
@@ -32,7 +37,6 @@
     {
       "index": "02 · 배경",
       "when": "1989 · 18세",
-      "photo": null,
       "value": "회사 설립 전",
       "title": "군 복무 대신\n혼자 캐나다로 건너가다",
       "body": [
@@ -45,7 +49,6 @@
     {
       "index": "03 · 배경",
       "when": "1992 · 21세",
-      "photo": null,
       "value": "회사 설립 전",
       "title": "집을 클럽으로 바꿔\n하룻밤에 월세를 벌다",
       "body": [
@@ -58,7 +61,6 @@
     {
       "index": "04 · 계기",
       "when": "1995 · 24세",
-      "photo": null,
       "value": "회사 설립 전",
       "title": "스탠퍼드 대학원 대신\n인터넷 창업을 택하다",
       "body": [
@@ -71,7 +73,6 @@
     {
       "index": "05 · 창업",
       "when": "1995 · 24세",
-      "photo": null,
       "value": "회사 가치 약 1만 5,000달러(추정)",
       "title": "1만 5,000달러로\n지도 안내 회사를 세우다",
       "body": [
@@ -80,18 +81,11 @@
         "나머지 운영 자금은 소수의 엔젤 투자자에게서 받았다."
       ],
       "photo_hint": "Zip2 웹사이트 화면 (형제 사진은 스티커, 기존 사진)",
-      "sticker": {
-        "src": "11-zip2/sticker-brothers.png",
-        "size": 300,
-        "right": 50,
-        "top": 190
-      },
       "shade": "strong"
     },
     {
       "index": "06 · 창업",
       "when": "1995 · 24세",
-      "photo": null,
       "value": "회사 가치 약 1만 5,000달러(추정)",
       "title": "사무실에서 먹고 자며\n낮엔 서비스, 밤엔 코딩",
       "body": [
@@ -104,7 +98,6 @@
     {
       "index": "07 · 자금",
       "when": "1996 · 25세",
-      "photo": null,
       "value": "회사 가치 약 1,000만 달러(추정)",
       "title": "300만 달러를 받고\nCEO 자리를 내주다",
       "body": [
@@ -117,7 +110,6 @@
     {
       "index": "08 · 방향 전환",
       "when": "1997 · 26세",
-      "photo": null,
       "value": "회사 가치 약 1,000만 달러(추정)",
       "title": "가게 대신 신문사에 팔아\n160곳과 손잡다",
       "body": [
@@ -130,7 +122,6 @@
     {
       "index": "09 · 위기",
       "when": "1998 · 27세",
-      "photo": null,
       "value": "회사 가치 약 1,000만 달러(추정)",
       "title": "경쟁사 CitySearch와의\n합병을 막아 내다",
       "body": [
@@ -138,13 +129,14 @@
         "머스크는 처음엔 찬성했지만 곧 이사회를 설득해 합병을 멈추게 했다.",
         "5월 두 회사는 문화와 기술이 맞지 않는다며 계획을 접었다. Zip2는 혼자 남아 다음 인수자를 찾게 됐다."
       ],
-      "photo_hint": "CitySearch website (1998) / news clipping '2 Web Ventures End Merger Plan' (NYT, 1998.05.18)"
+      "photo_hint": "CitySearch website (1998) / news clipping '2 Web Ventures End Merger Plan' (NYT, 1998.05.18)",
+      "bgsize": "auto 1350px",
+      "bgpos": "center top"
     },
     {
       "type": "stats",
       "index": "10 · 떠날 때",
       "when": "1999 · 28세",
-      "photo": null,
       "title": "Compaq에 회사를 팔고\n2,200만 달러를 받다",
       "stats": [
         {
@@ -167,7 +159,6 @@
     {
       "type": "outro",
       "index": "마무리",
-      "photo": null,
       "title": "취직 대신 창업,\n밤낮없이 직접 짠 첫 회사",
       "points": [
         "열두 살부터 혼자 익힌 프로그래밍",
@@ -175,7 +166,8 @@
         "사무실에서 먹고 자며 서비스를 돌린 실행력"
       ],
       "button": "지금 팔로우 →",
-      "photo_hint": "Zip2 logo, or young Elon Musk around 1999"
+      "photo_hint": "Zip2 logo, or young Elon Musk around 1999",
+      "bgpos": "center top"
     }
   ],
   "caption": "머스크의 첫 회사, Zip2.\n\n군 복무를 피해 혼자 캐나다로 건너간 일론 머스크는, 스탠퍼드 대학원 대신 1만 5,000달러로 지도 안내 회사를 세웠어요. 사무실에서 먹고 자며 코드를 짰고, 300만 달러를 투자받으며 CEO 자리를 내줬어요. 신문사 160곳에 소프트웨어를 판 Zip2는 4년 만에 Compaq에 3억 700만 달러에 팔렸고, 그가 받은 2,200만 달러는 다음 회사 X.com의 밑천이 됐어요.\n\n🔗 머스크 시리즈. 이 돈으로 세운 X.com이 PayPal이 되는 이야기는 #24, 그 뒤 SpaceX·Tesla는 #25·#26에서 이어져요. PayPal 공동 창업자 피터 틸은 #27, PayPal 첫 디자이너 채드 헐리의 YouTube는 #10에서 볼 수 있어요.\n\n💬 대학원과 창업 중 하나를 골라야 한다면 어느 쪽을 택하시겠어요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Elon Musk / Zip2\n- Ashlee Vance, 『Elon Musk』 (2015)\n- CNBC, Elon Musk's college parties (2019.10)\n- ZDNet, Zip2 and CitySearch to merge (1998.04.03)\n- The New York Times, 2 Web Ventures End Merger Plan (1998.05.18)\n- The New York Times, Compaq to buy Zip2 (1999.02)\n- 장별 회사 가치: 1995년은 세 창업자가 처음 넣은 1만 5,000달러, 1996~1998년은 Mohr Davidow 300만 달러를 지분 약 30%로 셈한 추정, 1999년은 Compaq 인수가\n\n#기업집중탐구 #일론머스크 #Zip2 #ElonMusk #창업 #창업스토리 #스타트업 #자기계발",
