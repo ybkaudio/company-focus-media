@@ -32,7 +32,8 @@
         "웹 상거래가 한 해 2,300%씩 자란다는 보고서를 본 그는 온라인으로 팔 첫 물건으로 책을 골랐다.",
         "책은 세계 어디서나 수요가 있고 값이 싸며, 나와 있는 책이 너무 많아 어떤 서점도 다 갖출 수 없었다. 온라인이라면 모든 책을 한 화면에 올릴 수 있었다."
       ],
-      "photo_hint": "Wall Street office, early 1990s (or a 1990s Wall Street street scene)"
+      "photo_hint": "Wall Street office, early 1990s (or a 1990s Wall Street street scene)",
+      "value": "회사 설립 전"
     },
     {
       "index": "02 · 창업",
@@ -44,7 +45,8 @@
         "시애틀을 고른 이유는 세 가지였다. 개발자가 많았고, 미국 최대 도서 유통 창고가 6시간 거리에 있었고, 인구가 적은 주라 판매세를 낼 손님이 적었다.",
         "1994년 7월 회사를 세우고 벨뷰의 셋집 차고에서 일을 시작했다."
       ],
-      "photo_hint": "Bezos's Bellevue garage office (official Amazon photo exists; or 1990s Seattle)"
+      "photo_hint": "Bezos's Bellevue garage office (official Amazon photo exists; or 1990s Seattle)",
+      "value": "투자 받기 전"
     },
     {
       "index": "03 · 자금",
@@ -57,7 +59,8 @@
         "1996년 6월 벤처캐피털 <Kleiner Perkins>가 800만 달러를 넣었다. 상장 전 받은 유일한 벤처 투자였고, 이 돈으로 직원과 창고를 늘렸다."
       ],
       "photo_hint": "Jeff Bezos in the early Amazon garage/office, 1995–1996",
-      "title_size": 64
+      "title_size": 64,
+      "value": "회사 가치 약 600만 달러(추정)"
     },
     {
       "index": "04 · 첫 성과",
@@ -70,7 +73,8 @@
         "매장도 재고도 없이, 주문이 들어오면 유통 창고에서 책을 받아 보내는 구조였다."
       ],
       "photo_hint": "Amazon.com homepage, 1995 (or an early Amazon shipping box)",
-      "bgpos": "center top"
+      "bgpos": "center top",
+      "value": "회사 가치 약 600만 달러(추정)"
     },
     {
       "index": "05 · 성장",
@@ -82,7 +86,8 @@
         "1996년엔 다른 웹사이트가 책 링크를 걸어 팔리면 수수료를 주는 '어소시에이트'를 열었다. 광고비를 미리 쓰지 않고 팔린 만큼만 내는 방식이라, 수많은 사이트가 Amazon의 홍보 창구가 됐다.",
         "1997년엔 AOL·Yahoo 같은 포털의 서점 자리를 샀다. 매출은 1996년 1,570만 달러에서 1997년 1억 4,780만 달러로 뛰었다."
       ],
-      "photo_hint": "Amazon.com book page with customer reviews, late 1990s (or Jeff Bezos at Amazon in 1996–97)"
+      "photo_hint": "Amazon.com book page with customer reviews, late 1990s (or Jeff Bezos at Amazon in 1996–97)",
+      "value": "회사 가치 약 6,000만 달러(추정)"
     },
     {
       "index": "06 · 확장",
@@ -94,7 +99,8 @@
         "이미 찾아오는 손님에게 다른 물건도 팔면, 손님을 새로 모으는 비용 없이 매출을 늘릴 수 있었다.",
         "2000년엔 다른 판매자도 같은 상품 페이지에서 팔 수 있는 마켓플레이스를 열어, 재고를 쌓지 않고도 파는 물건을 크게 늘렸다."
       ],
-      "photo_hint": "Amazon.com homepage around 1999 showing music, video, toys and electronics tabs"
+      "photo_hint": "Amazon.com homepage around 1999 showing music, video, toys and electronics tabs",
+      "value": "시가총액 약 171억 달러"
     },
     {
       "index": "07 · 위기",
@@ -108,7 +114,8 @@
         "싸지자 손님과 매출이 늘었고, 2001년 4분기 매출 11억 달러로 처음 흑자를 냈다.",
         "이듬해엔 99달러 넘게 사면 어떤 상품이든 배송비를 받지 않았고, 8월엔 그 기준을 25달러까지 낮췄다."
       ],
-      "photo_hint": "Inside an Amazon fulfillment center, early 2000s"
+      "photo_hint": "Inside an Amazon fulfillment center, early 2000s",
+      "value": "시가총액 약 40억 달러"
     },
     {
       "index": "08 · 성장",
@@ -120,7 +127,8 @@
         "그전엔 일정 금액 넘게 사야 배송비가 면제돼, 작은 물건 하나는 다른 곳에서 사기 쉬웠다.",
         "회비를 한 번 내면 배송비를 따질 이유가 사라져, 회원이 무엇이든 먼저 Amazon에서 사게 만드는 장치였다."
       ],
-      "photo_hint": "Amazon Prime box (or a delivery truck with the Prime logo)"
+      "photo_hint": "Amazon Prime box (or a delivery truck with the Prime logo)",
+      "value": "시가총액 약 196억 달러"
     },
     {
       "index": "09 · 확장",
@@ -132,7 +140,8 @@
         "2003년 임원들과 회사의 강점을 따져 보니, 거대한 데이터센터를 싸고 안정적으로 돌리는 능력이 꼽혔다.",
         "그래서 이를 외부에 빌려주기로 했다. 2006년 문을 연 AWS는 서버를 사지 않고 쓴 만큼만 돈을 내는 방식이었다."
       ],
-      "photo_hint": "Inside an AWS data center (or the AWS logo)"
+      "photo_hint": "Inside an AWS data center (or the AWS logo)",
+      "value": "시가총액 약 163억 달러"
     },
     {
       "index": "10 · 확장",
@@ -144,7 +153,8 @@
         "2014년엔 스마트폰 Fire Phone을 냈지만 팔리지 않아, 1억 7,000만 달러를 손실로 처리하고 이듬해 생산을 멈췄다.",
         "2017년 식료품 체인 <Whole Foods>를 137억 달러에 사들여, 온라인에 없던 매장 460여 곳과 신선식품을 얻었다."
       ],
-      "photo_hint": "First Kindle (2007) or a Whole Foods store with Amazon signage (2017)"
+      "photo_hint": "First Kindle (2007) or a Whole Foods store with Amazon signage (2017)",
+      "value": "시가총액 약 5,635억 달러(2017)"
     },
     {
       "index": "11 · 정점",
@@ -157,7 +167,8 @@
         "쇼핑은 값을 낮춰 손님을 모으고, 클라우드가 이익을 내는 구조였다."
       ],
       "photo_hint": "Amazon headquarters in Seattle, The Spheres, around 2018",
-      "bgpos": "center bottom"
+      "bgpos": "center bottom",
+      "value": "시가총액 약 1조 6,340억 달러"
     },
     {
       "type": "stats",
@@ -181,7 +192,8 @@
         "회사를 세운 지 꼭 27년 되는 2021년 7월 5일 대표에서 물러나 이사회 의장을 맡았다.",
         "보름 뒤 자신이 세운 우주 기업 블루 오리진의 첫 유인 우주 비행에 직접 올랐다."
       ],
-      "photo_hint": "Jeff Bezos around 2021 (a Blue Origin flight suit photo is also good)"
+      "photo_hint": "Jeff Bezos around 2021 (a Blue Origin flight suit photo is also good)",
+      "value": "시가총액 약 1조 7,000억 달러"
     },
     {
       "type": "outro",
@@ -197,5 +209,5 @@
       "photo_hint": "Amazon logo on a dark background (the cover sticker is cut from this too)"
     }
   ],
-  "caption": "차고에서 시작한 세계 최대 인터넷 쇼핑몰.\n\n제프 베이조스는 인터넷이 한 해 2,300%씩 자란다는 숫자를 보고 월가를 나왔어요. 어떤 서점도 다 갖출 수 없는 '모든 책'을 온라인에 올리고, 독자 서평과 제휴 링크로 돈을 덜 들이고 손님을 모았어요. 주가가 90% 떨어진 위기에도 값을 더 내렸어요. 책에서 음악·전자제품, 다른 판매자의 물건까지 파는 물건을 늘렸고, 배송비를 없앤 Prime, 자기 서버를 상품으로 판 AWS로 Amazon은 1조 달러 회사가 됐어요.\n\n💬 Amazon에서 처음 산 물건, 기억나세요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, History of Amazon\n- The Seattle Times, Homegrown Amazon (2000.04.16)\n- Amazon 보도자료, 4th Quarter 2001 Profit (2002.01.22)\n- Amazon 1997 연차 보고서(10-K), 순매출 1996·1997\n- CNBC, Amazon stock lost more than 90% in the dot-com bust (2018.12.18)\n- TechCrunch, Andy Jassy's brief history of the genesis of AWS (2016.07.02)\n- Amazon 2019 연차 보고서(10-K), 부문별 매출·영업이익\n- AFP(Dawn), Amazon becomes second US company to reach $1 trillion (2018.09.04)\n- Bloomberg, Amazon Finally Closes Above $1 Trillion After Months of Flirting (2020.02.04)\n- AP(KSL), Amazon begins new chapter as Bezos hands over CEO role (2021.07.05)\n- Amazon 2001 주주 서한 (2002.04)\n- Publishers Weekly, Lower Prices, More Used Product for Amazon.com's Book Group (2001.07.30)\n- Amazon 보도자료, 무료 배송 기준 25달러로 인하 (2002.08)\n- Bloomberg, A hidden Amazon fortune: Bezos parents could be worth billions (2018.07.31)\n- Business Insider, Jeff Bezos told what may be the best startup investment story ever (2016)\n- Fortune, Amazon CEO Jeff Bezos on the Fire Phone failure (2014.12.02)\n\n#기업집중탐구 #제프베이조스 #아마존 #Amazon #창업 #창업스토리 #스타트업 #자기계발"
+  "caption": "차고에서 시작한 세계 최대 인터넷 쇼핑몰.\n\n제프 베이조스는 인터넷이 한 해 2,300%씩 자란다는 숫자를 보고 월가를 나왔어요. 어떤 서점도 다 갖출 수 없는 '모든 책'을 온라인에 올리고, 독자 서평과 제휴 링크로 돈을 덜 들이고 손님을 모았어요. 주가가 90% 떨어진 위기에도 값을 더 내렸어요. 책에서 음악·전자제품, 다른 판매자의 물건까지 파는 물건을 늘렸고, 배송비를 없앤 Prime, 자기 서버를 상품으로 판 AWS로 Amazon은 1조 달러 회사가 됐어요.\n\n💬 Amazon에서 처음 산 물건, 기억나세요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, History of Amazon\n- The Seattle Times, Homegrown Amazon (2000.04.16)\n- Amazon 보도자료, 4th Quarter 2001 Profit (2002.01.22)\n- Amazon 1997 연차 보고서(10-K), 순매출 1996·1997\n- CNBC, Amazon stock lost more than 90% in the dot-com bust (2018.12.18)\n- TechCrunch, Andy Jassy's brief history of the genesis of AWS (2016.07.02)\n- Amazon 2019 연차 보고서(10-K), 부문별 매출·영업이익\n- AFP(Dawn), Amazon becomes second US company to reach $1 trillion (2018.09.04)\n- Bloomberg, Amazon Finally Closes Above $1 Trillion After Months of Flirting (2020.02.04)\n- AP(KSL), Amazon begins new chapter as Bezos hands over CEO role (2021.07.05)\n- Amazon 2001 주주 서한 (2002.04)\n- Publishers Weekly, Lower Prices, More Used Product for Amazon.com's Book Group (2001.07.30)\n- Amazon 보도자료, 무료 배송 기준 25달러로 인하 (2002.08)\n- Bloomberg, A hidden Amazon fortune: Bezos parents could be worth billions (2018.07.31)\n- Business Insider, Jeff Bezos told what may be the best startup investment story ever (2016)\n- Fortune, Amazon CEO Jeff Bezos on the Fire Phone failure (2014.12.02)\n- 장별 회사 가치: 1995년은 엔젤 투자 때 제시한 투자 전 가치 600만 달러(GeekWire), 1996년은 Kleiner Perkins 투자 기준 약 6,000만 달러(추정), 상장 뒤는 연말 시가총액(companiesmarketcap)\n\n#기업집중탐구 #제프베이조스 #아마존 #Amazon #창업 #창업스토리 #스타트업 #자기계발"
 }
