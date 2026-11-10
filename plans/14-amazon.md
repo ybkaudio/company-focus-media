@@ -68,6 +68,12 @@
 
 1995년 7월 온라인 서점 Amazon.com이 문을 열었다.
 
+1년 가까이 지인 300명에게 미리 써 보게 하며 사이트를 다듬은 뒤였다.
+
+광고를 할 돈은 없었다.
+
+대신 문을 연 직후 당시 인터넷의 첫 화면 노릇을 하던 <Yahoo>의 추천 사이트 목록과 웹 브라우저 Netscape의 새 사이트 목록에 올랐고, 첫 손님들의 입소문이 더해졌다.
+
 두 달 만에 미국 50개 주 전부와 45개가 넘는 나라에서 주문이 들어왔고, 주간 매출이 2만 달러에 이르렀다.
 
 매장도 재고도 없이, 주문이 들어오면 유통 창고에서 책을 받아 보내는 구조였다.
@@ -230,6 +236,8 @@
 - Bloomberg, A hidden Amazon fortune: Bezos parents could be worth billions (2018.07.31)
 - Business Insider, Jeff Bezos told what may be the best startup investment story ever (2016)
 - Fortune, Amazon CEO Jeff Bezos on the Fire Phone failure (2014.12.02)
+- Encyclopedia.com, Amazon.com, Inc.: Yahoo What's Cool·Netscape What's New 등재, 입소문
+- Shortform, How Was Amazon Started? / Vator, When Amazon was young (2016.12): 베타 사용자 300명, Yahoo 첫 화면 소개
 - 장별 회사 가치: 1995년은 엔젤 투자 때 제시한 투자 전 가치 600만 달러(GeekWire), 1996년은 Kleiner Perkins 투자 기준 약 6,000만 달러(추정), 상장 뒤는 연말 시가총액(companiesmarketcap), 1994년 창업 장은 베이조스가 처음 넣은 1만 달러(HistoryLink)
 
 #기업집중탐구 #제프베이조스 #아마존 #Amazon #창업 #창업스토리 #스타트업 #자기계발
