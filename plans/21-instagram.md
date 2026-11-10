@@ -110,7 +110,7 @@ Burbn은 이미 인기를 끌던 체크인 앱 <Foursquare>와 너무 비슷했�
 
 📷 **Photo:** Instagram Android launch, April 2012 (Google Play listing or news photo)
 
-**제목:** 안드로이드에서 하루만에 100만 다운로드를 달성하다
+**제목:** 안드로이드 출시, 하루만에 100만 다운로드를 달성하다
 
 2011년 2월 투자사 <Benchmark> 등에서 약 700만 달러를 받았다.
 
@@ -123,7 +123,7 @@ iPhone 전용이던 앱을 2012년 4월 3일 Android로 내놓자 하루도 안 
 
 📷 **Photo:** Kevin Systrom and Mark Zuckerberg, 2012 (or Facebook acquires Instagram news photo)
 
-**제목:** 직원 13명으로 10억 달러에 팔리다
+**제목:** 직원 13명 회사, 10억 달러에 팔리다
 
 2012년 4월 9일 <Facebook>이 현금과 주식 10억 달러에 Instagram을 사겠다고 발표했다.
 
@@ -177,7 +177,7 @@ Stories 사용자는 두 달 만에 1억 명, 2017년 4월 2억 명이 되며 Sn
 
 📷 **Photo:** Kevin Systrom portrait, 2018
 
-**제목:** 저커버그와 부딪치고 Instagram을 떠나다
+**제목:** 저커버그와 부딪치고 회사를 떠나다
 
 - **약 1,000억 달러** — 회사 가치 (블룸버그 인텔리전스 추정, 2018년)
 - **약 8년** — Instagram 출시부터 떠날 때까지
@@ -191,7 +191,7 @@ Stories 사용자는 두 달 만에 1억 명, 2017년 4월 2억 명이 되며 Sn
 
 📷 **Photo:** Kevin Systrom portrait (person photo for the closing slide)
 
-**제목:** 사진 한 장을 10억 명의 습관으로
+**제목:** 사진 공유 앱 하나를 10억 명의 습관으로
 
 - 필요 없는 기능을 모두 덜어 낸 과감함
 - 흐린 폰 사진을 살린 필터 감각
