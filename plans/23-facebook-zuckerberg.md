@@ -127,7 +127,7 @@ PayPal 공동 창업자 피터 틸이 50만 달러를 넣고 회사의 10.2%를 
 
 📷 **Photo:** Facebook News Feed, 2006 (screenshot) or Students Against Facebook News Feed group
 
-**제목:** 10억 달러를 거절하고 뉴스피드를 지키다
+**제목:** 인수 제안 거절과 뉴스피드에 대한 뚝심
 
 2006년 Yahoo가 회사를 10억 달러에 사겠다고 했지만 저커버그는 거절했고, 그 뒤 1년 안에 경영진 대부분이 회사를 떠났다.
 
