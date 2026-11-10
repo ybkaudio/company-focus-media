@@ -15,7 +15,7 @@
 
 ## 02.jpg · 01 · 배경
 
-📷 **Photo:** AudBlog / audioBLOGGER website screenshot, 2003 (or a young Noah Glass photo)
+📷 **Photo:** 완료 (ILM 작업실 사진)
 
 **제목:** 전화로 녹음해 올리는 음성 블로그를 만들다
 
@@ -30,7 +30,7 @@
 
 ## 03.jpg · 02 · 배경
 
-📷 **Photo:** Audioblogger + Blogger logos or Blogger-era Evan Williams with Noah Glass (avoid photos where Williams could be mistaken for Glass)
+📷 **Photo:** 완료 (정장 사진, 250px라 더 큰 판이 있으면 교체)
 
 **제목:** 이웃 윌리엄스와 손잡고 Blogger 사용자에게 열다
 
