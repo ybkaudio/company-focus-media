@@ -95,16 +95,16 @@ def slide_html(ep, s, i, n, base):
         body = (f'<div class="handle">{e(ep["handle"]).upper()}</div><h1>{h1}</h1>'
                 f'<div class="dv"></div><div class="who">{e(ep["person"])} · {e(ep.get("company_ko") or ep["company"])}</div><p>{lines(s["body"])}</p>')
         return f'<div class="s cover">{bg}<div class="{shade}"></div>{head}<div class="txt">{body}</div></div>'
+    hs = f' style="font-size:{s["title_size"]}px"' if s.get("title_size") else ''
     if t == "stats":
         st = "".join(f'<div class="st"><div class="c">{e(x["cap"])}</div><div class="n">{e(x["num"])}<span class="u">{e(x["unit"])}</span></div></div>' for x in s["stats"])
-        body = f'<h1>{e(s["title"])}</h1><div class="dv"></div><div class="stats">{st}</div><p>{lines(s["body"])}</p>'
+        body = f'<h1{hs}>{e(s["title"])}</h1><div class="dv"></div><div class="stats">{st}</div><p>{lines(s["body"])}</p>'
     elif t == "outro":
         pts = "".join(f'<div class="pt">{e(x)}</div>' for x in s["points"])
         q = (f'<div class="q">{e(s["question"])}</div><div class="qa">{e(s.get("ask",""))}</div>' if s.get("question") else '')
         body = (f'<h1>{e(s["title"])}</h1><div class="dv"></div>{pts}{q}'
                 f'<div class="ft">{e(ep["handle"]).upper()}</div><div class="btn">{e(s["button"])}</div>')
     else:
-        hs = f' style="font-size:{s["title_size"]}px"' if s.get("title_size") else ''
         body = f'<h1{hs}>{e(s["title"])}</h1><div class="dv"></div><p>{lines(s["body"])}</p>'
     return f'<div class="s">{bg}<div class="{shade}"></div>{head}<div class="txt">{body}</div></div>'
 
