@@ -30,7 +30,7 @@
 
 📷 **Photo:** Atari office or arcade cabinets, mid-1970s (Gran Trak 10 cabinet)
 
-**제목:** Atari에서 만난 두 청년, 잡스와 워즈니악
+**제목:** 게임 회사에서 잡스와 워즈니악을 만나다
 
 웨인은 게임 회사 <Atari>에서 문서 관리 체계를 만들고 게임기 겉모양을 설계했다.
 
