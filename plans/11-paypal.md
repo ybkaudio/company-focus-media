@@ -80,7 +80,20 @@
 두 달 만에 가입자가 20만 명을 넘었다.
 
 
-## 07.jpg · 06 · 확장
+## 07.jpg · 06 · 방향 전환
+
+📷 **Photo:** Early X.com / PayPal email payment screen, 'send money by email' (around 2000)
+
+**제목:** 은행 대신 이메일 송금에 집중하다
+
+X.com은 계좌·투자를 한 화면에 모은 종합 금융 계좌를 내세웠지만, 이를 보여 주면 사람들의 반응은 미지근했다.
+
+반면 이메일 주소로 돈을 보내는 기능을 보여 주면 반응이 확 달라졌다.
+
+머스크는 회사의 사업을 이메일 송금 중심으로 바꿨고, 같은 송금 서비스를 하던 Confinity와 정면으로 맞붙게 됐다.
+
+
+## 08.jpg · 07 · 확장
 
 📷 **Photo:** 피터 틸과 머스크, PayPal 화면 앞
 
@@ -93,7 +106,7 @@
 최대 주주가 된 머스크가 CEO를 맡았고, 합친 회사는 2001년 이름을 PayPal로 바꿨다.
 
 
-## 08.jpg · 07 · 위기
+## 09.jpg · 08 · 위기
 
 📷 **Photo:** Elon Musk and Peter Thiel at X.com / PayPal, around 2000
 
@@ -108,7 +121,7 @@
 2000년 9월 미뤘던 신혼여행 겸 투자 유치 출장으로 호주행 비행기에 오른 사이, 임원들이 이사회에 불신임 편지를 냈고 피터 틸이 CEO를 넘겨받았다.
 
 
-## 09.jpg · 08 · 정점
+## 10.jpg · 09 · 정점
 
 📷 **Photo:** PayPal 화면 앞의 머스크 (2000년 무렵)
 
@@ -121,7 +134,7 @@
 2002년 2월 상장 첫날 주가가 55% 가까이 올랐다.
 
 
-## 10.jpg · 09 · 떠날 때
+## 11.jpg · 10 · 떠날 때
 
 📷 **Photo:** eBay·PayPal 로고
 
@@ -135,7 +148,7 @@ CEO에서 물러난 뒤에도 최대 주주로 남았고, 2002년 eBay가 PayPal
 그는 이 돈을 같은 해 세운 SpaceX와 2004년 투자한 Tesla에 쏟았다.
 
 
-## 11.jpg · 마무리
+## 12.jpg · 마무리
 
 📷 **Photo:** SpaceX 드래곤 캡슐 앞 머스크 (PayPal로 번 돈이 간 곳)
 
@@ -152,7 +165,7 @@ CEO에서 물러난 뒤에도 최대 주주로 남았고, 2002년 eBay가 PayPal
 
 PayPal, 일론 머스크의 시작.
 
-스코샤은행 인턴 시절 은행이 새로운 시도를 하지 않는다고 본 그는 첫 회사 Zip2를 판 돈으로 온라인 금융 회사 X.com을 세웠어요. 가입 보너스로 사용자를 모았고, 경쟁사 Confinity와 합쳐 PayPal을 키웠어요. CEO 자리에선 밀려났지만, 최대 주주로 받은 1억 7,580만 달러는 다음 회사의 밑천이 됐어요.
+스코샤은행 인턴 시절 은행이 새로운 시도를 하지 않는다고 본 그는 첫 회사 Zip2를 판 돈으로 온라인 금융 회사 X.com을 세웠어요. 가입 보너스로 사용자를 모았고, 사람들이 가장 반긴 이메일 송금에 사업을 집중했어요. 이어 경쟁사 Confinity와 합쳐 PayPal을 키웠어요. CEO 자리에선 밀려났지만, 최대 주주로 받은 1억 7,580만 달러는 다음 회사의 밑천이 됐어요.
 
 💬 경쟁사와 합치는 것, 여러분이라면 할 수 있을까요? 댓글로 의견을 남겨 주세요.
 
@@ -167,6 +180,7 @@ PayPal, 일론 머스크의 시작.
 - PayPal 보도자료, eBay to Acquire PayPal (2002.07.08)
 - Snopes, Was Elon Musk fired from PayPal?
 - Jessica Livingston, Founders at Work (Max Levchin 인터뷰, 2007)
+- Stanford eCorner, Elon Musk: The Founding of PayPal (강연 녹취)
 - Fox Business, Elon Musk was dethroned by Peter Thiel in a coup (2022)
 - Snopes, Was Elon Musk Fired from PayPal? (2022)
 
