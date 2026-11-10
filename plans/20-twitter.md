@@ -126,7 +126,7 @@ Twitter를 자기 프로젝트로 지키려 했고, 윌리엄스가 자신을 �
 
 📷 **Photo:** Twitter bird logo on a dark background (the cover sticker is cut from this too)
 
-**제목:** 트위터에 이름과 목적을 붙인 사람
+**제목:** 트위터의 의미를 만든 사람
 
 - iTunes의 등장에도 포기하지 않던 끈기
 - 새로운 아이디어에 열려 있던 시각
