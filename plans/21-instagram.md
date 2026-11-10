@@ -30,7 +30,7 @@
 
 📷 **Photo:** Google campus in Mountain View, 2006-2008 (or Odeo office, 2005)
 
-**제목:** 오데오 인턴을 거쳐 구글에서 마케팅을 맡다
+**제목:** Odeo 인턴을 거쳐 구글에서 마케팅을 맡다
 
 졸업 전 여름, 그는 팟캐스트 회사 <Odeo>에서 인턴을 하며 훗날 Twitter를 만드는 에번 윌리엄스, 잭 도시와 함께 일했다.
 
