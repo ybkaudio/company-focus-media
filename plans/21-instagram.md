@@ -82,7 +82,7 @@ Burbn은 이미 인기를 끌던 체크인 앱 <Foursquare>와 너무 비슷했�
 
 📷 **Photo:** Early Instagram filter selection screen on an iPhone 4 (X-Pro II filter)
 
-**제목:** 흐린 휴대폰 사진을 살리는 필터를 만들다
+**제목:** 인스타그램 필터를 만들다
 
 여자 친구 니콜이 휴대폰으로 찍은 사진이 예쁘게 나오지 않는다고 하자, 그는 첫 필터 'X-Pro II'를 만들었다.
 
