@@ -119,7 +119,7 @@
 
 📷 **Photo:** Eduardo Saverin portrait (person photo for the closing slide)
 
-**제목:** 비운의 공동 창업자
+**제목:** 비운의 초기 주주
 
 - 석유 투자로 30만 달러를 번 투자 감각
 - 남보다 먼저 더페이스북에 돈을 건 안목
