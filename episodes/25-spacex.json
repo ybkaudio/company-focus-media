@@ -23,10 +23,12 @@
       "title": "NASA 화성 계획을 찾다가\n빈 계획표를 보다",
       "body": [
         "PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이트에서 화성 탐사 일정을 찾았지만 아무 계획도 없었다.",
-        "그래서 작은 온실을 화성에 보내 식물을 키우는 모습을 찍어 보내는 'Mars Oasis'를 구상했다.",
+        "그는 화성 이주를 연구하는 단체 Mars Society의 모임에 나가 우주 전문가들을 만났다.",
+        "그리고 작은 온실을 화성에 보내 식물이 자라는 모습을 지구로 보내는 'Mars Oasis'를 구상했다.",
         "화성에서 자라는 첫 생명을 보여 주면 사람들의 관심이 살아나고 NASA 예산도 늘 것이라는 계산이었다."
       ],
-      "photo_hint": "NASA website or Mars surface image (Mars Oasis greenhouse concept art if available)"
+      "photo_hint": "NASA website or Mars surface image (Mars Oasis greenhouse concept art if available)",
+      "value": "회사 설립 전"
     },
     {
       "index": "02 · 방향 전환",
@@ -34,11 +36,12 @@
       "photo": null,
       "title": "러시아 미사일을 사려다\n직접 만들기로 하다",
       "body": [
-        "온실을 보낼 로켓을 사려고 2001년 10월과 2002년 2월 러시아로 가 퇴역한 대륙간탄도미사일을 사려 했다.",
+        "온실을 보낼 로켓을 사려고 2001년 10월과 2002년 2월 러시아로 가 퇴역한 대륙간탄도미사일을 사려 했다. 로켓 엔지니어 짐 캔트렐과 Zip2 시절 파티를 함께 연 친구 아데오 레시(#11)가 동행했다.",
         "업체는 한 발에 800만 달러를 불렀고, 값은 더 오를 기미였다. 협상은 결렬됐다.",
-        "로켓 재료값을 따져 보니 판매 가격의 약 2%에 불과했다. 그는 비싼 건 재료가 아니라 만드는 방식이라고 보고, 화분 대신 싼 로켓을 직접 만드는 회사로 계획을 바꿨다."
+        "돌아오는 비행기에서 로켓 재료값을 따져 보니 판매 가격의 약 2%에 불과했다. 그는 비싼 건 재료가 아니라 만드는 방식이라고 보고, 화분 대신 싼 로켓을 직접 만드는 회사로 계획을 바꿨다."
       ],
-      "photo_hint": "Moscow in winter, early 2000s (or Russian Dnepr rocket launch)"
+      "photo_hint": "Moscow in winter, early 2000s (or Russian Dnepr rocket launch)",
+      "value": "회사 설립 전"
     },
     {
       "index": "03 · 창업",
@@ -46,12 +49,13 @@
       "photo": null,
       "title": "PayPal로 번 돈 절반을 넣어\nSpaceX를 세우다",
       "body": [
-        "2002년 3월 <SpaceX>를 세웠고, 그해 10월 eBay가 PayPal을 사며 받은 약 1억 8천만 달러 중 절반 가까이를 회사에 넣었다(#24).",
-        "첫 직원은 로켓 엔진 설계자 톰 뮬러였다.",
-        "엔진과 몸체 대부분을 사 오지 않고 회사 안에서 직접 만들어, 외주 업체의 마진을 줄였다."
+        "2002년 3월 <SpaceX>를 세웠다. 시작 자본금은 머스크가 넣은 약 1억 달러로, 그해 10월 eBay가 PayPal을 사며 받은 약 1억 8천만 달러의 절반 가까이였다(#24).",
+        "로스앤젤레스 근처 엘세군도의 창고에서 시작했고, 첫 직원은 로켓 엔진 설계자 톰 뮬러였다. 같은 해 들어온 그윈 숏웰은 훗날 회사의 사장이 된다.",
+        "엔진과 몸체 대부분을 사 오지 않고 회사 안에서 직접 만들어, 외주 업체의 마진을 줄였다. 목표는 발사 비용을 10분의 1로 낮추는 것이었다."
       ],
       "photo_hint": "Early SpaceX factory in El Segundo, Musk with Tom Mueller (crop other people if unclear)",
-      "title_size": 80
+      "title_size": 80,
+      "value": "회사 가치 약 1억 달러(추정)"
     },
     {
       "index": "04 · 자금",
@@ -63,7 +67,8 @@
         "단계별 목표를 이룰 때마다 돈을 받는 방식이었고, 회사는 이 돈으로 더 큰 로켓 <Falcon 9>과 화물 우주선 <Dragon> 개발에 들어갔다.",
         "그해 3월 첫 Falcon 1 발사가 실패해, 아직 로켓을 한 번도 궤도에 올리지 못한 때였다."
       ],
-      "photo_hint": "NASA COTS announcement 2006, or early Dragon capsule mockup / SpaceX Hawthorne factory 2006-2007"
+      "photo_hint": "NASA COTS announcement 2006, or early Dragon capsule mockup / SpaceX Hawthorne factory 2006-2007",
+      "value": "회사 가치 약 3억 달러(추정)"
     },
     {
       "index": "05 · 위기",
@@ -71,11 +76,12 @@
       "photo": null,
       "title": "세 번 연속 실패,\n마지막 한 발만 남다",
       "body": [
-        "첫 로켓 <Falcon 1>은 2006년 3월 발사 직후 불이 나 떨어졌고, 2007년 3월과 2008년 8월에도 궤도에 오르지 못했다.",
+        "첫 로켓 <Falcon 1>은 2006년 3월 연료관을 죈 너트가 바닷바람에 부식돼 불이 나 떨어졌다. 2007년 3월에는 연료가 출렁여 엔진이 꺼졌고, 2008년 8월에는 분리된 1단이 2단에 부딪혔다.",
         "같은 해 Tesla도 급여를 못 줄 만큼 자금이 말라, 그는 남은 돈을 두 회사에 나눠 넣었다.",
-        "2008년 8월 PayPal 동료 피터 틸의 투자사 Founders Fund가 2천만 달러를 넣었다. 머스크는 네 번째 발사가 Falcon 1에 쓸 마지막 돈이었다고 말했다."
+        "2008년 8월 PayPal 동료 피터 틸의 투자사 Founders Fund가 2천만 달러를 넣었다(#27). 머스크는 네 번째 발사가 Falcon 1에 쓸 마지막 돈이었다고 말했다."
       ],
-      "photo_hint": "Falcon 1 launch failure on Omelek Island, Kwajalein, 2006-2008"
+      "photo_hint": "Falcon 1 launch failure on Omelek Island, Kwajalein, 2006-2008",
+      "value": "회사 가치 약 3억 달러(추정)"
     },
     {
       "index": "06 · 첫 성과",
@@ -83,11 +89,12 @@
       "photo": null,
       "title": "네 번째 발사로\n민간 첫 궤도에 오르다",
       "body": [
-        "2008년 9월 28일 네 번째 Falcon 1이 궤도에 올랐다.",
+        "2008년 9월 28일 네 번째 Falcon 1이 궤도에 올랐다. 세 번째 실패 뒤 6주 만에 남은 부품으로 다시 조립한 로켓이었다.",
         "민간 자금으로 만든 액체연료 로켓이 궤도에 오른 첫 사례였다.",
-        "발사 가격은 약 700만 달러로, 작은 위성을 싸게 올리려는 고객을 받을 수 있게 됐다."
+        "발사 가격은 약 700만 달러로, 작은 위성을 싸게 올리려는 고객을 받을 수 있게 됐다. 2009년 7월에는 말레이시아 위성을 올려 첫 상업 발사를 했다."
       ],
-      "photo_hint": "Falcon 1 Flight 4 lifting off, September 28 2008 (or SpaceX team celebrating)"
+      "photo_hint": "Falcon 1 Flight 4 lifting off, September 28 2008 (or SpaceX team celebrating)",
+      "value": "회사 가치 약 3억 달러(추정)"
     },
     {
       "index": "07 · 자금",
@@ -99,7 +106,8 @@
         "2011년 우주왕복선 퇴역을 앞두고 NASA가 운송을 민간 업체에서 사는 방식으로 바꾼 덕이었다.",
         "이 계약으로 회사는 파산 위기를 넘겼고, 더 큰 로켓 <Falcon 9> 개발을 이어 갔다."
       ],
-      "photo_hint": "NASA logo with SpaceX Dragon cargo capsule, or Musk at NASA event 2008-2010"
+      "photo_hint": "NASA logo with SpaceX Dragon cargo capsule, or Musk at NASA event 2008-2010",
+      "value": "회사 가치 약 10억 달러(추정)"
     },
     {
       "index": "08 · 성장",
@@ -107,11 +115,13 @@
       "photo": null,
       "title": "민간 우주선 최초로\n우주정거장에 화물을 싣다",
       "body": [
-        "2010년 Falcon 9이 첫 발사에 성공했다.",
-        "2012년 5월 화물 우주선 <Dragon>이 민간 회사 우주선으로는 처음 국제우주정거장에 도킹해 화물을 전달했다.",
+        "2010년 6월 엔진 9개를 묶은 Falcon 9이 첫 발사에 성공했다.",
+        "같은 해 12월 Dragon은 민간 회사 우주선으로는 처음 궤도를 돌고 지구로 돌아왔다.",
+        "2012년 5월 Dragon이 민간 회사 우주선으로는 처음 국제우주정거장에 도킹해 화물을 전달했다.",
         "정부만 하던 우주정거장 보급을 민간 회사가 맡는 길이 열렸다."
       ],
-      "photo_hint": "Dragon capsule captured by the ISS robotic arm, May 2012"
+      "photo_hint": "Dragon capsule captured by the ISS robotic arm, May 2012",
+      "value": "회사 가치 약 24억 달러(추정)"
     },
     {
       "index": "09 · 방향 전환",
@@ -123,7 +133,8 @@
         "머스크는 Falcon 9 한 발 6천만 달러 중 연료값은 약 0.3%라며, 몸체를 다시 쓰면 값이 크게 내려간다고 봤다.",
         "2015년 12월 1단 로켓을 처음 땅에 세웠고, 2017년 3월 착륙했던 로켓을 다시 쏘아 올렸다. 이후 한 부스터를 20번 넘게 다시 쓰며 발사 횟수를 늘렸다."
       ],
-      "photo_hint": "Falcon 9 first stage landing (Orbcomm-2 landing, December 2015, or twin booster landing)"
+      "photo_hint": "Falcon 9 first stage landing (Orbcomm-2 landing, December 2015, or twin booster landing)",
+      "value": "회사 가치 약 210억 달러(추정)"
     },
     {
       "index": "10 · 확장",
@@ -135,7 +146,8 @@
         "2020년 5월 <Crew Dragon>이 NASA 우주인 2명을 태우고 민간 회사 최초로 유인 궤도 비행에 성공했다.",
         "NASA 감사관실은 좌석당 비용을 약 5,500만 달러로 추산했다."
       ],
-      "photo_hint": "Crew Dragon Demo-2 launch, May 30 2020"
+      "photo_hint": "Crew Dragon Demo-2 launch, May 30 2020",
+      "value": "회사 가치 약 460억 달러(추정)"
     },
     {
       "index": "11 · 확장",
@@ -147,7 +159,8 @@
         "남는 로켓 자리를 자기 위성으로 채우니, 발사 비용이 그대로 통신 사업의 원가 우위가 됐다.",
         "2025년 말 가입자 890만 명, 그해 매출 187억 달러 중 61%가 Starlink에서 나왔다."
       ],
-      "photo_hint": "Starlink satellites stacked before deployment, or Starlink dish"
+      "photo_hint": "Starlink satellites stacked before deployment, or Starlink dish",
+      "value": "회사 가치 약 4,000억 달러(추정)"
     },
     {
       "index": "12 · 정점",
@@ -155,7 +168,9 @@
       "photo": null,
       "title": "세계 발사의 절반을 맡고\n상장하다",
       "body": [
-        "2025년 세계 궤도 발사의 약 51%가 SpaceX였다. 2026년 6월 xAI를 합친 SpaceX가 사상 최대 규모로 상장했고, 그는 지금도 CEO다."
+        "2025년 세계 궤도 발사의 약 51%가 SpaceX였다.",
+        "화성까지 사람을 실어 나를 초대형 로켓 <Starship>도 2023년부터 시험 발사를 이어 가고 있다.",
+        "2026년 6월 xAI를 합친 SpaceX가 사상 최대 규모로 상장했고, 그는 지금도 CEO다."
       ],
       "photo_hint": "Elon Musk portrait, 2025-2026",
       "stats": [
@@ -170,7 +185,8 @@
           "unit": "년"
         }
       ],
-      "type": "stats"
+      "type": "stats",
+      "value": "회사 가치 약 2조 달러(상장 시가총액)"
     },
     {
       "type": "outro",
@@ -186,5 +202,5 @@
       "photo_hint": "Elon Musk with Falcon 9 or Starship (person photo for the closing slide)"
     }
   ],
-  "caption": "화성에 화분을 보내려던 계획이 어떻게 2조 달러 로켓 회사가 됐을까요?\n\n일론 머스크는 러시아에서 미사일을 사려다 실패한 뒤, 로켓 재료값이 판매가의 2%뿐이라는 걸 보고 직접 만들기로 했어요. PayPal로 번 돈 절반을 넣었지만 세 번 연속 실패했고, 마지막 돈으로 쏜 네 번째 로켓이 궤도에 올라 NASA 계약을 따냈어요. 버리던 로켓을 다시 쓰며 값을 낮췄고, 그 발사 능력으로 Starlink를 키웠어요.\n\n🔗 PayPal 마피아 시리즈. PayPal을 거쳐 간 사람들이 그 뒤 세운 회사들을 이어서 다뤄요. 머스크가 이 돈을 번 PayPal 이야기는 #24, 같은 PayPal 출신 채드 헐리의 YouTube는 #10, 2008년 위기 때 SpaceX에 투자한 피터 틸 이야기는 #27, 머스크의 다른 회사 Tesla는 #26에서 볼 수 있어요.\n\n💬 여러분은 로켓 재사용 착륙 장면을 처음 봤을 때 어떠셨나요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- The Space Review, SpaceX COTS demonstration plan (2006.09)\n- Wikipedia, History of SpaceX / Falcon 1 / Commercial Resupply Services / Initial public offering of SpaceX\n- WIRED, Elon Musk interview (2012.10.21)\n- NASA 보도자료, Commercial Resupply Services contracts (2008.12.23)\n- NASA OIG, Commercial Crew Program cost report (2019.11)\n- BryceTech via Via Satellite, SpaceX accounted for 50% of launches in 2025 (2026.04)\n- Hargreaves Lansdown, Inside SpaceX's IPO filing (2026)\n- Stock Analysis, SPCX market cap (2026.10.23)\n\n#기업집중탐구 #페이팔마피아 #일론머스크 #스페이스X #SpaceX #창업 #창업스토리 #스타트업 #자기계발"
+  "caption": "화성에 화분을 보내려던 계획이 어떻게 2조 달러 로켓 회사가 됐을까요?\n\n일론 머스크는 러시아에서 미사일을 사려다 실패한 뒤, 로켓 재료값이 판매가의 2%뿐이라는 걸 보고 직접 만들기로 했어요. PayPal로 번 돈 절반을 넣었지만 세 번 연속 실패했고, 마지막 돈으로 쏜 네 번째 로켓이 궤도에 올라 NASA 계약을 따냈어요. 버리던 로켓을 다시 쓰며 값을 낮췄고, 그 발사 능력으로 Starlink를 키웠어요.\n\n🔗 PayPal 마피아 시리즈. PayPal을 거쳐 간 사람들이 그 뒤 세운 회사들을 이어서 다뤄요. 머스크가 이 돈을 번 PayPal 이야기는 #24, 같은 PayPal 출신 채드 헐리의 YouTube는 #10, 2008년 위기 때 SpaceX에 투자한 피터 틸 이야기는 #27, 머스크의 다른 회사 Tesla는 #26에서 볼 수 있어요.\n\n💬 여러분은 로켓 재사용 착륙 장면을 처음 봤을 때 어떠셨나요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- The Space Review, SpaceX COTS demonstration plan (2006.09)\n- Wikipedia, History of SpaceX / Falcon 1 / Commercial Resupply Services / Initial public offering of SpaceX\n- WIRED, Elon Musk interview (2012.10.21)\n- NASA 보도자료, Commercial Resupply Services contracts (2008.12.23)\n- NASA OIG, Commercial Crew Program cost report (2019.11)\n- BryceTech via Via Satellite, SpaceX accounted for 50% of launches in 2025 (2026.04)\n- Hargreaves Lansdown, Inside SpaceX's IPO filing (2026)\n- Stock Analysis, SPCX market cap (2026.10.23)\n- 장별 회사 가치: 2002년은 머스크가 넣은 창업 자금 약 1억 달러, 2006~2008년은 NASA 계약 규모와 Founders Fund 투자로 셈한 추정, 2012년 이후는 투자 유치 때 보도된 기업가치(2012 약 24억, 2017 약 210억, 2020 약 460억, 2025 약 4,000억 달러), 2026년은 상장 시가총액\n- Wikipedia, SpaceX / Gwynne Shotwell: 러시아 방문 동행, 초기 직원\n\n#기업집중탐구 #페이팔마피아 #일론머스크 #스페이스X #SpaceX #창업 #창업스토리 #스타트업 #자기계발"
 }
