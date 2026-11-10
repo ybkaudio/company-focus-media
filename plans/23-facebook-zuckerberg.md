@@ -155,7 +155,7 @@ PayPal 공동 창업자 피터 틸이 50만 달러를 넣고 회사의 10.2%를 
 
 📷 **Photo:** Mark Zuckerberg and Sheryl Sandberg, 2008
 
-**제목:** Google 광고 전문가를 데려와 흑자를 내다
+**제목:** Google의 셰릴 샌드버그와 광고 사업을 키우다
 
 Beacon 실패 뒤 광고로 돈 버는 구조가 필요해지자, 2008년 3월 Google에서 광고 사업을 키운 셰릴 샌드버그를 2인자(COO)로 데려왔다.
 
@@ -168,7 +168,7 @@ Beacon 실패 뒤 광고로 돈 버는 구조가 필요해지자, 2008년 3월 G
 
 📷 **Photo:** Zuckerberg ringing the Nasdaq bell at Facebook HQ, May 18, 2012
 
-**제목:** 1,040억 달러에 상장하고 10억 명을 넘기다
+**제목:** 1,040억 달러에 상장하고 이용자 10억 명을 넘기다
 
 2012년 5월 18일 주당 38달러로 상장하며 160억 달러를 모았다.
 
@@ -181,7 +181,7 @@ Beacon 실패 뒤 광고로 돈 버는 구조가 필요해지자, 2008년 3월 G
 
 📷 **Photo:** Facebook iPhone app, 2012-2013 (native app relaunch) or Zuckerberg at TechCrunch Disrupt, September 2012
 
-**제목:** 휴대폰 앱을 새로 짜서 광고 62%를 휴대폰에서
+**제목:** 주가 급락, 휴대폰 앱으로 회생
 
 상장 직후 주가가 반 토막(9월 17달러대)이 났다.
 
