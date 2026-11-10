@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Noah Glass portrait (2000s; cover Twitter bird logo sticker is cut from the last slide's logo)
+📷 **Photo:** Twitter logo on a presentation screen (cropped), with a Noah Glass photo at Odeo as the sticker
 
 **제목:** Twitter라는 이름을 짓고 쫓겨난 창업자
 
@@ -65,7 +65,22 @@ Blogger를 만든 에번 윌리엄스와 손잡고 팟캐스트 회사 <Odeo>를
 Odeo 투자자 조지 재커리는 '노아는 Twitter에 미친 듯이 열광했다'고 말했다.
 
 
-## 06.jpg · 05 · 떠날 때
+## 06.jpg · 05 · 갈등
+
+📷 **Photo:** Noah Glass at Odeo, 2005–2006
+
+**제목:** 이혼과 불안 속에 팀과 부딪치다
+
+2005년부터 결혼 생활이 무너지던 글래스는 2006년 들어 날카롭고 불안해졌다.
+
+Twitter를 자기 프로젝트로 지키려 했고, 윌리엄스가 자신을 빼려 한다고 의심했다.
+
+직원들에게 언성을 높이는 일도 잦았다.
+
+그가 고민을 털어놓던 도시는 윌리엄스에게 글래스를 내보내지 않으면 자기가 나가겠다고 했다.
+
+
+## 07.jpg · 06 · 떠날 때
 
 📷 **Photo:** Noah Glass in the 2010s (interview photo)
 
@@ -74,12 +89,12 @@ Odeo 투자자 조지 재커리는 '노아는 Twitter에 미친 듯이 열광했
 - **약 500만 달러** — 회사 가치 (윌리엄스가 되산 2006년)
 - **약 5개월** — Twitter 아이디어부터 떠날 때까지
 
-도시의 요구로 2006년 7월 윌리엄스는 글래스를 해고했다.
+2006년 7월 윌리엄스는 글래스를 해고했고, 그는 약간의 현금과 주식만 받았다.
 
 10월 윌리엄스가 투자금 약 500만 달러를 돌려주고 회사를 되샀고, 글래스는 창업 이야기에서 빠졌다.
 
 
-## 07.jpg · 마무리
+## 08.jpg · 마무리
 
 📷 **Photo:** Twitter bird logo on a dark background (the cover sticker is cut from this too)
 
@@ -106,6 +121,8 @@ Twitter라는 이름을 짓고 쫓겨난 창업자.
 - Wikipedia, Noah Glass
 - Business Insider, What Happened To Forgotten Twitter Co-Founder Noah Glass (2013.10)
 - Fast Company, Noah Glass: Twitter's Long Lost Winklevoss (2011.04.13)
+- IBTimes, Who Is Noah Glass? 9 Things To Know About Ousted Twitter Founder (2013.10)
+- The Week, One of Twitter's masterminds won't be getting rich off Twitter (2013)
 - NPR, Nick Bilton On Twitter's Creation Myth & 'Forgotten Founder' (2013.11.07)
 - TechCrunch, Odeo Bought Back From Investors (2006.10)
 - Business Insider, The Real History Of Twitter (2011.04)
