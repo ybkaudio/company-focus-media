@@ -165,6 +165,6 @@
 - Tubefilter, YouTube Was First Conceived As A Dating Site (2016.03.15)
 - Vice, 10 Years Ago Today, YouTube Launched as a Dating Website (2015.04.23)
 - The Guardian, YouTube's past as a video dating website (2016.03.16)
-- 장별 회사 가치: 투자 라운드 가치는 공개되지 않아, 세쿼이아가 1,150만 달러로 약 30%를 가졌다는 보도(TechCrunch, 2006.10)로 추정. 구글 인수 뒤에는 인수가 기준
+- 장별 회사 가치: 2005년 투자 전은 창업자들이 페이팔 보너스와 신용카드로 댄 초기 자금 규모로 추정, 투자 라운드 가치는 공개되지 않아, 세쿼이아가 1,150만 달러로 약 30%를 가졌다는 보도(TechCrunch, 2006.10)로 추정. 구글 인수 뒤에는 인수가 기준
 
 #기업집중탐구 #페이팔마피아 #채드헐리 #유튜브 #YouTube #창업 #창업스토리 #스타트업 #자기계발
