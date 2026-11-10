@@ -56,7 +56,7 @@ Blogger를 만든 에번 윌리엄스와 손잡고 팟캐스트 회사 <Odeo>를
 
 📷 **Photo:** Jack Dorsey's first tweet 'just setting up my twttr', March 21, 2006 (screenshot)
 
-**제목:** 팀장을 맡아 Twttr를 내놓다
+**제목:** Twttr 프로젝트를 맡아 서비스를 공개하다
 
 윌리엄스는 이 프로젝트를 글래스에게 맡겼다.
 
