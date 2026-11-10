@@ -71,7 +71,7 @@ Microsoft·AOL 등이 사겠다고 나섰고, 제안 금액은 최대 200만 달
 
 📷 **Photo:** TheFacebook profile page, 2004 (screenshot; the Mark Zuckerberg profile screen you sent for #22 works)
 
-**제목:** 하버드 학생만 받아 한 달 만에 절반이 가입
+**제목:** thefacebook, 한 달 만에 학부생 반이 가입
 
 2004년 2월 4일 기숙사 방에서 하버드 학생끼리 프로필을 보는 사이트 <TheFacebook>을 열었다.
 
