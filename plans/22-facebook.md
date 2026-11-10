@@ -30,7 +30,7 @@
 
 📷 **Photo:** TheFacebook.com homepage, February 2004 (screenshot)
 
-**제목:** 첫 사업 자금을 대고 지분 30%를 받다
+**제목:** TheFacebook에 투자해 지분과 회계 일을 얻다
 
 2004년 2월 저커버그가 하버드 학생끼리 서로의 프로필을 보는 사이트 <TheFacebook>을 열었다.
 
