@@ -43,7 +43,7 @@
 
 📷 **Photo:** Aircraft maintenance hangar in Little Rock, Arkansas around 1970 (Arkansas Aviation Sales, engine overhaul / mechanics at work; or Fred Smith at Little Rock airport)
 
-**제목:** 부품이 늦어 일손이 멈추다
+**제목:** 비행기 정비와 판매를 하면서 대학 리포트를 떠올리다
 
 전역한 그는 의붓아버지가 사들인 아칸소주 리틀록의 비행기 정비 회사 <Arkansas Aviation Sales>로 갔다.
 
