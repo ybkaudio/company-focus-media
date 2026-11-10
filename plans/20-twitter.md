@@ -17,7 +17,7 @@
 
 📷 **Photo:** Odeo office in San Francisco, 2005 (or the Odeo website screenshot)
 
-**제목:** 공동 창립한 팟캐스트 회사, 자리를 잃다
+**제목:** 공동 창립한 팟캐스트 회사, 새 아이디어를 탐색하다
 
 노아 글래스는 휴대폰으로 녹음해 블로그에 올리는 서비스 <AudBlog>를 만들었다.
 
