@@ -32,6 +32,8 @@ html,body{width:1080px;height:1350px;background:#000;color:#fff;
 .pg{position:absolute;top:84px;right:72px;font-size:32px;font-weight:500;color:#fff;
  background:rgba(0,0,0,.55);padding:12px 26px;border-radius:40px}
 .when{position:absolute;top:96px;right:80px;font-size:30px;font-weight:700;letter-spacing:.04em;color:#fff;text-shadow:0 2px 10px rgba(0,0,0,.7)}
+/* 11/11 사용자: 연도·나이 아래 그때 회사 가치(추정) — 장마다 비교 */
+.val{position:absolute;top:140px;right:80px;font-size:26px;font-weight:500;letter-spacing:.02em;color:#fff;opacity:.92;text-shadow:0 2px 10px rgba(0,0,0,.7),1px 0 0 rgba(0,0,0,.5),-1px 0 0 rgba(0,0,0,.5)}
 .txt{position:absolute;left:80px;right:80px;bottom:120px}
 h1{font-size:88px;line-height:1.2;font-weight:900;letter-spacing:-.025em;white-space:pre-line}
 .cover h1{font-size:90px}
@@ -86,6 +88,8 @@ def slide_html(ep, s, i, n, base):
         head += f'<div class="idx">{e(s["index"])}</div>'
     if s.get("when"):
         head += f'<div class="when">{e(s["when"])}</div>'
+    if s.get("value"):   # 예: "회사 가치 약 1억 달러(추정)"
+        head += f'<div class="val">{e(s["value"])}</div>'
     if t == "cover":
         h1 = e(s["title"])
         if s.get("title_logo"):   # 제목 속 "{logo}" 자리에 로고 이미지를 글자 대신 넣음
@@ -158,12 +162,12 @@ def main(path):
             bad = pg.evaluate("""() => {
               const t = document.querySelector('.txt'); if (!t) return null;
               const r = t.getBoundingClientRect(); let lim = 0;
-              for (const q of ['.idx','.when','.pg']) { const el = document.querySelector(q); if (el) lim = Math.max(lim, el.getBoundingClientRect().bottom); }
+              for (const q of ['.idx','.when','.val','.pg']) { const el = document.querySelector(q); if (el) lim = Math.max(lim, el.getBoundingClientRect().bottom); }
               if (r.top < lim + 40) return `본문 시작 ${Math.round(r.top)}px가 위 주석 아래 ${Math.round(lim)}px+40과 겹침`;
               if (r.bottom > innerHeight) return '본문이 화면 아래로 넘침';
               const k = document.querySelector('.stk');
               if (k) { const a = k.getBoundingClientRect();
-                for (const q of ['.idx','.when','.txt h1','.txt p','.txt .who','.txt .handle','.txt .stats']) {
+                for (const q of ['.idx','.when','.val','.txt h1','.txt p','.txt .who','.txt .handle','.txt .stats']) {
                   for (const el of document.querySelectorAll(q)) { const rg = document.createRange(); rg.selectNodeContents(el);
                     const fs = parseFloat(getComputedStyle(el).fontSize);
                     for (const r0 of rg.getClientRects()) {   // 실제 글자 줄의 영역만 검사(줄 간격 여백은 빼고 글자 높이만)
