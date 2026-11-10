@@ -1,0 +1,18 @@
+name: Instagram 토큰 갱신
+on:
+  schedule:
+    - cron: "0 18 1,15 * *"   # 매달 1일·15일 03:00 KST
+  workflow_dispatch:
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 토큰 갱신 후 비밀값 교체
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          NEW=$(python3 publisher/refresh_token.py)
+          echo "::add-mask::$NEW"
+          gh secret set IG_TOKEN --repo "$GITHUB_REPOSITORY" --body "$NEW"

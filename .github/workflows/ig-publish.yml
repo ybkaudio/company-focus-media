@@ -1,0 +1,50 @@
+name: Instagram 예약 게시
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "1이면 점검만 (게시 안 함)"
+        default: "1"
+      only:
+        description: "이 폴더만 지금 처리 (예: posts/11-paypal-final). 비우면 예정 시각 지난 편"
+        default: ""
+concurrency:
+  group: ig-publish
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: 게시할 편 확인
+        id: due
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, datetime as dt
+          s = json.load(open("publisher/schedule.json")); st = json.load(open("publisher/published.json"))
+          now = dt.datetime.now(dt.timezone.utc)
+          due = [i for i in s if dt.datetime.fromisoformat(i["at"]) <= now and st.get(i["folder"].rstrip("/"), {}).get("status") not in ("published", "skipped")]
+          print("run=" + ("1" if due else "0"))
+          PY
+      - name: 게시
+        if: steps.due.outputs.run == '1' || github.event_name == 'workflow_dispatch'
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run || '0' }}
+          ONLY: ${{ inputs.only }}
+        run: python3 publisher/ig_publish.py
+      - name: 게시 기록 저장
+        if: always() && (steps.due.outputs.run == '1' || github.event_name == 'workflow_dispatch')
+        run: |
+          git config user.name "ig-publisher"; git config user.email "actions@users.noreply.github.com"
+          if ! git diff --quiet publisher/published.json; then
+            git add publisher/published.json
+            git commit -m "인스타 게시 기록 갱신"
+            for i in 1 2 3; do git pull -q --rebase origin main && git push -q origin HEAD:main && break; sleep 5; done
+          fi
