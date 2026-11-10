@@ -13,7 +13,13 @@
       "body": [
         "기업집중탐구 #24"
       ],
-      "photo_hint": "Elon Musk at X.com / PayPal around 1999-2000 (new cover photo) / COVER LOGO: PayPal logo as a transparent PNG (기존 title-logo.png 사용 가능)"
+      "photo_hint": "Elon Musk at X.com / PayPal around 1999-2000 (new cover photo) / COVER LOGO: PayPal logo as a transparent PNG (기존 title-logo.png 사용 가능)",
+      "sticker": {
+        "src": "24-paypal-musk/title-logo.png",
+        "size": 360,
+        "right": 80,
+        "top": 1130
+      }
     },
     {
       "index": "01 · 창업",
