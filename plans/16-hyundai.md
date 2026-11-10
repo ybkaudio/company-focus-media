@@ -137,7 +137,7 @@
 
 📷 **Photo:** Chung Ju-yung with A&P Appledore in London (Sept 1971), or the 1970s Korean 500 won banknote with the turtle ship
 
-**제목:** 거북선 지폐와 추천서로 바클레이스 차관을 받다
+**제목:** 거북선 지폐와 추천서로 Barclays 차관을 받다
 
 영국 은행 <Barclays>는 현대의 배 짓는 능력과 기술이 부족하다며 처음엔 차관을 거절했다.
 

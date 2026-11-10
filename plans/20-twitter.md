@@ -84,7 +84,7 @@ Google을 나온 윌리엄스가 아이팟에 녹음을 옮겨 듣는 팟캐스�
 
 📷 **Photo:** Jack Dorsey's first tweet 'just setting up my twttr', March 21, 2006 (screenshot)
 
-**제목:** 트위터 프로젝트를 맡아 서비스를 공개하다
+**제목:** Twttr 프로젝트를 맡아 서비스를 공개하다
 
 윌리엄스는 이 프로젝트를 글래스에게 맡겼다.
 

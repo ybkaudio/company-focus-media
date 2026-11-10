@@ -17,7 +17,7 @@
 
 📷 **Photo:** Young Andy Rubin, late 1980s-early 1990s (Apple era if available)
 
-**제목:** 로봇을 좋아해 '안드로이드'라 불리다
+**제목:** 로봇을 좋아해 'Android'라 불리다
 
 대학에서 컴퓨터과학을 공부하고 독일 광학 회사 <Carl Zeiss>에서 로봇 엔지니어로 일했다.
 
@@ -30,7 +30,7 @@
 
 📷 **Photo:** General Magic Magic Cap device (Motorola Envoy) 1994, or WebTV set-top box late 1990s
 
-**제목:** 실패한 휴대 기기 뒤 웹TV 매각을 겪다
+**제목:** 실패한 휴대 기기 뒤 WebTV 매각을 겪다
 
 1992년 Apple에서 갈라져 나온 <General Magic>에서 휴대용 기기 운영체제 Magic Cap을 만들었지만 팔리지 않았다.
 
@@ -43,7 +43,7 @@
 
 📷 **Photo:** T-Mobile Sidekick (Danger Hiptop) phone, 2002-2004
 
-**제목:** 첫 회사 데인저에서 사이드킥 폰을 만들다
+**제목:** 첫 회사 Danger에서 Sidekick 폰을 만들다
 
 1999년 동료들과 <Danger>를 세우고 CEO를 맡았다.
 
@@ -56,7 +56,7 @@
 
 📷 **Photo:** Andy Rubin around 2003-2005, or early Android Inc. team photo (crop others if unclear)
 
-**제목:** 디지털카메라 운영체제로 안드로이드를 세우다
+**제목:** 디지털카메라 운영체제로 Android를 세우다
 
 2003년 10월 크리스 화이트와 팔로알토에 <Android>를 세웠고, 리치 마이너·닉 시어스가 합류했다.
 
@@ -82,7 +82,7 @@
 
 📷 **Photo:** Andy Rubin at Google around 2007, or Google Mountain View campus mid-2000s
 
-**제목:** 삼성에 거절당하고 구글에 5천만 달러에 팔다
+**제목:** Samsung에 거절당하고 Google에 5천만 달러에 팔다
 
 2005년 한국에서 Samsung 경영진에게 회사를 소개했지만 받아들여지지 않았다.
 
@@ -93,7 +93,7 @@
 
 📷 **Photo:** Open Handset Alliance announcement November 2007, or Android early prototype 'Sooner' phone
 
-**제목:** 아이폰이 나오자 자판 폰 설계를 다시 하다
+**제목:** iPhone이 나오자 자판 폰 설계를 다시 하다
 
 Android의 첫 시제품은 BlackBerry처럼 물리 자판이 달린 휴대폰이었다.
 
@@ -132,7 +132,7 @@ Samsung이 거절했던 회사의 운영체제로 Samsung의 Galaxy 폰도 만�
 
 📷 **Photo:** Andy Rubin portrait around 2013-2014
 
-**제목:** 안드로이드를 넘기고 구글을 떠나다
+**제목:** Android를 넘기고 Google을 떠나다
 
 - **약 7.5억 대** — 떠날 때 Android 기기 수 (2013년 3월)
 - **약 10년** — Android 창업부터 떠날 때까지

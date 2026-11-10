@@ -47,7 +47,7 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 
 📷 **Photo:** Early SpaceX factory in El Segundo, Musk with Tom Mueller (crop other people if unclear)
 
-**제목:** 페이팔로 번 돈 절반을 넣어 스페이스X를 세우다
+**제목:** PayPal로 번 돈 절반을 넣어 SpaceX를 세우다
 
 2002년 3월 <SpaceX>를 세웠고, 그해 10월 eBay가 PayPal을 사며 받은 약 1억 8천만 달러 중 절반 가까이를 회사에 넣었다(#24).
 
@@ -155,7 +155,7 @@ NASA 감사관실은 좌석당 비용을 약 5,500만 달러로 추산했다.
 
 📷 **Photo:** Starlink satellites stacked before deployment, or Starlink dish
 
-**제목:** 위성 인터넷 스타링크로 매출의 61%를 벌다
+**제목:** 위성 인터넷 Starlink로 매출의 61%를 벌다
 
 발사가 늘자 로켓에 자기 회사 인터넷 위성을 실어 올렸다.
 

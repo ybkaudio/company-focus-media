@@ -126,7 +126,7 @@
 
 📷 **Photo:** Amazon Prime box (or a delivery truck with the Prime logo)
 
-**제목:** 아마존 프라임, 모든 상품을 배송비 없이
+**제목:** Amazon Prime, 모든 상품을 배송비 없이
 
 2005년 한 해 79달러를 내면 주문마다 이틀 배송이 무료인 Amazon Prime을 내놓았다.
 
@@ -154,7 +154,7 @@
 
 📷 **Photo:** First Kindle (2007) or a Whole Foods store with Amazon signage (2017)
 
-**제목:** 킨들을 내놓고 홀푸드를 사들이다
+**제목:** Kindle을 내놓고 Whole Foods를 사들이다
 
 2007년 11월 전자책 단말기 Kindle을 내놓아, 책을 사면 몇십 초 만에 내려받아 읽게 했다.
 

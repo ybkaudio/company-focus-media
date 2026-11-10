@@ -43,7 +43,7 @@
 
 📷 **Photo:** Early Yahoo office 1995-96, or Jerry Yang with Tim Koogle (crop others if unclear)
 
-**제목:** 세쿼이아 투자를 받고 전문 경영인을 들이다
+**제목:** Sequoia 투자를 받고 전문 경영인을 들이다
 
 1995년 3월 회사를 세웠고, 4월 벤처 투자사 <Sequoia Capital>에서 약 200만 달러를 받았다.
 
@@ -91,7 +91,7 @@
 
 📷 **Photo:** Yahoo! search results page 'Powered by Google', around 2000-2002
 
-**제목:** 100만 달러에 살 수 있던 구글에 검색을 맡기다
+**제목:** 100만 달러에 살 수 있던 Google에 검색을 맡기다
 
 1998년 Google 창업자들이 검색 기술을 100만 달러에 팔겠다고 했지만 Yahoo는 사지 않았다.
 
@@ -104,7 +104,7 @@
 
 📷 **Photo:** Jerry Yang with Jack Ma, 2005 (crop others if unclear)
 
-**제목:** 알리바바 지분 40%를 10억 달러에 사다
+**제목:** Alibaba 지분 40%를 10억 달러에 사다
 
 1997년 첫 중국 출장에서 마윈을 만났던 그는 2005년 8월 10억 달러와 Yahoo 중국 사업을 주고 중국 전자상거래 회사 <Alibaba> 지분 40%를 샀다.
 
@@ -115,7 +115,7 @@
 
 📷 **Photo:** Jerry Yang as Yahoo CEO, 2008
 
-**제목:** 마이크로소프트의 446억 달러 인수 제안을 거절하다
+**제목:** Microsoft의 446억 달러 인수 제안을 거절하다
 
 2007년 6월 직접 CEO를 맡았고, 2008년 2월 Microsoft가 당시 주가보다 62% 높은 446억 달러에 회사를 사겠다고 했다.
 
