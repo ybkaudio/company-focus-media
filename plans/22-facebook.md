@@ -8,7 +8,7 @@
 
 📷 **Photo:** Eduardo Saverin portrait (2010s; cover Facebook logo sticker, please also send a Facebook logo image)
 
-**제목:** Facebook의 첫 투자자, 회사에서 밀려나기까지
+**제목:** 회사에서 쫓겨난 페이스북 공동 창업자
 
 기업집중탐구 #22
 
