@@ -118,10 +118,18 @@ def check_font():
             sys.exit(f"폰트 '{FONT}'({w})가 없음 (지금 잡히는 폰트: {r.stdout or '없음'}). "
                      "apt-get install -y fonts-noto-cjk fonts-noto-cjk-extra && fc-cache -f 후 다시 렌더")
 
+OLD_NAME, NEW_NAME = "기업인집중탐구", "기업집중탐구"  # 11/10 인스타 이름 변경
+
+def _rename(o):
+    if isinstance(o,str): return o.replace(OLD_NAME, NEW_NAME)
+    if isinstance(o,list): return [_rename(x) for x in o]
+    if isinstance(o,dict): return {k:_rename(v) for k,v in o.items()}
+    return o
+
 def main(path):
     check_font()
     path = pathlib.Path(path)
-    ep = json.loads(path.read_text())
+    ep = _rename(json.loads(path.read_text()))
     slides = ep["slides"]
     assert 1 <= len(slides) <= 20, "인스타 캐러셀은 최대 20장"
     if len(slides) > 10:
