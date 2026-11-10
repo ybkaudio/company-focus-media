@@ -8,7 +8,7 @@
 
 📷 **Photo:** Fred Smith portrait (1970s–80s, ideally in front of a FedEx plane; cover FedEx logo sticker is cut from the last slide's logo)
 
-**제목:** 대학 리포트에서 세계 최대 화물 항공사로
+**제목:** 대학 리포트에서 시작한 세계 최대 화물 항공사
 
 기업인집중탐구 #12
 
