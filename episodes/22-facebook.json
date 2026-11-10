@@ -14,7 +14,13 @@
       "body": [
         "기업집중탐구 #22"
       ],
-      "photo_hint": "Eduardo Saverin portrait (2010s; cover Facebook logo sticker, please also send a Facebook logo image)"
+      "photo_hint": "Eduardo Saverin portrait (2010s; cover Facebook logo sticker, please also send a Facebook logo image)",
+      "sticker": {
+        "src": "22-facebook/sticker-logo.png",
+        "size": 190,
+        "right": 165,
+        "top": 1042
+      }
     },
     {
       "index": "01 · 배경",

@@ -19,7 +19,7 @@ with sync_playwright() as pw:
         pg.set_content(f'<html><head><meta charset="utf-8"><style>:root{{--a:{ep["accent"]}}}{render.CSS}</style></head><body>{render.slide_html(ep,s,1,len(ep["slides"]),p.parent)}</body></html>')
         rects=pg.evaluate("""()=>{const out=[];for(const q of ['.txt h1','.txt p','.txt .who','.txt .handle']){for(const el of document.querySelectorAll(q)){const rg=document.createRange();rg.selectNodeContents(el);for(const r of rg.getClientRects())out.push([r.left,r.top,r.right,r.bottom]);}}return out;}""")
         im=Image.open(p.parent/k['src']); asp=im.height/im.width
-        maxw=170 if asp>0.6 else 240
+        maxw=260 if asp>0.6 else 360
         w=maxw
         while w>80:
             h=w*asp; L,T,R,B=CX-w/2,CY-h/2,CX+w/2,CY+h/2

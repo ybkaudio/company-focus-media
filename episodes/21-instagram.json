@@ -14,7 +14,13 @@
       "body": [
         "기업집중탐구 #21"
       ],
-      "photo_hint": "Kevin Systrom portrait around 2012 (Instagram CEO period)"
+      "photo_hint": "Kevin Systrom portrait around 2012 (Instagram CEO period)",
+      "sticker": {
+        "src": "21-instagram/sticker-logo.png",
+        "size": 190,
+        "right": 165,
+        "top": 1042
+      }
     },
     {
       "index": "01 · 배경",

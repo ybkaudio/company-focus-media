@@ -89,7 +89,10 @@ def slide_html(ep, s, i, n, base):
     if s.get("when"):
         head += f'<div class="when">{e(s["when"])}</div>'
     # 11/11 사용자: 연도·나이와 같은 글씨. 회사 설립 전 장과 떠날 때(stats) 장에는 넣지 않음
-    if s.get("value") and t != "stats" and "설립 전" not in s["value"]:
+    # 숫자(회사 가치 …)일 때만. 떠날 때(stats) 장과 그 뒤 '떠난 뒤' 장에는 넣지 않음
+    sl = ep.get("slides", [])
+    st = next((k for k, x in enumerate(sl, 1) if x.get("type") == "stats"), n + 1)
+    if s.get("value", "").startswith("회사 가치") and t != "stats" and i < st:
         head += f'<div class="val">{e(s["value"])}</div>'
     if t == "cover":
         h1 = e(s["title"])

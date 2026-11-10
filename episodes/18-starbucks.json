@@ -16,7 +16,13 @@
         "기업집중탐구 #18"
       ],
       "bgsize": "1080px auto",
-      "bgpos": "center top"
+      "bgpos": "center top",
+      "sticker": {
+        "src": "18-starbucks/sticker-logo.png",
+        "size": 260,
+        "right": 130,
+        "top": 1007
+      }
     },
     {
       "index": "01 · 배경",

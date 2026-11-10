@@ -14,9 +14,9 @@
       "photo_hint": "Jeff Bezos portrait (late 1990s, ideally with stacks of books or at the garage office; cover Amazon logo sticker is cut from the last slide's logo)",
       "sticker": {
         "src": "14-amazon/sticker-logo.png",
-        "size": 240,
-        "right": 140,
-        "top": 1096
+        "size": 360,
+        "right": 80,
+        "top": 1075
       },
       "body": [
         "기업집중탐구 #14"

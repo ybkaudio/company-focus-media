@@ -14,7 +14,13 @@
       "body": [
         "기업집중탐구 #23"
       ],
-      "photo_hint": "Mark Zuckerberg in his Harvard dorm room, 2004 (the dorm photo you sent for #22 works; well-known founder, so no logo sticker)"
+      "photo_hint": "Mark Zuckerberg in his Harvard dorm room, 2004 (the dorm photo you sent for #22 works; well-known founder, so no logo sticker)",
+      "sticker": {
+        "src": "23-facebook-zuckerberg/sticker-logo.png",
+        "size": 190,
+        "right": 165,
+        "top": 1042
+      }
     },
     {
       "index": "01 · 배경",
