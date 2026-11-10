@@ -1,51 +1,106 @@
 [
  {
+  "at": "2026-11-11T08:00:00+09:00",
+  "folder": "posts/10-youtube-final",
+  "episode": "#10 YouTube 채드 헐리",
+  "count": 10,
+  "first_line": "이 화가 지망생은 유튜브를 만듦.",
+  "music": "Mr. Brightside – The Killers (YouTube가 생긴 2004~05년 히트곡) / 없으면 검색어 'indie rock 2000s'"
+ },
+ {
   "at": "2026-11-12T00:00:00+09:00",
   "folder": "posts/12-fedex-final",
   "episode": "#12 FedEx",
   "count": 15,
-  "first_line": "대학 리포트에서 시작한 세계 최대 화물 항공사."
+  "first_line": "대학 리포트에서 시작한 세계 최대 화물 항공사.",
+  "music": "Leaving on a Jet Plane – John Denver (창업 무렵인 1969년 곡, 비행기) / 없으면 검색어 'retro 70s'"
+ },
+ {
+  "at": "2026-11-12T08:00:00+09:00",
+  "folder": "posts/13-mcdonalds-final",
+  "episode": "#13 McDonald's 형제",
+  "count": 10,
+  "first_line": "햄버거 공장을 세운 형제, McDonald's를 만들다.",
+  "music": "Rock Around the Clock – Bill Haley & His Comets (크록이 찾아온 1954년 곡) / 없으면 검색어 '50s rock and roll'"
  },
  {
   "at": "2026-11-12T16:00:00+09:00",
   "folder": "posts/14-amazon-final",
   "episode": "#14 Amazon",
   "count": 14,
-  "first_line": "차고에서 Amazon을 만들다."
+  "first_line": "차고에서 Amazon을 만들다.",
+  "music": "Smells Like Teen Spirit – Nirvana (Amazon이 태어난 90년대 시애틀의 소리) / 없으면 검색어 '90s grunge'"
  },
  {
   "at": "2026-11-13T00:00:00+09:00",
   "folder": "posts/15-nike-knight-final",
   "episode": "#15 Nike 필 나이트",
   "count": 11,
-  "first_line": "코치의 제자였던 회계사 청년이 Nike를 키우기까지."
+  "first_line": "코치의 제자였던 회계사 청년이 Nike를 키우기까지.",
+  "music": "Eye of the Tiger – Survivor (Nike가 커 가던 1982년 곡, 첫 수입 운동화 '타이거'와도 이어짐) / 없으면 검색어 'workout 80s'"
  },
  {
   "at": "2026-11-13T08:00:00+09:00",
   "folder": "posts/16-hyundai-final",
   "episode": "#16 현대 정주영",
   "count": 15,
-  "first_line": "70원 훔쳐 가출한 소년, 자산 89조 그룹을 만들다."
+  "first_line": "70원 훔쳐 가출한 소년, 자산 89조 그룹을 만들다.",
+  "music": "Hall of Fame – The Script ft. will.i.am (밑바닥에서 정상까지 가는 가사) / 없으면 검색어 'epic motivation'"
  },
  {
   "at": "2026-11-13T16:00:00+09:00",
   "folder": "posts/17-samsung-final",
   "episode": "#17 삼성 이병철",
   "count": 11,
-  "first_line": "국수 공장 주인이 삼성을 세우기까지."
+  "first_line": "국수 공장 주인이 삼성을 세우기까지.",
+  "music": "Viva la Vida – Coldplay (한 시대를 이끈 사람을 노래하는 웅장한 곡) / 없으면 검색어 'cinematic piano'"
+ },
+ {
+  "at": "2026-11-14T00:00:00+09:00",
+  "folder": "posts/18-starbucks-final",
+  "episode": "#18 Starbucks 제리 볼드윈",
+  "count": 10,
+  "first_line": "원두만 팔던 가게가 Starbucks가 되기까지.",
+  "music": "Banana Pancakes – Jack Johnson (느긋한 카페 분위기) / 없으면 검색어 'coffee shop acoustic'"
+ },
+ {
+  "at": "2026-11-14T08:00:00+09:00",
+  "folder": "posts/19-apple-wayne-final",
+  "episode": "#19 Apple 로널드 웨인",
+  "count": 9,
+  "first_line": "12일 만에 Apple을 떠난 세 번째 창업자.",
+  "music": "Don't Look Back in Anger – Oasis (지난 선택을 돌아보지 말자는 가사) / 없으면 검색어 'britpop'"
+ },
+ {
+  "at": "2026-11-14T16:00:00+09:00",
+  "folder": "posts/20-twitter-final",
+  "episode": "#20 Twitter 노아 글래스",
+  "count": 10,
+  "first_line": "Twitter를 만들었는데.. 쫓겨났다?",
+  "music": "Creep – Radiohead (소외된 사람의 노래) / 없으면 검색어 'sad indie'"
  },
  {
   "at": "2026-11-15T00:00:00+09:00",
   "folder": "posts/21-instagram-final",
   "episode": "#21 Instagram 시스트롬",
   "count": 15,
-  "first_line": "체크인 앱에서 시작한 10억 명의 사진 앱."
+  "first_line": "체크인 앱에서 시작한 10억 명의 사진 앱.",
+  "music": "Hey Ya! – OutKast ('Polaroid 사진처럼 흔들어' 가사, Instagram 이름의 instant camera와 연결) / 없으면 검색어 'polaroid'"
+ },
+ {
+  "at": "2026-11-15T08:00:00+09:00",
+  "folder": "posts/22-facebook-final",
+  "episode": "#22 Facebook 세버린",
+  "count": 9,
+  "first_line": "Facebook에 첫 돈을 댄 공동 창업자는 어떻게 회사에서 밀려났을까요?",
+  "music": "Baby, You're a Rich Man – The Beatles (그의 이야기를 다룬 영화 '소셜 네트워크' 마지막 곡) / 없으면 검색어 'the social network'"
  },
  {
   "at": "2026-11-15T16:00:00+09:00",
   "folder": "posts/23-facebook-zuckerberg-final",
   "episode": "#23 저커버그",
   "count": 19,
-  "first_line": "기숙사 방의 사이트는 어떻게 하루 36억 명이 쓰는 회사가 됐을까요?"
+  "first_line": "기숙사 방의 사이트는 어떻게 하루 36억 명이 쓰는 회사가 됐을까요?",
+  "music": "Hand Covers Bruise – Trent Reznor & Atticus Ross (영화 '소셜 네트워크' 테마) / 없으면 검색어 'the social network'"
  }
 ]
