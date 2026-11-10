@@ -279,5 +279,6 @@ Beacon 실패 뒤 광고로 돈 버는 구조가 필요해지자, 2008년 3월 G
 - Meta 분기 실적 (2022 연간, 2026년 3분기)
 - StockAnalysis, Meta Platforms market cap (2026.10.23)
 - The Harvard Crimson, Business Casual (2005.02.24, 세버린 첫 자금 1,000달러)
+- 장별 회사 가치: 2004년 초는 세버린의 1,000달러=30%로 셈한 추정, 피터 틸(2004)·Greylock(2006)·Microsoft(2007) 투자 기준, 상장 뒤는 시가총액(2012년 9월은 주가 17달러대×주식 수 추정, 2014·2018년은 연말 기준 companiesmarketcap)
 
 #기업집중탐구 #마크저커버그 #페이스북 #Facebook #메타 #Meta #소셜네트워크 #창업 #스타트업 #자기계발

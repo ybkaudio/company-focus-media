@@ -26,7 +26,8 @@
         "12세에 집과 아버지 치과의 컴퓨터를 잇는 메신저 'ZuckNet'을 만들어, 접수 직원이 소리치지 않고 환자가 왔다고 알릴 수 있게 했다.",
         "사람들이 실제로 쓰는 소통 도구를 직접 만드는 경험은 이때 시작됐다."
       ],
-      "photo_hint": "Young Mark Zuckerberg at a computer, 1990s (or Zuckerberg family home in Dobbs Ferry, NY)"
+      "photo_hint": "Young Mark Zuckerberg at a computer, 1990s (or Zuckerberg family home in Dobbs Ferry, NY)",
+      "value": "회사 설립 전"
     },
     {
       "index": "02 · 배경",
@@ -40,7 +41,8 @@
         "대학에 간 뒤 팔기로 마음을 바꿨지만 회사들은 이미 관심을 잃었고, 그는 훗날 순진했다고 돌아봤다."
       ],
       "photo_hint": "Phillips Exeter Academy campus, early 2000s (or Synapse Media Player screenshot)",
-      "shade": "strong"
+      "shade": "strong",
+      "value": "회사 설립 전"
     },
     {
       "index": "03 · 또라이",
@@ -52,7 +54,8 @@
         "몇 시간 만에 450명 가까이가 들어와 2만 2천 번 넘게 투표했다.",
         "학교는 허락 없이 사진을 썼다며 사이트를 막고 그를 징계 위원회에 세웠지만, 학생들이 온라인에서 서로를 보고 싶어 한다는 것이 드러났다."
       ],
-      "photo_hint": "Facemash website screenshot, November 2003 (or Kirkland House, Harvard)"
+      "photo_hint": "Facemash website screenshot, November 2003 (or Kirkland House, Harvard)",
+      "value": "회사 설립 전"
     },
     {
       "index": "04 · 또라이",
@@ -64,7 +67,8 @@
         "저커버그는 그 일을 미루면서 자기 사이트를 따로 만들어 먼저 열었다.",
         "선배들은 아이디어를 훔쳤다며 소송을 냈고, 법원 판결 없이 2008년 Facebook이 현금 2천만 달러와 주식을 주는 합의로 끝났다(당시 가치 약 6,500만 달러)."
       ],
-      "photo_hint": "Winklevoss twins at Harvard, mid-2000s"
+      "photo_hint": "Winklevoss twins at Harvard, mid-2000s",
+      "value": "회사 설립 전"
     },
     {
       "index": "05 · 창업",
@@ -77,7 +81,8 @@
         "하루 만에 1,200명 넘게 가입했고, 한 달 안에 하버드 학부생 절반 이상이 들어왔다."
       ],
       "photo_hint": "TheFacebook profile page, 2004 (screenshot; the Mark Zuckerberg profile screen you sent for #22 works)",
-      "shade": "strong"
+      "shade": "strong",
+      "value": "회사 가치 약 3,300달러(추정)"
     },
     {
       "index": "06 · 성장",
@@ -89,7 +94,8 @@
         "한 학교씩 열면 그 학교 학생들이 친구를 따라 한꺼번에 들어와, 학교마다 빠르게 자리를 잡았다.",
         "2004년 12월 사용자가 100만 명을 넘었다."
       ],
-      "photo_hint": "Early TheFacebook college list or campus students using it, 2004"
+      "photo_hint": "Early TheFacebook college list or campus students using it, 2004",
+      "value": "회사 가치 약 490만 달러"
     },
     {
       "index": "07 · 재정비",
@@ -101,7 +107,8 @@
         "PayPal 공동 창업자 피터 틸이 50만 달러를 넣고 회사의 10.2%를 받았다. 이 과정에서 세버린은 회사에서 밀려났다(#22).",
         "2005년에는 투자사 <Accel>이 1,270만 달러를 넣었고, 회사 가치는 9,800만 달러로 평가됐다."
       ],
-      "photo_hint": "Palo Alto house used as Facebook's first office, 2004 (or Zuckerberg with Sean Parker)"
+      "photo_hint": "Palo Alto house used as Facebook's first office, 2004 (or Zuckerberg with Sean Parker)",
+      "value": "회사 가치 약 490만 달러"
     },
     {
       "index": "08 · 확장",
@@ -114,7 +121,8 @@
         "대학생 사이트에서 모든 사람의 사이트가 되면서 2008년 8월 사용자가 1억 명을 넘었다."
       ],
       "photo_hint": "Facebook sign-up page, 2006 (open registration)",
-      "shade": "strong"
+      "shade": "strong",
+      "value": "회사 가치 약 5억 2,500만 달러"
     },
     {
       "index": "09 · 위기",
@@ -127,7 +135,8 @@
         "그는 사과하고 공개 범위를 고르는 설정을 더했지만 뉴스피드는 없애지 않았고, 이 화면이 Facebook의 중심이 됐다."
       ],
       "photo_hint": "Facebook News Feed, 2006 (screenshot) or Students Against Facebook News Feed group",
-      "shade": "strong"
+      "shade": "strong",
+      "value": "회사 가치 약 5억 2,500만 달러"
     },
     {
       "index": "10 · 확장",
@@ -140,7 +149,8 @@
         "11월에는 다른 쇼핑 사이트에서 산 물건을 친구들에게 알리는 광고 'Beacon'을 내놨다가, 사생활 반발로 2009년 접었다."
       ],
       "photo_hint": "Zuckerberg on stage at f8, May 2007",
-      "title_size": 80
+      "title_size": 80,
+      "value": "회사 가치 약 150억 달러"
     },
     {
       "index": "11 · 성장",
@@ -153,7 +163,8 @@
         "2009년 9월 처음으로 들어온 돈이 나간 돈보다 많아졌고, 2010년 7월 사용자가 5억 명을 넘었다."
       ],
       "photo_hint": "Mark Zuckerberg and Sheryl Sandberg, 2008",
-      "title_size": 80
+      "title_size": 80,
+      "value": "회사 가치 약 150억 달러"
     },
     {
       "index": "12 · 정점",
@@ -164,7 +175,8 @@
         "2012년 5월 18일 주당 38달러로 상장하며 160억 달러를 모았다. 회사 가치는 1,040억 달러였다.",
         "그해 10월 한 달에 한 번 이상 쓰는 사람이 10억 명을 넘었다."
       ],
-      "photo_hint": "Zuckerberg ringing the Nasdaq bell at Facebook HQ, May 18, 2012"
+      "photo_hint": "Zuckerberg ringing the Nasdaq bell at Facebook HQ, May 18, 2012",
+      "value": "회사 가치 약 1,040억 달러"
     },
     {
       "index": "13 · 방향 전환",
@@ -176,7 +188,8 @@
         "저커버그는 웹 기술(HTML5)로 휴대폰 앱을 만든 것이 가장 큰 실수였다고 인정하고, 앱을 휴대폰 전용으로 새로 만들었다.",
         "뉴스피드 사이에 광고를 넣는 방식으로 바꾸자, 2014년 6월 광고 매출의 62%가 휴대폰에서 나왔다."
       ],
-      "photo_hint": "Facebook iPhone app, 2012-2013 (native app relaunch) or Zuckerberg at TechCrunch Disrupt, September 2012"
+      "photo_hint": "Facebook iPhone app, 2012-2013 (native app relaunch) or Zuckerberg at TechCrunch Disrupt, September 2012",
+      "value": "회사 가치 약 480억 달러(추정)"
     },
     {
       "index": "14 · 확장",
@@ -188,7 +201,8 @@
         "2012년 Instagram을 10억 달러에(#21 케빈 시스트롬 편), 2014년 메신저 WhatsApp을 약 190억 달러에, 가상현실 기기 회사 Oculus를 20억 달러에 샀다.",
         "10대는 Facebook 대신 Instagram으로, 해외에서는 문자 대신 WhatsApp으로 옮겨 가던 때라, 두 앱을 사 두자 Facebook을 떠난 사람도 그의 회사 앱 안에 남았다."
       ],
-      "photo_hint": "Instagram, WhatsApp, Oculus logos together (or Zuckerberg with Jan Koum, 2014)"
+      "photo_hint": "Instagram, WhatsApp, Oculus logos together (or Zuckerberg with Jan Koum, 2014)",
+      "value": "회사 가치 약 2,170억 달러"
     },
     {
       "index": "15 · 위기",
@@ -200,7 +214,8 @@
         "저커버그는 4월 미국 의회 청문회에 나가 책임을 인정했다.",
         "2019년 미국 연방거래위원회(FTC)는 Facebook에 벌금 50억 달러를 매겼다."
       ],
-      "photo_hint": "Mark Zuckerberg testifying before the US Congress, April 2018"
+      "photo_hint": "Mark Zuckerberg testifying before the US Congress, April 2018",
+      "value": "회사 가치 약 3,740억 달러"
     },
     {
       "index": "16 · 재정비",
@@ -212,7 +227,8 @@
         "가상현실 부서는 2022년 한 해에만 137억 달러를 잃었고, 광고 성장도 꺾이며 시가총액이 9,360억 달러(2021년 말)에서 3,190억 달러(2022년 말)로 줄었다.",
         "저커버그는 2022년 11월부터 직원 약 2만 1천 명을 줄이며 2023년을 '효율의 해'로 정했고, 그해 말 시가총액은 9,100억 달러로 돌아왔다."
       ],
-      "photo_hint": "Zuckerberg presenting Meta rebrand / metaverse avatar, October 2021"
+      "photo_hint": "Zuckerberg presenting Meta rebrand / metaverse avatar, October 2021",
+      "value": "회사 가치 약 3,190억 달러"
     },
     {
       "index": "17 · 정점",
@@ -236,7 +252,8 @@
         }
       ],
       "type": "stats",
-      "title_size": 80
+      "title_size": 80,
+      "value": "회사 가치 약 1조 6,000억 달러"
     },
     {
       "type": "outro",
@@ -252,5 +269,5 @@
       "photo_hint": "Mark Zuckerberg portrait (person photo for the closing slide)"
     }
   ],
-  "caption": "기숙사 방의 사이트는 어떻게 하루 36억 명이 쓰는 회사가 됐을까요?\n\n마크 저커버그는 하버드 이메일로만 가입받는 사이트로 시작해 학교를 하나씩 열고, 결국 누구나 가입하게 했어요. 상장 뒤 휴대폰에서 광고를 못 붙이는 실수를 인정하고 앱을 새로 만들었고, Instagram·WhatsApp을 사들였죠. 메타버스에 건 큰돈으로 회사 가치의 3분의 2를 잃었다가 다시 일으켜 세운 것도 그였어요.\n\n🔗 Facebook 시리즈. 함께 Facebook을 시작했다가 밀려난 공동 창업자 에두아르도 세버린 이야기는 #22, 그가 10억 달러에 사들인 Instagram의 창업자 케빈 시스트롬 이야기는 #21에서 볼 수 있어요.\n\n💬 Yahoo의 10억 달러 제안, 여러분이라면 받았을까요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Mark Zuckerberg / History of Facebook / Facemash / ConnectU\n- Harvard Crimson, Facemash 보도 (2003.11)\n- Facebook S-1 상장 신고서 (2012)\n- TechCrunch Disrupt 인터뷰, Zuckerberg \"biggest mistake HTML5\" (2012.9)\n- FTC 보도자료, Facebook $5 billion penalty (2019.7)\n- Meta 분기 실적 (2022 연간, 2026년 3분기)\n- StockAnalysis, Meta Platforms market cap (2026.10.23)\n- The Harvard Crimson, Business Casual (2005.02.24, 세버린 첫 자금 1,000달러)\n\n#기업집중탐구 #마크저커버그 #페이스북 #Facebook #메타 #Meta #소셜네트워크 #창업 #스타트업 #자기계발"
+  "caption": "기숙사 방의 사이트는 어떻게 하루 36억 명이 쓰는 회사가 됐을까요?\n\n마크 저커버그는 하버드 이메일로만 가입받는 사이트로 시작해 학교를 하나씩 열고, 결국 누구나 가입하게 했어요. 상장 뒤 휴대폰에서 광고를 못 붙이는 실수를 인정하고 앱을 새로 만들었고, Instagram·WhatsApp을 사들였죠. 메타버스에 건 큰돈으로 회사 가치의 3분의 2를 잃었다가 다시 일으켜 세운 것도 그였어요.\n\n🔗 Facebook 시리즈. 함께 Facebook을 시작했다가 밀려난 공동 창업자 에두아르도 세버린 이야기는 #22, 그가 10억 달러에 사들인 Instagram의 창업자 케빈 시스트롬 이야기는 #21에서 볼 수 있어요.\n\n💬 Yahoo의 10억 달러 제안, 여러분이라면 받았을까요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Mark Zuckerberg / History of Facebook / Facemash / ConnectU\n- Harvard Crimson, Facemash 보도 (2003.11)\n- Facebook S-1 상장 신고서 (2012)\n- TechCrunch Disrupt 인터뷰, Zuckerberg \"biggest mistake HTML5\" (2012.9)\n- FTC 보도자료, Facebook $5 billion penalty (2019.7)\n- Meta 분기 실적 (2022 연간, 2026년 3분기)\n- StockAnalysis, Meta Platforms market cap (2026.10.23)\n- The Harvard Crimson, Business Casual (2005.02.24, 세버린 첫 자금 1,000달러)\n- 장별 회사 가치: 2004년 초는 세버린의 1,000달러=30%로 셈한 추정, 피터 틸(2004)·Greylock(2006)·Microsoft(2007) 투자 기준, 상장 뒤는 시가총액(2012년 9월은 주가 17달러대×주식 수 추정, 2014·2018년은 연말 기준 companiesmarketcap)\n\n#기업집중탐구 #마크저커버그 #페이스북 #Facebook #메타 #Meta #소셜네트워크 #창업 #스타트업 #자기계발"
 }
