@@ -43,7 +43,7 @@
 
 📷 **Photo:** The 1976 Apple Computer partnership agreement signed by Jobs, Wozniak and Wayne
 
-**제목:** 지분 10%, 두 사람 사이의 결정표
+**제목:** 갈등 중재자로서 지분 10%를 얻다
 
 지분은 잡스와 워즈니악이 45%씩, 웨인이 10%를 갖기로 했다.
 
@@ -58,7 +58,7 @@
 
 📷 **Photo:** The first Apple logo, 1976 (Isaac Newton under the apple tree, drawn by Ronald Wayne)
 
-**제목:** 사과나무 아래 뉴턴, Apple의 첫 로고
+**제목:** 애플의 첫 로고를 그리다
 
 제도사였던 웨인은 사과나무 아래 앉은 뉴턴을 펜으로 그려 Apple의 첫 로고를 만들었다.
 
