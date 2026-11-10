@@ -14,9 +14,9 @@
       "photo_hint": "Phil Knight portrait (1970s–80s, ideally holding Nike shoes; cover Nike logo sticker is cut from the last slide's logo)",
       "sticker": {
         "src": "15-nike-knight/sticker-logo.png",
-        "size": 280,
-        "right": 60,
-        "top": 675
+        "size": 240,
+        "right": 140,
+        "top": 1074
       },
       "body": [
         "기업집중탐구 #15"

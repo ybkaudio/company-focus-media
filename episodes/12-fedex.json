@@ -13,9 +13,9 @@
       "photo_hint": "Fred Smith portrait (1970s–80s, ideally in front of a FedEx plane; cover FedEx logo sticker is cut from the last slide's logo)",
       "sticker": {
         "src": "12-fedex/sticker-logo.png",
-        "size": 300,
-        "right": 60,
-        "top": 180
+        "size": 240,
+        "right": 140,
+        "top": 1100
       },
       "body": [
         "기업집중탐구 #12"
