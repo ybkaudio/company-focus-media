@@ -86,7 +86,7 @@ Microsoft·AOL 등이 사겠다고 나섰고, 제안 금액은 최대 200만 달
 
 📷 **Photo:** Early TheFacebook college list or campus students using it, 2004
 
-**제목:** 학교를 하나씩 열어 10개월 만에 100만 명
+**제목:** 타 대학으로 범위를 넓히다
 
 3월 스탠퍼드·컬럼비아·예일에 열었고, 이어 아이비리그와 보스턴 지역 대학, 미국·캐나다 대부분의 대학으로 넓혔다.
 
