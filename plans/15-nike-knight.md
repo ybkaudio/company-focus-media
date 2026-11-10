@@ -124,11 +124,17 @@ Nike는 생산을 대부분 남의 공장에 맡겼다.
 
 **제목:** 한 농구 신인에게 운명을 걸다
 
-그해 Nike는 NBA 신인 마이클 조던과 당시 어떤 농구 선수 계약보다 세 배 큰 250만 달러에 계약했다.
+1984년 Nike는 상장 뒤 첫 분기 적자를 냈고, 농구화 시장에선 Converse·Adidas에 밀려 있었다.
 
-다른 회사들이 선수를 기존 신발 광고에 세울 때, Nike는 그의 이름을 단 신발 라인을 따로 만들고 판매액 일부를 나눠 줬다.
+농구 담당 소니 바카로는 여러 선수에게 돈을 나누지 말고 대학 무대에서 검증된 신인 마이클 조던 한 명에게 몰자고 설득했다.
 
-1985년 나온 에어 조던은 첫 물량 5만 켤레가 매진됐다.
+조던이 원한 Adidas는 제안조차 하지 않았다.
+
+Nike는 그의 이름을 단 신발 라인을 따로 만들고 판매액 일부를 나눠 주기로 했다.
+
+계약은 당시 어떤 NBA 신발 계약보다 세 배 큰 5년 250만 달러였다.
+
+1985년 나온 에어 조던은 첫해 매출 1억 2,600만 달러로, 기대치 300만 달러의 40배를 넘었다.
 
 
 ## 10.jpg · 09 · 정점
@@ -209,6 +215,8 @@ Nike를 세운 두 사람 중, #05의 코치 빌 바워만에 이은 나머지 �
 - CNN Money, Nike to improve labor conditions (1998.05.12)
 - Seattle Times, Nike chief falls short on pledge to labor (2001.05.17)
 - Oregon Sports Hall of Fame, NIKE Inc. (블루 리본 스포츠 500달러씩)
+- ESPN, How Nike landed Michael Jordan / Raconteur, The secret success of Nike Air Jordan: 1984년 첫 분기 적자, 바카로의 추천, 계약 조건
+- Wikipedia, Air Jordan: 첫해 매출 1억 2,600만 달러
 - 장별 회사 가치: 상장 전·자료 없는 해는 연 매출 1배로 추정(1964년 8,000달러, 1972년 196만 달러, 1984년 약 9억 달러, Funding Universe). 1980년 상장 때는 나이트 지분 46%가 1억 7,800만 달러였다는 기록(Shortform 『슈독』 요약)으로 추정, 1988년 시가총액 10억 달러 돌파(Benzinga), 1998년은 연말 시가총액(companiesmarketcap)
 - Nike, From Waffle Iron to World Stage: The True Story of the Nike Moon Shoe
 - HISTORY, Nike patent: waffle sole trainers invented in waffle iron
