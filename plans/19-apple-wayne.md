@@ -113,7 +113,7 @@ Apple은 1980년 12월 상장 첫날 회사 가치가 약 18억 달러가 됐고
 
 📷 **Photo:** Ronald Wayne portrait (person photo for the closing slide)
 
-**제목:** Apple의 첫 그림을 그린 사람
+**제목:** 애플의 첫 그림을 그린 사람
 
 - 두 청년의 의견을 정리한 중재
 - 회사의 시작을 정한 동업 계약서
