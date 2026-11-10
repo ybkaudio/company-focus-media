@@ -1,7 +1,7 @@
 {
   "no": 18,
   "company": "Starbucks",
-  "company_ko": "Starbucks",
+  "company_ko": "스타벅스",
   "person": "제리 볼드윈",
   "accent": "#1E9E6A",
   "handle": "@company.focus",
@@ -77,11 +77,11 @@
       "index": "05 · 확장",
       "when": "1984 · 42세",
       "photo": null,
-      "title": "Starbucks 매장에\n첫 에스프레소 바를 두다",
+      "title": "스타벅스 매장에\n첫 에스프레소 바를 두다",
       "body": [
         "1982년 마케팅 이사로 들어온 하워드 슐츠는 1983년 봄 밀라노 출장에서, 골목마다 있는 에스프레소 바에 사람들이 모여 바리스타가 내려 주는 커피를 마시는 모습을 봤다.",
         "원두만 팔던 매장에서도 커피를 내려 팔자는 그의 제안에 창업자들은 원두 회사의 색이 흐려진다며 반대했다.",
-        "1년 가까이 설득한 끝에 1984년 4월 시애틀 시내 Starbucks 새 매장 한쪽에 에스프레소 바를 두고, 처음으로 직접 내린 커피를 팔기 시작했다.",
+        "1년 가까이 설득한 끝에 1984년 4월 시애틀 시내 스타벅스 새 매장 한쪽에 에스프레소 바를 두고, 처음으로 직접 내린 커피를 팔기 시작했다.",
         "첫날 약 400명이 왔고(원두 매장 최고 기록은 하루 약 250명), 두 달 뒤엔 하루 평균 800명이 됐다.",
         "그래도 볼드윈은 원두 회사로 남기를 원해 매장 확장에 반대했고, 슐츠는 1985년 회사를 나와 에스프레소 바 회사 <Il Giornale>을 차렸다(#38)."
       ],
@@ -94,9 +94,9 @@
       "photo": null,
       "title": "스승의 회사\nPeet's를 사들이다",
       "body": [
-        "1984년 10월 볼드윈이 이끌던 원래의 Starbucks 회사가 투자자들과 함께 스승의 회사 <Peet's>를 380만 달러에 샀다.",
+        "1984년 10월 볼드윈이 이끌던 원래의 스타벅스 회사가 투자자들과 함께 스승의 회사 <Peet's>를 380만 달러에 샀다.",
         "매장 4곳과 로스팅 공장이 함께 들어왔다.",
-        "Starbucks 매출 650만 달러에 Peet's 550만 달러가 더해져, 두 회사 매출은 1,200만 달러 규모가 됐다."
+        "스타벅스 매출 650만 달러에 Peet's 550만 달러가 더해져, 두 회사 매출은 1,200만 달러 규모가 됐다."
       ],
       "photo_hint": "Peet's Coffee & Tea store on Vine Street, Berkeley, 1980s",
       "bgsize": "1600px auto",
@@ -107,7 +107,7 @@
       "index": "07 · 떠날 때",
       "when": "1987 · 45세",
       "photo": null,
-      "title": "Starbucks를 팔고\nPeet's에 남다",
+      "title": "스타벅스를 팔고\nPeet's에 남다",
       "stats": [
         {
           "cap": "회사 가치 (슐츠에게 판 1987년)",
@@ -122,7 +122,7 @@
       ],
       "body": [
         "Peet's 인수로 빚이 커졌고 동업자 바우커도 떠났다.",
-        "볼드윈은 Peet's만 지키기로 하고 1987년 Starbucks를 슐츠에게 넘겼다. 지금의 Starbucks Corporation이 이 회사다.",
+        "볼드윈은 Peet's만 지키기로 하고 1987년 스타벅스를 슐츠에게 넘겼다. 지금의 스타벅스가 이 회사다.",
         "그 뒤 Peet's 회장으로 2001년 상장까지 이끌었다."
       ],
       "photo_hint": "Jerry Baldwin in later years (Peet's or coffee industry event)"
@@ -131,10 +131,10 @@
       "index": "08 · 그 뒤",
       "when": "1987–2023",
       "photo": null,
-      "title": "이후 슐츠는 Starbucks를\n세계 최대 커피 체인으로",
+      "title": "이후 슐츠는 스타벅스를\n세계 최대 커피 체인으로",
       "body": [
         "볼드윈은 커피를 마시며 머무는 매장을 늘리자는 슐츠의 제안을 받아들이지 않고, 원두 회사로 남는 길을 택했다.",
-        "1987년 Starbucks를 산 슐츠는 바로 그 음료 매장을 늘렸고, 1992년 6월 상장 때 매장은 165곳이었다.",
+        "1987년 스타벅스를 산 슐츠는 바로 그 음료 매장을 늘렸고, 1992년 6월 상장 때 매장은 165곳이었다.",
         "매장은 1996년 1,000곳, 2005년 1만 곳을 넘었고, 2023년엔 세계 3만 8,000곳이 넘는다."
       ],
       "photo_hint": "Starbucks cafe in the 1990s with customers inside (or a modern Starbucks store)",
@@ -144,7 +144,7 @@
       "type": "outro",
       "index": "마무리",
       "photo": null,
-      "title": "원두 한 봉지에서\nStarbucks가 시작되다",
+      "title": "원두 한 봉지에서\n스타벅스가 시작되다",
       "points": [
         "스승에게 배워 직접 볶은 원두",
         "소설에서 길어 올린 이름과 로고",
@@ -155,5 +155,5 @@
       "bgpos": "center bottom"
     }
   ],
-  "caption": "시애틀에서 시작한 한 원두 가게가 Starbucks가 되기까지.\n\n제리 볼드윈은 Peet's에서 커피를 배우고 친구 둘과 약 9,500달러(세 사람이 1,500달러씩, 은행 대출 5,000달러)로 시애틀에 원두 가게를 열었어요. 소설 '모비 딕'에서 이름을 따고, 직접 원두를 볶아 회사를 키웠어요. 에스프레소 바 대신 원두 회사를 택한 그는 스승의 회사 Peet's를 지키려 1987년 Starbucks를 하워드 슐츠에게 넘겼어요. 지금의 Starbucks Corporation은 이때 슐츠가 사들인 회사예요.\n\n🔗 Starbucks 시리즈. 이 회사에 마케팅 책임자로 들어왔다가 1987년 회사를 사들인 하워드 슐츠 이야기는 #38에서 이어져요.\n\n💬 Starbucks에서 가장 좋아하는 메뉴는? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- HistoryLink, Starbucks: The Early Years (Essay 20292)\n- Wikipedia, Jerry Baldwin / History of Starbucks\n- University of San Francisco Magazine, Coffee Kings (2020.05)\n- Starbucks Company Timeline (Starbucks 공식)\n- Fox Business, History of Starbucks (2023)\n- Funding Universe, Starbucks Corporation History / St. Mary's Univ. StMU Research Scholars (에스프레소 바 손님 수, 슐츠 회고록 인용)\n\n#기업집중탐구 #제리볼드윈 #스타벅스 #Starbucks #창업 #창업스토리 #커피 #자기계발"
+  "caption": "시애틀에서 시작한 한 원두 가게가 스타벅스가 되기까지.\n\n제리 볼드윈은 Peet's에서 커피를 배우고 친구 둘과 약 9,500달러(세 사람이 1,500달러씩, 은행 대출 5,000달러)로 시애틀에 원두 가게를 열었어요. 소설 '모비 딕'에서 이름을 따고, 직접 원두를 볶아 회사를 키웠어요. 에스프레소 바 대신 원두 회사를 택한 그는 스승의 회사 Peet's를 지키려 1987년 스타벅스를 하워드 슐츠에게 넘겼어요. 지금의 스타벅스는 이때 슐츠가 사들인 회사예요.\n\n🔗 스타벅스 시리즈. 이 회사에 마케팅 책임자로 들어왔다가 1987년 회사를 사들인 하워드 슐츠 이야기는 #38에서 이어져요.\n\n💬 스타벅스에서 가장 좋아하는 메뉴는? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- HistoryLink, Starbucks: The Early Years (Essay 20292)\n- Wikipedia, Jerry Baldwin / History of Starbucks\n- University of San Francisco Magazine, Coffee Kings (2020.05)\n- Starbucks Company Timeline (Starbucks 공식)\n- Fox Business, History of Starbucks (2023)\n- Funding Universe, Starbucks Corporation History / St. Mary's Univ. StMU Research Scholars (에스프레소 바 손님 수, 슐츠 회고록 인용)\n\n#기업집중탐구 #제리볼드윈 #스타벅스 #Starbucks #창업 #창업스토리 #커피 #자기계발"
 }
