@@ -119,7 +119,7 @@
 
 📷 **Photo:** Eduardo Saverin portrait (person photo for the closing slide)
 
-**제목:** 기숙사 사이트에 첫 돈을 건 사람
+**제목:** 비운의 공동 창업자
 
 - 투자로 쌓은 돈과 감각
 - 남들보다 먼저 건 첫 자금
