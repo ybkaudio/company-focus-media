@@ -60,7 +60,7 @@ Pure Atria에서 함께 일한 마크 랜돌프와 출퇴근 차 안에서 새 �
 
 그해 미국에 막 나온 DVD는 얇고 가벼워 우편으로 보내기 좋았고, 둘은 CD 한 장을 집으로 부쳐 깨지지 않고 도착하는지 확인했다.
 
-1997년 8월 Netflix를 세웠고, 그는 투자자이자 이사회 의장으로, 랜돌프는 CEO로 시작했다.
+1997년 8월 Netflix를 세웠고, 그는 250만 달러를 넣은 투자자이자 이사회 의장으로, 랜돌프는 CEO로 시작했다.
 
 
 ## 06.jpg · 05 · 방향 전환
@@ -230,5 +230,6 @@ Netflix를 처음 CEO로 이끈 사람은 리드 헤이스팅스가 아니었어
 - TechCrunch, Netflix gets into the original content game (2011.03)
 - Netflix 보도자료, Netflix is now available around the world (2016.01.06)
 - Digital TV Europe·MarketBeat, Hastings steps down as CEO (2023.01)
+- Interesting Engineering, The fascinating history of Netflix (헤이스팅스 250만 달러)
 
 #기업집중탐구 #리드헤이스팅스 #넷플릭스 #Netflix #스트리밍 #창업 #창업스토리 #스타트업 #자기계발
