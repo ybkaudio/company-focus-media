@@ -94,7 +94,7 @@ Confinity는 맥스 레브친과 피터 틸이 세운 회사로, 같은 동네�
 
 📷 **Photo:** X.com / PayPal office in Palo Alto, 2000 (기존 사진)
 
-**제목:** 합병 한 달 뒤 1억 달러를 모으다
+**제목:** 합병 한 달 만에 1억 달러를 모으다
 
 2000년 4월 합친 회사는 투자사 Madison Dearborn을 비롯해 Goldman Sachs·Sequoia Capital 등에서 1억 달러를 모았다.
 
