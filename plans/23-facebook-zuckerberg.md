@@ -95,7 +95,7 @@ Microsoft·AOL 등이 사겠다고 나섰고, 제안 금액은 최대 200만 달
 2004년 12월 사용자가 100만 명을 넘었다.
 
 
-## 08.jpg · 07 · 자금
+## 08.jpg · 07 · 재정비
 
 📷 **Photo:** Palo Alto house used as Facebook's first office, 2004 (or Zuckerberg with Sean Parker)
 
@@ -218,7 +218,7 @@ Beacon 실패 뒤 광고로 돈 버는 구조가 필요해지자, 2008년 3월 G
 2019년 미국 연방거래위원회(FTC)는 Facebook에 벌금 50억 달러를 매겼다.
 
 
-## 17.jpg · 16 · 위기
+## 17.jpg · 16 · 재정비
 
 📷 **Photo:** Zuckerberg presenting Meta rebrand / metaverse avatar, October 2021
 
