@@ -154,7 +154,7 @@
 
 📷 **Photo:** First Kindle (2007) or a Whole Foods store with Amazon signage (2017)
 
-**제목:** Kindle과 Whole Foods로 새 시장에 들어가다
+**제목:** Kindle을 내놓고 Whole Foods를 사들이다
 
 2007년 11월 전자책 단말기 Kindle을 내놓아, 책을 사면 몇십 초 만에 내려받아 읽게 했다.
 
