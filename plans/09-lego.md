@@ -99,10 +99,10 @@
 
 **제목:** 아들에게 회사를 넘기다
 
-- **약 146억 달러** — 회사 가치 (Bloomberg 추정, 2013년)
 - **26년** — 장난감을 만들기 시작해 떠날 때까지
+- **6주** — 브릭 특허부터 세상을 떠날 때까지
 
-특허를 받고 6주 뒤인 1958년 3월 11일, 심장마비로 세상을 떠났다.
+1958년 3월 11일, 66세에 심장마비로 세상을 떠났다.
 
 회사는 함께 일해 온 아들 고트프레드가 이어받았다.
 
@@ -134,6 +134,5 @@
 - Wikipedia, Ole Kirk Christiansen / Timeline of Lego
 - LEGO, The beginning of the LEGO Group
 - Faster Than Normal, LEGO: The Third Coat of Varnish
-- Bloomberg(Business Standard), Lego builds new billionaires as it topples Mattel (2013.03.16)
 
 #기업인집중탐구 #올레키르크크리스티안센 #레고 #LEGO #창업 #창업스토리 #스타트업 #자기계발

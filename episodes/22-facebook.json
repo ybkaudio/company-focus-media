@@ -83,9 +83,8 @@
       "photo": null,
       "title": "출시 10개월 만에\n사용자 100만 명",
       "body": [
-        "대학마다 차례로 열어 가는 방식으로 2004년 12월 사용자가 100만 명을 넘었다.",
-        "이듬해 고등학생까지 가입을 열어 사용자는 550만 명이 됐다.",
-        "2005년 투자사 <Accel>이 1,270만 달러를 넣으며 회사 가치는 약 1억 달러로 평가됐다."
+        "대학마다 차례로 열어 가는 방식으로 2004년 12월 30일 사용자가 100만 명을 넘었다.",
+        "틸의 50만 달러는 연말까지 사용자 150만 명을 채우면 주식으로 바꾸는 조건이었고, 목표에 조금 못 미쳤지만 틸은 주식 전환을 받아들였다."
       ],
       "photo_hint": "Facebook 1 million users milestone, December 2004 (or early Facebook office party photo)"
     },
@@ -97,9 +96,9 @@
       "title": "새 주식 900만 주,\n밀려난 공동 창업자",
       "stats": [
         {
-          "cap": "회사 가치 (Accel 투자 기준, 2005년)",
-          "num": "약 1",
-          "unit": "억 달러"
+          "cap": "회사 가치 (피터 틸 투자 기준, 2004년)",
+          "num": "약 490",
+          "unit": "만 달러"
         },
         {
           "cap": "TheFacebook 출시부터 밀려날 때까지",
@@ -127,5 +126,5 @@
       "photo_hint": "Eduardo Saverin portrait (person photo for the closing slide)"
     }
   ],
-  "caption": "Facebook 첫 투자자, 밀려난 공동 창업자.\n\n에두아르도 세버린은 허리케인을 예측해 번 투자 감각으로 친구 저커버그의 기숙사 사이트에 첫 돈을 대고 지분 30%를 받았어요. 하지만 뉴욕과 팔로알토로 길이 갈리고 회사 계좌를 묶은 뒤, 새 주식 발행으로 지분이 10% 아래로 줄며 밀려났어요.\n\n💬 친구와 동업한다면 무엇을 먼저 정하시겠어요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Eduardo Saverin\n- EBSCO Research Starters, Eduardo Saverin\n- iPleaders, How Mark Zuckerberg got rid of his co-founder\n- Adweek, Facebook's operations at \"near break even\" often meant \"nearly broke\"\n\n#기업인집중탐구 #에두아르도세버린 #페이스북 #Facebook #창업 #동업 #스타트업 #자기계발"
+  "caption": "Facebook 첫 투자자, 밀려난 공동 창업자.\n\n에두아르도 세버린은 허리케인을 예측해 번 투자 감각으로 친구 저커버그의 기숙사 사이트에 첫 돈을 대고 지분 30%를 받았어요. 하지만 뉴욕과 팔로알토로 길이 갈리고 회사 계좌를 묶은 뒤, 새 주식 발행으로 지분이 10% 아래로 줄며 밀려났어요.\n\n💬 친구와 동업한다면 무엇을 먼저 정하시겠어요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Eduardo Saverin\n- EBSCO Research Starters, Eduardo Saverin\n- iPleaders, How Mark Zuckerberg got rid of his co-founder\n- Wikipedia, History of Facebook\n- Adweek, Facebook's operations at \"near break even\" often meant \"nearly broke\"\n\n#기업인집중탐구 #에두아르도세버린 #페이스북 #Facebook #창업 #동업 #스타트업 #자기계발"
 }

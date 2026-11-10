@@ -71,14 +71,12 @@ Odeo 투자자 조지 재커리는 '노아는 Twitter에 미친 듯이 열광했
 
 **제목:** 자기가 이름 지은 회사에서 해고되다
 
-- **약 318억 달러** — 회사 가치 (상장 첫날, 2013년)
+- **약 500만 달러** — 회사 가치 (윌리엄스가 되산 2006년)
 - **약 5개월** — Twitter 아이디어부터 떠날 때까지
 
-프로젝트를 지키려던 글래스와 팀 사이가 틀어졌고, 도시는 그를 내보내지 않으면 자기가 나가겠다고 했다.
+도시의 요구로 2006년 7월 윌리엄스는 글래스를 해고했다.
 
-2006년 7월 윌리엄스는 글래스를 해고했고, 그는 약간의 현금과 주식만 받았다.
-
-2013년 Twitter가 상장할 때 그는 거의 아무것도 받지 못했고, 공식 창업 이야기에서도 이름이 빠져 있었다.
+10월 윌리엄스가 투자금 약 500만 달러를 돌려주고 회사를 되샀고, 글래스는 창업 이야기에서 빠졌다.
 
 
 ## 07.jpg · 마무리
@@ -109,7 +107,8 @@ Twitter라는 이름을 짓고 쫓겨난 창업자.
 - Business Insider, What Happened To Forgotten Twitter Co-Founder Noah Glass (2013.10)
 - Fast Company, Noah Glass: Twitter's Long Lost Winklevoss (2011.04.13)
 - NPR, Nick Bilton On Twitter's Creation Myth & 'Forgotten Founder' (2013.11.07)
-- TechCrunch, Twitter NYSE Day 1 (2013.11.07)
+- TechCrunch, Odeo Bought Back From Investors (2006.10)
+- Business Insider, The Real History Of Twitter (2011.04)
 - Nick Bilton, Hatching Twitter (2013)
 
 #기업인집중탐구 #노아글래스 #트위터 #Twitter #창업 #창업스토리 #스타트업 #자기계발

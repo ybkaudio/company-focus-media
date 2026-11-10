@@ -88,11 +88,9 @@
 
 **제목:** 출시 10개월 만에 사용자 100만 명
 
-대학마다 차례로 열어 가는 방식으로 2004년 12월 사용자가 100만 명을 넘었다.
+대학마다 차례로 열어 가는 방식으로 2004년 12월 30일 사용자가 100만 명을 넘었다.
 
-이듬해 고등학생까지 가입을 열어 사용자는 550만 명이 됐다.
-
-2005년 투자사 <Accel>이 1,270만 달러를 넣으며 회사 가치는 약 1억 달러로 평가됐다.
+틸의 50만 달러는 연말까지 사용자 150만 명을 채우면 주식으로 바꾸는 조건이었고, 목표에 조금 못 미쳤지만 틸은 주식 전환을 받아들였다.
 
 
 ## 08.jpg · 07 · 떠날 때
@@ -101,7 +99,7 @@
 
 **제목:** 새 주식 900만 주, 밀려난 공동 창업자
 
-- **약 1억 달러** — 회사 가치 (Accel 투자 기준, 2005년)
+- **약 490만 달러** — 회사 가치 (피터 틸 투자 기준, 2004년)
 - **약 1년** — TheFacebook 출시부터 밀려날 때까지
 
 2005년 1월 새 주식 900만 주가 다른 주주에게만 나뉘며 그의 지분은 10% 아래로 줄었다.
@@ -136,6 +134,7 @@ Facebook 첫 투자자, 밀려난 공동 창업자.
 - Wikipedia, Eduardo Saverin
 - EBSCO Research Starters, Eduardo Saverin
 - iPleaders, How Mark Zuckerberg got rid of his co-founder
+- Wikipedia, History of Facebook
 - Adweek, Facebook's operations at "near break even" often meant "nearly broke"
 
 #기업인집중탐구 #에두아르도세버린 #페이스북 #Facebook #창업 #동업 #스타트업 #자기계발
