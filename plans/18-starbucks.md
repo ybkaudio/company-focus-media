@@ -127,7 +127,7 @@ Peet's 인수로 빚이 커졌고 동업자 바우커도 떠났다.
 
 📷 **Photo:** Starbucks cafe in the 1990s with customers inside (or a modern Starbucks store)
 
-**제목:** 이후 슐츠는 스타벅스를 세계 최대 커피 체인으로
+**제목:** 이후 슐츠는 스타벅스를 세계 최대 커피 체인으로 만든다
 
 볼드윈은 커피를 마시며 머무는 매장을 늘리자는 슐츠의 제안을 받아들이지 않고, 원두 회사로 남는 길을 택했다.
 
