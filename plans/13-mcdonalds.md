@@ -132,7 +132,7 @@
 
 📷 **Photo:** McDonald's logo on a dark background (the cover sticker is cut from this too)
 
-**제목:** 속도와 값으로 패스트푸드를 만들다
+**제목:** 속도와 규모로 승부하다
 
 - 장부를 보고 메뉴를 9가지로 줄인 판단
 - 부엌을 조립 라인처럼 나눈 설계
