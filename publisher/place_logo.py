@@ -12,6 +12,7 @@ with sync_playwright() as pw:
     for e in eps:
         p=pathlib.Path(f'episodes/{e}.json'); raw=p.read_text(); d=json.loads(raw); ep=render._rename(d)
         s=dict(ep['slides'][0]); k=s.pop('sticker')
+        if k.get('fixed'): print(e,'fixed, 건너뜀'); continue   # 사용자가 위치를 직접 정한 편
         ph=p.parent/e/'photos'
         for ext in ('jpg','jpeg','png','webp'):
             c=ph/f'01.{ext}'

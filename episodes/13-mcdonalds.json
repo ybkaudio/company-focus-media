@@ -16,9 +16,10 @@
       ],
       "sticker": {
         "src": "13-mcdonalds/sticker-logo.png",
-        "size": 260,
-        "right": 130,
-        "top": 1041
+        "size": 200,
+        "right": 170,
+        "top": 815,
+        "fixed": true
       }
     },
     {
