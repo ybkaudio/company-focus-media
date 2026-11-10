@@ -8,7 +8,7 @@
 
 📷 **Photo:** The original Starbucks store near Pike Place Market, Seattle, 1970s (or Jerry Baldwin in the 1970s; cover Starbucks logo sticker is cut from the last slide's logo)
 
-**제목:** 원두만 팔던 가게가 Starbucks가 되기까지
+**제목:** 시애틀에서 시작한 한 원두 가게
 
 기업집중탐구 #18
 
@@ -19,7 +19,7 @@
 
 **제목:** Peet's에서 커피 볶는 법을 배우다
 
-시애틀에는 신선하게 볶은 원두를 파는 곳이 없어, 친구 고든 바우커는 캐나다 밴쿠버까지 차를 몰고 가 원두를 사 왔다.
+시애틀에는 신선하게 볶은 원두를 파는 곳이 없어, 친구 고든 바우커는 캐나다 밴쿠버까지 차를 몰고 가 원두를 사 오곤 했다.
 
 1970년 12월 제리 볼드윈과 바우커는 버클리의 원두 가게 <Peet's>에서 잠깐 일하며 앨프리드 피트에게 커피를 배웠다.
 
