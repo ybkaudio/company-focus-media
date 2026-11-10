@@ -51,6 +51,8 @@
 
 웨인이 동업 계약서를 직접 써, 1976년 4월 1일 셋은 <Apple Computer>를 세웠다.
 
+첫 제품 부품값 약 1,300달러는 잡스가 폭스바겐 버스를, 워즈니악이 계산기를 팔아 마련했다.
+
 
 ## 05.jpg · 04 · 창업
 
@@ -137,5 +139,6 @@ Apple은 1980년 12월 상장 첫날 회사 가치가 약 18억 달러가 됐고
 - The Register, Apple founding contracts sale (2011.12.14)
 - Wikipedia, Apple Inc. (1980 상장, 2018 시가총액 1조 달러)
 - KQED, Sotheby's auctioning Apple Computer's founding contract
+- Fortune, Steve Jobs sold his Volkswagen to raise $1,300 (2025.12)
 
 #기업집중탐구 #로널드웨인 #애플 #Apple #창업 #창업스토리 #스티브잡스 #자기계발

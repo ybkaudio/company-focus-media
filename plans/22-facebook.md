@@ -34,7 +34,7 @@
 
 2004년 2월 저커버그가 하버드 학생끼리 서로의 프로필을 보는 사이트 <TheFacebook>을 열었다.
 
-세버린은 서버 비용 등 초기 자금을 대고 지분 30%를 받았다.
+세버린은 1,000달러를 넣어 서버 비용 등 초기 자금을 대고 지분 30%를 받았다.
 
 저커버그는 65%, 개발을 돕던 친구 더스틴 모스코비츠는 5%였다.
 
@@ -146,5 +146,6 @@ Facebook에 첫 돈을 댄 공동 창업자는 어떻게 회사에서 밀려났�
 - iPleaders, How Mark Zuckerberg got rid of his co-founder
 - Wikipedia, History of Facebook
 - Adweek, Facebook's operations at "near break even" often meant "nearly broke"
+- The Harvard Crimson, Business Casual (2005.02.24) / Slidebean, Eduardo Saverin settlement (1,000달러)
 
 #기업집중탐구 #에두아르도세버린 #페이스북 #Facebook #소셜네트워크 #창업 #동업 #스타트업 #자기계발
