@@ -99,7 +99,7 @@ Microsoft·AOL 등이 사겠다고 나섰고, 제안 금액은 최대 200만 달
 
 📷 **Photo:** Palo Alto house used as Facebook's first office, 2004 (or Zuckerberg with Sean Parker)
 
-**제목:** 팔로알토로 옮겨 틸에게 50만 달러를 받다
+**제목:** 사무실, 직원, 자금을 재정비하다
 
 여름방학에 캘리포니아 팔로알토로 옮겨 개발에 집중했고, <Napster>를 만든 숀 파커가 합류해 회사 운영과 투자 유치를 맡았다.
 
