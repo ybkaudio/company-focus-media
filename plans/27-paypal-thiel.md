@@ -60,7 +60,7 @@
 
 📷 **Photo:** Early PayPal website screenshot around 2000, or eBay auction page with PayPal logo
 
-**제목:** eBay 판매자를 찾아내 가입 보너스로 키우다
+**제목:** 이베이 판매자를 찾아내 가입 보너스로 키우다
 
 가입하면 10달러, 친구를 데려오면 10달러를 더 줬다.
 
@@ -129,7 +129,7 @@ CEO로 돌아온 그는 10월 X.com의 은행 업무를 닫고 송금 하나에 
 
 📷 **Photo:** PayPal logo on eBay listing, or PayPal 2001 homepage
 
-**제목:** eBay의 결제 서비스를 누르고 온라인 결제 65%를 차지하다
+**제목:** 이베이의 결제 서비스를 누르고 온라인 결제 65%를 차지하다
 
 eBay는 2000년 3월 은행 Wells Fargo와 손잡고 Billpoint를 내놨지만, 판매자들은 이미 쓰던 PayPal을 계속 받았다.
 
@@ -153,7 +153,7 @@ eBay는 2000년 3월 은행 Wells Fargo와 손잡고 Billpoint를 내놨지만, 
 
 📷 **Photo:** Peter Thiel portrait 2002, or eBay–PayPal acquisition news photo
 
-**제목:** eBay에 15억 달러에 팔고 떠나다
+**제목:** 이베이에 15억 달러에 팔고 떠나다
 
 - **약 15억 달러** — 떠날 때 회사 가치 (eBay 인수가, 2002년)
 - **약 4년** — 회사 설립부터 떠날 때까지

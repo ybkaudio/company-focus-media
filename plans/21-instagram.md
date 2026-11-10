@@ -30,7 +30,7 @@
 
 📷 **Photo:** Google campus in Mountain View, 2006-2008 (or Odeo office, 2005)
 
-**제목:** Odeo 인턴을 거쳐 Google에서 마케팅을 맡다
+**제목:** 오데오 인턴을 거쳐 구글에서 마케팅을 맡다
 
 졸업 전 여름, 그는 팟캐스트 회사 <Odeo>에서 인턴을 하며 훗날 Twitter를 만드는 에번 윌리엄스, 잭 도시와 함께 일했다.
 
@@ -43,7 +43,7 @@
 
 📷 **Photo:** Early Burbn app screenshot (2010)
 
-**제목:** 밤마다 코딩을 익혀 위치 사진 공유 앱 Burbn을 만들다
+**제목:** 밤마다 코딩을 익혀 위치 사진 공유 앱 버븐을 만들다
 
 Nextstop에 다니며 밤마다 코딩을 익힌 그는 위치 체크인과 사진 공유를 합친 앱을 직접 만들었다.
 
@@ -110,7 +110,7 @@ Burbn은 이미 인기를 끌던 체크인 앱 <Foursquare>와 너무 비슷했�
 
 📷 **Photo:** Instagram Android launch, April 2012 (Google Play listing or news photo)
 
-**제목:** Android로 넓혀 하루 만에 100만 번 내려받다
+**제목:** 안드로이드로 넓혀 하루 만에 100만 번 내려받다
 
 2011년 2월 투자사 <Benchmark> 등에서 약 700만 달러를 받았다.
 
@@ -149,7 +149,7 @@ iPhone 전용이던 앱을 2012년 4월 3일 Android로 내놓자 하루도 안 
 
 📷 **Photo:** Instagram Stories launch, August 2016 (Stories bar at the top of the app)
 
-**제목:** 사라지는 사진을 빠르게 들여 Stories를 내놓다
+**제목:** 사라지는 사진을 빠르게 들여 스토리를 내놓다
 
 2016년 8월 24시간이 지나면 사라지는 사진·동영상 기능 <Stories>를 내놓았다.
 
@@ -177,7 +177,7 @@ Stories 사용자는 두 달 만에 1억 명, 2017년 4월 2억 명이 되며 Sn
 
 📷 **Photo:** Kevin Systrom portrait, 2018
 
-**제목:** 저커버그와 부딪치고 Instagram을 떠나다
+**제목:** 저커버그와 부딪치고 인스타그램을 떠나다
 
 - **약 1,000억 달러** — 회사 가치 (블룸버그 인텔리전스 추정, 2018년)
 - **약 8년** — Instagram 출시부터 떠날 때까지

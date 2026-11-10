@@ -134,7 +134,7 @@
 
 📷 **Photo:** Google and YouTube founders at acquisition announcement, October 2006, or first Android phone (T-Mobile G1) 2008
 
-**제목:** Android·YouTube를 사서 모바일·영상으로 넓히다
+**제목:** 안드로이드·유튜브를 사서 모바일·영상으로 넓히다
 
 2005년 스마트폰 운영체제를 만들던 작은 회사 <Android>를 약 5천만 달러에 샀다(#34).
 
@@ -147,7 +147,7 @@
 
 📷 **Photo:** Larry Page portrait around 2012, or Motorola Mobility headquarters 2012
 
-**제목:** 125억 달러에 산 Motorola를 29억 달러에 팔다
+**제목:** 125억 달러에 산 모토로라를 29억 달러에 팔다
 
 2011년 4월 페이지가 CEO로 돌아왔다.
 
@@ -160,7 +160,7 @@
 
 📷 **Photo:** Alphabet logo announcement 2015, or Larry Page and Sergey Brin around 2015
 
-**제목:** Alphabet을 세워 검색 밖 사업을 나누다
+**제목:** 알파벳을 세워 검색 밖 사업을 나누다
 
 2015년 8월 지주회사 <Alphabet>을 세우고 Google을 그 아래 자회사로 뒀다.
 

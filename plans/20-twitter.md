@@ -32,7 +32,7 @@
 
 📷 **Photo:** 완료 (정장 사진, 250px라 더 큰 판이 있으면 교체)
 
-**제목:** 이웃 윌리엄스와 손잡고 음성 블로그 Audioblogger를 열다
+**제목:** 이웃 윌리엄스와 손잡고 음성 블로그 오디오블로거를 열다
 
 이웃이던 에번 윌리엄스는 블로그 서비스 <Blogger>를 만들어 2003년 Google에 판 사람이었다.
 
@@ -84,7 +84,7 @@ Google을 나온 윌리엄스가 아이팟에 녹음을 옮겨 듣는 팟캐스�
 
 📷 **Photo:** Jack Dorsey's first tweet 'just setting up my twttr', March 21, 2006 (screenshot)
 
-**제목:** Twttr 프로젝트를 맡아 서비스를 공개하다
+**제목:** 트위터 프로젝트를 맡아 서비스를 공개하다
 
 윌리엄스는 이 프로젝트를 글래스에게 맡겼다.
 
@@ -126,7 +126,7 @@ Twitter를 자기 프로젝트로 지키려 했고, 윌리엄스가 자신을 �
 
 📷 **Photo:** Twitter bird logo on a dark background (the cover sticker is cut from this too)
 
-**제목:** Twitter에 이름과 목적을 붙인 사람
+**제목:** 트위터에 이름과 목적을 붙인 사람
 
 - 사람들을 덜 외롭게 하자는 서비스의 목적
 - 새소리에서 찾은 짧은 이름

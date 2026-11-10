@@ -56,7 +56,7 @@
 
 📷 **Photo:** Jack Dorsey at Twitter office 2007, or SXSW 2007
 
-**제목:** 독립한 Twitter의 첫 CEO가 되다
+**제목:** 독립한 트위터의 첫 CEO가 되다
 
 2007년 Twitter가 Odeo에서 떨어져 나와 회사가 되자 그가 CEO를 맡았다.
 
@@ -80,7 +80,7 @@
 
 📷 **Photo:** Jack Dorsey and Jim McKelvey together, 2009-2010 (crop others if unclear)
 
-**제목:** 카드를 못 받은 유리 공예가와 Square를 세우다
+**제목:** 카드를 못 받은 유리 공예가와 스퀘어를 세우다
 
 고향에서 함께 일했던 짐 매켈비는 유리 공예품을 팔다 손님이 카드밖에 없어 판매를 놓쳤다.
 
@@ -104,7 +104,7 @@
 
 📷 **Photo:** Jack Dorsey at Twitter IPO, NYSE, November 2013
 
-**제목:** Twitter 상장 첫날 주가가 73% 오르다
+**제목:** 트위터 상장 첫날 주가가 73% 오르다
 
 2011년 3월 제품을 맡는 회장으로 Twitter에 돌아왔다.
 

@@ -30,7 +30,7 @@
 
 📷 **Photo:** Original Pizza Hut sign on the first store in Wichita (or the Carney brothers at the first store)
 
-**제목:** 여덟 글자 간판에 맞춰 Pizza Hut이라 짓다
+**제목:** 여덟 글자 간판에 맞춰 피자헛이라 짓다
 
 1958년 5월 31일 어머니에게 빌린 600달러로 위치토에 첫 가게를 열었다.
 
@@ -95,7 +95,7 @@
 
 📷 **Photo:** PepsiCo and Pizza Hut, 1977 (news photo or Pizza Hut sign with PepsiCo era branding)
 
-**제목:** PepsiCo에 3억 2천만 달러에 팔다
+**제목:** 펩시코에 3억 2천만 달러에 팔다
 
 1977년 11월 음료·식품 회사 <PepsiCo>가 주식 3억 2천만 달러어치로 Pizza Hut을 인수했다.
 

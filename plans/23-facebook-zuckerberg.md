@@ -30,7 +30,7 @@
 
 📷 **Photo:** Phillips Exeter Academy campus, early 2000s (or Synapse Media Player screenshot)
 
-**제목:** 음악 앱을 만들고 Microsoft를 거절하다
+**제목:** 음악 앱을 만들고 마이크로소프트를 거절하다
 
 고등학생 때 친구 애덤 디안젤로와 음악 취향을 익혀 다음 곡을 골라 주는 프로그램 'Synapse'를 만들어 무료로 공개했다.
 
@@ -45,7 +45,7 @@ Microsoft·AOL 등이 사겠다고 나섰고, 제안 금액은 최대 200만 달
 
 📷 **Photo:** Facemash website screenshot, November 2003 (or Kirkland House, Harvard)
 
-**제목:** 얼평 사이트 Facemash, 폭발적인 반응을 얻다
+**제목:** 얼평 사이트 페이스매시, 폭발적인 반응을 얻다
 
 2003년 11월 그는 기숙사 사진 명부의 학생 얼굴 두 장을 나란히 놓고 고르게 하는 사이트 'Facemash'를 하룻밤에 만들었다.
 
@@ -71,7 +71,7 @@ Microsoft·AOL 등이 사겠다고 나섰고, 제안 금액은 최대 200만 달
 
 📷 **Photo:** TheFacebook profile page, 2004 (screenshot; the Mark Zuckerberg profile screen you sent for #22 works)
 
-**제목:** thefacebook, 한 달 만에 학부생 반이 가입
+**제목:** 더페이스북, 한 달 만에 학부생 반이 가입
 
 2004년 2월 4일 기숙사 방에서 하버드 학생끼리 프로필을 보는 사이트 <TheFacebook>을 열었다.
 
@@ -140,7 +140,7 @@ PayPal 공동 창업자 피터 틸이 50만 달러를 넣고 회사의 10.2%를 
 
 📷 **Photo:** Zuckerberg on stage at f8, May 2007
 
-**제목:** 내부 앱 개발 플랫폼을 열고 Microsoft 투자를 받다
+**제목:** 내부 앱 개발 플랫폼을 열고 마이크로소프트 투자를 받다
 
 2007년 5월 외부 개발자가 Facebook 안에서 돌아가는 게임·앱을 만들 수 있게 '플랫폼'을 열었다.
 
@@ -155,7 +155,7 @@ PayPal 공동 창업자 피터 틸이 50만 달러를 넣고 회사의 10.2%를 
 
 📷 **Photo:** Mark Zuckerberg and Sheryl Sandberg, 2008
 
-**제목:** Google의 셰릴 샌드버그와 광고 사업을 키우다
+**제목:** 구글의 셰릴 샌드버그와 광고 사업을 키우다
 
 Beacon 실패 뒤 광고로 돈 버는 구조가 필요해지자, 2008년 3월 Google에서 광고 사업을 키운 셰릴 샌드버그를 2인자(COO)로 데려왔다.
 
@@ -196,7 +196,7 @@ Beacon 실패 뒤 광고로 돈 버는 구조가 필요해지자, 2008년 3월 G
 
 📷 **Photo:** Instagram, WhatsApp, Oculus logos together (or Zuckerberg with Jan Koum, 2014)
 
-**제목:** Instagram·WhatsApp을 사들이다
+**제목:** 인스타그램·왓츠앱을 사들이다
 
 사람들이 옮겨 가는 앱을 경쟁자가 되기 전에 샀다.
 
@@ -222,7 +222,7 @@ Beacon 실패 뒤 광고로 돈 버는 구조가 필요해지자, 2008년 3월 G
 
 📷 **Photo:** Zuckerberg presenting Meta rebrand / metaverse avatar, October 2021
 
-**제목:** 이름을 Meta로 바꾸고 회사 가치 3분의 2를 잃다
+**제목:** 이름을 메타로 바꾸고 회사 가치 3분의 2를 잃다
 
 2021년 10월 가상 공간 '메타버스'에 회사의 미래를 걸겠다며 회사 이름을 Meta로 바꿨다.
 
