@@ -33,7 +33,7 @@ html,body{width:1080px;height:1350px;background:#000;color:#fff;
  background:rgba(0,0,0,.55);padding:12px 26px;border-radius:40px}
 .when{position:absolute;top:96px;right:80px;font-size:30px;font-weight:700;letter-spacing:.04em;color:#fff;text-shadow:0 2px 10px rgba(0,0,0,.7)}
 /* 11/11 사용자: 연도·나이 아래 그때 회사 가치(추정) — 장마다 비교 */
-.val{position:absolute;top:140px;right:70px;padding:3px 10px;border-radius:6px;background:rgba(0,0,0,.5);font-size:26px;font-weight:500;letter-spacing:.02em;color:#fff;opacity:.92;text-shadow:0 2px 10px rgba(0,0,0,.7),1px 0 0 rgba(0,0,0,.5),-1px 0 0 rgba(0,0,0,.5)}
+.val{position:absolute;top:140px;right:80px;font-size:30px;font-weight:700;letter-spacing:.04em;color:#fff;text-shadow:0 2px 10px rgba(0,0,0,.7)}
 .txt{position:absolute;left:80px;right:80px;bottom:120px}
 h1{font-size:88px;line-height:1.2;font-weight:900;letter-spacing:-.025em;white-space:pre-line}
 .cover h1{font-size:90px}
@@ -88,7 +88,8 @@ def slide_html(ep, s, i, n, base):
         head += f'<div class="idx">{e(s["index"])}</div>'
     if s.get("when"):
         head += f'<div class="when">{e(s["when"])}</div>'
-    if s.get("value"):   # 예: "회사 가치 약 1억 달러(추정)"
+    # 11/11 사용자: 연도·나이와 같은 글씨. 회사 설립 전 장과 떠날 때(stats) 장에는 넣지 않음
+    if s.get("value") and t != "stats" and "설립 전" not in s["value"]:
         head += f'<div class="val">{e(s["value"])}</div>'
     if t == "cover":
         h1 = e(s["title"])
