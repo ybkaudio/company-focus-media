@@ -42,6 +42,7 @@
       "body": [
         "2005년 1월 첸의 집 저녁 파티를 찍은 영상이 너무 커서 이메일로 보낼 수 없었다.",
         "사진은 플리커에서 쉽게 나누는데 영상은 왜 안 되나 싶었던 셋은, 2월 헐리의 차고에서 사이트를 만들기 시작했다.",
+        "처음엔 2005년 2월 14일 주소를 등록한 영상 데이트 사이트로 시작했지만, 닷새 동안 영상이 하나도 올라오지 않자 어떤 영상이든 올릴 수 있게 바꿨다.",
         "4월 23일 자웨드 카림이 유튜브 첫 영상 '동물원에 간 나'를 올렸고, 대표를 맡은 헐리는 로고와 화면을 디자인했다."
       ],
       "photo_hint": "첫 영상 'Me at the zoo' 화면 (없으면 2005년 초기 YouTube 화면)"
@@ -90,8 +91,21 @@
       }
     },
     {
+      "index": "06 · 성장",
+      "when": "2007 · 30세",
+      "photo": null,
+      "title": "소송을 넘어\n창작자와 수익을 나누다",
+      "body": [
+        "2007년 3월 미디어 회사 <Viacom>이 자사 방송 영상이 허락 없이 올라온다며 10억 달러 소송을 냈다.",
+        "YouTube는 그해 10월 올라온 영상을 저작권자의 원본과 자동으로 대조하는 Content ID를 내놓아, 권리자가 영상을 내리거나 그 영상의 광고 수익을 가져가게 했다.",
+        "12월엔 영상을 올린 사람에게도 광고 수익을 나누는 파트너 프로그램을 열어, 영상을 직업으로 만드는 사람들이 생겼다.",
+        "2009년 10월 하루 조회수는 10억 번을 넘었다."
+      ],
+      "photo_hint": "YouTube homepage or YouTube Partner Program page, 2007 (screenshot)"
+    },
+    {
       "type": "stats",
-      "index": "06 · 떠날 때",
+      "index": "07 · 떠날 때",
       "when": "2010 · 33세",
       "photo": null,
       "title": "5년이 지나\n대표에서 물러나다",
@@ -128,6 +142,6 @@
       "photo_hint": "YouTube 로고 (어두운 배경, 표지 스티커도 여기서 오려 냄)"
     }
   ],
-  "caption": "이 화가 지망생은 유튜브를 만듦.\n\n채드 헐리는 면접에서 그린 그림이 PayPal 첫 로고가 된 디자이너였어요. 파티 영상이 너무 커서 이메일로 못 보낸 날, 동료들과 차고에서 YouTube를 만들었고, 설치도 가입도 필요 없는 영상 사이트로 20개월 만에 Google에 16억 5,000만 달러에 팔았어요.\n\n💬 여러분이 처음 본 YouTube 영상은 뭐였나요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Chad Hurley / History of YouTube\n- Encyclopedia.com, Chen, Steve and Hurley, Chad\n- The Wall Street Journal(위키 인용), 헐리의 Google 주식 가치 (2007.02)\n\n#기업인집중탐구 #채드헐리 #유튜브 #YouTube #창업 #창업스토리 #스타트업 #자기계발",
+  "caption": "이 화가 지망생은 유튜브를 만듦.\n\n채드 헐리는 면접에서 그린 그림이 PayPal 첫 로고가 된 디자이너였어요. 파티 영상이 너무 커서 이메일로 못 보낸 날, 동료들과 차고에서 YouTube를 만들었고, 설치도 가입도 필요 없는 영상 사이트로 20개월 만에 Google에 16억 5,000만 달러에 팔았어요.\n\n💬 여러분이 처음 본 YouTube 영상은 뭐였나요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Chad Hurley / History of YouTube\n- Encyclopedia.com, Chen, Steve and Hurley, Chad\n- The Wall Street Journal(위키 인용), 헐리의 Google 주식 가치 (2007.02)\n- YouTube 공식 연혁(press timeline, 2012)\n- MediaPost, Viacom Sues YouTube For Major Copyright Violations (2007.03)\n- Fox News, YouTube started out as a dating service, co-founder tells SXSW (2016.03)\n- Tubefilter, YouTube Was First Conceived As A Dating Site (2016.03.15)\n\n#기업인집중탐구 #채드헐리 #유튜브 #YouTube #창업 #창업스토리 #스타트업 #자기계발",
   "music": "Mr. Brightside – The Killers (YouTube가 생긴 2004~05년 히트곡) / 없으면 검색어 'indie rock 2000s'"
 }

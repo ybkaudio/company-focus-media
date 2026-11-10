@@ -38,6 +38,8 @@
 
 사진은 플리커에서 쉽게 나누는데 영상은 왜 안 되나 싶었던 셋은, 2월 헐리의 차고에서 사이트를 만들기 시작했다.
 
+처음엔 2005년 2월 14일 주소를 등록한 영상 데이트 사이트로 시작했지만, 닷새 동안 영상이 하나도 올라오지 않자 어떤 영상이든 올릴 수 있게 바꿨다.
+
 4월 23일 자웨드 카림이 유튜브 첫 영상 '동물원에 간 나'를 올렸고, 대표를 맡은 헐리는 로고와 화면을 디자인했다.
 
 
@@ -82,7 +84,22 @@ YouTube는 설치도 가입도 없이 클릭 한 번으로 재생되게 했고, 
 헐리가 받은 Google 주식은 약 3억 4,560만 달러어치였다.
 
 
-## 07.jpg · 06 · 떠날 때
+## 07.jpg · 06 · 성장
+
+📷 **Photo:** YouTube homepage or YouTube Partner Program page, 2007 (screenshot)
+
+**제목:** 소송을 넘어 창작자와 수익을 나누다
+
+2007년 3월 미디어 회사 <Viacom>이 자사 방송 영상이 허락 없이 올라온다며 10억 달러 소송을 냈다.
+
+YouTube는 그해 10월 올라온 영상을 저작권자의 원본과 자동으로 대조하는 Content ID를 내놓아, 권리자가 영상을 내리거나 그 영상의 광고 수익을 가져가게 했다.
+
+12월엔 영상을 올린 사람에게도 광고 수익을 나누는 파트너 프로그램을 열어, 영상을 직업으로 만드는 사람들이 생겼다.
+
+2009년 10월 하루 조회수는 10억 번을 넘었다.
+
+
+## 08.jpg · 07 · 떠날 때
 
 📷 **Photo:** 2010년 무렵 행사 무대의 헐리
 
@@ -98,7 +115,7 @@ Google에 팔린 뒤에도 4년 동안 대표를 맡아 YouTube를 이끌었다.
 이후 동영상 앱 MixBit을 만들었고, 농구팀 Golden State Warriors와 축구팀 LAFC의 공동 구단주가 됐다.
 
 
-## 08.jpg · 마무리
+## 09.jpg · 마무리
 
 📷 **Photo:** YouTube 로고 (어두운 배경, 표지 스티커도 여기서 오려 냄)
 
@@ -125,5 +142,9 @@ Google에 팔린 뒤에도 4년 동안 대표를 맡아 YouTube를 이끌었다.
 - Wikipedia, Chad Hurley / History of YouTube
 - Encyclopedia.com, Chen, Steve and Hurley, Chad
 - The Wall Street Journal(위키 인용), 헐리의 Google 주식 가치 (2007.02)
+- YouTube 공식 연혁(press timeline, 2012)
+- MediaPost, Viacom Sues YouTube For Major Copyright Violations (2007.03)
+- Fox News, YouTube started out as a dating service, co-founder tells SXSW (2016.03)
+- Tubefilter, YouTube Was First Conceived As A Dating Site (2016.03.15)
 
 #기업인집중탐구 #채드헐리 #유튜브 #YouTube #창업 #창업스토리 #스타트업 #자기계발
