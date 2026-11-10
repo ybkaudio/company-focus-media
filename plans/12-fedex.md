@@ -107,7 +107,7 @@ Federal Express는 미국 한가운데에 있고 날씨로 비행이 끊기는 �
 
 📷 **Photo:** Fred Smith in the mid-1970s (or a Federal Express Falcon jet being refueled at night)
 
-**제목:** 파산 직전에서 26개월 만에 흑자로
+**제목:** 기름값 인상을 버티고 운항 2년 만에 흑자를 만들다
 
 1973년 석유 파동으로 기름값이 뛰자 1974년 중반엔 한 달에 100만 달러 넘게 잃었다.
 
