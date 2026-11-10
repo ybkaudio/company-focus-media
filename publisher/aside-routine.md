@@ -4,7 +4,7 @@
 
 ## 루틴 프롬프트
 
-매일 00:05와 12:05(한국 시간)에 아래 일을 하는 루틴을 만들어 줘. 매번 처음부터 아래 순서대로 해.
+매일 00:05, 08:05, 12:05, 16:05(한국 시간) 하루 네 번 아래 일을 하는 루틴을 만들어 줘(루틴 하나에 네 시각). 게시 시각은 목록이 정하니, 올릴 편이 없는 시각에는 확인만 하고 끝내면 돼. 매번 처음부터 아래 순서대로 해.
 
 1. https://raw.githubusercontent.com/ybkaudio/company-focus-media/main/publisher/schedule.json 을 열어.
    각 항목은 at(게시 시각), folder(폴더), episode(편 이름), count(장 수), first_line(캡션 첫 줄)이야.
