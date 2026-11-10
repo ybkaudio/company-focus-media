@@ -60,7 +60,7 @@
 
 📷 **Photo:** Palo Alto house used as Facebook's first office, 2004 (or Sean Parker, 2004)
 
-**제목:** 뉴욕과 캘리포니아, 두 사람의 길이 갈리다
+**제목:** 뉴욕과 캘리포니아, 저커버그와 길이 갈리다
 
 2004년 여름방학, 세버린은 뉴욕의 투자은행에서 인턴을 하며 광고주를 찾았다.
 
