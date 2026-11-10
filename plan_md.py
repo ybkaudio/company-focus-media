@@ -14,7 +14,7 @@ def main(path):
     ep = json.loads(path.read_text())
     no = ep["no"]
     label = f"특별편 #{no:02d}" if ep.get("special") else f"#{no:02d}"
-    out = [f"# 기업인집중탐구 {label} · {ep['person']} ({ep['company']})", ""]
+    out = [f"# 기업집중탐구 {label} · {ep['person']} ({ep['company']})", ""]
     out += ["> 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.", ""]
     if ep.get("music"):
         out += [f"🎵 **추천 음악:** {ep['music']}", ""]

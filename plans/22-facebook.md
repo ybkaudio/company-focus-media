@@ -1,4 +1,4 @@
-# 기업인집중탐구 #22 · 에두아르도 세버린 (Facebook)
+# 기업집중탐구 #22 · 에두아르도 세버린 (Facebook)
 
 > 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
 
@@ -10,7 +10,7 @@
 
 **제목:** Facebook 첫 투자자, 밀려난 공동 창업자
 
-기업인집중탐구 #22
+기업집중탐구 #22
 
 
 ## 02.jpg · 01 · 배경
@@ -137,4 +137,4 @@ Facebook 첫 투자자, 밀려난 공동 창업자.
 - Wikipedia, History of Facebook
 - Adweek, Facebook's operations at "near break even" often meant "nearly broke"
 
-#기업인집중탐구 #에두아르도세버린 #페이스북 #Facebook #창업 #동업 #스타트업 #자기계발
+#기업집중탐구 #에두아르도세버린 #페이스북 #Facebook #창업 #동업 #스타트업 #자기계발

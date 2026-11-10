@@ -1,4 +1,4 @@
-# 기업인집중탐구 #14 · 제프 베이조스 (Amazon)
+# 기업집중탐구 #14 · 제프 베이조스 (Amazon)
 
 > 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
 
@@ -10,7 +10,7 @@
 
 **제목:** 차고에서 Amazon을 만들다
 
-기업인집중탐구 #14
+기업집중탐구 #14
 
 
 ## 02.jpg · 01 · 계기
@@ -231,4 +231,4 @@
 - Business Insider, Jeff Bezos told what may be the best startup investment story ever (2016)
 - Fortune, Amazon CEO Jeff Bezos on the Fire Phone failure (2014.12.02)
 
-#기업인집중탐구 #제프베이조스 #아마존 #Amazon #창업 #창업스토리 #스타트업 #자기계발
+#기업집중탐구 #제프베이조스 #아마존 #Amazon #창업 #창업스토리 #스타트업 #자기계발

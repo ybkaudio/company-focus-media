@@ -1,4 +1,4 @@
-# 기업인집중탐구 #21 · 케빈 시스트롬 (Instagram)
+# 기업집중탐구 #21 · 케빈 시스트롬 (Instagram)
 
 > 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
 
@@ -10,7 +10,7 @@
 
 **제목:** 체크인 앱에서 시작한 10억 명의 사진 앱
 
-기업인집중탐구 #21
+기업집중탐구 #21
 
 
 ## 02.jpg · 01 · 배경
@@ -216,4 +216,4 @@ Stories 사용자는 두 달 만에 1억 명, 2017년 4월 2억 명이 되며 Sn
 - Bloomberg, Systrom and Krieger Sold Instagram for $1 Billion. Now It's Worth $100 Billion (2018.09.25)
 - Gulf News, Instagram founders exit Facebook as Zuckerberg tension grows (2018.09)
 
-#기업인집중탐구 #케빈시스트롬 #인스타그램 #Instagram #창업 #창업스토리 #스타트업 #자기계발
+#기업집중탐구 #케빈시스트롬 #인스타그램 #Instagram #창업 #창업스토리 #스타트업 #자기계발

@@ -1,4 +1,4 @@
-# 기업인집중탐구 #10 · 채드 헐리 (YouTube)
+# 기업집중탐구 #10 · 채드 헐리 (YouTube)
 
 > 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
 
@@ -10,7 +10,7 @@
 
 **제목:** 이 화가 지망생은 유튜브를 만듦
 
-기업인집중탐구 #10
+기업집중탐구 #10
 
 
 ## 02.jpg · 01 · 배경
@@ -164,4 +164,4 @@ Google에 팔린 뒤에도 4년 동안 대표를 맡아 YouTube를 이끌었다.
 - Vice, 10 Years Ago Today, YouTube Launched as a Dating Website (2015.04.23)
 - The Guardian, YouTube's past as a video dating website (2016.03.16)
 
-#기업인집중탐구 #채드헐리 #유튜브 #YouTube #창업 #창업스토리 #스타트업 #자기계발
+#기업집중탐구 #채드헐리 #유튜브 #YouTube #창업 #창업스토리 #스타트업 #자기계발

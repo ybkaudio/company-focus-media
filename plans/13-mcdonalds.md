@@ -1,4 +1,4 @@
-# 기업인집중탐구 #13 · 맥도날드 형제 (McDonald's)
+# 기업집중탐구 #13 · 맥도날드 형제 (McDonald's)
 
 > 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
 
@@ -10,7 +10,7 @@
 
 **제목:** 햄버거 공장을 세운 형제
 
-기업인집중탐구 #13
+기업집중탐구 #13
 
 
 ## 02.jpg · 01 · 배경
@@ -161,4 +161,4 @@
 - NZ Herald, Revealed: the unsavoury past of McDonald's founders (2017)
 - Mashed, Shady things people forgot about Ray Kroc
 
-#기업인집중탐구 #맥도날드형제 #맥도날드 #McDonalds #창업 #창업스토리 #스타트업 #자기계발
+#기업집중탐구 #맥도날드형제 #맥도날드 #McDonalds #창업 #창업스토리 #스타트업 #자기계발

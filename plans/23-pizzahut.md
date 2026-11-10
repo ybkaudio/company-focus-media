@@ -1,4 +1,4 @@
-# 기업인집중탐구 #23 · 프랭크 카니 (Pizza Hut)
+# 기업집중탐구 #23 · 프랭크 카니 (Pizza Hut)
 
 > 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
 
@@ -10,7 +10,7 @@
 
 **제목:** 600달러로 시작한 세계 1위 피자 체인
 
-기업인집중탐구 #23
+기업집중탐구 #23
 
 
 ## 02.jpg · 01 · 창업
@@ -147,4 +147,4 @@
 - Restaurant Business, Pizza Hut co-founder Frank Carney dies at age 82 (2020.12)
 - Nation's Restaurant News, Pizza Hut cofounder Frank Carney dies at 82 (2020.12)
 
-#기업인집중탐구 #프랭크카니 #피자헛 #PizzaHut #창업 #프랜차이즈 #창업스토리 #자기계발
+#기업집중탐구 #프랭크카니 #피자헛 #PizzaHut #창업 #프랜차이즈 #창업스토리 #자기계발

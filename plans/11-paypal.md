@@ -1,4 +1,4 @@
-# 기업인집중탐구 #11 · 일론 머스크 (PayPal)
+# 기업집중탐구 #11 · 일론 머스크 (PayPal)
 
 > 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
 
@@ -10,7 +10,7 @@
 
 **제목:** {logo} 일론 머스크의 시작
 
-기업인집중탐구 #11
+기업집중탐구 #11
 
 
 ## 02.jpg · 01 · 배경
@@ -184,4 +184,4 @@ PayPal, 일론 머스크의 시작.
 - Fox Business, Elon Musk was dethroned by Peter Thiel in a coup (2022)
 - Snopes, Was Elon Musk Fired from PayPal? (2022)
 
-#기업인집중탐구 #일론머스크 #페이팔 #PayPal #창업 #창업스토리 #스타트업 #자기계발
+#기업집중탐구 #일론머스크 #페이팔 #PayPal #창업 #창업스토리 #스타트업 #자기계발
