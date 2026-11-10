@@ -13,20 +13,48 @@
 기업인집중탐구 #20
 
 
-## 02.jpg · 01 · Odeo
+## 02.jpg · 01 · AudBlog
+
+📷 **Photo:** AudBlog / audioBLOGGER website screenshot, 2003 (or a young Noah Glass photo)
+
+**제목:** 전화로 녹음해 올리는 음성 블로그를 만들다
+
+노아 글래스는 조지 루커스의 특수효과 회사 <ILM>에서 일했고, Macromedia의 전신 MacroMind를 만든 마크 캔터와 여러 웹 프로젝트를 했다.
+
+그 뒤 샌프란시스코에 회사 <ListenLab>을 차려 <AudBlog>를 만들었다.
+
+전화를 걸어 최대 4분을 녹음하면 몇 초 만에 블로그에 음성 글이 올라갔다.
+
+첫 글은 무료, 그 뒤로는 월 3달러였다.
+
+
+## 03.jpg · 02 · 동업
+
+📷 **Photo:** Audioblogger + Blogger logos or Blogger-era Evan Williams with Noah Glass (avoid photos where Williams could be mistaken for Glass)
+
+**제목:** 이웃 윌리엄스와 손잡고 Blogger 사용자에게 열다
+
+이웃이던 에번 윌리엄스는 블로그 서비스 <Blogger>를 만들어 2003년 Google에 판 사람이었다.
+
+AudBlog는 Blogger와 손잡고 Audioblogger라는 이름으로 Blogger 사용자에게 무료로 열렸다.
+
+녹음한 목소리를 인터넷으로 나누는 이 경험이 다음 회사 Odeo로 이어졌다.
+
+
+## 04.jpg · 03 · Odeo
 
 📷 **Photo:** Odeo office in San Francisco, 2005 (or the Odeo website screenshot)
 
 **제목:** 공동 창립한 팟캐스트 회사, 새 아이디어를 탐색하다
 
-노아 글래스는 휴대폰으로 녹음해 블로그에 올리는 서비스 <AudBlog>를 만들었다.
+Google을 나온 윌리엄스가 아이팟에 녹음을 옮겨 듣는 팟캐스트 아이디어를 내자, 글래스가 이를 맡아 <Odeo>를 세웠다.
 
-Blogger를 만든 에번 윌리엄스와 손잡고 팟캐스트 회사 <Odeo>를 세웠다.
+윌리엄스는 초기 자금을 대고 조언을 맡았고, 투자자들은 목표 100만 달러보다 많은 500만 달러를 내놓았다.
 
 2005년 Apple이 iTunes에 팟캐스트를 넣자 Odeo는 설 자리를 잃었고, 회사는 새 아이디어를 찾아야 했다.
 
 
-## 03.jpg · 02 · 아이디어
+## 05.jpg · 04 · 아이디어
 
 📷 **Photo:** Valencia Street, San Francisco at night in the rain (or Noah Glass and Jack Dorsey, 2006)
 
@@ -39,7 +67,7 @@ Blogger를 만든 에번 윌리엄스와 손잡고 팟캐스트 회사 <Odeo>를
 사람들을 덜 외롭게 만드는 서비스로 바꿔, 도시와 개발자 플로리안 웨버와 함께 Odeo 팀에 내놓았다.
 
 
-## 04.jpg · 03 · 이름
+## 06.jpg · 05 · 이름
 
 📷 **Photo:** Dictionary entry for the word 'twitter' (or the early Twttr logo, 2006)
 
@@ -52,7 +80,7 @@ Blogger를 만든 에번 윌리엄스와 손잡고 팟캐스트 회사 <Odeo>를
 모음을 빼 'Twttr'로 이름을 정했다.
 
 
-## 05.jpg · 04 · 출시
+## 07.jpg · 06 · 출시
 
 📷 **Photo:** Jack Dorsey's first tweet 'just setting up my twttr', March 21, 2006 (screenshot)
 
@@ -65,7 +93,7 @@ Blogger를 만든 에번 윌리엄스와 손잡고 팟캐스트 회사 <Odeo>를
 Odeo 투자자 조지 재커리는 '노아는 Twitter에 미친 듯이 열광했다'고 말했다.
 
 
-## 06.jpg · 05 · 갈등
+## 08.jpg · 07 · 갈등
 
 📷 **Photo:** Noah Glass at Odeo, 2005–2006
 
@@ -80,7 +108,7 @@ Twitter를 자기 프로젝트로 지키려 했고, 윌리엄스가 자신을 �
 그가 고민을 털어놓던 도시는 윌리엄스에게 글래스를 내보내지 않으면 자기가 나가겠다고 했다.
 
 
-## 07.jpg · 06 · 떠날 때
+## 09.jpg · 08 · 떠날 때
 
 📷 **Photo:** Noah Glass in the 2010s (interview photo)
 
@@ -94,7 +122,7 @@ Twitter를 자기 프로젝트로 지키려 했고, 윌리엄스가 자신을 �
 10월 윌리엄스가 투자금 약 500만 달러를 돌려주고 회사를 되샀고, 글래스는 창업 이야기에서 빠졌다.
 
 
-## 08.jpg · 마무리
+## 10.jpg · 마무리
 
 📷 **Photo:** Twitter bird logo on a dark background (the cover sticker is cut from this too)
 
@@ -111,7 +139,7 @@ Twitter를 자기 프로젝트로 지키려 했고, 윌리엄스가 자신을 �
 
 Twitter라는 이름을 짓고 쫓겨난 창업자.
 
-노아 글래스는 팟캐스트 회사 Odeo가 Apple에 밀리자, 잭 도시의 '상태 알리기' 아이디어를 사람들을 덜 외롭게 하는 서비스로 키웠어요. 사전에서 'twitter'라는 단어를 찾아 이름도 지었지만, 첫 메시지가 올라간 지 넉 달 만에 자기가 이름 붙인 회사에서 해고됐어요.
+노아 글래스는 전화로 녹음해 블로그에 올리는 AudBlog로 시작해 팟캐스트 회사 Odeo를 세웠고, Odeo가 Apple에 밀리자, 잭 도시의 '상태 알리기' 아이디어를 사람들을 덜 외롭게 하는 서비스로 키웠어요. 사전에서 'twitter'라는 단어를 찾아 이름도 지었지만, 첫 메시지가 올라간 지 넉 달 만에 자기가 이름 붙인 회사에서 해고됐어요.
 
 💬 여러분의 첫 트윗은 무엇이었나요? 댓글로 알려 주세요.
 
@@ -126,6 +154,10 @@ Twitter라는 이름을 짓고 쫓겨난 창업자.
 - NPR, Nick Bilton On Twitter's Creation Myth & 'Forgotten Founder' (2013.11.07)
 - TechCrunch, Odeo Bought Back From Investors (2006.10)
 - Business Insider, The Real History Of Twitter (2011.04)
+- Literary Hub, On the Unlikely Origins of Twitter (2018)
+- NBC News, Blogging for the eyes and ears (2004)
+- Poynter, Listen in on a weblog (2003.03.14)
+- GigaOm, AudioBlogger on Odeo, Finished (2006.10)
 - Nick Bilton, Hatching Twitter (2013)
 
 #기업인집중탐구 #노아글래스 #트위터 #Twitter #창업 #창업스토리 #스타트업 #자기계발

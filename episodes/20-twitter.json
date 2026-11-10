@@ -23,20 +23,46 @@
       }
     },
     {
-      "index": "01 · Odeo",
+      "index": "01 · AudBlog",
+      "when": "2003",
+      "photo": null,
+      "title": "전화로 녹음해 올리는\n음성 블로그를 만들다",
+      "body": [
+        "노아 글래스는 조지 루커스의 특수효과 회사 <ILM>에서 일했고, Macromedia의 전신 MacroMind를 만든 마크 캔터와 여러 웹 프로젝트를 했다.",
+        "그 뒤 샌프란시스코에 회사 <ListenLab>을 차려 <AudBlog>를 만들었다.",
+        "전화를 걸어 최대 4분을 녹음하면 몇 초 만에 블로그에 음성 글이 올라갔다. 첫 글은 무료, 그 뒤로는 월 3달러였다."
+      ],
+      "photo_hint": "AudBlog / audioBLOGGER website screenshot, 2003 (or a young Noah Glass photo)",
+      "title_size": 76
+    },
+    {
+      "index": "02 · 동업",
+      "when": "2004",
+      "photo": null,
+      "title": "이웃 윌리엄스와 손잡고\nBlogger 사용자에게 열다",
+      "body": [
+        "이웃이던 에번 윌리엄스는 블로그 서비스 <Blogger>를 만들어 2003년 Google에 판 사람이었다.",
+        "AudBlog는 Blogger와 손잡고 Audioblogger라는 이름으로 Blogger 사용자에게 무료로 열렸다.",
+        "녹음한 목소리를 인터넷으로 나누는 이 경험이 다음 회사 Odeo로 이어졌다."
+      ],
+      "photo_hint": "Audioblogger + Blogger logos or Blogger-era Evan Williams with Noah Glass (avoid photos where Williams could be mistaken for Glass)",
+      "title_size": 76
+    },
+    {
+      "index": "03 · Odeo",
       "when": "2005",
       "photo": null,
       "title": "공동 창립한 팟캐스트 회사,\n새 아이디어를 탐색하다",
       "body": [
-        "노아 글래스는 휴대폰으로 녹음해 블로그에 올리는 서비스 <AudBlog>를 만들었다.",
-        "Blogger를 만든 에번 윌리엄스와 손잡고 팟캐스트 회사 <Odeo>를 세웠다.",
+        "Google을 나온 윌리엄스가 아이팟에 녹음을 옮겨 듣는 팟캐스트 아이디어를 내자, 글래스가 이를 맡아 <Odeo>를 세웠다.",
+        "윌리엄스는 초기 자금을 대고 조언을 맡았고, 투자자들은 목표 100만 달러보다 많은 500만 달러를 내놓았다.",
         "2005년 Apple이 iTunes에 팟캐스트를 넣자 Odeo는 설 자리를 잃었고, 회사는 새 아이디어를 찾아야 했다."
       ],
       "photo_hint": "Odeo office in San Francisco, 2005 (or the Odeo website screenshot)",
       "title_size": 80
     },
     {
-      "index": "02 · 아이디어",
+      "index": "04 · 아이디어",
       "when": "2006",
       "photo": null,
       "title": "외로움을 느끼다가\n공유할 방법을 찾다",
@@ -48,7 +74,7 @@
       "photo_hint": "Valencia Street, San Francisco at night in the rain (or Noah Glass and Jack Dorsey, 2006)"
     },
     {
-      "index": "03 · 이름",
+      "index": "05 · 이름",
       "when": "2006",
       "photo": null,
       "title": "사전에서 찾은 단어에서\n영감을 얻다",
@@ -60,7 +86,7 @@
       "photo_hint": "Dictionary entry for the word 'twitter' (or the early Twttr logo, 2006)"
     },
     {
-      "index": "04 · 출시",
+      "index": "06 · 출시",
       "when": "2006",
       "photo": null,
       "title": "Twttr 프로젝트를 맡아\n서비스를 공개하다",
@@ -74,7 +100,7 @@
       "bgpos": "center 150px"
     },
     {
-      "index": "05 · 갈등",
+      "index": "07 · 갈등",
       "when": "2006",
       "photo": null,
       "title": "이혼과 불안 속에\n팀과 부딪치다",
@@ -87,7 +113,7 @@
     },
     {
       "type": "stats",
-      "index": "06 · 떠날 때",
+      "index": "08 · 떠날 때",
       "when": "2006",
       "photo": null,
       "title": "자기가 이름 지은 회사에서\n해고되다",
@@ -123,5 +149,5 @@
       "photo_hint": "Twitter bird logo on a dark background (the cover sticker is cut from this too)"
     }
   ],
-  "caption": "Twitter라는 이름을 짓고 쫓겨난 창업자.\n\n노아 글래스는 팟캐스트 회사 Odeo가 Apple에 밀리자, 잭 도시의 '상태 알리기' 아이디어를 사람들을 덜 외롭게 하는 서비스로 키웠어요. 사전에서 'twitter'라는 단어를 찾아 이름도 지었지만, 첫 메시지가 올라간 지 넉 달 만에 자기가 이름 붙인 회사에서 해고됐어요.\n\n💬 여러분의 첫 트윗은 무엇이었나요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Noah Glass\n- Business Insider, What Happened To Forgotten Twitter Co-Founder Noah Glass (2013.10)\n- Fast Company, Noah Glass: Twitter's Long Lost Winklevoss (2011.04.13)\n- IBTimes, Who Is Noah Glass? 9 Things To Know About Ousted Twitter Founder (2013.10)\n- The Week, One of Twitter's masterminds won't be getting rich off Twitter (2013)\n- NPR, Nick Bilton On Twitter's Creation Myth & 'Forgotten Founder' (2013.11.07)\n- TechCrunch, Odeo Bought Back From Investors (2006.10)\n- Business Insider, The Real History Of Twitter (2011.04)\n- Nick Bilton, Hatching Twitter (2013)\n\n#기업인집중탐구 #노아글래스 #트위터 #Twitter #창업 #창업스토리 #스타트업 #자기계발"
+  "caption": "Twitter라는 이름을 짓고 쫓겨난 창업자.\n\n노아 글래스는 전화로 녹음해 블로그에 올리는 AudBlog로 시작해 팟캐스트 회사 Odeo를 세웠고, Odeo가 Apple에 밀리자, 잭 도시의 '상태 알리기' 아이디어를 사람들을 덜 외롭게 하는 서비스로 키웠어요. 사전에서 'twitter'라는 단어를 찾아 이름도 지었지만, 첫 메시지가 올라간 지 넉 달 만에 자기가 이름 붙인 회사에서 해고됐어요.\n\n💬 여러분의 첫 트윗은 무엇이었나요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Noah Glass\n- Business Insider, What Happened To Forgotten Twitter Co-Founder Noah Glass (2013.10)\n- Fast Company, Noah Glass: Twitter's Long Lost Winklevoss (2011.04.13)\n- IBTimes, Who Is Noah Glass? 9 Things To Know About Ousted Twitter Founder (2013.10)\n- The Week, One of Twitter's masterminds won't be getting rich off Twitter (2013)\n- NPR, Nick Bilton On Twitter's Creation Myth & 'Forgotten Founder' (2013.11.07)\n- TechCrunch, Odeo Bought Back From Investors (2006.10)\n- Business Insider, The Real History Of Twitter (2011.04)\n- Literary Hub, On the Unlikely Origins of Twitter (2018)\n- NBC News, Blogging for the eyes and ears (2004)\n- Poynter, Listen in on a weblog (2003.03.14)\n- GigaOm, AudioBlogger on Odeo, Finished (2006.10)\n- Nick Bilton, Hatching Twitter (2013)\n\n#기업인집중탐구 #노아글래스 #트위터 #Twitter #창업 #창업스토리 #스타트업 #자기계발"
 }
