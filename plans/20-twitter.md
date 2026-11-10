@@ -43,7 +43,7 @@ Blogger를 만든 에번 윌리엄스와 손잡고 팟캐스트 회사 <Odeo>를
 
 📷 **Photo:** Dictionary entry for the word 'twitter' (or the early Twttr logo, 2006)
 
-**제목:** 사전 속 twitch 옆에서 찾아낸 이름, Twttr
+**제목:** 사전에서 찾은 단어에서 영감을 얻다
 
 휴대폰이 떨리는 것을 보고 글래스는 사전에서 'twitch'를 찾다가 바로 옆 'twitter'를 발견했다.
 
