@@ -28,7 +28,8 @@
         "1979년 스웨덴 주방용품 회사 <Hammarplast>의 미국 법인 총괄이 됐다."
       ],
       "photo_hint": "Young Howard Schultz, late 1970s, or Canarsie Bayview Houses Brooklyn",
-      "title_size": 70
+      "title_size": 70,
+      "value": "Il Giornale 설립 전"
     },
     {
       "index": "02 · 계기",
@@ -40,7 +41,8 @@
         "갓 볶은 원두를 파는 그 가게가 스타벅스였다(#18).",
         "1982년 연봉을 낮춰 스타벅스의 매장 운영·마케팅 이사로 옮겼다."
       ],
-      "photo_hint": "Original Starbucks store at Pike Place Market, Seattle, early 1980s"
+      "photo_hint": "Original Starbucks store at Pike Place Market, Seattle, early 1980s",
+      "value": "Il Giornale 설립 전"
     },
     {
       "index": "03 · 계기",
@@ -52,7 +54,8 @@
         "원두만 팔던 스타벅스에 커피 음료를 파는 매장을 제안했고, 1984년 시험 매장의 반응도 좋았다.",
         "하지만 원두 회사로 남고 싶던 창업자들은 확장을 받아들이지 않았다."
       ],
-      "photo_hint": "Milan espresso bar 1980s, or Howard Schultz in Italy"
+      "photo_hint": "Milan espresso bar 1980s, or Howard Schultz in Italy",
+      "value": "Il Giornale 설립 전"
     },
     {
       "index": "04 · 창업",
@@ -65,7 +68,8 @@
         "필요한 돈은 40만 달러였고, 찾아간 투자자 242명 중 217명이 거절했다.",
         "스타벅스가 15만 달러를 넣어 1986년 첫 매장을 열었다."
       ],
-      "photo_hint": "Il Giornale coffee bar Seattle, 1986"
+      "photo_hint": "Il Giornale coffee bar Seattle, 1986",
+      "value": "회사 가치 약 165만 달러(투자금 기준, 추정)"
     },
     {
       "index": "05 · 확장",
@@ -76,7 +80,8 @@
         "1987년 창업자들이 Peet's에 집중하려고 스타벅스 매장 사업을 내놓았고, 그는 투자자들과 380만 달러에 샀다(#18).",
         "Il Giornale 매장 이름을 모두 스타벅스로 바꾸고, 그해 밴쿠버·시카고에 시애틀 밖 첫 매장을 열었다."
       ],
-      "photo_hint": "Howard Schultz with early Starbucks store, late 1980s"
+      "photo_hint": "Howard Schultz with early Starbucks store, late 1980s",
+      "value": "회사 가치 약 380만 달러(인수가 기준, 추정)"
     },
     {
       "index": "06 · 성장",
@@ -87,7 +92,8 @@
         "1988년 스타벅스는 시간제 직원에게도 건강보험을 준 미국 첫 회사가 됐다.",
         "그는 어린 시절 트럭 운전사 아버지가 일하다 다친 뒤 보험 없이 일자리를 잃은 경험을 이유로 들었다."
       ],
-      "photo_hint": "Starbucks baristas behind the counter, late 1980s-early 1990s"
+      "photo_hint": "Starbucks baristas behind the counter, late 1980s-early 1990s",
+      "value": "회사 가치 약 1,000만 달러(추정)"
     },
     {
       "index": "07 · 정점",
@@ -99,7 +105,8 @@
         "지분 12%를 팔아 모은 약 2,500만 달러로 매장 수를 두 배로 늘렸다.",
         "2000년 6월 CEO를 내려놓고 의장으로 물러났다."
       ],
-      "photo_hint": "Starbucks IPO 1992, or Howard Schultz portrait early 1990s"
+      "photo_hint": "Starbucks IPO 1992, or Howard Schultz portrait early 1990s",
+      "value": "회사 가치 약 2억 7,000만 달러(상장 첫날)"
     },
     {
       "index": "08 · 위기",
@@ -111,7 +118,8 @@
         "2008년 1월 CEO로 돌아온 그는 2월 26일 미국 매장 7,000여 곳을 3시간 닫고 에스프레소 만드는 법을 다시 가르쳤다.",
         "7월에는 실적이 나쁜 직영 매장 600곳을 닫겠다고 발표했다."
       ],
-      "photo_hint": "Starbucks store closed sign for espresso training, February 26 2008, or Schultz 2008"
+      "photo_hint": "Starbucks store closed sign for espresso training, February 26 2008, or Schultz 2008",
+      "value": "회사 가치 약 120억 달러"
     },
     {
       "index": "09 · 정점",
@@ -122,7 +130,8 @@
         "2017년 CEO에서 물러났다가 2022년 3월 임시 CEO로 세 번째 돌아왔다.",
         "2022 회계연도 매출은 322억 달러였고, 그해 11월 매장은 80개국 3만 5,711곳이었다."
       ],
-      "photo_hint": "Howard Schultz portrait 2022, or Starbucks store 2022"
+      "photo_hint": "Howard Schultz portrait 2022, or Starbucks store 2022",
+      "value": "회사 가치 약 900억 달러"
     },
     {
       "index": "10 · 떠날 때",
@@ -161,5 +170,5 @@
       "photo_hint": "Howard Schultz portrait (person photo for the closing slide)"
     }
   ],
-  "caption": "스타벅스를 커피 체인으로 만든 사람은 창업자가 아니었어요.\n\n하워드 슐츠는 주방용품을 팔다 시애틀의 원두 가게 스타벅스에 들어갔고, 밀라노 커피 바를 보고 음료 매장을 제안했다 거절당했어요. 투자자 217명에게 거절당하면서도 자기 커피 바를 열었고, 1987년 스타벅스를 사들였어요. 매장이 흐려지자 CEO로 돌아와 7천여 매장을 닫고 다시 가르쳤고, 세 번 CEO를 맡은 뒤 2023년 물러났어요.\n\n🔗 스타벅스 시리즈. 원두 가게 스타벅스를 세운 제리 볼드윈 이야기는 #18에서 볼 수 있어요.\n\n💬 스타벅스에서 가장 자주 마시는 음료는 무엇인가요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Howard Schultz / Starbucks\n- UPI, Starbucks closes for training (2008.02.26)\n- CNBC, Starbucks CEO Laxman Narasimhan takes over from Howard Schultz (2023.03.20)\n\n#기업집중탐구 #하워드슐츠 #스타벅스 #Starbucks #커피 #창업 #창업스토리 #스타트업 #자기계발"
+  "caption": "스타벅스를 커피 체인으로 만든 사람은 창업자가 아니었어요.\n\n하워드 슐츠는 주방용품을 팔다 시애틀의 원두 가게 스타벅스에 들어갔고, 밀라노 커피 바를 보고 음료 매장을 제안했다 거절당했어요. 투자자 217명에게 거절당하면서도 자기 커피 바를 열었고, 1987년 스타벅스를 사들였어요. 매장이 흐려지자 CEO로 돌아와 7천여 매장을 닫고 다시 가르쳤고, 세 번 CEO를 맡은 뒤 2023년 물러났어요.\n\n🔗 스타벅스 시리즈. 원두 가게 스타벅스를 세운 제리 볼드윈 이야기는 #18에서 볼 수 있어요.\n\n💬 스타벅스에서 가장 자주 마시는 음료는 무엇인가요? 댓글로 알려 주세요.\n\n📌 저장해 두고 다음 편도 확인하세요.\n\n출처\n- Wikipedia, Howard Schultz / Starbucks\n- UPI, Starbucks closes for training (2008.02.26)\n- CNBC, Starbucks CEO Laxman Narasimhan takes over from Howard Schultz (2023.03.20)\n- 장별 회사 가치: 1986년 Il Giornale 모은 투자금, 1987년 Starbucks 인수가, 1992년 상장 첫날 시가총액, 2008·2022년 시가총액\n\n#기업집중탐구 #하워드슐츠 #스타벅스 #Starbucks #커피 #창업 #창업스토리 #스타트업 #자기계발"
 }
