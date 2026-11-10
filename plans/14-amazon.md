@@ -8,7 +8,7 @@
 
 📷 **Photo:** Jeff Bezos portrait (late 1990s, ideally with stacks of books or at the garage office; cover Amazon logo sticker is cut from the last slide's logo)
 
-**제목:** 차고에서 Amazon을 만들다
+**제목:** 차고에서 Amazon을 만들기까지
 
 기업집중탐구 #14
 
@@ -205,7 +205,7 @@
 
 ## 설명란 (캡션)
 
-차고에서 Amazon을 만들다.
+차고에서 Amazon을 만들기까지.
 
 제프 베이조스는 인터넷이 한 해 2,300%씩 자란다는 숫자를 보고 월가를 나왔어요. 어떤 서점도 다 갖출 수 없는 '모든 책'을 온라인에 올리고, 독자 서평과 제휴 링크로 돈을 덜 들이고 손님을 모았어요. 주가가 90% 떨어진 위기에도 값을 더 내렸어요. 책에서 음악·전자제품, 다른 판매자의 물건까지 파는 물건을 늘렸고, 배송비를 없앤 Prime, 자기 서버를 상품으로 판 AWS로 Amazon은 1조 달러 회사가 됐어요.
 
