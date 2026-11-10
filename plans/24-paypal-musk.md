@@ -107,7 +107,7 @@ Confinity는 맥스 레브친과 피터 틸이 세운 회사로, 같은 동네�
 
 📷 **Photo:** Max Levchin and PayPal engineers around 2000 / Windows vs Unix (or PayPal fraud team)
 
-**제목:** 윈도우를 고집하다 개발자들과 부딪치다
+**제목:** 윈도우를 고집하다 컨피니티 팀과의 갈등
 
 가입자가 늘면서 남의 카드로 돈을 빼 가는 사기도 늘어, 한때 한 달에 1,000만 달러 넘게 잃었다.
 
