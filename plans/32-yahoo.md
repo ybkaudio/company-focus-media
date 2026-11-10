@@ -166,5 +166,6 @@ Yahoo는 대학원생 두 명의 즐겨찾기 목록이었어요.
 - TechSpot, What Went Wrong With Yahoo!? (2023)
 - Christian Science Monitor, Jerry Yang leaves Yahoo in surprise departure (2012.01.17)
 - Phys.org (AP), Yahoo! co-founder Jerry Yang resigns, shares jump (2012.01)
+- 장별 회사 가치: 1995년 Sequoia 투자(200만 달러에 약 25%), 1996년 상장 첫날 시가총액, 1999년 이후는 해당 시점 시가총액
 
 #기업집중탐구 #제리양 #야후 #Yahoo #포털 #창업 #창업스토리 #스타트업 #자기계발

@@ -198,5 +198,6 @@ PayPal을 처음 CEO로 이끈 사람은 머스크가 아니었어요.
 - Fox Business, Elon Musk was dethroned by Peter Thiel in a coup (2023, Isaacson 전기 인용)
 - Encyclopedia.com, PayPal Inc. (International Directory of Company Histories)
 - CNN Money, PayPal IPO: Best first day (2002.02.15) / eBay to buy PayPal (2002.07.08)
+- 장별 회사 가치: 1998~2001년은 투자 라운드 규모로 셈한 추정(2000년 1억 달러 유치 때 약 5억 달러), 2002년은 상장 첫날 시가총액
 
 #기업집중탐구 #페이팔마피아 #피터틸 #페이팔 #PayPal #창업 #창업스토리 #스타트업 #자기계발

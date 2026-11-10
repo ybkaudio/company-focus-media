@@ -215,5 +215,6 @@ Google은 팔리지 않아서 살아남은 회사였어요.
 - Bloomberg, Google Ends Its Motorola Misadventure (2014.01.29)
 - CNN, Google co-founders step down (2019.12.04)
 - Palo Alto Daily Post (AP), Page and Brin stepping down (2019.12.03)
+- 장별 회사 가치: 1999년 Excite 매각 제안가 약 100만 달러, 1999년 6월 투자 라운드(2,500만 달러) 기준, 2004년 이후는 시가총액
 
 #기업집중탐구 #래리페이지 #세르게이브린 #구글 #Google #검색 #창업 #창업스토리 #스타트업 #자기계발

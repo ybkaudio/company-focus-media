@@ -149,5 +149,6 @@
 - Restaurant Business, Pizza Hut co-founder Frank Carney dies at age 82 (2020.12)
 - Nation's Restaurant News, Pizza Hut cofounder Frank Carney dies at 82 (2020.12)
 - Wikipedia, Dan and Frank Carney / KMUW, Pizza Hut co-founder Frank Carney dies (어머니에게 빌린 600달러)
+- 장별 회사 가치: 1958년은 창업 자금 600달러, 1959~1971년은 매장 수와 상장 규모로 셈한 추정, 1977년은 PepsiCo 인수가
 
 #기업집중탐구 #프랭크카니 #피자헛 #PizzaHut #창업 #프랜차이즈 #창업스토리 #자기계발

@@ -195,5 +195,6 @@ Elliott과 합의한 성장 목표에 다가서는 숫자였다.
 - The Motley Fool, Interesting numbers from Twitter's IPO (2013.11.08)
 - Al Jazeera, Dorsey steps down as Twitter CEO (2021.11.29)
 - Business Insider, Twitter market value jumps on Dorsey news (2021.11.29)
+- 장별 회사 가치: Twitter는 투자 라운드 기준과 상장 이후 시가총액, Square 장은 2009·2010년 Square 투자 라운드 기준
 
 #기업집중탐구 #잭도시 #트위터 #Twitter #스퀘어 #Square #창업 #창업스토리 #스타트업 #자기계발

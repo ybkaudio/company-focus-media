@@ -231,5 +231,6 @@ Netflix를 처음 CEO로 이끈 사람은 리드 헤이스팅스가 아니었어
 - Netflix 보도자료, Netflix is now available around the world (2016.01.06)
 - Digital TV Europe·MarketBeat, Hastings steps down as CEO (2023.01)
 - Interesting Engineering, The fascinating history of Netflix (헤이스팅스 250만 달러)
+- 장별 회사 가치: 1997년 헤이스팅스 투자금, 2000년 Blockbuster 매각 제안가, 2002년 이후 시가총액
 
 #기업집중탐구 #리드헤이스팅스 #넷플릭스 #Netflix #스트리밍 #창업 #창업스토리 #스타트업 #자기계발

@@ -163,5 +163,6 @@
 - Wikipedia, Howard Schultz / Starbucks
 - UPI, Starbucks closes for training (2008.02.26)
 - CNBC, Starbucks CEO Laxman Narasimhan takes over from Howard Schultz (2023.03.20)
+- 장별 회사 가치: 1986년 Il Giornale 모은 투자금, 1987년 Starbucks 인수가, 1992년 상장 첫날 시가총액, 2008·2022년 시가총액
 
 #기업집중탐구 #하워드슐츠 #스타벅스 #Starbucks #커피 #창업 #창업스토리 #스타트업 #자기계발

@@ -175,5 +175,6 @@ Android는 원래 디지털카메라용 운영체제였어요.
 - TechCrunch, Larry Page says there have now been 750M Android activations (2013.03.13)
 - Google 블로그, Update from the CEO (2013.03.13)
 - The New York Times, How Google protected Andy Rubin (2018.10)
+- 장별 회사 가치: 2005년 Google 인수가 약 5천만 달러. 인수 뒤 Android는 Google 사업부라 따로 표시하지 않음
 
 #기업집중탐구 #앤디루빈 #안드로이드 #Android #구글 #스마트폰 #창업 #창업스토리 #스타트업 #자기계발

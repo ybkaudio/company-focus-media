@@ -184,5 +184,6 @@ KFC 할아버지는 66세에 받은 연금 105달러로 다시 영업에 나섰�
 출처
 - Wikipedia, Colonel Sanders / History of KFC
 - AAP FactCheck, Barely a nugget of truth in Colonel Sanders rags-to-riches meme (자서전 인용)
+- 장별 회사 가치: 가맹 사업을 시작한 1952년부터 표시. 식당 매각가(1956년 7만 5천 달러)와 1964년 매각가 200만 달러 사이를 매장 수로 나눠 셈한 추정
 
 #기업집중탐구 #할랜드샌더스 #커널샌더스 #KFC #케이에프씨 #프랜차이즈 #창업 #창업스토리 #자기계발

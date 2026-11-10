@@ -196,5 +196,6 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 - Dan Bricklin, Bricklin on Technology: How Blogging Helped Blogger
 - TechCrunch, The Three Reasons Twitter Didn't Sell To Facebook (2013.11.04)
 - UPI, Twitter CEO steps aside (2010.10.04)
+- 장별 회사 가치: Odeo는 2006년 되산 값 약 500만 달러, Twitter는 2007·2008·2009년 투자 라운드 기준, 2008년은 Facebook 주식 제안가
 
 #기업집중탐구 #에번윌리엄스 #트위터 #Twitter #블로거 #Blogger #창업 #창업스토리 #스타트업 #자기계발
