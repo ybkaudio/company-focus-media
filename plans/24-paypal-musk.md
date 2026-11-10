@@ -8,7 +8,7 @@
 
 📷 **Photo:** Elon Musk at X.com / PayPal around 1999-2000 (new cover photo) / COVER LOGO: PayPal logo as a transparent PNG (기존 title-logo.png 사용 가능)
 
-**제목:** 첫 회사 판 돈으로 시작한 온라인 은행
+**제목:** 일론 머스크의 페이팔 이야기
 
 기업집중탐구 #24
 
