@@ -94,7 +94,7 @@ Federal Express는 미국 한가운데에 있고 날씨로 비행이 끊기는 �
 
 📷 **Photo:** Federal Express sorting hub workers handling packages, 1970s
 
-**제목:** 격납고에서 밤새 화물을 각 도시로 보내다
+**제목:** 밤새 화물을 미국 각 도시로 보내다
 
 첫날 밤 이후 매일 밤 멤피스 격납고에서 화물을 나눠 각 도시로 보냈다.
 
