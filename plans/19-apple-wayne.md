@@ -6,7 +6,7 @@
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Ronald Wayne portrait (ideally holding the 1976 Apple partnership agreement or the first Apple logo; cover Apple logo sticker is cut from the last slide's logo)
+📷 **Photo:** Ronald Wayne in front of an Apple Store (Apple logo is in the photo, so no logo sticker)
 
 **제목:** 12일 만에 Apple을 떠난 세 번째 창업자
 
@@ -87,18 +87,29 @@ Apple I 사용 설명서도 그가 썼다.
 - **8,000달러** — 회사 가치 (웨인의 10% 지분값으로 셈한 1976년)
 - **12일** — 창업부터 떠날 때까지
 
-동업 회사는 빚을 동업자 각자가 갚아야 했고, 집과 재산이 있는 사람은 셋 중 웨인뿐이었다.
+동업 회사의 빚은 동업자 각자가 갚아야 했고, 셋 중 집과 재산이 있는 사람은 웨인뿐이었다.
 
-외상으로 산 부품값이 잘못되면 자기 재산이 날아갈 수 있었다.
-
-슬롯머신 실패를 겪은 그는 1976년 4월 12일 800달러를 받고 지분을 넘겼고, 이듬해 1,500달러를 더 받고 모든 권리를 포기했다.
-
-그가 500달러에 판 창업 계약서는 2011년 경매에서 약 159만 달러에 팔렸다.
+슬롯머신 실패를 겪은 그는 외상 부품값에 재산을 잃을까 봐 12일 만에 800달러를 받고 지분을 넘겼다.
 
 
-## 08.jpg · 마무리
+## 08.jpg · 07 · 대가
 
-📷 **Photo:** Apple logo on a dark background (the cover sticker is cut from this too)
+📷 **Photo:** Ronald Wayne portrait in later years (dark background)
+
+**제목:** 빚 걱정에 판 10%, 가장 비싼 실수가 되다
+
+이듬해 그는 1,500달러를 더 받고 Apple에 대한 모든 권리를 포기했다.
+
+Apple은 1980년 12월 상장 첫날 회사 가치가 약 18억 달러가 됐고, 2018년 처음으로 1조 달러를 넘었다.
+
+빚을 피하려던 결정은 회사가 커질 때 받을 몫까지 함께 버린 결정이었다.
+
+그가 직접 쓴 창업 계약서는 2011년 경매에서 약 159만 달러에 팔렸다.
+
+
+## 09.jpg · 마무리
+
+📷 **Photo:** Ronald Wayne portrait (person photo for the closing slide)
 
 **제목:** Apple의 첫 그림을 그린 사람
 
@@ -113,7 +124,7 @@ Apple I 사용 설명서도 그가 썼다.
 
 12일 만에 Apple을 떠난 세 번째 창업자.
 
-로널드 웨인은 Atari에서 만난 스티브 잡스, 스티브 워즈니악과 함께 Apple을 세우고 지분 10%를 받았어요. 동업 계약서를 쓰고 첫 로고를 그렸지만, 첫 주문을 위해 외상으로 부품을 들이자 빚을 함께 질까 봐 12일 만에 800달러에 지분을 넘겼어요.
+로널드 웨인은 Atari에서 만난 스티브 잡스, 스티브 워즈니악과 함께 Apple을 세우고 지분 10%를 받았어요. 동업 계약서를 쓰고 첫 로고를 그렸지만, 첫 주문을 위해 외상으로 부품을 들이자 빚을 함께 질까 봐 12일 만에 800달러에 지분을 넘겼어요. 빚을 피하려던 그 결정은 훗날 가장 비싼 실수로 남았어요.
 
 🔗 함께 Apple을 세운 스티브 잡스 이야기는 #01에서 볼 수 있어요.
 
@@ -124,6 +135,7 @@ Apple I 사용 설명서도 그가 썼다.
 출처
 - Wikipedia, Ronald Wayne / Apple I
 - The Register, Apple founding contracts sale (2011.12.14)
+- Wikipedia, Apple Inc. (1980 상장, 2018 시가총액 1조 달러)
 - KQED, Sotheby's auctioning Apple Computer's founding contract
 
 #기업인집중탐구 #로널드웨인 #애플 #Apple #창업 #창업스토리 #스티브잡스 #자기계발
