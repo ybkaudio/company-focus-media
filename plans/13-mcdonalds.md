@@ -115,7 +115,7 @@
 
 📷 **Photo:** Ray Kroc in the 1970s (or a McDonald's restaurant abroad in the 1970s, e.g. Canada/Tokyo)
 
-**제목:** 레이 크록, 글로벌 프랜차이즈로 만들다
+**제목:** 레이 크록이 만든 글로벌 프랜차이즈
 
 형제는 첫 가게를 지켰지만 이름을 넘겨 '빅 엠'으로 바꿔야 했고, 근처에 McDonald's가 들어선 뒤 문을 닫았다.
 
