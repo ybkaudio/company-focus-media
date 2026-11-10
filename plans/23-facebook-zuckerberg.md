@@ -8,7 +8,7 @@
 
 📷 **Photo:** Mark Zuckerberg in his Harvard dorm room, 2004 (the dorm photo you sent for #22 works; well-known founder, so no logo sticker)
 
-**제목:** 기숙사에서 시작된 하루 36억 명의 Meta
+**제목:** 기숙사에서 시작된 1조 달러의 대기업
 
 기업집중탐구 #23
 
