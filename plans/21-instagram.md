@@ -8,7 +8,7 @@
 
 📷 **Photo:** Kevin Systrom portrait around 2012 (Instagram CEO period)
 
-**제목:** 체크인 앱에서 시작한 10억 명의 사진 앱
+**제목:** 사진 공유 앱, 10억 명의 취향이 되다
 
 기업집중탐구 #21
 
