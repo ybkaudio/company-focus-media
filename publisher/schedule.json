@@ -13,7 +13,7 @@
   "folder": "posts/11-zip2-final",
   "episode": "#11 일론 머스크 · Zip2",
   "count": 12,
-  "first_line": "스탠퍼드 대학원 합격증을 두고,",
+  "first_line": "머스크의 첫 회사, Zip2.",
   "music": "Wonderwall – Oasis (Zip2를 세운 1995년의 히트곡) / 없으면 인스타 음악 검색어 '90s britpop'",
   "comment": "합격한 대학원에 등록도 안 하고 창업. 여러분이라면 한다?",
   "poll": [
@@ -39,107 +39,155 @@
   "folder": "posts/13-mcdonalds-final",
   "episode": "#13 맥도날드 형제 · McDonald's",
   "count": 10,
-  "first_line": "햄버거 공장을 세운 형제, McDonald's를 만들다.",
+  "first_line": "맥도날드를 만든 건 레이 크록이 아니었습니다.",
   "music": "Rock Around the Clock – Bill Haley & His Comets (크록이 찾아온 1954년 곡) / 없으면 검색어 '50s rock and roll'",
-  "comment": "내가 형제였다면 270만 달러에 팔았을까요? 댓글로 알려 주세요."
+  "comment": "악수로만 남은 로열티 약속, 해마다 3억 달러짜리였네요. 여러분이라면 판다?",
+  "poll": [
+   "예",
+   "아니요"
+  ]
  },
  {
   "at": "2026-11-12T16:00:00+09:00",
   "folder": "posts/14-amazon-final",
   "episode": "#14 제프 베이조스 · Amazon",
   "count": 14,
-  "first_line": "차고에서 시작한 세계 최대 인터넷 쇼핑몰.",
+  "first_line": "차고에서 책을 팔던 회사.",
   "music": "Smells Like Teen Spirit – Nirvana (Amazon이 태어난 90년대 시애틀의 소리) / 없으면 검색어 '90s grunge'",
-  "comment": "Amazon에서 처음 산 물건, 기억나세요? 댓글로 알려 주세요."
+  "comment": "아들이 직접 '잃을 확률 70%'라고 했는데도 노후 자금을 넣은 부모님. 여러분이라면 넣는다?",
+  "poll": [
+   "예",
+   "아니요"
+  ]
  },
  {
   "at": "2026-11-13T00:00:00+09:00",
   "folder": "posts/15-nike-knight-final",
   "episode": "#15 필 나이트 · Nike",
   "count": 13,
-  "first_line": "나이키 키워냄 청년.",
+  "first_line": "자동차 트렁크에 운동화를 싣고 다니던 회계사.",
   "music": "Eye of the Tiger – Survivor (Nike가 커 가던 1982년 곡, 첫 수입 운동화 '타이거'와도 이어짐) / 없으면 검색어 'workout 80s'",
-  "comment": "처음 산 Nike 신발, 기억나세요? 댓글로 알려 주세요."
+  "comment": "적자 난 해에 아직 NBA 경기도 안 뛴 신인에게 250만 달러. 여러분이라면 건다?",
+  "poll": [
+   "예",
+   "아니요"
+  ]
  },
  {
   "at": "2026-11-13T08:00:00+09:00",
   "folder": "posts/16-hyundai-final",
   "episode": "#16 정주영 · 현대",
   "count": 18,
-  "first_line": "소 판 돈 들고 가출한 소년, 89조 기업을 들고 돌아오다.",
+  "first_line": "아버지가 소 판 돈 70원을 들고 집을 나온 소년.",
   "music": "Hall of Fame – The Script ft. will.i.am (밑바닥에서 정상까지 가는 가사) / 없으면 검색어 'epic motivation'",
-  "comment": "'이봐, 해봤어?' 하고 밀어붙인 경험, 있으세요? 댓글로 알려 주세요."
+  "comment": "지어 본 적도 없는 배를 먼저 팔고 조선소를 지은 사람. 여러분이라면 한다?",
+  "poll": [
+   "예",
+   "아니요"
+  ]
  },
  {
   "at": "2026-11-13T16:00:00+09:00",
   "folder": "posts/17-samsung-final",
   "episode": "#17 이병철 · 삼성",
   "count": 12,
-  "first_line": "국수 공장 주인이 삼성을 세우기까지.",
+  "first_line": "빚으로 산 땅 200만 평을 1년 만에 모두 잃은 스물일곱.",
   "music": "Viva la Vida – Coldplay (한 시대를 이끈 사람을 노래하는 웅장한 곡) / 없으면 검색어 'cinematic piano'",
-  "comment": "늦은 나이에 새로 시작한 일, 있으세요? 댓글로 알려 주세요."
+  "comment": "73세에 아무도 안 된다던 반도체에 회사를 건 결정. 여러분이라면 한다?",
+  "poll": [
+   "예",
+   "아니요"
+  ]
  },
  {
   "at": "2026-11-14T00:00:00+09:00",
   "folder": "posts/18-starbucks-final",
   "episode": "#18 제리 볼드윈 · 스타벅스",
   "count": 10,
-  "first_line": "시애틀에서 시작한 한 원두 가게가 스타벅스가 되기까지.",
+  "first_line": "스타벅스를 세운 사람은 하워드 슐츠가 아니었습니다.",
   "music": "Banana Pancakes – Jack Johnson (느긋한 카페 분위기) / 없으면 검색어 'coffee shop acoustic'",
-  "comment": "스타벅스에서 가장 좋아하는 메뉴는? 댓글로 알려 주세요."
+  "comment": "3만 8,000곳 매장이 된 회사를 넘기고 원두 가게를 지킨 창업자. 여러분이라면 지킨다?",
+  "poll": [
+   "예",
+   "아니요"
+  ]
  },
  {
   "at": "2026-11-14T08:00:00+09:00",
   "folder": "posts/19-apple-wayne-final",
   "episode": "#19 로널드 웨인 · Apple",
   "count": 9,
-  "first_line": "12일 만에 Apple을 떠난 세 번째 창업자.",
+  "first_line": "Apple 지분 10%를 800달러에 판 사람.",
   "music": "Don't Look Back in Anger – Oasis (지난 선택을 돌아보지 말자는 가사) / 없으면 검색어 'britpop'",
-  "comment": "여러분이라면 그때 남았을까요? 댓글로 알려 주세요."
+  "comment": "800달러에 판 10%, 1조 달러 회사의 10%였네요. 그래도 여러분이라면 판다?",
+  "poll": [
+   "예",
+   "아니요"
+  ]
  },
  {
   "at": "2026-11-14T16:00:00+09:00",
   "folder": "posts/20-twitter-final",
   "episode": "#20 노아 글래스 · Twitter",
   "count": 10,
-  "first_line": "Twitter를 만들었는데.. 쫓겨났다?",
+  "first_line": "'Twitter'라는 이름을 지은 사람.",
   "music": "Creep – Radiohead (소외된 사람의 노래) / 없으면 검색어 'sad indie'",
-  "comment": "여러분의 첫 트윗은 무엇이었나요? 댓글로 알려 주세요."
+  "comment": "이름까지 지어 놓고 공개한 달에 해고. 여러분이라면 다시 창업한다?",
+  "poll": [
+   "예",
+   "아니요"
+  ]
  },
  {
   "at": "2026-11-15T00:00:00+09:00",
   "folder": "posts/21-instagram-final",
   "episode": "#21 케빈 시스트롬 · Instagram",
   "count": 15,
-  "first_line": "체크인 앱에서 시작한 10억 명의 사진 앱.",
+  "first_line": "직원 13명, 출시 1년 반.",
   "music": "Hey Ya! – OutKast ('Polaroid 사진처럼 흔들어' 가사, Instagram 이름의 instant camera와 연결) / 없으면 검색어 'polaroid'",
-  "comment": "여러분이 Instagram에 처음 올린 사진은 무엇이었나요? 댓글로 알려 주세요."
+  "comment": "직원 13명이 만든 앱이 6년 만에 100배. 그래도 여러분이라면 10억 달러에 판다?",
+  "poll": [
+   "예",
+   "아니요"
+  ]
  },
  {
   "at": "2026-11-15T08:00:00+09:00",
   "folder": "posts/22-facebook-final",
   "episode": "#22 에두아르도 세버린 · Facebook",
   "count": 9,
-  "first_line": "Facebook에 첫 돈을 댄 공동 창업자는 어떻게 회사에서 밀려났을까요?",
+  "first_line": "Facebook에 첫 1,000달러를 낸 공동 창업자.",
   "music": "Baby, You're a Rich Man – The Beatles (그의 이야기를 다룬 영화 '소셜 네트워크' 마지막 곡) / 없으면 검색어 'the social network'",
-  "comment": "친구와 동업한다면 무엇을 먼저 정하시겠어요? 댓글로 알려 주세요."
+  "comment": "1,000달러로 30%를 받고도 1년 만에 밀려난 공동 창업자. 여러분이라면 친구와 동업한다?",
+  "poll": [
+   "예",
+   "아니요"
+  ]
  },
  {
   "at": "2026-11-15T16:00:00+09:00",
   "folder": "posts/23-facebook-zuckerberg-final",
   "episode": "#23 마크 저커버그 · Facebook",
   "count": 19,
-  "first_line": "기숙사 방의 사이트는 어떻게 하루 36억 명이 쓰는 회사가 됐을까요?",
+  "first_line": "Yahoo의 10억 달러 제안을 거절한 22살.",
   "music": "Hand Covers Bruise – Trent Reznor & Atticus Ross (영화 '소셜 네트워크' 테마) / 없으면 검색어 'the social network'",
-  "comment": "Yahoo의 10억 달러 제안, 여러분이라면 받았을까요? 댓글로 알려 주세요."
+  "comment": "22살에 10억 달러를 거절하고, 경영진이 떠나도 버틴 결정. 여러분이라면 거절한다?",
+  "poll": [
+   "예",
+   "아니요"
+  ]
  },
  {
   "at": "2026-11-16T00:00:00+09:00",
   "folder": "posts/24-paypal-musk-final",
   "episode": "#24 일론 머스크 · PayPal",
   "count": 12,
-  "first_line": "Zip2를 판 돈으로 시작한 온라인 은행, PayPal.",
+  "first_line": "신혼여행 비행기에 탄 사이, 자기 회사 CEO 자리를 잃었습니다.",
   "music": "Harder, Better, Faster, Stronger – Daft Punk (닷컴 시절의 속도감) / 없으면 검색어 'electronic upbeat'",
-  "comment": "경쟁사와 합치는 것, 여러분이라면 할 수 있을까요? 댓글로 의견을 남겨 주세요."
+  "comment": "CEO 자리를 잃고도 최대 주주로 남아 1억 7,580만 달러. 여러분이라면 경쟁사와 합친다?",
+  "poll": [
+   "예",
+   "아니요"
+  ]
  }
 ]
