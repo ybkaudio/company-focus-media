@@ -208,10 +208,6 @@ Stories 사용자는 두 달 만에 1억 명, 2017년 4월 2억 명이 되며 Sn
 
 🔗 Facebook 시리즈. Instagram을 사들인 마크 저커버그 이야기는 #23, Facebook 공동 창업자 에두아르도 세버린 이야기는 #22에서 볼 수 있어요.
 
-💬 여러분이 Instagram에 처음 올린 사진은 무엇이었나요? 댓글로 알려 주세요.
-
-📌 저장해 두고 다음 편도 확인하세요.
-
 출처
 - Wikipedia, Kevin Systrom / Instagram
 - Business Insider, Kevin Systrom is leaving Instagram: how he sold the app to Facebook for $1 billion (2018.09)
@@ -220,3 +216,7 @@ Stories 사용자는 두 달 만에 1억 명, 2017년 4월 2억 명이 되며 Sn
 - 장별 회사 가치: 2010년 시드 50만 달러는 지분 약 20%로 셈한 추정, 2012년 4월 투자 기준 5억 달러, Facebook 인수가 10억 달러, 2014년 Citi 추정 350억 달러(Fortune·Time), 2018년 블룸버그 인텔리전스 추정
 
 #기업집중탐구 #케빈시스트롬 #인스타그램 #Instagram #창업 #창업스토리 #스타트업 #자기계발
+
+## 첫 댓글 (게시 후 우리 계정이 직접 닮)
+
+여러분이 Instagram에 처음 올린 사진은 무엇이었나요? 댓글로 알려 주세요.

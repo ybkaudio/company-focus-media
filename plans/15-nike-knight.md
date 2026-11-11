@@ -199,10 +199,6 @@ Nike를 세운 두 사람 중, #05의 코치 빌 바워만에 이은 나머지 �
 
 🔗 함께 회사를 세운 코치 빌 바워만 이야기는 #05에서 볼 수 있어요.
 
-💬 처음 산 Nike 신발, 기억나세요? 댓글로 알려 주세요.
-
-📌 저장해 두고 다음 편도 확인하세요.
-
 출처
 - Wikipedia, Phil Knight / Air Jordan
 - Nike, The Handshake That Started It All
@@ -222,3 +218,7 @@ Nike를 세운 두 사람 중, #05의 코치 빌 바워만에 이은 나머지 �
 - HISTORY, Nike patent: waffle sole trainers invented in waffle iron
 
 #기업집중탐구 #필나이트 #나이키 #Nike #창업 #창업스토리 #스타트업 #자기계발
+
+## 첫 댓글 (게시 후 우리 계정이 직접 닮)
+
+처음 산 Nike 신발, 기억나세요? 댓글로 알려 주세요.

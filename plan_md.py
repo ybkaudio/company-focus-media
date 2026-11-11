@@ -42,6 +42,8 @@ def main(path):
                 out.append("")
         out.append("")
     out += ["---", "", "## 설명란 (캡션)", "", ep["caption"].strip(), ""]
+    if ep.get("first_comment"):
+        out += ["## 첫 댓글 (게시 후 우리 계정이 직접 닮)", "", ep["first_comment"].strip(), ""]
     dst = pathlib.Path("plans") / f"{path.stem}.md"
     dst.parent.mkdir(exist_ok=True)
     dst.write_text("\n".join(out))

@@ -149,10 +149,6 @@
 
 🔗 McDonald's 시리즈. 형제에게서 회사를 사들여 세계로 키운 레이 크록 이야기는 #38에서 이어져요.
 
-💬 내가 형제였다면 270만 달러에 팔았을까요? 댓글로 알려 주세요.
-
-📌 저장해 두고 다음 편도 확인하세요.
-
 출처
 - Wikipedia, Richard and Maurice McDonald / History of McDonald's / Ray Kroc
 - History.com, The first McDonald's started slow but caught on fast
@@ -165,3 +161,7 @@
 - 장별 회사 가치: 형제의 식당은 비상장이라 본문의 연 매출 1배로 추정하고, 1961년은 크록에게 판 값
 
 #기업집중탐구 #맥도날드형제 #맥도날드 #McDonalds #창업 #창업스토리 #스타트업 #자기계발
+
+## 첫 댓글 (게시 후 우리 계정이 직접 닮)
+
+내가 형제였다면 270만 달러에 팔았을까요? 댓글로 알려 주세요.

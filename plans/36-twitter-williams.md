@@ -187,10 +187,6 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 
 🔗 Twitter 시리즈. Twitter라는 이름을 지은 노아 글래스 이야기는 #20, 첫 트윗을 올린 잭 도시 이야기는 #37에서 이어져요.
 
-💬 블로그와 Twitter 중 무엇을 먼저 써 봤나요? 댓글로 알려 주세요.
-
-📌 저장해 두고 다음 편도 확인하세요.
-
 출처
 - Wikipedia, Evan Williams / Pyra Labs / History of Twitter
 - Dan Bricklin, Bricklin on Technology: How Blogging Helped Blogger
@@ -199,3 +195,7 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 - 장별 회사 가치: Odeo는 2006년 되산 값 약 500만 달러, Twitter는 2007·2008·2009년 투자 라운드 기준, 2008년은 Facebook 주식 제안가
 
 #기업집중탐구 #에번윌리엄스 #트위터 #Twitter #블로거 #Blogger #창업 #창업스토리 #스타트업 #자기계발
+
+## 첫 댓글 (게시 후 우리 계정이 직접 닮)
+
+블로그와 Twitter 중 무엇을 먼저 써 봤나요? 댓글로 알려 주세요.

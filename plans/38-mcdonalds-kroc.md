@@ -172,10 +172,6 @@ McDonald's를 세계로 키운 사람은 52살 믹서 판매원이었어요.
 
 🔗 패스트푸드 시리즈. 그에게 회사를 판 맥도날드 형제 이야기는 #13, KFC는 #28, Pizza Hut은 #29에서 볼 수 있어요.
 
-💬 McDonald's에서 가장 좋아하는 메뉴는 무엇인가요? 댓글로 알려 주세요.
-
-📌 저장해 두고 다음 편도 확인하세요.
-
 출처
 - Wikipedia, Ray Kroc / History of McDonald's
 - International Directory of Company Histories, McDonald's Corporation (FundingUniverse)
@@ -183,3 +179,7 @@ McDonald's를 세계로 키운 사람은 52살 믹서 판매원이었어요.
 - 장별 회사 가치: 1955~1962년은 매장 수와 1961년 인수 대금 270만 달러로 셈한 추정, 1965년 이후는 시가총액 추정
 
 #기업집중탐구 #레이크록 #맥도날드 #McDonalds #프랜차이즈 #창업 #창업스토리 #스타트업 #자기계발
+
+## 첫 댓글 (게시 후 우리 계정이 직접 닮)
+
+McDonald's에서 가장 좋아하는 메뉴는 무엇인가요? 댓글로 알려 주세요.

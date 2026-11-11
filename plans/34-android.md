@@ -165,10 +165,6 @@ Android는 원래 디지털카메라용 운영체제였어요.
 
 🔗 검색 시리즈. Android를 산 Google 이야기는 #33, Android 설계를 바꾸게 한 iPhone의 Apple 이야기는 #01에서 볼 수 있어요.
 
-💬 첫 스마트폰은 Android였나요, iPhone이었나요? 댓글로 알려 주세요.
-
-📌 저장해 두고 다음 편도 확인하세요.
-
 출처
 - Wikipedia, Andy Rubin / Android (operating system)
 - PhoneArena, Google spent just $50 million to buy Android (2014)
@@ -178,3 +174,7 @@ Android는 원래 디지털카메라용 운영체제였어요.
 - 장별 회사 가치: 2005년 Google 인수가 약 5천만 달러. 인수 뒤 Android는 Google 사업부라 따로 표시하지 않음
 
 #기업집중탐구 #앤디루빈 #안드로이드 #Android #구글 #스마트폰 #창업 #창업스토리 #스타트업 #자기계발
+
+## 첫 댓글 (게시 후 우리 계정이 직접 닮)
+
+첫 스마트폰은 Android였나요, iPhone이었나요? 댓글로 알려 주세요.

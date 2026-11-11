@@ -329,10 +329,6 @@ NASA 감사관실은 좌석당 비용을 약 5,500만 달러로 추산했다.
 
 🔗 PayPal 마피아 시리즈. PayPal을 거쳐 간 사람들이 그 뒤 세운 회사들을 이어서 다뤄요. 머스크가 이 돈을 번 PayPal 이야기는 #24, 같은 PayPal 출신 채드 헐리의 YouTube는 #10, 2008년 위기 때 SpaceX에 투자한 피터 틸 이야기는 #27, 머스크의 다른 회사 Tesla는 #26에서 볼 수 있어요.
 
-💬 여러분은 로켓 재사용 착륙 장면을 처음 봤을 때 어떠셨나요? 댓글로 알려 주세요.
-
-📌 저장해 두고 다음 편도 확인하세요.
-
 출처
 - The Space Review, SpaceX COTS demonstration plan (2006.09)
 - Wikipedia, History of SpaceX / Falcon 1 / Commercial Resupply Services / Initial public offering of SpaceX
@@ -346,3 +342,7 @@ NASA 감사관실은 좌석당 비용을 약 5,500만 달러로 추산했다.
 - Wikipedia, SpaceX / Gwynne Shotwell: 러시아 방문 동행, 초기 직원
 
 #기업집중탐구 #페이팔마피아 #일론머스크 #스페이스X #SpaceX #창업 #창업스토리 #스타트업 #자기계발
+
+## 첫 댓글 (게시 후 우리 계정이 직접 닮)
+
+여러분은 로켓 재사용 착륙 장면을 처음 봤을 때 어떠셨나요? 댓글로 알려 주세요.

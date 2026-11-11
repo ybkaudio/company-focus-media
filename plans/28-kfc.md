@@ -177,13 +177,13 @@ KFC 할아버지는 66세에 받은 연금 105달러로 다시 영업에 나섰�
 
 🔗 패스트푸드 시리즈. KFC는 1986년 PepsiCo에 인수돼 1977년 먼저 PepsiCo에 팔린 Pizza Hut과 한 식구가 됐고, 두 회사는 지금 Yum! Brands에 함께 있어요. Pizza Hut 이야기는 #29, 같은 시기 가맹점으로 커진 McDonald's 형제 이야기는 #13에서 볼 수 있어요.
 
-💬 KFC에서 가장 좋아하는 메뉴는 무엇인가요? 댓글로 알려 주세요.
-
-📌 저장해 두고 다음 편도 확인하세요.
-
 출처
 - Wikipedia, Colonel Sanders / History of KFC
 - AAP FactCheck, Barely a nugget of truth in Colonel Sanders rags-to-riches meme (자서전 인용)
 - 장별 회사 가치: 가맹 사업을 시작한 1952년부터 표시. 식당 매각가(1956년 7만 5천 달러)와 1964년 매각가 200만 달러 사이를 매장 수로 나눠 셈한 추정
 
 #기업집중탐구 #할랜드샌더스 #커널샌더스 #KFC #케이에프씨 #프랜차이즈 #창업 #창업스토리 #자기계발
+
+## 첫 댓글 (게시 후 우리 계정이 직접 닮)
+
+KFC에서 가장 좋아하는 메뉴는 무엇인가요? 댓글로 알려 주세요.

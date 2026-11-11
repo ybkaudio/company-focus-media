@@ -158,10 +158,6 @@ Google 계약은 사이트에 광고를 더 많이 붙이도록 요구했고, �
 
 🔗 SNS 시리즈. Myspace를 넘어선 Facebook 이야기는 #22 세버린·#23 저커버그, Facebook이 사들인 사진 SNS Instagram은 #21에서 볼 수 있어요.
 
-💬 Myspace를 써 본 적 있나요? 댓글로 알려 주세요.
-
-📌 저장해 두고 다음 편도 확인하세요.
-
 출처
 - Wikipedia, Tom Anderson / Myspace
 - Encyclopedia.com, Anderson, Tom and DeWolfe, Chris (Newsmakers)
@@ -170,3 +166,7 @@ Google 계약은 사이트에 광고를 더 많이 붙이도록 요구했고, �
 - 장별 회사 가치: 2005년 초 Redpoint 투자(1,150만 달러에 약 25%), 2005년 News Corp 인수가, 2006년 이후는 당시 업계 추정과 매출로 셈한 추정
 
 #기업집중탐구 #톰앤더슨 #마이스페이스 #Myspace #SNS #창업 #창업스토리 #스타트업 #자기계발
+
+## 첫 댓글 (게시 후 우리 계정이 직접 닮)
+
+Myspace를 써 본 적 있나요? 댓글로 알려 주세요.

@@ -185,10 +185,6 @@ Elliott과 합의한 성장 목표에 다가서는 숫자였다.
 
 🔗 Twitter 시리즈. Twitter라는 이름을 지은 노아 글래스는 #20, 그를 대신해 CEO가 된 에번 윌리엄스는 #36에서 볼 수 있어요.
 
-💬 회사에서 밀려났다가 돌아간다면 어떤 기분일까요? 댓글로 알려 주세요.
-
-📌 저장해 두고 다음 편도 확인하세요.
-
 출처
 - Wikipedia, Jack Dorsey / History of Twitter
 - St. Louis Public Radio, For Jim McKelvey, the path to success is clear as glass (2012.06)
@@ -198,3 +194,7 @@ Elliott과 합의한 성장 목표에 다가서는 숫자였다.
 - 장별 회사 가치: Twitter는 투자 라운드 기준과 상장 이후 시가총액, Square 장은 2009·2010년 Square 투자 라운드 기준
 
 #기업집중탐구 #잭도시 #트위터 #Twitter #스퀘어 #Square #창업 #창업스토리 #스타트업 #자기계발
+
+## 첫 댓글 (게시 후 우리 계정이 직접 닮)
+
+회사에서 밀려났다가 돌아간다면 어떤 기분일까요? 댓글로 알려 주세요.

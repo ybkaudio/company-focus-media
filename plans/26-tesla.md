@@ -218,10 +218,6 @@ Tesla를 세운 사람은 사실 일론 머스크가 아니었어요.
 
 🔗 PayPal 마피아 시리즈. 머스크가 이 투자금을 번 PayPal 이야기는 #24, 같은 해 파산 위기를 함께 넘긴 SpaceX는 #25, 같은 PayPal 출신 채드 헐리의 YouTube는 #10, PayPal 공동 창업자 피터 틸 이야기는 #27에서 볼 수 있어요.
 
-💬 전기차를 산다면 Tesla를 고르시겠어요? 댓글로 알려 주세요.
-
-📌 저장해 두고 다음 편도 확인하세요.
-
 출처
 - Renewable Energy World, Panasonic agrees to help Tesla build battery Gigafactory (2014.07)
 - Insurance Journal(AP), Judge rules for Musk in Tesla-SolarCity lawsuit (2022.04)
@@ -236,3 +232,7 @@ Tesla를 세운 사람은 사실 일론 머스크가 아니었어요.
 - 장별 회사 가치: 2004~2008년은 투자 라운드 규모로 셈한 추정(2009년 Daimler가 약 10%를 5천만 달러에 산 것 참고), 2010년 이후는 해당 시점 시가총액
 
 #기업집중탐구 #페이팔마피아 #일론머스크 #테슬라 #Tesla #전기차 #창업 #스타트업 #자기계발
+
+## 첫 댓글 (게시 후 우리 계정이 직접 닮)
+
+전기차를 산다면 Tesla를 고르시겠어요? 댓글로 알려 주세요.
