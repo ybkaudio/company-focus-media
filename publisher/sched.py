@@ -20,6 +20,11 @@ def fill(i):
     i["music"] = ep.get("music") or ""
     c = f + "/comment.txt"   # 게시 직후 우리 계정이 다는 첫 댓글 (11/11)
     i["comment"] = open(c, encoding="utf-8").read().strip() if os.path.exists(c) else ""
+    pl = f + "/poll.txt"   # 첫 댓글에 붙일 투표 선택지(줄마다 하나, 없으면 칸 없음)
+    if os.path.exists(pl):
+        i["poll"] = [x.strip() for x in open(pl, encoding="utf-8").read().splitlines() if x.strip()]
+    else:
+        i.pop("poll", None)
     return i
 
 s = json.load(open(P, encoding="utf-8"))
