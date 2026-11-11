@@ -82,7 +82,13 @@
         "원인은 연료관을 죈 알루미늄 너트 하나였다. 섬의 바닷바람에 부식돼 틈이 생겼고, 그 틈으로 연료가 샜다."
       ],
       "photo_hint": "[새 사진 필요] Falcon 1 Flight 1 on Omelek Island, Kwajalein Atoll, March 2006 (or Omelek launch site)",
-      "value": "회사 가치 약 1억 달러(추정)"
+      "value": "회사 가치 약 1억 달러(추정)",
+      "sticker": {
+        "src": "25-spacex/sticker-omelek.png",
+        "size": 540,
+        "right": 50,
+        "top": 190
+      }
     },
     {
       "index": "06 · 자금",
