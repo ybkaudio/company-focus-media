@@ -186,6 +186,7 @@ def main(path):
     sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent / "publisher"))
     from caption_split import split_caption
     cap, comment = split_caption(ep["caption"])   # 💬 질문은 캡션 대신 첫 댓글로 (11/11)
+    comment = (ep.get("first_comment") or comment.lstrip("💬").strip()).strip()   # 원고 first_comment 우선
     (out / "caption.txt").write_text(cap)
     (out / "comment.txt").write_text(comment + "\n" if comment else "")
     # 장별 필요한 사진 목록 (photos 폴더에 01.jpg부터 이 순서로 넣으면 자동 반영)
