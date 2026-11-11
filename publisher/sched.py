@@ -12,12 +12,14 @@ def fill(i):
     slug = i["folder"].split("/")[1][:-6]
     f = os.path.join(ROOT, i["folder"])
     if not os.path.isdir(f):   # 아직 렌더 전인 예약 자리: count 0이면 Aside가 이미지 수 불일치로 안 올림
-        i.setdefault("count", 0); i.setdefault("first_line", ""); i.setdefault("music", "")
+        i.setdefault("count", 0); i.setdefault("first_line", ""); i.setdefault("music", ""); i.setdefault("comment", "")
         return i
     i["count"] = len(glob.glob(f + "/[0-9][0-9].jpg"))
     i["first_line"] = open(f + "/caption.txt", encoding="utf-8").read().strip().splitlines()[0].strip()
     ep = json.load(open(os.path.join(ROOT, "episodes", slug + ".json"), encoding="utf-8"))
     i["music"] = ep.get("music") or ""
+    c = f + "/comment.txt"   # 게시 직후 우리 계정이 다는 첫 댓글 (11/11)
+    i["comment"] = open(c, encoding="utf-8").read().strip() if os.path.exists(c) else ""
     return i
 
 s = json.load(open(P, encoding="utf-8"))

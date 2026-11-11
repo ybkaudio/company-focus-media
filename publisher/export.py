@@ -15,6 +15,8 @@ for e in sys.argv[1:]:
     for f in sorted(glob.glob(src + "/[0-9][0-9].png")):
         Image.open(f).convert("RGB").save(f"{dst}/{os.path.basename(f)[:-4]}.jpg", quality=92)
     shutil.copy(f"{src}/caption.txt", f"{dst}/caption.txt")
+    if os.path.exists(f"{src}/comment.txt"):
+        shutil.copy(f"{src}/comment.txt", f"{dst}/comment.txt")
     shutil.copy(f"{src}/{e}_한눈에보기.png", f"{dst}/overview.png")
     if os.path.isdir("/mnt/project-files/production"):
         shutil.copy(f"{dst}/overview.png", f"/mnt/project-files/production/{e}-overview.png")

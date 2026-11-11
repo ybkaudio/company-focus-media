@@ -183,7 +183,11 @@ def main(path):
                 sys.exit(f"{i:02d}장 레이아웃 문제: {bad}. 본문·제목을 줄이고 다시 렌더")
             pg.screenshot(path=str(out / f"{i:02d}.png"))
         b.close()
-    (out / "caption.txt").write_text(ep["caption"])
+    sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent / "publisher"))
+    from caption_split import split_caption
+    cap, comment = split_caption(ep["caption"])   # 💬 질문은 캡션 대신 첫 댓글로 (11/11)
+    (out / "caption.txt").write_text(cap)
+    (out / "comment.txt").write_text(comment + "\n" if comment else "")
     # 장별 필요한 사진 목록 (photos 폴더에 01.jpg부터 이 순서로 넣으면 자동 반영)
     hints = [f"{i:02d}.jpg  {s.get('index', '표지')}: {s.get('photo_hint', '')}" for i, s in enumerate(slides, 1)]
     (out / "사진_목록.txt").write_text("\n".join(hints) + "\n")
