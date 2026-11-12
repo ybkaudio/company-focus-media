@@ -310,7 +310,10 @@
         "11일엔 NVIDIA 부사장과의 두 번째 불륜 의혹이 보도됐고, WSJ는 이사회가 그의 해임을 검토 중이라고 전했다."
       ],
       "photo_hint": "Jensen Huang, November 2026 (user-supplied photo)",
-      "value": "회사 가치 약 5.8조 달러(2026년 10월 시가총액)"
+      "value": "회사 가치 약 5.8조 달러(2026년 10월 시가총액)",
+      "photo_note": "온라인에서 퍼진 밈 이미지",
+      "bgsize": "100% auto",
+      "bgpos": "center -60px"
     },
     {
       "type": "outro",
