@@ -201,7 +201,7 @@ AlexNet은 그해 이미지 인식 대회에서 2등과 큰 차이로 우승했�
 
 📷 **Photo:** Jensen Huang delivering the first DGX-1 to OpenAI, 2016
 
-**제목:** 첫 AI 슈퍼컴퓨터를 OpenAI에 직접 배달하다
+**제목:** 머신러닝 전용 컴퓨터를 신인 OpenAI에 공급하다
 
 2016년 AI 학습 전용 컴퓨터 <DGX-1>을 내놨다.
 
