@@ -30,7 +30,7 @@
 
 📷 **Photo:** Denny's restaurant exterior, 1980s (or young Jensen Huang at Oregon State University)
 
-**제목:** 열다섯 살에 Denny's에서 접시를 닦다
+**제목:** 식당 웨이터 알바를 하며 최우등 졸업을 하다
 
 부모가 미국 오리건으로 건너온 뒤, 그는 성적이 뛰어나 두 학년을 건너뛰고 16세에 고등학교를 졸업했다.
 
