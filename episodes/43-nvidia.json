@@ -131,7 +131,8 @@
       ],
       "photo_hint": "Sega Saturn console 1996 (or NVIDIA early office)",
       "value": "회사 가치 약 3,000만 달러(추정)",
-      "photo_note": "1990년대 Sega Saturn 판매 광고 전단"
+      "photo_note": "1990년대 Sega Saturn 판매 광고 전단",
+      "bgpos": "right center"
     },
     {
       "index": "08 · 방향 전환",
@@ -184,8 +185,8 @@
       "sticker": {
         "src": "43-nvidia/photos/11-sticker.png",
         "size": 440,
-        "right": 60,
-        "top": 200
+        "right": 85,
+        "top": 512
       }
     },
     {
@@ -205,8 +206,8 @@
       "sticker": {
         "src": "43-nvidia/photos/12-sticker.png",
         "size": 440,
-        "right": 60,
-        "top": 200
+        "right": 600,
+        "top": 215
       }
     },
     {
