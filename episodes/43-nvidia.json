@@ -180,7 +180,10 @@
       ],
       "photo_hint": "Original Microsoft Xbox console 2001 with NVIDIA chip",
       "value": "회사 가치 약 100억 달러(2001년 시가총액 추정)",
-      "photo_note": "Microsoft 첫 Xbox 본체와 컨트롤러"
+      "photo_note": "Microsoft 첫 Xbox 본체와 컨트롤러",
+   "bgsize": "140% auto",
+   "bgpos": "center 40px",
+   "photo_fade": "50-66"
     },
     {
       "index": "11 · 확장",
