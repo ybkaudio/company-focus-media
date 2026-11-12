@@ -103,7 +103,7 @@ NV1은 3D 화면을 곡면으로 그렸는데, 같은 해 Microsoft가 내놓은
 
 📷 **Photo:** Sega Saturn console 1996 (or NVIDIA early office)
 
-**제목:** 게임기 회사와 계약이 결렬됐지만 오히려 투자를 받다
+**제목:** 계약이행 실패, 그러나 솔직함으로 신뢰를 사다
 
 NVIDIA가 개발하던 Sega 게임기용 칩 NV2도 곡면 방식이라 시장 표준과 맞지 않았다.
 
