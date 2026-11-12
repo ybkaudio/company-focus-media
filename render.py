@@ -31,6 +31,7 @@ html,body{width:1080px;height:1350px;background:#000;color:#fff;
 .idx:after{content:"";display:block;width:84px;height:5px;background:var(--a);margin-top:22px}
 .pg{position:absolute;top:84px;right:72px;font-size:32px;font-weight:500;color:#fff;
  background:rgba(0,0,0,.55);padding:12px 26px;border-radius:40px}
+.pn{position:absolute;right:40px;bottom:26px;max-width:700px;text-align:right;font-size:19px;line-height:1.3;color:rgba(255,255,255,.72);text-shadow:0 1px 4px rgba(0,0,0,.8);z-index:5}
 .when{position:absolute;top:96px;right:80px;font-size:30px;font-weight:700;letter-spacing:.04em;color:#fff;text-shadow:0 2px 10px rgba(0,0,0,.7)}
 /* 11/11 사용자: 연도·나이 아래 그때 회사 가치(추정) — 장마다 비교 */
 .val{position:absolute;top:140px;right:80px;font-size:30px;font-weight:700;letter-spacing:.04em;color:#fff;text-shadow:0 2px 10px rgba(0,0,0,.7)}
@@ -94,6 +95,8 @@ def slide_html(ep, s, i, n, base):
     st = next((k for k, x in enumerate(sl, 1) if x.get("type") == "stats"), n + 1)
     if s.get("value", "").startswith("회사 가치") and t != "stats" and i < st:
         head += f'<div class="val">{e(s["value"])}</div>'
+    if s.get("photo_note"):   # 11/12 사용자: 사진 맨 아래 오른쪽에 아주 작게 원본 사진 설명(한국어)
+        head += f'<div class="pn">{e(s["photo_note"])}</div>'
     if t == "cover":
         h1 = e(s["title"])
         if s.get("title_logo"):   # 제목 속 "{logo}" 자리에 로고 이미지를 글자 대신 넣음

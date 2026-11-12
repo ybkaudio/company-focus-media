@@ -17,7 +17,8 @@
         "기업집중탐구"
       ],
       "photo_hint": "Jensen Huang in his black leather jacket on stage, NVIDIA logo visible (or Jensen Huang portrait) / COVER LOGO: NVIDIA logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)",
-      "bgpos": "68% center"
+      "bgpos": "68% center",
+      "photo_note": "젠슨 황, NVIDIA CEO"
     },
     {
       "index": "01 · 배경",
@@ -31,7 +32,8 @@
         "그는 괴롭힘을 견디며 매일 화장실을 청소했고, 글을 못 읽던 룸메이트에게 글을 가르쳐 주는 대신 벤치프레스를 배웠다."
       ],
       "photo_hint": "Oneida Baptist Institute, Kentucky (campus photo) or young Jensen Huang, 1970s",
-      "value": "회사 설립 전"
+      "value": "회사 설립 전",
+      "photo_note": "젠슨 황의 중학교 졸업앨범 사진"
     },
     {
       "index": "02 · 배경",
@@ -45,7 +47,8 @@
         "1984년 오리건주립대 전기공학과를 최우등으로 졸업했고, 실험 파트너였던 로리와 결혼했다."
       ],
       "photo_hint": "Denny's restaurant exterior, 1980s (or young Jensen Huang at Oregon State University)",
-      "value": "회사 설립 전"
+      "value": "회사 설립 전",
+      "photo_note": "옛 Denny's 커피숍 엽서"
     },
     {
       "index": "03 · 계기",
@@ -59,7 +62,8 @@
         "LSI에서 그는 <Sun Microsystems>의 엔지니어 크리스 말라코스키, 커티스 프리엠과 Sun 컴퓨터용 그래픽 칩을 함께 만들었다."
       ],
       "photo_hint": "Jensen Huang at LSI Logic, early 1990s (or LSI Logic office)",
-      "value": "회사 설립 전"
+      "value": "회사 설립 전",
+      "photo_note": "LSI Logic 칩"
     },
     {
       "index": "04 · 창업",
@@ -79,7 +83,8 @@
         "size": 420,
         "right": 60,
         "top": 200
-      }
+      },
+      "photo_note": "NVIDIA가 시작된 산호세 Denny's 부스와 기념 명판"
     },
     {
       "index": "05 · 자금",
@@ -93,7 +98,8 @@
         "Sequoia와 <Sutter Hill Ventures> 등이 상장 전까지 약 2,000만 달러를 넣었다."
       ],
       "photo_hint": "Sequoia Capital office / Don Valentine (or early NVIDIA founders photo, 1990s)",
-      "value": "회사 가치 약 600만 달러(첫 투자 기준 추정)"
+      "value": "회사 가치 약 600만 달러(첫 투자 기준 추정)",
+      "photo_note": "Sequoia Capital 창업자 돈 밸런타인"
     },
     {
       "index": "06 · 위기",
@@ -107,7 +113,8 @@
         "게임 회사들이 Microsoft 표준을 따르면서 NV1용 게임은 거의 나오지 않았고, 매장에 나간 제품 대부분이 반품됐다."
       ],
       "photo_hint": "NVIDIA NV1 / Diamond Edge 3D graphics card, 1995",
-      "value": "회사 가치 약 3,000만 달러(누적 투자 기준 추정)"
+      "value": "회사 가치 약 3,000만 달러(누적 투자 기준 추정)",
+      "photo_note": "NVIDIA 첫 칩 NV1 그래픽카드"
     },
     {
       "index": "07 · 위기",
@@ -122,7 +129,8 @@
         "1996년 직원은 100명에서 40명으로 줄었다."
       ],
       "photo_hint": "Sega Saturn console 1996 (or NVIDIA early office)",
-      "value": "회사 가치 약 3,000만 달러(추정)"
+      "value": "회사 가치 약 3,000만 달러(추정)",
+      "photo_note": "1990년대 Sega Saturn 판매 광고 전단"
     },
     {
       "index": "08 · 첫 성과",
@@ -137,7 +145,8 @@
         "그 뒤 그는 직원들에게 '우리 회사는 망하기 30일 전'이라는 말을 자주 했다."
       ],
       "photo_hint": "NVIDIA RIVA 128 chip / graphics card, 1997",
-      "value": "회사 가치 약 2억 달러(추정)"
+      "value": "회사 가치 약 2억 달러(추정)",
+      "photo_note": "NVIDIA RIVA 128 그래픽카드"
     },
     {
       "index": "09 · 자금",
@@ -151,7 +160,8 @@
         "게임 화면이 빨라지자 PC 회사와 게이머들이 GeForce를 찾았다."
       ],
       "photo_hint": "NVIDIA GeForce 256 graphics card, 1999 (or NASDAQ IPO 1999)",
-      "value": "회사 가치 약 6억 달러(상장 시 추정)"
+      "value": "회사 가치 약 6억 달러(상장 시 추정)",
+      "photo_note": "NVIDIA GeForce 256 칩"
     },
     {
       "index": "10 · 성장",
@@ -165,7 +175,8 @@
         "2001년 NVIDIA는 S&P 500 지수에 들어갔다."
       ],
       "photo_hint": "Original Microsoft Xbox console 2001 with NVIDIA chip",
-      "value": "회사 가치 약 100억 달러(2001년 시가총액 추정)"
+      "value": "회사 가치 약 100억 달러(2001년 시가총액 추정)",
+      "photo_note": "Microsoft 첫 Xbox 본체와 컨트롤러"
     },
     {
       "index": "11 · 확장",
@@ -179,7 +190,8 @@
         "당장 돈을 벌지 못하는 기술에 10억 달러 넘게 들어갔고, 칩 원가도 올라 투자자들의 불만이 컸다. 2008년 금융위기 때 주가는 고점에서 80% 넘게 떨어졌다."
       ],
       "photo_hint": "NVIDIA CUDA launch 2006 / GeForce 8800 GTX",
-      "value": "회사 가치 약 150억 달러(시가총액 추정)"
+      "value": "회사 가치 약 150억 달러(시가총액 추정)",
+      "photo_note": "NVIDIA GeForce 8800 GTX 그래픽카드"
     },
     {
       "index": "12 · 방향 전환",
@@ -193,7 +205,8 @@
         "그 뒤 AI 연구자들이 CUDA와 NVIDIA GPU로 몰렸다. 6년 전 넣은 CUDA가 AI 연구의 표준 도구가 된 것이다."
       ],
       "photo_hint": "NVIDIA GeForce GTX 580 graphics card (or AlexNet researchers, 2012)",
-      "value": "회사 가치 약 80억 달러(시가총액 추정)"
+      "value": "회사 가치 약 80억 달러(시가총액 추정)",
+      "photo_note": "NVIDIA GeForce GTX 그래픽카드"
     },
     {
       "index": "13 · 확장",
@@ -207,7 +220,8 @@
         "게임 칩 회사가 AI 컴퓨터 회사로 바뀌기 시작했다."
       ],
       "photo_hint": "Jensen Huang delivering the first DGX-1 to OpenAI, 2016",
-      "value": "회사 가치 약 570억 달러(시가총액 추정)"
+      "value": "회사 가치 약 570억 달러(시가총액 추정)",
+      "photo_note": "샘 올트먼(왼쪽)과 젠슨 황(가운데)"
     },
     {
       "index": "14 · 위기",
@@ -222,7 +236,8 @@
         "AI 회사들이 학습용 칩 <H100>을 사려고 줄을 섰다."
       ],
       "photo_hint": "NVIDIA H100 GPU (or ChatGPT launch, 2022)",
-      "value": "회사 가치 약 3,600억 달러(2022년 말 시가총액)"
+      "value": "회사 가치 약 3,600억 달러(2022년 말 시가총액)",
+      "photo_note": "NVIDIA GPU 서버"
     },
     {
       "index": "15 · 성장",
@@ -236,7 +251,8 @@
         "2025년 7월 처음으로 4조 달러, 10월 29일 세계 첫 5조 달러 회사가 됐다."
       ],
       "photo_hint": "Jensen Huang at GTC keynote with Blackwell chip, 2024-2025",
-      "value": "회사 가치 약 5조 달러(2025년 10월 시가총액)"
+      "value": "회사 가치 약 5조 달러(2025년 10월 시가총액)",
+      "photo_note": "GTC 기조연설 중인 젠슨 황"
     },
     {
       "type": "stats",
@@ -262,7 +278,8 @@
           "unit": "년"
         }
       ],
-      "bgpos": "38% center"
+      "bgpos": "38% center",
+      "photo_note": "무대 위 젠슨 황과 로봇"
     },
     {
       "type": "outro",
@@ -275,7 +292,8 @@
         "망하기 30일 전이라는 생각으로 버틴 긴장감"
       ],
       "button": "지금 팔로우 →",
-      "photo_hint": "Jensen Huang portrait (person photo for the closing slide)"
+      "photo_hint": "Jensen Huang portrait (person photo for the closing slide)",
+      "photo_note": "식당을 찾은 젠슨 황"
     }
   ]
 }
