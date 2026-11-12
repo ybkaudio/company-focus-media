@@ -1,0 +1,210 @@
+{
+  "no": 16,
+  "company": "Nike",
+  "company_ko": "Nike",
+  "person": "필 나이트",
+  "accent": "#F36F21",
+  "handle": "@company.focus",
+  "music": "Eye of the Tiger – Survivor (Nike가 커 가던 1982년 곡, 첫 수입 운동화 '타이거'와도 이어짐) / 없으면 검색어 'workout 80s'",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": null,
+      "title": "나이키 키워냄 청년",
+      "photo_hint": "Phil Knight portrait (1970s–80s, ideally holding Nike shoes; cover Nike logo sticker is cut from the last slide's logo)",
+      "sticker": {
+        "src": "15-nike-knight/sticker-logo.png",
+        "size": 360,
+        "right": 80,
+        "top": 1042
+      },
+      "body": [
+        "기업집중탐구 #16"
+      ]
+    },
+    {
+      "index": "01 · 계기",
+      "when": "1962 · 24세",
+      "photo": null,
+      "title": "일본 운동화가\n독일을 이긴다",
+      "body": [
+        "스탠퍼드 경영대학원에 다니던 필 나이트는 리포트에, 일본 카메라가 독일 카메라를 밀어냈듯 일본 운동화도 독일 운동화를 밀어낼 수 있다고 썼다.",
+        "오리건대 육상부에서 바워만 코치에게 배운 그는 비싼 독일 운동화가 시장을 쥔 걸 알았다.",
+        "졸업한 해 11월 일본 고베로 가 오니츠카의 타이거 운동화를 보고, 미국 서부 판매권을 따냈다."
+      ],
+      "photo_hint": "Onitsuka Tiger running shoes from 1960s Japan (or Kobe street, 1960s)",
+      "value": "회사 설립 전"
+    },
+    {
+      "index": "02 · 창업",
+      "when": "1964 · 25세",
+      "photo": null,
+      "title": "자동차 트렁크에서\n운동화를 팔다",
+      "body": [
+        "1964년 옛 코치 빌 바워만(#05 주인공)과 500달러씩 넣어, 악수 한 번으로 수입 회사 블루 리본 스포츠를 세웠다.",
+        "신발 설계는 바워만이, 판매와 경영은 나이트가 맡았다.",
+        "낮엔 회계사로 일하고, 주말엔 차 트렁크에 운동화를 싣고 육상 대회를 돌며 팔았다.",
+        "첫해 약 8,000달러어치를 팔았고, 1969년에야 회계사 일을 그만뒀다."
+      ],
+      "photo_hint": "Green 1960s Plymouth Valiant (or a 1960s track meet)",
+      "sticker": {
+        "src": "15-nike-knight/sticker-brs.png",
+        "size": 360,
+        "right": 50,
+        "top": 190
+      },
+      "value": "회사 가치 약 8,000달러(추정)"
+    },
+    {
+      "index": "03 · 방향 전환",
+      "when": "1972 · 34세",
+      "photo": null,
+      "title": "공급처에 쫓겨나\n자기 브랜드를 만들다",
+      "body": [
+        "회사가 커지자 오니츠카는 다른 판매상과 손잡고 블루 리본을 밀어내려 했다.",
+        "나이트는 일본 무역상사 닛쇼의 돈을 빌려 다른 공장에 직접 신발을 주문했고, 1972년 오니츠카와 갈라섰다.",
+        "첫 직원이 꿈에서 본 이름 Nike를 붙이고, 디자인 학생에게 35달러를 주고 스우시 로고를 받았다."
+      ],
+      "photo_hint": "Original Nike swoosh logo sketch (or the first Nike shoe, 1972)",
+      "bgsize": "1388px auto",
+      "bgpos": "0px 60px",
+      "value": "회사 가치 약 200만 달러(추정)"
+    },
+    {
+      "index": "04 · 성장",
+      "when": "1972 · 34세",
+      "photo": null,
+      "value": "회사 가치 약 200만 달러(추정)",
+      "title": "바워만 코치의 설계,\nNike 신발의 뼈대가 되다",
+      "body": [
+        "신발 설계와 시험은 공동 창업자 바워만이 맡았다. 1968년 회사의 첫 인기 상품 코르테즈도 그가 밑창 전체에 쿠션을 깔아 설계한 훈련화였다(#05).",
+        "오니츠카와 갈라선 뒤 그가 설계한 신발은 Nike 이름으로 나왔다. 남이 만든 신발을 떼어 오던 회사가 자기 설계를 갖게 된 것이다.",
+        "그해 바워만은 뮌헨 올림픽 미국 대표팀 감독을 끝으로 코치에서 물러나 신발 개발에 힘을 쏟았다."
+      ],
+      "photo_hint": "Bill Bowerman working on shoes in his workshop, or the Nike Cortez (1972)"
+    },
+    {
+      "index": "05 · 성장",
+      "when": "1975 · 37세",
+      "photo": null,
+      "value": "회사 가치 약 500만 달러(추정)",
+      "title": "와플 기계로 만든 밑창,\n미국 1등 훈련화가 되다",
+      "body": [
+        "1971년 오리건대 트랙이 딱딱한 우레탄으로 바뀌자 쇠징은 너무 깊이 박히고 징 없는 신발은 미끄러졌다.",
+        "바워만은 아내의 와플 기계에 고무를 부어 각진 돌기가 촘촘한 밑창을 만들었다. 돌기 모서리가 쇠징 없이 바닥을 붙잡았고, 고무를 덜 써 가벼웠다.",
+        "징이 없어 아스팔트에서도 신을 수 있어, 1975년 나온 '와플 트레이너'는 조깅 붐을 타고 미국에서 가장 많이 팔린 훈련화가 됐다.",
+        "바워만은 작업실에서 접착제를 오래 다뤄 다리 신경을 다쳐 1970년대 말부터 회사 일을 줄였고, 1999년 이사회에서 물러났다."
+      ],
+      "photo_hint": "Bowerman's waffle iron / Nike Waffle Trainer (1974-75)"
+    },
+    {
+      "index": "06 · 성장",
+      "when": "1980 · 42세",
+      "photo": null,
+      "title": "아시아 하청 공장에 맡겨\n미국 1등이 되다",
+      "body": [
+        "Nike는 생산을 대부분 남의 공장에 맡겼다. 신발을 설계하고 주문을 모은 뒤, 일본·한국·대만의 독립 신발 업체와 계약해 만들게 하는 위탁생산이었다.",
+        "처음엔 닛쇼의 돈으로 일본 공장에 주문했고, 1977년부터 인건비가 싼 한국·대만 업체로 옮겨 1981년엔 신발의 약 80%를 두 나라에서 만들었다. 공장을 짓지 않으니 주문이 늘면 협력 업체를 늘리면 됐고, 아낀 돈은 설계와 광고에 썼다.",
+        "매출은 1976년 1,400만 달러에서 이듬해 2,800만 달러로 뛰었고, 1980년 미국 판매에서 독일 아디다스를 앞질러 그해 12월 상장했다."
+      ],
+      "photo_hint": "Nike running shoe ad, late 1970s (or Phil Knight around 1980)",
+      "value": "회사 가치 약 4억 달러(추정)"
+    },
+    {
+      "index": "07 · 위기",
+      "when": "1984 · 46세",
+      "photo": null,
+      "title": "에어로빅 유행에\n흔들리다",
+      "body": [
+        "미국에서 조깅 열풍이 식고 에어로빅이 유행하자 러닝화에 기대던 Nike가 흔들렸다.",
+        "1984년 연간 이익이 30% 가까이 줄었고, 분기 적자까지 났다.",
+        "그해 직원 약 400명을 내보냈다."
+      ],
+      "photo_hint": "1980s aerobics craze (or Nike headquarters in the 1980s)",
+      "value": "회사 가치 약 9억 달러(추정)"
+    },
+    {
+      "index": "08 · 도박",
+      "when": "1984 · 46세",
+      "photo": null,
+      "title": "한 농구 신인에게\n운명을 걸다",
+      "body": [
+        "1984년 Nike는 상장 뒤 첫 분기 적자를 냈고, 농구화 시장에선 Converse·Adidas에 밀려 있었다.",
+        "농구 담당 소니 바카로는 여러 선수에게 돈을 나누지 말고 대학 무대에서 검증된 신인 마이클 조던 한 명에게 몰자고 설득했다. 조던이 원한 Adidas는 제안조차 하지 않았다.",
+        "Nike는 그의 이름을 단 신발 라인을 따로 만들고 판매액 일부를 나눠 주기로 했다. 계약은 당시 어떤 NBA 신발 계약보다 세 배 큰 5년 250만 달러였다.",
+        "1985년 나온 에어 조던은 첫해 매출 1억 2,600만 달러로, 기대치 300만 달러의 40배를 넘었다."
+      ],
+      "photo_hint": "Air Jordan 1, 1985 (red and black 'Bred')",
+      "value": "회사 가치 약 9억 달러(추정)"
+    },
+    {
+      "index": "09 · 정점",
+      "when": "1988 · 50세",
+      "photo": null,
+      "title": "광고 한 줄로\n모두의 신발이 되다",
+      "body": [
+        "1988년 'Just Do It' 광고를 시작했다. 선수용 신발 대신, 운동하려는 누구에게나 거는 말이었다.",
+        "매출은 1988년 12억 달러에서 1991년 30억 달러를 넘었고, 1997년엔 92억 달러를 기록했다."
+      ],
+      "photo_hint": "Nike 'Just Do It' ad, 1988 (or the Just Do It slogan)",
+      "bgsize": "1080px auto",
+      "bgpos": "center 90px",
+      "value": "회사 가치 약 10억 달러"
+    },
+    {
+      "index": "10 · 위기",
+      "when": "1998 · 60세",
+      "photo": null,
+      "title": "하청 공장 노동 비판에\n공장 기준을 바꾸다",
+      "body": [
+        "1990년대 들어 Nike 신발을 만드는 아시아 하청 공장의 낮은 임금, 어린 노동자, 나쁜 작업 환경이 언론과 대학가에서 거세게 비판받았다.",
+        "1998년 3월엔 아시아 경제 위기와 재고 탓에 분기 이익이 69% 줄었다.",
+        "그해 5월 나이트는 직접 기자 회견을 열어 지난 몇 년의 비판을 인정하고, 신발 공장 노동자 최소 나이를 18세로 올리고 미국 실내 공기 기준을 적용하며 외부 단체가 공장을 점검하게 하겠다고 약속했다."
+      ],
+      "photo_hint": "Phil Knight at the National Press Club, Washington D.C., May 1998",
+      "value": "회사 가치 약 115억 달러"
+    },
+    {
+      "type": "stats",
+      "index": "11 · 떠날 때",
+      "when": "2004 · 66세",
+      "photo": null,
+      "title": "40년 만에\n대표에서 물러나다",
+      "stats": [
+        {
+          "cap": "회사 가치 (대표에서 물러난 2004년)",
+          "num": "약 217",
+          "unit": "억 달러"
+        },
+        {
+          "cap": "블루 리본 창업부터 떠날 때까지",
+          "num": "40",
+          "unit": "년"
+        }
+      ],
+      "body": [
+        "2004년 11월 대표에서 물러나 이사회 의장으로 남았고, 2016년 6월 이사회에서도 나왔다.",
+        "그해 창업 이야기를 담은 회고록 '슈독'을 펴냈다."
+      ],
+      "photo_hint": "Phil Knight in the 2000s (at a Nike headquarters event)",
+      "value": "회사 가치 약 217억 달러"
+    },
+    {
+      "type": "outro",
+      "index": "마무리",
+      "photo": null,
+      "title": "수입상에서\n세계 1등 운동화로",
+      "points": [
+        "일본 운동화의 가능성을 먼저 알아본 안목",
+        "공급처에 쫓겨나도 자기 브랜드를 세운 배짱",
+        "신인 조던에게 회사를 건 승부수"
+      ],
+      "button": "지금 팔로우 →",
+      "photo_hint": "Nike logo on a dark background (the cover sticker is cut from this too)",
+      "bgsize": "1290px auto",
+      "bgpos": "-105px 0px"
+    }
+  ],
+  "caption": "자동차 트렁크에 운동화를 싣고 다니던 회계사.\n40년 뒤, 회사 가치 약 217억 달러.\n\n1964년, 필 나이트와 옛 코치 빌 바워만은 500달러씩 넣어 악수 한 번으로 회사를 세웠습니다.\n낮엔 회계사, 주말엔 육상 대회 판매상.\n첫해 매출은 약 8,000달러였습니다.\n\n1972년, 일본 공급처가 그를 밀어내려 했습니다.\n그는 다른 공장에 직접 신발을 주문하고 이름을 붙였습니다. Nike.\n로고값은 35달러였습니다.\n\n1984년, 상장 뒤 첫 분기 적자.\n그해 Nike는 신인 한 명에게 5년 250만 달러를 걸었습니다.\n마이클 조던.\n이듬해 나온 에어 조던의 첫해 매출은 1억 2,600만 달러, 기대치의 40배였습니다.\n\n처음 산 Nike 신발, 기억나세요?\n첫 댓글에 답해 주세요 👇\n\n🔗 함께 회사를 세운 코치 빌 바워만 이야기는 #05에서 볼 수 있습니다.\n\n#기업집중탐구 #필나이트 #나이키 #Nike #창업스토리\n\n출처\n- Wikipedia, Phil Knight / Air Jordan\n- Nike, The Handshake That Started It All\n- Company-Histories, NIKE Inc. Company History\n- Nice Kicks, How Blue Ribbon Sports Became Nike\n- Phil Knight, Shoe Dog (2016)\n- The Spokesman-Review, Nike co-founder Knight resigns as CEO (2004.11.19)\n- Nike 2005 회계연도 2분기 보고서(10-Q), 발행 주식 수 (2004.11.30)\n- AP(Fox News), Nike stock price falls on news of Phil Knight's departure (2004.11.19)\n- CNN Money, Nike to improve labor conditions (1998.05.12)\n- Seattle Times, Nike chief falls short on pledge to labor (2001.05.17)\n- Oregon Sports Hall of Fame, NIKE Inc. (블루 리본 스포츠 500달러씩)\n- ESPN, How Nike landed Michael Jordan / Raconteur, The secret success of Nike Air Jordan: 1984년 첫 분기 적자, 바카로의 추천, 계약 조건\n- Wikipedia, Air Jordan: 첫해 매출 1억 2,600만 달러\n- 장별 회사 가치: 상장 전·자료 없는 해는 연 매출 1배로 추정(1964년 8,000달러, 1972년 196만 달러, 1984년 약 9억 달러, Funding Universe). 1980년 상장 때는 나이트 지분 46%가 1억 7,800만 달러였다는 기록(Shortform 『슈독』 요약)으로 추정, 1988년 시가총액 10억 달러 돌파(Benzinga), 1998년은 연말 시가총액(companiesmarketcap)\n- Nike, From Waffle Iron to World Stage: The True Story of the Nike Moon Shoe\n- HISTORY, Nike patent: waffle sole trainers invented in waffle iron",
+  "first_comment": "처음 산 Nike 신발, 기억나세요? 댓글로 알려 주세요."
+}

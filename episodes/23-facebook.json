@@ -1,0 +1,148 @@
+{
+  "no": 23,
+  "company": "Facebook",
+  "company_ko": "Facebook",
+  "person": "에두아르도 세버린",
+  "accent": "#1877F2",
+  "handle": "@company.focus",
+  "music": "Baby, You're a Rich Man – The Beatles (그의 이야기를 다룬 영화 '소셜 네트워크' 마지막 곡) / 없으면 검색어 'the social network'",
+  "slides": [
+    {
+      "type": "cover",
+      "photo": null,
+      "title": "비운의 쫓겨난\n페이스북 공동 창업자",
+      "body": [
+        "기업집중탐구 #23"
+      ],
+      "photo_hint": "Eduardo Saverin portrait (2010s; cover Facebook logo sticker, please also send a Facebook logo image)",
+      "sticker": {
+        "src": "22-facebook/sticker-logo.png",
+        "size": 190,
+        "right": 165,
+        "top": 1042
+      },
+      "bgpos": "right center"
+    },
+    {
+      "index": "01 · 배경",
+      "when": "2001 · 19세",
+      "photo": null,
+      "title": "석유 가격 변화에 투자해\n30만 달러를 벌다",
+      "body": [
+        "브라질 사업가 집안에서 태어나 미국 마이애미에서 자랐고, 하버드에서 경제학을 공부하며 투자 동아리 회장을 맡았다.",
+        "날씨에 관심이 많아 허리케인이 지나갈 길을 미리 읽고 석유 가격 변화에 투자해, 학생 신분으로 30만 달러를 벌었다.",
+        "이 돈과 투자 감각 덕분에 그는 친구 마크 저커버그의 사업에서 재무와 영업을 맡게 됐다."
+      ],
+      "photo_hint": "Harvard Yard, early 2000s (or a hurricane satellite map)",
+      "value": "회사 설립 전"
+    },
+    {
+      "index": "02 · 자금",
+      "when": "2004 · 21세",
+      "photo": null,
+      "title": "초기 TheFacebook에 투자해\n30% 지분을 얻어내다",
+      "body": [
+        "2004년 2월 저커버그가 하버드 학생끼리 서로의 프로필을 보는 사이트 <TheFacebook>을 열었다.",
+        "세버린은 1,000달러를 넣어 서버 비용 등 초기 자금을 대고 지분 30%를 받았다. 저커버그는 65%, 개발을 돕던 친구 더스틴 모스코비츠는 5%였다.",
+        "법인 계좌도 세버린이 직접 관리했다."
+      ],
+      "photo_hint": "TheFacebook.com homepage, February 2004 (screenshot)",
+      "title_size": 70,
+      "value": "회사 가치 약 3,300달러(추정)"
+    },
+    {
+      "index": "03 · 성장",
+      "when": "2004 · 21세",
+      "photo": null,
+      "title": "서버 비용이 늘자\n광고 수익을 계획하다",
+      "body": [
+        "처음엔 하버드 이메일이 있어야만 가입할 수 있어, 실제로 아는 사람끼리만 연결됐다.",
+        "같은 방식으로 다른 대학을 하나씩 열자, 학교마다 학생들이 한꺼번에 가입했다.",
+        "2004년 6월 34개 대학, 사용자 10만 명 가까이로 늘었다. 사용자가 늘수록 서버 비용도 커져, 세버린은 광고를 팔아 돈을 벌 방법을 찾았다."
+      ],
+      "photo_hint": "Early TheFacebook profile page or list of supported colleges, 2004",
+      "shade": "strong",
+      "value": "회사 가치 약 3,300달러(추정)"
+    },
+    {
+      "index": "04 · 위기",
+      "when": "2004 · 22세",
+      "photo": null,
+      "title": "뉴욕과 캘리포니아,\n저커버그와 길이 갈리다",
+      "body": [
+        "2004년 여름방학, 세버린은 뉴욕의 투자은행에서 인턴을 하며 광고주를 찾았다.",
+        "저커버그는 캘리포니아로 옮겨 개발에 매달렸고, 그곳에서 음악 공유 서비스 <Napster>를 만든 숀 파커가 합류해 회사 운영을 맡았다.",
+        "파커는 델라웨어에 새 법인을 세워 Facebook을 그쪽으로 옮겼고, 9월에는 PayPal 공동 창업자 피터 틸이 이 새 법인에 50만 달러를 엔젤 투자했다.",
+        "경영상 중요한 결정이 세버린 없이 캘리포니아에서 내려지기 시작했다."
+      ],
+      "photo_hint": "Palo Alto house used as Facebook's first office, 2004 (or Sean Parker, 2004)",
+      "value": "회사 가치 약 490만 달러"
+    },
+    {
+      "index": "05 · 위기",
+      "when": "2004 · 22세",
+      "photo": null,
+      "title": "법인 계좌를 동결했다가\n의결권을 넘기다",
+      "body": [
+        "7월 저커버그는 새 법인으로 옮기며 세버린에게 그가 더는 직원이 아니며 지분이 희석될 수 있다고 알렸다.",
+        "밀려난다고 느낀 세버린은 항의 표시로 자신이 관리하던 법인 계좌를 동결했다. 그 돈은 자신이 낸 창업 자금이고 저커버그가 약속한 출자금을 내지 않았다는 것이 그의 주장이었다.",
+        "운영 자금이 막히자 저커버그와 가족이 6만 달러 넘게 빌려줘 서버를 유지했고, 10월 세버린은 새 법인 주식을 받는 대가로 의결권을 저커버그에게 위임했다."
+      ],
+      "photo_hint": "Eduardo Saverin, mid-2000s",
+      "value": "회사 가치 약 490만 달러"
+    },
+    {
+      "type": "stats",
+      "index": "06 · 떠날 때",
+      "when": "2005 · 22세",
+      "photo": null,
+      "title": "없는 동안 새 주식이 늘자\n지분이 10% 아래로 줄다",
+      "stats": [
+        {
+          "cap": "기업 가치 (피터 틸 투자 기준, 2004년)",
+          "num": "약 490",
+          "unit": "만 달러"
+        },
+        {
+          "cap": "TheFacebook 출시부터 밀려날 때까지",
+          "num": "약 1",
+          "unit": "년"
+        }
+      ],
+      "body": [
+        "2005년 1월 세버린을 뺀 주주들에게 신주 900만 주가 발행돼, 30%였던 지분이 10% 아래로 희석됐다.",
+        "의결권도 이미 위임해, 사실상 경영에서 배제됐다."
+      ],
+      "photo_hint": "Eduardo Saverin portrait, 2010s (Singapore)",
+      "value": "회사 가치 약 490만 달러"
+    },
+    {
+      "index": "07 · 그 뒤",
+      "when": "2009 · 27세",
+      "photo": null,
+      "title": "소송 끝에\n공동 창업자 지위를 되찾다",
+      "body": [
+        "그가 밀려나는 사이 Facebook은 2004년 말 사용자 100만 명, 2008년 1억 명을 넘기며 커졌다.",
+        "세버린은 지분을 부당하게 희석했다며 소송을 냈고, 2009년 합의로 공동 창업자 지위와 지분 일부를 되찾았다.",
+        "2012년 IPO 때 남은 지분 약 2%의 가치는 20억 달러가 넘었다. 그는 상장 전 싱가포르로 옮겨 투자자가 됐다."
+      ],
+      "photo_hint": "Facebook 1 million users milestone, December 2004 (or early Facebook office party photo)",
+      "value": "회사 가치 약 100억 달러(2009)"
+    },
+    {
+      "type": "outro",
+      "index": "마무리",
+      "photo": null,
+      "title": "비운의\n초기 주주",
+      "points": [
+        "뉴욕에 남아 핵심 결정에서 빠지다",
+        "계좌를 동결하며 항의하다 더 큰 것을 잃다",
+        "의결권 위임 뒤 신주 발행으로 희석된 지분"
+      ],
+      "button": "지금 팔로우 →",
+      "photo_hint": "Eduardo Saverin portrait (person photo for the closing slide)"
+    }
+  ],
+  "caption": "Facebook에 첫 1,000달러를 낸 공동 창업자.\n1년 만에 지분 30%가 10% 아래로 줄었습니다.\n\n2004년 2월, 에두아르도 세버린은 친구 마크 저커버그의 사이트에 1,000달러를 넣고 지분 30%를 받았습니다.\n법인 계좌도 그가 관리했습니다.\n\n2004년 여름, 그는 뉴욕에서 광고주를 찾았고\n저커버그는 캘리포니아에서 숀 파커, 피터 틸과 새 법인을 꾸렸습니다.\n\n밀려난다고 느낀 그는 법인 계좌를 동결했습니다.\n그해 10월, 새 법인 주식을 받는 대가로 의결권을 넘겼습니다.\n\n2005년 1월, 그를 뺀 주주들에게 신주 900만 주가 발행됐습니다.\n2009년 소송 합의로 공동 창업자 지위를 되찾았고,\n2012년 상장 때 남은 지분 약 2%의 가치는 20억 달러가 넘었습니다.\n\n친구와 동업한다면 무엇을 먼저 정하시겠어요?\n첫 댓글에 답해 주세요 👇\n\n🔗 Facebook 시리즈. 함께 창업한 친구 마크 저커버그 이야기는 #24, 훗날 Facebook에 회사를 판 케빈 시스트롬 이야기는 #22, 첫 외부 투자자 피터 틸 이야기는 #28에서 볼 수 있습니다.\n\n#기업집중탐구 #에두아르도세버린 #페이스북 #Facebook #동업\n\n출처\n- Wikipedia, Eduardo Saverin\n- EBSCO Research Starters, Eduardo Saverin\n- iPleaders, How Mark Zuckerberg got rid of his co-founder\n- Wikipedia, History of Facebook\n- Adweek, Facebook's operations at \"near break even\" often meant \"nearly broke\"\n- The Harvard Crimson, Business Casual (2005.02.24) / Slidebean, Eduardo Saverin settlement (1,000달러)\n- 장별 회사 가치: 2004년 초는 세버린이 1,000달러로 30%를 받은 값으로 셈한 추정, 2004년 9월은 피터 틸 투자 기준, 2009년은 DST의 2억 달러 투자 기준 100억 달러",
+  "first_comment": "친구와 동업한다면 무엇을 먼저 정하시겠어요? 댓글로 알려 주세요."
+}
