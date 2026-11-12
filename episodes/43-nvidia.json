@@ -13,11 +13,11 @@
       "type": "cover",
       "photo": null,
       "title": "데니스 식당 부스에서 시작한\n엔비디아",
-      "bgpos": "6% center",
       "body": [
         "기업집중탐구"
       ],
-      "photo_hint": "Jensen Huang in his black leather jacket on stage, NVIDIA logo visible (or Jensen Huang portrait) / COVER LOGO: NVIDIA logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)"
+      "photo_hint": "Jensen Huang in his black leather jacket on stage, NVIDIA logo visible (or Jensen Huang portrait) / COVER LOGO: NVIDIA logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)",
+      "bgpos": "68% center"
     },
     {
       "index": "01 · 배경",
@@ -73,7 +73,13 @@
         "1993년 4월 5일 세 사람이 200달러씩, 600달러를 내 <NVIDIA>를 세웠다. 서른 살의 젠슨 황이 첫날부터 CEO를 맡았다."
       ],
       "photo_hint": "The Denny's booth in San Jose where NVIDIA was founded (plaque photo, 2023)",
-      "value": "회사 가치 약 600달러(설립 자본금)"
+      "value": "회사 가치 약 600달러(설립 자본금)",
+      "sticker": {
+        "src": "43-nvidia/photos/05-sticker.png",
+        "size": 420,
+        "right": 60,
+        "top": 200
+      }
     },
     {
       "index": "05 · 자금",
@@ -255,7 +261,8 @@
           "num": "약 33",
           "unit": "년"
         }
-      ]
+      ],
+      "bgpos": "38% center"
     },
     {
       "type": "outro",
