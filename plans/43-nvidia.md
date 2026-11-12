@@ -88,7 +88,7 @@ Sequoia는 사업 계획보다 코리건의 추천을 믿고 투자했다.
 
 📷 **Photo:** NVIDIA NV1 / Diamond Edge 3D graphics card, 1995
 
-**제목:** 첫 칩 NV1, 표준과 달라 팔리지 않다
+**제목:** Microsoft의 표준 방식, NVIDIA는 따라가지 않았다
 
 1995년 첫 제품 <NV1>을 내놨다.
 
