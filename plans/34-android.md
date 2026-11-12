@@ -1,0 +1,180 @@
+# 기업집중탐구 #34 · 앤디 루빈 (Android)
+
+> 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
+
+🎵 **추천 음악:** Mr. Roboto – Styx (로봇을 좋아해 'Android'라 불린 그와 어울리는 곡) / 없으면 검색어 'mr roboto'
+
+## 01.jpg · 표지
+
+📷 **Photo:** Andy Rubin holding an early Android phone (T-Mobile G1), 2008, with Android logo visible (if no logo, production adds an Android logo sticker) / COVER LOGO: Android logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
+
+**제목:** 카메라 운영체제에서 세계 1위 스마트폰 OS로
+
+기업집중탐구 #34
+
+
+## 02.jpg · 01 · 배경
+
+📷 **Photo:** Young Andy Rubin, late 1980s-early 1990s (Apple era if available)
+
+**제목:** 로봇을 좋아해 'Android'라 불리다
+
+대학에서 컴퓨터과학을 공부하고 독일 광학 회사 <Carl Zeiss>에서 로봇 엔지니어로 일했다.
+
+1989년 Apple에 엔지니어로 들어갔고, 로봇을 좋아해 동료들이 'Android'라는 별명을 붙였다.
+
+이 별명이 뒤에 그가 세울 회사의 이름이 됐다.
+
+
+## 03.jpg · 02 · 배경
+
+📷 **Photo:** General Magic Magic Cap device (Motorola Envoy) 1994, or WebTV set-top box late 1990s
+
+**제목:** 실패한 휴대 기기 뒤 WebTV 매각을 겪다
+
+1992년 Apple에서 갈라져 나온 <General Magic>에서 휴대용 기기 운영체제 Magic Cap을 만들었지만 팔리지 않았다.
+
+이어 TV로 인터넷을 보는 <WebTV>에서 일했고, 회사는 1997년 Microsoft에 팔렸다.
+
+휴대 기기 운영체제와 회사 매각을 모두 겪은 셈이었다.
+
+
+## 04.jpg · 03 · 첫 창업
+
+📷 **Photo:** T-Mobile Sidekick (Danger Hiptop) phone, 2002-2004
+
+**제목:** 첫 회사 Danger에서 Sidekick 폰을 만들다
+
+1999년 동료들과 <Danger>를 세우고 CEO를 맡았다.
+
+인터넷·메시지를 쓸 수 있는 휴대폰 Hiptop을 만들었고, 통신사 T-Mobile이 Sidekick이라는 이름으로 팔아 젊은 층에 인기를 끌었다.
+
+출시 직후 CEO 자리를 다른 사람에게 넘겼고, 2004년 초 회사를 떠났다.
+
+
+## 05.jpg · 04 · 창업
+
+📷 **Photo:** Andy Rubin around 2003-2005, or early Android Inc. team photo (crop others if unclear)
+
+**제목:** 디지털카메라 운영체제로 Android를 세우다
+
+2003년 10월 크리스 화이트와 팔로알토에 <Android>를 세웠고, 리치 마이너·닉 시어스가 합류했다.
+
+처음 계획은 사진을 저장·공유하는 디지털카메라용 운영체제였다.
+
+하지만 투자자들을 설득하지 못했다.
+
+
+## 06.jpg · 05 · 방향 전환
+
+📷 **Photo:** Andy Rubin portrait around 2004, or mid-2000s feature phones (Nokia Symbian, Windows Mobile)
+
+**제목:** 카메라를 버리고 휴대폰 운영체제로 바꾸다
+
+2004년 4월 닉 시어스의 제안으로 목표를 휴대폰 운영체제로 바꿨다.
+
+당시 휴대폰 운영체제는 Nokia의 Symbian과 Microsoft의 Windows Mobile이 이끌었다.
+
+투자금이 떨어져 사무실에서 쫓겨날 처지가 되자, WebTV 시절 상사 스티브 펄먼이 현금 1만 달러를 가져다줬다.
+
+
+## 07.jpg · 06 · 매각
+
+📷 **Photo:** Andy Rubin at Google around 2007, or Google Mountain View campus mid-2000s
+
+**제목:** Samsung에 거절당하고 Google에 5천만 달러에 팔다
+
+2005년 한국에서 Samsung 경영진에게 회사를 소개했지만 받아들여지지 않았다.
+
+이어 래리 페이지에게 연 7억 대가 팔리는 휴대폰 시장이 컴퓨터 시장의 3배가 넘는다고 설명했다(#33). Google은 2005년 약 5천만 달러에 회사를 샀고, 그는 Google 안에서 Android를 계속 이끌었다.
+
+
+## 08.jpg · 07 · 위기
+
+📷 **Photo:** Open Handset Alliance announcement November 2007, or Android early prototype 'Sooner' phone
+
+**제목:** iPhone이 나오자 자판 폰 설계를 다시 하다
+
+Android의 첫 시제품은 BlackBerry처럼 물리 자판이 달린 휴대폰이었다.
+
+2007년 1월 Apple이 터치스크린 iPhone을 공개하자, 이를 접고 터치스크린 중심으로 설계를 바꿨다(#01).
+
+11월 휴대폰 제조사·통신사 등과 함께 Android를 공동 플랫폼으로 쓰는 'Open Handset Alliance'를 발표했다.
+
+
+## 09.jpg · 08 · 성장
+
+📷 **Photo:** HTC Dream / T-Mobile G1 launch event, September 2008
+
+**제목:** 운영체제를 무료로 풀어 제조사를 끌어들이다
+
+Android는 소스 코드를 공개하고 제조사에 사용료를 받지 않았다.
+
+자체 운영체제를 만들 여력이 없던 제조사들이 돈을 내지 않고 스마트폰을 만들 수 있게 됐다.
+
+2008년 9월 첫 Android 폰 HTC Dream(T-Mobile G1)이 나왔고, Google은 폰마다 들어간 검색과 앱 장터로 이용자를 얻었다.
+
+
+## 10.jpg · 09 · 정점
+
+📷 **Photo:** Andy Rubin on stage with Android phones, 2011-2012, or Samsung Galaxy S running Android
+
+**제목:** 세계에서 가장 많이 쓰는 스마트폰 운영체제가 되다
+
+2011년 Android는 세계에서 가장 많이 쓰는 스마트폰 운영체제가 됐다.
+
+2013년 3월까지 7억 5천만 대가 넘는 기기에서 켜졌고, 앱 장터 Google Play에서 250억 개의 앱이 내려받아졌다.
+
+Samsung이 거절했던 회사의 운영체제로 Samsung의 Galaxy 폰도 만들어졌다.
+
+
+## 11.jpg · 10 · 떠날 때
+
+📷 **Photo:** Andy Rubin portrait around 2013-2014
+
+**제목:** Android를 넘기고 Google을 떠나다
+
+- **약 7.5억 대** — 떠날 때 Android 기기 수 (2013년 3월)
+- **약 10년** — Android 창업부터 떠날 때까지
+
+2013년 3월 Android를 순다르 피차이에게 넘기고 로봇 사업으로 옮겼으며, 2014년 10월 Google을 떠났다.
+
+2018년 NYT는 사내 성추행 조사 뒤 9천만 달러 퇴직 보상을 받았다고 보도했고, 그는 부인했다.
+
+
+## 12.jpg · 마무리
+
+📷 **Photo:** Andy Rubin portrait (person photo for the closing slide)
+
+**제목:** 운영체제를 무료로 풀어 스마트폰 표준을 만들다
+
+- 카메라를 버리고 휴대폰으로 바꾼 빠른 전환
+- 구글에 팔아 더 크게 키운 판단
+- 운영체제를 무료로 풀어 제조사를 끌어들인 전략
+
+
+---
+
+## 설명란 (캡션)
+
+Android는 원래 디지털카메라용 운영체제였어요.
+
+'Android'라는 별명을 가진 엔지니어 앤디 루빈은 2003년 카메라 운영체제 회사를 세웠다가 반년 만에 휴대폰으로 방향을 바꿨어요. Samsung에 거절당한 뒤 Google에 약 5천만 달러에 팔았고, iPhone이 나오자 설계를 다시 했어요. 운영체제를 제조사에 무료로 풀어 세계에서 가장 많이 쓰는 스마트폰 운영체제로 키웠어요.
+
+📊 Android는 Google 안의 사업이라 따로 매긴 회사 가치가 없어, 떠날 때 숫자는 Google이 발표한 Android 기기 수(2013년 3월)로 적었어요.
+
+🔗 검색 시리즈. Android를 산 Google 이야기는 #33, Android 설계를 바꾸게 한 iPhone의 Apple 이야기는 #01에서 볼 수 있어요.
+
+출처
+- Wikipedia, Andy Rubin / Android (operating system)
+- PhoneArena, Google spent just $50 million to buy Android (2014)
+- TechCrunch, Larry Page says there have now been 750M Android activations (2013.03.13)
+- Google 블로그, Update from the CEO (2013.03.13)
+- The New York Times, How Google protected Andy Rubin (2018.10)
+- 장별 회사 가치: 2005년 Google 인수가 약 5천만 달러. 인수 뒤 Android는 Google 사업부라 따로 표시하지 않음
+
+#기업집중탐구 #앤디루빈 #안드로이드 #Android #구글 #스마트폰 #창업 #창업스토리 #스타트업 #자기계발
+
+## 첫 댓글 (게시 후 우리 계정이 직접 닮)
+
+첫 스마트폰은 Android였나요, iPhone이었나요? 댓글로 알려 주세요.

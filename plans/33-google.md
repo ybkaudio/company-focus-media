@@ -1,0 +1,220 @@
+# 기업집중탐구 #33 · 래리 페이지·세르게이 브린 (Google)
+
+> 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
+
+🎵 **추천 음악:** Clocks – Coldplay (Google이 상장 준비로 바쁘던 2003년 대표곡) / 없으면 검색어 'clocks coldplay'
+
+## 01.jpg · 표지
+
+📷 **Photo:** Larry Page and Sergey Brin together with Google logo, around 1999-2003 (if no logo visible, production adds a Google logo sticker) / COVER LOGO: Google logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
+
+**제목:** 박사 연구에서 시작한 9천억 달러 검색 회사
+
+기업집중탐구 #33
+
+
+## 02.jpg · 01 · 배경
+
+📷 **Photo:** Young Larry Page and Sergey Brin at Stanford, mid-1990s
+
+**제목:** 스탠퍼드 캠퍼스 투어에서 동업자를 만나다
+
+1995년 여름 래리 페이지는 스탠퍼드 컴퓨터과학 박사 과정 입학 예정자로 캠퍼스를 둘러봤다.
+
+안내를 맡은 학생이 한 살 어린 박사 과정생 세르게이 브린이었다.
+
+페이지는 웹 전체의 링크 구조를 내려받아 분석하는 것을 박사 연구 주제로 골랐고, 수학을 잘하던 브린이 합류했다.
+
+
+## 03.jpg · 02 · 계기
+
+📷 **Photo:** Early Google/BackRub server rack made of LEGO bricks at Stanford, or Stanford Gates building 1996-97
+
+**제목:** 링크 수로 순위를 매기는 검색 엔진을 만들다
+
+당시 검색 엔진은 검색어가 페이지에 몇 번 나오는지로 순위를 매겨, 단어만 반복한 페이지가 위에 올라왔다.
+
+두 사람은 다른 페이지가 많이, 그리고 중요한 페이지가 링크할수록 높은 점수를 주는 'PageRank'를 만들었다.
+
+1996년 8월 내놓은 첫 버전 'BackRub'은 스탠퍼드 전체 네트워크 대역폭의 절반 가까이를 썼다.
+
+
+## 04.jpg · 03 · 창업
+
+📷 **Photo:** Susan Wojcicki's garage in Menlo Park, Google's first office 1998
+
+**제목:** 아직 없는 회사 앞으로 10만 달러 수표를 받다
+
+1998년 8월 <Sun Microsystems> 공동 창업자 앤디 벡톨샤임이 시연을 보고 'Google Inc.' 앞으로 10만 달러 수표를 써 줬다.
+
+회사가 아직 없어 수표를 바로 넣을 수 없었고, 두 사람은 9월 4일 회사를 세웠다.
+
+첫 사무실은 뒤에 YouTube CEO가 되는 수전 워치츠키의 멘로파크 차고였다.
+
+
+## 05.jpg · 04 · 위기
+
+📷 **Photo:** Larry Page and Sergey Brin around 1998-1999, early Google office
+
+**제목:** 100만 달러에 팔려다 거절당하다
+
+두 사람은 학업으로 돌아가려고 검색 기술을 팔려 했다.
+
+1999년 초 검색 포털 <Excite>에 100만 달러를 불렀고, 투자자 비노드 코슬라가 75만 달러까지 깎았지만 Excite CEO 조지 벨은 거절했다.
+
+팔지 못한 회사를 두 사람이 직접 키우게 됐다.
+
+
+## 06.jpg · 05 · 자금
+
+📷 **Photo:** Early Google office in Palo Alto (University Avenue) 1999, or Google team 1999
+
+**제목:** 두 벤처 투자사에서 2,500만 달러를 받다
+
+1999년 6월 벤처 투자사 <Kleiner Perkins>와 <Sequoia Capital>이 함께 2,500만 달러를 넣었다.
+
+두 투자사는 경험 있는 CEO를 데려오라는 조건을 붙였다.
+
+2000년 6월에는 당시 최대 포털 Yahoo의 기본 검색 엔진이 되면서 이용자가 크게 늘었다(#32).
+
+
+## 07.jpg · 06 · 첫 성과
+
+📷 **Photo:** Google search results page with AdWords text ads, early 2000s screenshot
+
+**제목:** 검색어 옆 글자 광고로 돈 버는 법을 찾다
+
+2000년 10월 검색어에 맞춰 결과 옆에 짧은 글자 광고를 붙이는 <AdWords>를 시작했다.
+
+2002년부터는 광고주가 클릭될 때만 돈을 내고, 입찰가와 클릭률을 함께 따져 광고 순서를 정했다.
+
+사용자가 많이 누르는 광고가 위로 올라가, 검색 품질을 해치지 않고 광고 수입을 늘릴 수 있었다.
+
+
+## 08.jpg · 07 · 성장
+
+📷 **Photo:** Larry Page, Sergey Brin and Eric Schmidt together, early 2000s
+
+**제목:** 전문 경영인을 들이고 첫 흑자를 내다
+
+2001년 8월 투자사 조건에 따라 <Novell> CEO 에릭 슈미트를 CEO로 데려왔다.
+
+페이지는 제품, 브린은 기술을 맡았고, 세 사람이 함께 회사를 이끌었다.
+
+그해 회사는 처음으로 흑자를 냈다.
+
+
+## 09.jpg · 08 · 확장
+
+📷 **Photo:** Google AdSense ads on a website, 2003-2004, or Googleplex campus 2004
+
+**제목:** 남의 사이트에도 광고를 붙이다
+
+2003년 다른 웹사이트에 내용에 맞는 Google 광고를 붙이고 수입을 나누는 <AdSense>를 내놨다.
+
+검색창 밖의 수많은 사이트가 광고 지면이 되면서, 광고주는 더 많은 곳에 광고를 낼 수 있었다.
+
+2003년 매출은 9억 6,180만 달러, 순이익은 1억 560만 달러였다.
+
+
+## 10.jpg · 09 · 정점
+
+📷 **Photo:** Larry Page and Sergey Brin at Google IPO, NASDAQ, August 2004
+
+**제목:** 경매 방식으로 상장해 16억 7천만 달러를 모으다
+
+2004년 8월 19일 투자자 누구나 입찰하는 경매 방식으로 주당 85달러에 상장했다.
+
+16억 7천만 달러를 모았고, 회사 가치는 230억 달러를 넘었다.
+
+두 사람은 의결권이 큰 별도 주식을 가져 상장 뒤에도 경영권을 지켰다.
+
+
+## 11.jpg · 10 · 확장
+
+📷 **Photo:** Google and YouTube founders at acquisition announcement, October 2006, or first Android phone (T-Mobile G1) 2008
+
+**제목:** Android·YouTube를 사서 모바일·영상으로 넓히다
+
+2005년 스마트폰 운영체제를 만들던 작은 회사 <Android>를 약 5천만 달러에 샀다(#34).
+
+2006년 10월 동영상 사이트 <YouTube>를 16억 5천만 달러에 샀다(#10).
+
+검색 광고로 번 돈으로 휴대폰과 영상이라는 새 광고 지면을 확보했다.
+
+
+## 12.jpg · 11 · 위기
+
+📷 **Photo:** Larry Page portrait around 2012, or Motorola Mobility headquarters 2012
+
+**제목:** 125억 달러에 산 Motorola를 29억 달러에 팔다
+
+2011년 4월 페이지가 CEO로 돌아왔다.
+
+2012년 휴대폰 회사 <Motorola Mobility>를 125억 달러에 샀지만 휴대폰 사업은 적자를 냈고, 2014년 약 29억 1천만 달러에 Lenovo로 넘겼다.
+
+같은 해 내놓은 SNS <Google+>도 이용자를 잡지 못해 2019년 문을 닫았다.
+
+
+## 13.jpg · 12 · 확장
+
+📷 **Photo:** Alphabet logo announcement 2015, or Larry Page and Sergey Brin around 2015
+
+**제목:** Alphabet을 세워 검색 밖 사업을 나누다
+
+2015년 8월 지주회사 <Alphabet>을 세우고 Google을 그 아래 자회사로 뒀다.
+
+페이지가 Alphabet CEO, 브린이 사장을 맡고, Google CEO는 순다르 피차이에게 맡겼다.
+
+자율주행·생명과학 같은 새 사업을 검색 광고와 따로 운영하고 실적도 따로 공개했다.
+
+
+## 14.jpg · 13 · 떠날 때
+
+📷 **Photo:** Larry Page and Sergey Brin portrait around 2019, or Sundar Pichai 2019
+
+**제목:** CEO 둘은 필요 없다며 경영에서 물러나다
+
+- **약 9천억 달러** — 떠날 때 회사 가치 (시가총액, 2019년 12월)
+- **약 21년** — 회사 설립부터 떠날 때까지
+
+2019년 12월 'CEO 둘과 사장이 필요 없다'며 물러나고 피차이에게 Alphabet CEO를 넘겼다.
+
+이사회에 남아 의결권 과반은 그대로 가졌다.
+
+
+## 15.jpg · 마무리
+
+📷 **Photo:** Larry Page and Sergey Brin portrait (person photo for the closing slide)
+
+**제목:** 검색 품질을 지키며 광고로 돈을 벌다
+
+- 링크 수로 순위를 매긴 기술적 발상
+- 검색 옆 글자 광고로 만든 수익 구조
+- 의결권을 지켜 멀리 내다본 경영
+
+
+---
+
+## 설명란 (캡션)
+
+Google은 팔리지 않아서 살아남은 회사였어요.
+
+래리 페이지와 세르게이 브린은 스탠퍼드 박사 과정에서 링크 수로 웹페이지 순위를 매기는 검색 엔진을 만들었어요. 75만 달러에도 팔리지 않은 회사를 직접 키웠고, 클릭률로 순서를 정하는 검색 광고로 돈 버는 법을 찾았어요. 상장 뒤 Android·YouTube를 샀지만 Motorola 인수에서는 크게 손해를 봤고, 2019년 경영에서 물러났어요.
+
+🔗 검색 시리즈. Google을 100만 달러에 살 수 있었던 Yahoo 이야기는 #32, Google이 산 Android는 #34, YouTube는 #10에서 볼 수 있어요.
+
+출처
+- Wikipedia, History of Google / Larry Page / Sergey Brin
+- WordStream, The Evolution of AdWords (2012)
+- InformationWeek, Google Files Long-Awaited IPO (2004.04)
+- Bloomberg, Google Ends Its Motorola Misadventure (2014.01.29)
+- CNN, Google co-founders step down (2019.12.04)
+- Palo Alto Daily Post (AP), Page and Brin stepping down (2019.12.03)
+- 장별 회사 가치: 1999년 Excite 매각 제안가 약 100만 달러, 1999년 6월 투자 라운드(2,500만 달러) 기준, 2004년 이후는 시가총액
+
+#기업집중탐구 #래리페이지 #세르게이브린 #구글 #Google #검색 #창업 #창업스토리 #스타트업 #자기계발
+
+## 첫 댓글 (게시 후 우리 계정이 직접 닮)
+
+Google이 75만 달러에 팔렸다면 지금 검색은 어땠을까요? 댓글로 알려 주세요.

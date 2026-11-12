@@ -1,0 +1,284 @@
+# 기업집중탐구 #41 · 폴 앨런 (Microsoft)
+
+> 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
+
+🎵 **추천 음악:** Purple Haze – Jimi Hendrix (앨런이 평생 좋아해 시애틀에 박물관까지 세운 기타리스트) / 없으면 검색어 'jimi hendrix'
+
+## 01.jpg · 표지
+
+📷 **Photo:** Paul Allen and Bill Gates together, late 1970s-early 1980s (Allen must be clearly the main figure; crop or keep Gates smaller) / COVER LOGO: Microsoft logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
+
+**제목:** 잡지 표지 한 장에서 시작한 마이크로소프트
+
+기업집중탐구 #41
+
+
+## 02.jpg · 01 · 배경
+
+📷 **Photo:** Young Paul Allen and Bill Gates at the Lakeside School teletype terminal, 1968-1970
+
+**제목:** 프로그램 오류를 찾아 주고 컴퓨터를 공짜로 쓰다
+
+시애틀 레이크사이드 고등학교는 1968년 학부모회 바자회 수익으로 원격 단말기를 들여, 학생들이 전화선으로 대형 컴퓨터를 빌려 쓰게 했다.
+
+두 학년 아래 빌 게이츠(#02 주인공)를 이 단말기 앞에서 만났다.
+
+컴퓨터 사용료는 시간 단위로 나와 학생이 감당하기 어려웠다.
+
+두 사람은 지역 회사 <Computer Center Corporation>의 컴퓨터에서 오류를 찾아 보고하는 대가로 사용 시간을 공짜로 받았다.
+
+
+## 03.jpg · 02 · 배경
+
+📷 **Photo:** Traf-O-Data machine (Intel 8008 based traffic tape reader), early 1970s
+
+**제목:** Intel 칩으로 교통량 기계를 만들어 첫 회사 Traf-O-Data를 세우다
+
+당시 시청은 도로에 깐 고무관이 종이테이프에 찍은 차량 통과 기록을 사람이 손으로 세어 교통량을 냈다.
+
+두 사람은 Intel의 8008 칩으로 이 테이프를 읽어 집계하는 기계를 만들고 <Traf-O-Data>를 세웠다.
+
+기계가 완성되기 전 앨런은 대형 컴퓨터 안에서 8008 칩을 흉내 내는 프로그램(에뮬레이터)을 짜, 칩 없이도 소프트웨어를 먼저 개발했다.
+
+주 정부가 집계를 무료로 해 주기 시작하면서 사업은 커지지 못했지만, 이 에뮬레이터 방식은 3년 뒤 Microsoft의 첫 제품을 만드는 방법이 된다.
+
+
+## 04.jpg · 03 · 배경
+
+📷 **Photo:** Paul Allen portrait, early-mid 1970s (Honeywell / Boston era if available)
+
+**제목:** 대학을 그만두고 보스턴으로 가 게이츠에게 창업을 권하다
+
+워싱턴주립대를 2년 다니고 그만둔 뒤, 하버드에 입학한 게이츠 근처에 있으려고 보스턴의 컴퓨터 회사 <Honeywell>에 프로그래머로 들어갔다.
+
+앨런은 칩 하나에 계산 장치를 담은 마이크로프로세서가 싸지면 개인이 컴퓨터를 갖게 되고, 거기에 들어갈 소프트웨어가 필요해질 것이라고 봤다.
+
+그는 게이츠에게 계속 회사를 차리자고 했지만, 게이츠는 학업을 이유로 망설였다.
+
+
+## 05.jpg · 04 · 계기
+
+📷 **Photo:** Popular Electronics January 1975 cover with the Altair 8800
+
+**제목:** 잡지 표지의 Altair를 보고 BASIC이 있다고 먼저 연락하다
+
+1974년 12월 하버드 광장 신문 가판대에서 <Popular Electronics> 1975년 1월호를 샀다.
+
+표지는 397달러짜리 조립식 컴퓨터 <Altair 8800>이었다.
+
+Altair에는 쓸 수 있는 프로그램이 없었다.
+
+앨런은 게이츠에게 남이 먼저 하기 전에 프로그래밍 언어 BASIC을 만들자고 했다.
+
+두 사람은 아직 한 줄도 쓰지 않은 상태에서 제조사 <MITS>의 대표 에드 로버츠에게 BASIC이 있다고 연락했다.
+
+로버츠는 먼저 작동하는 BASIC을 가져오는 쪽과 계약하겠다고 답했다.
+
+
+## 06.jpg · 05 · 첫 성과
+
+📷 **Photo:** Altair 8800 computer, 1975 (or Paul Allen with an Altair)
+
+**제목:** 컴퓨터 없이 8주 만에 만든 BASIC, 첫 시연에서 작동하다
+
+Altair 실물이 없어서, 앨런은 Traf-O-Data 때처럼 하버드의 대형 컴퓨터에 Altair의 8080 칩을 흉내 내는 에뮬레이터를 짰다.
+
+게이츠는 그 위에서 BASIC을 썼다.
+
+약 8주 뒤인 1975년 3월 앨런이 혼자 앨버커키의 MITS로 날아갔다.
+
+프로그램을 컴퓨터에 불러들이는 짧은 코드는 비행기 안에서 썼다.
+
+실제 Altair에서 처음 돌린 BASIC은 한 번에 작동했고, MITS는 계약을 맺으며 앨런을 소프트웨어 담당 책임자로 뽑았다.
+
+
+## 07.jpg · 06 · 창업
+
+📷 **Photo:** Early Micro-Soft office in Albuquerque, 1975-1978 (or Allen and Gates young portrait)
+
+**제목:** Micro-Soft라 이름 짓고 지분을 60 대 40으로 나누다
+
+1975년 4월 4일 앨버커키에서 동업 회사를 세웠다.
+
+이름은 앨런이 '마이크로컴퓨터 소프트웨어'를 줄여 <Micro-Soft>로 지었다.
+
+따로 넣은 자본금은 없었고, 첫 돈은 MITS와 맺은 BASIC 계약이었다.
+
+계약금 3,000달러에 한 부 팔릴 때마다 사용료를 받고, 사용료 합계는 18만 달러까지로 정했다.
+
+게이츠는 BASIC을 자기가 더 많이 썼다며 지분 60 대 40을 요구했고, 앨런은 받아들였다.
+
+1977년 게이츠의 요구로 비율은 64 대 36이 됐다.
+
+
+## 08.jpg · 07 · 위기
+
+📷 **Photo:** MITS Altair company building in Albuquerque, 1970s (or Pertec Altair ad)
+
+**제목:** MITS와 분쟁 끝에 BASIC 판매권을 지키다
+
+Altair 사용자들이 BASIC을 복사해 돌려 쓰면서, 한 부당 받는 사용료는 기대에 크게 못 미쳤다.
+
+1977년 MITS가 컴퓨터 회사 <Pertec>에 팔리자, Pertec은 BASIC의 권리가 자기 회사에 있다며 Micro-Soft가 다른 회사에 BASIC을 파는 것을 막았다.
+
+앨런은 1976년 말 MITS를 나와 Micro-Soft 일에 전념하고 있었다.
+
+두 사람은 중재로 맞섰고 1977년 말 이겼다.
+
+이 결정으로 BASIC을 어느 컴퓨터 회사에나 팔 수 있게 됐다.
+
+
+## 09.jpg · 08 · 성장
+
+📷 **Photo:** Famous Microsoft staff group photo, Albuquerque, December 1978
+
+**제목:** BASIC을 여러 회사에 팔아 매출 100만 달러를 넘기다
+
+같은 BASIC을 컴퓨터 회사마다 고쳐 넣어 주고 사용료를 받는 구조라, 새로 만드는 비용 없이 고객을 늘릴 수 있었다.
+
+1977년 이후 <Apple>·<Commodore>·<Tandy>가 차례로 Microsoft BASIC을 썼고, 1978년에는 일본 회사 <ASCII>와 계약해 아시아에도 팔았다.
+
+1978년 매출은 약 140만 달러였다.
+
+직원 10여 명의 회사는 1979년 1월 두 사람의 고향 근처 워싱턴주 벨뷰로 옮겼다.
+
+
+## 10.jpg · 09 · 확장
+
+📷 **Photo:** Microsoft Z-80 SoftCard for the Apple II, 1980
+
+**제목:** Apple II에 꽂는 카드로 그해 최대 매출 상품을 내다
+
+당시 업무용 프로그램은 대부분 운영체제 CP/M에서 돌았는데, 가장 많이 팔리던 Apple II는 CP/M을 쓸 수 없었다.
+
+앨런은 Apple II의 확장 슬롯에 꽂으면 CP/M 프로그램이 돌아가는 회로 카드 <SoftCard>를 기획했다.
+
+Microsoft의 첫 하드웨어 제품이었다.
+
+1980년 4월 349달러에 내놓아 석 달 만에 5,000장이 팔렸고, 그해 회사의 가장 큰 매출원이 됐다.
+
+Microsoft의 언어 프로그램을 Apple II 사용자에게 팔 길도 함께 열렸다.
+
+
+## 11.jpg · 10 · 확장
+
+📷 **Photo:** IBM Personal Computer 5150 with PC-DOS, 1981
+
+**제목:** 7만 5천 달러에 산 운영체제로 IBM PC를 잡다
+
+1980년 IBM이 개인용 컴퓨터를 만들며 운영체제를 찾았다.
+
+가장 유력하던 Digital Research와의 협상은 진척되지 않았다.
+
+앨런은 시애틀의 작은 회사 <Seattle Computer Products>가 IBM과 같은 Intel 8086 칩용 운영체제 86-DOS를 만든 것을 알고 있었다.
+
+Microsoft는 1980년 12월 2만 5천 달러에 사용권을, 1981년 7월 5만 달러에 모든 권리를 사들였고, 이를 고쳐 IBM에 넘겼다.
+
+IBM에만 독점으로 주지 않고 다른 제조사에도 팔 권리를 남겼다.
+
+이 권리로 IBM 호환 PC가 늘수록 MS-DOS 사용료가 들어오는 구조가 됐다.
+
+
+## 12.jpg · 11 · 자금
+
+📷 **Photo:** Paul Allen at Microsoft, early 1980s
+
+**제목:** 법인으로 바꾸고 100만 달러 투자를 받다
+
+1981년 6월 동업 회사를 주식회사 <Microsoft Inc.>로 바꿨다.
+
+앨런은 부사장이자 이사로 약 31%를 가진 2대 주주였다.
+
+9월 벤처 투자사 <Technology Venture Investors>가 100만 달러를 넣고 약 5%를 받았다.
+
+회사 가치를 약 2천만 달러로 본 투자였다.
+
+8월 나온 IBM PC에 PC-DOS가 실렸고, 그해 매출은 약 1,600만 달러로 한 해 전의 두 배가 됐다.
+
+
+## 13.jpg · 12 · 위기
+
+📷 **Photo:** Paul Allen portrait around 1982-1983
+
+**제목:** 암 치료 중에 지분을 줄이자는 대화를 듣다
+
+1982년 혈액암의 하나인 호지킨 림프종 진단을 받고 방사선 치료를 시작했다.
+
+일하는 시간이 크게 줄었다.
+
+그해 12월 퇴사를 고민한다고 밝힌 직후, 게이츠와 스티브 발머가 앨런의 일이 줄었다며 자기들과 다른 주주에게 스톡옵션을 발행해 그의 지분을 희석하는 방안을 이야기하는 것을 들었다(앨런의 2011년 회고록).
+
+앨런이 방에 들어가 따지자 두 사람은 사과했다.
+
+이 일은 그가 회사를 떠나기로 마음을 굳힌 이유가 됐다.
+
+
+## 14.jpg · 13 · 떠날 때
+
+📷 **Photo:** Paul Allen portrait, 1983
+
+**제목:** 주당 5달러 제안을 거절하고 지분을 지킨 채 떠나다
+
+- **약 1억 달러** — 떠날 때 회사 가치 (추정, 1983년)
+- **약 8년** — 회사 설립부터 떠날 때까지
+
+1983년 건강을 이유로 부사장에서 물러나 경영에서 손을 뗐다.
+
+게이츠는 그의 주식을 주당 5달러에 사겠다고 했고, 앨런은 10달러 아래로는 팔지 않겠다고 해 거래는 무산됐다.
+
+그는 지분을 그대로 갖고 이사로만 남았다.
+
+
+## 15.jpg · 14 · 그 뒤
+
+📷 **Photo:** Microsoft IPO day, March 1986 (or Paul Allen portrait late 1980s)
+
+**제목:** 팔지 않은 지분, 상장으로 억만장자가 되다
+
+1986년 3월 Microsoft는 주당 21달러로 상장해 회사 가치 약 5억 1,900만 달러를 인정받았다.
+
+앨런과 게이츠 두 사람이 지분의 75% 넘게 갖고 있었다.
+
+주당 5달러에 넘겼다면 놓쳤을 가치였다.
+
+이듬해 그는 억만장자 명단에 올랐다.
+
+그는 2000년 이사회에서 물러날 때까지 이사로 남았고, 2018년 세상을 떠났다.
+
+
+## 16.jpg · 마무리
+
+📷 **Photo:** Paul Allen portrait (person photo for the closing slide)
+
+**제목:** 기계보다 먼저 소프트웨어를 보다
+
+- Altair 표지를 보자마자 BASIC을 제안한 안목
+- 칩도 컴퓨터도 없이 에뮬레이터로 개발한 기술
+- 86-DOS를 찾아내 IBM PC 운영체제를 연 수완
+
+
+---
+
+## 설명란 (캡션)
+
+빌 게이츠에게 Microsoft를 차리자고 먼저 말한 사람은 폴 앨런이었어요.
+
+앨런은 잡지 표지에서 Altair를 보고 게이츠와 BASIC을 만들었고, 컴퓨터도 없이 직접 짠 에뮬레이터로 8주 만에 완성해 Microsoft를 세웠어요. 이름을 짓고, Apple II용 SoftCard를 기획하고, IBM PC에 들어간 운영체제를 찾아낸 것도 그였어요. 암 치료 중 지분을 줄이자는 대화를 듣고 떠났지만, 주당 5달러 제안을 거절하고 지킨 지분으로 억만장자가 됐어요.
+
+🔗 Microsoft 시리즈. 함께 Microsoft를 세운 빌 게이츠 이야기는 #02, 앨런의 SoftCard가 꽂힌 Apple II를 설계한 스티브 워즈니악 이야기는 #42에서 볼 수 있어요.
+
+📊 떠날 때 회사 가치는 공개된 값이 없어, 1981년 투자 기준 가치(약 2천만 달러, 그해 매출 약 1,600만 달러)와 1986년 상장 가치(약 5억 1,900만 달러, 직전 회계연도 매출 약 1억 4천만 달러) 사이의 매출 대비 배수를 1983 회계연도 매출 약 5천만 달러에 곱한 추정치예요.
+
+출처
+- Wikipedia, Paul Allen / History of Microsoft / Altair BASIC / Traf-O-Data / 86-DOS / Z-80 SoftCard
+- iTnews·Fox Business(Reuters), Microsoft co-founder Allen blasts Gates in book (2011.03)
+- Paul Allen, Idea Man (2011)
+- Eqvista, Pre-IPO Cap Table: Microsoft (TVI 100만 달러·약 5%·약 2천만 달러, 1986 상장)
+- GeekWire, A new look at Microsoft's startup story (2024)
+- 장별 회사 가치: 1981년 TVI 투자 기준 약 2천만 달러, 그 앞뒤는 해마다 매출(1978 약 140만, 1980 약 800만, 1982 약 2,450만 달러)로 셈한 추정
+
+#기업집중탐구 #폴앨런 #마이크로소프트 #Microsoft #빌게이츠 #창업 #창업스토리 #스타트업 #자기계발
+
+## 첫 댓글 (게시 후 우리 계정이 직접 닮)
+
+여러분이라면 주당 5달러 제안을 받아들였을까요? 댓글로 알려 주세요.
