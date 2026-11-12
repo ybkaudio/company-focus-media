@@ -186,7 +186,7 @@ GPU는 작은 계산을 수천 개씩 동시에 하는 칩이었다.
 
 📷 **Photo:** NVIDIA GeForce GTX 580 graphics card (or AlexNet researchers, 2012)
 
-**제목:** 게임용 그래픽카드 두 장이 AI를 깨우다
+**제목:** 6년 뒤 GTX 580, 인공지능의 시작이 되다
 
 2012년 토론토대 연구팀은 게임용 그래픽카드 GeForce GTX 580 두 장으로 사진을 알아보는 인공 신경망 'AlexNet'을 학습시켰다.
 
