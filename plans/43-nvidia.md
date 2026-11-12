@@ -264,7 +264,7 @@ AI 학습용 GPU 시장의 80% 넘게를 NVIDIA가 차지했다.
 
 📷 **Photo:** Jensen Huang portrait (person photo for the closing slide)
 
-**제목:** 게임 칩으로 시작해 AI의 엔진을 만들다
+**제목:** 부디 그가 해임되지 않길..
 
 - Sega에 실패를 털어놓고 투자를 받아 낸 솔직함
 - 돈이 안 되던 CUDA에 10억 달러를 건 뚝심
