@@ -17,7 +17,7 @@
 
 📷 **Photo:** Oneida Baptist Institute, Kentucky (campus photo) or young Jensen Huang, 1970s
 
-**제목:** 잘못 들어간 기숙학교에서 불량배들에게 괴롭힘을 당하다
+**제목:** 잘못 들어간 기숙학교 불량배들에게 괴롭힘 당하다
 
 젠슨 황은 1963년 대만에서 태어나 아홉 살 무렵 형과 함께 미국 친척 집으로 보내졌다.
 
