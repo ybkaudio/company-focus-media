@@ -8,9 +8,9 @@
 
 📷 **Photo:** Jensen Huang in his black leather jacket on stage, NVIDIA logo visible (or Jensen Huang portrait) / COVER LOGO: NVIDIA logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 데니스 식당 부스에서 시작한 엔비디아
+**제목:** 젠슨 황이 지금까지 일궈온 것들
 
-기업집중탐구 #43
+기업집중탐구
 
 
 ## 02.jpg · 01 · 배경
