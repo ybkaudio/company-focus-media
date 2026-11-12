@@ -39,7 +39,7 @@
 1984년 오리건주립대 전기공학과를 최우등으로 졸업했고, 실험 파트너였던 로리와 결혼했다.
 
 
-## 04.jpg · 03 · 계기
+## 04.jpg · 03 · 배경
 
 📷 **Photo:** Jensen Huang at LSI Logic, early 1990s (or LSI Logic office)
 
