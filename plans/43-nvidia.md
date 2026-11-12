@@ -156,7 +156,7 @@ Sega는 남은 계약금을 주는 대신 500만 달러를 NVIDIA 지분에 투�
 
 📷 **Photo:** Original Microsoft Xbox console 2001 with NVIDIA chip
 
-**제목:** Microsoft Xbox 칩을 따내고 경쟁사를 사들이다
+**제목:** Xbox와의 공급 계약, 그리고 외부 기술 구매
 
 2000년 Microsoft의 첫 게임기 <Xbox>에 들어갈 그래픽 칩 계약을 따내며 2억 달러를 미리 받았다.
 
