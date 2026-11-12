@@ -43,7 +43,7 @@
 
 📷 **Photo:** Jensen Huang at LSI Logic, early 1990s (or LSI Logic office)
 
-**제목:** 칩 회사에서 일하며 그래픽 칩 동료를 만나다
+**제목:** AMD등 회사에서 칩 설계 일을 하다
 
 졸업 뒤 반도체 회사 <AMD>에서 마이크로프로세서를 설계했고, 이어 <LSI Logic>으로 옮겨 사업부 책임자가 됐다.
 
