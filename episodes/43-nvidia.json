@@ -63,7 +63,7 @@
       ],
       "photo_hint": "Jensen Huang at LSI Logic, early 1990s (or LSI Logic office)",
       "value": "회사 설립 전",
-      "photo_note": "AMD Am386 칩"
+      "photo_note": "젊은 시절 젠슨 황 (연도 미상)"
     },
     {
       "index": "04 · 창업",
@@ -180,10 +180,13 @@
       ],
       "photo_hint": "Original Microsoft Xbox console 2001 with NVIDIA chip",
       "value": "회사 가치 약 100억 달러(2001년 시가총액 추정)",
-      "photo_note": "Microsoft 첫 Xbox 본체와 컨트롤러",
-      "bgsize": "140% auto",
-      "bgpos": "center 40px",
-      "photo_fade": "50-66"
+      "photo_note": "2000년대 초 젠슨 황 · 작은 사진: Microsoft 첫 Xbox",
+      "sticker": {
+        "src": "43-nvidia/photos/11-sticker.png",
+        "size": 440,
+        "right": 60,
+        "top": 200
+      }
     },
     {
       "index": "11 · 투자",
@@ -198,7 +201,13 @@
       ],
       "photo_hint": "NVIDIA CUDA launch 2006 / GeForce 8800 GTX",
       "value": "회사 가치 약 150억 달러(시가총액 추정)",
-      "photo_note": "CUDA 구조 설명 그림 (NotebookLM 생성)"
+      "photo_note": "Stanford 강연 중인 젠슨 황 · 작은 그림: CUDA 구조 설명 (NotebookLM 생성)",
+      "sticker": {
+        "src": "43-nvidia/photos/12-sticker.png",
+        "size": 440,
+        "right": 60,
+        "top": 200
+      }
     },
     {
       "index": "12 · 혁신",
@@ -259,7 +268,7 @@
       ],
       "photo_hint": "Jensen Huang at GTC keynote with Blackwell chip, 2024-2025",
       "value": "회사 가치 약 5조 달러(2025년 10월 시가총액)",
-      "photo_note": "GTC 기조연설 중인 젠슨 황"
+      "photo_note": "CES 2025 기조연설 중인 젠슨 황"
     },
     {
       "type": "stats",
