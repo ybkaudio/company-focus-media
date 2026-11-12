@@ -73,7 +73,7 @@ PC로 3D 게임을 하려면 그래픽만 맡는 칩이 필요해진다는 판�
 
 📷 **Photo:** Sequoia Capital office / Don Valentine (or early NVIDIA founders photo, 1990s)
 
-**제목:** 제품이 없어도 투자를 이끌어 준 전 직장 회장 윌프 코리건
+**제목:** 제품이 없어도 믿었던 전 직장 회장 윌프 코리건
 
 경력도 제품도 없는 서른 살 창업자에게 투자자들은 쉽게 돈을 내주지 않았다.
 
