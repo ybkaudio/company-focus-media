@@ -8,7 +8,7 @@
 
 📷 **Photo:** Jensen Huang in his black leather jacket on stage, NVIDIA logo visible (or Jensen Huang portrait) / COVER LOGO: NVIDIA logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 젠슨 황이 지금까지 일궈온 것들
+**제목:** 사임된 젠슨 황, 엔비디아에서 그가 지금까지 일궈온 것들
 
 기업집중탐구
 
