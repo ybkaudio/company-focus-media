@@ -73,13 +73,15 @@ PC로 3D 게임을 하려면 그래픽만 맡는 칩이 필요해진다는 판�
 
 📷 **Photo:** Sequoia Capital office / Don Valentine (or early NVIDIA founders photo, 1990s)
 
-**제목:** 전 직장 사장의 전화 한 통으로 Sequoia 투자를 받다
+**제목:** 전 직장 회장 덕에 제품 없이 투자를 받아내다
 
 경력도 제품도 없는 서른 살 창업자에게 투자자들은 쉽게 돈을 내주지 않았다.
 
-LSI Logic 창업자 윌프 코리건이 실리콘밸리 투자사 <Sequoia Capital>의 돈 밸런타인에게 그를 소개했다.
+발표는 형편없었지만, 전 직장 LSI Logic의 회장 윌프 코리건이 <Sequoia Capital>의 돈 밸런타인에게 투자를 강하게 권했다.
 
-Sequoia와 <Sutter Hill Ventures> 등이 상장 전까지 약 2,000만 달러를 넣었다.
+Sequoia는 사업 계획보다 코리건의 추천을 믿고 투자했다.
+
+상장 전까지 들어온 돈은 약 2,000만 달러다.
 
 
 ## 07.jpg · 06 · 위기
