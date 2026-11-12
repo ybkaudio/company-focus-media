@@ -118,7 +118,7 @@ Sega는 남은 계약금을 주는 대신 500만 달러를 NVIDIA 지분에 투�
 1996년 직원은 100명에서 40명으로 줄었다.
 
 
-## 09.jpg · 08 · 첫 성과
+## 09.jpg · 08 · 방향 전환
 
 📷 **Photo:** NVIDIA RIVA 128 chip / graphics card, 1997
 
