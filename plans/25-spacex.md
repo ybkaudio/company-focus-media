@@ -234,7 +234,7 @@ PayPal 매각을 앞두고 다음 일을 찾던 2001년, 그는 NASA 웹사이�
 
 📷 **Photo:** [새 사진 필요] Falcon Heavy side boosters landing simultaneously (Feb 2018), or Starman in the Tesla Roadster with Earth behind
 
-**제목:** Roadster를 싣고 쏜 Falcon Heavy, 부스터 둘이 나란히 내려앉다
+**제목:** Roadster를 실은 Falcon Heavy, 부스터 둘이 나란히 내려앉다
 
 2018년 2월 Falcon 9 세 대를 묶은 <Falcon Heavy>가 첫 발사에 나섰다.
 
