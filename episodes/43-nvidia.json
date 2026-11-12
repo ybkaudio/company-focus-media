@@ -1,7 +1,7 @@
 {
   "no": 43,
   "company": "NVIDIA",
-  "company_ko": "엔비디아",
+  "company_ko": "NVIDIA",
   "person": "젠슨 황",
   "accent": "#76B900",
   "handle": "@company.focus",
@@ -13,8 +13,9 @@
       "type": "cover",
       "photo": null,
       "title": "데니스 식당 부스에서 시작한\n엔비디아",
+      "bgpos": "6% center",
       "body": [
-        "기업집중탐구 #43"
+        "기업집중탐구"
       ],
       "photo_hint": "Jensen Huang in his black leather jacket on stage, NVIDIA logo visible (or Jensen Huang portrait) / COVER LOGO: NVIDIA logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)"
     },
