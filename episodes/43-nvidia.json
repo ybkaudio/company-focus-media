@@ -163,9 +163,9 @@
       "photo_hint": "NVIDIA GeForce 256 graphics card, 1999 (or NASDAQ IPO 1999)",
       "value": "회사 가치 약 6억 달러(상장 시 추정)",
       "photo_note": "NVIDIA GeForce 256 칩",
-   "bgsize": "100% auto",
-   "bgpos": "center top",
-   "photo_fade": "58-80"
+      "bgsize": "100% auto",
+      "bgpos": "center top",
+      "photo_fade": "58-80"
     },
     {
       "index": "10 · 성장",
@@ -201,7 +201,7 @@
       "index": "12 · 방향 전환",
       "when": "2012 · 49세",
       "photo": null,
-      "title": "6년 뒤 GTX 580,\n인공지능의 시작이 되다",
+      "title": "6년 뒤 나온 GTX 580,\n인공지능의 시작이 되다",
       "title_size": 70,
       "body": [
         "2012년 토론토대 연구팀은 게임용 그래픽카드 GeForce GTX 580 두 장으로 사진을 알아보는 인공 신경망 'AlexNet'을 학습시켰다.",
@@ -216,7 +216,7 @@
       "index": "13 · 확장",
       "when": "2016 · 53세",
       "photo": null,
-      "title": "머신러닝 전용 컴퓨터를\n신인 OpenAI에 공급하다",
+      "title": "머신러닝 전용 컴퓨터를\n초창기 OpenAI에 공급하다",
       "title_size": 70,
       "body": [
         "2016년 AI 학습 전용 컴퓨터 <DGX-1>을 내놨다. 한 대 값은 약 13만 달러였다.",

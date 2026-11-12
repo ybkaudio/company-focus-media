@@ -188,7 +188,7 @@ GPU는 작은 계산을 수천 개씩 동시에 하는 칩이었다.
 
 📷 **Photo:** NVIDIA GeForce GTX 580 graphics card (or AlexNet researchers, 2012)
 
-**제목:** 6년 뒤 GTX 580, 인공지능의 시작이 되다
+**제목:** 6년 뒤 나온 GTX 580, 인공지능의 시작이 되다
 
 2012년 토론토대 연구팀은 게임용 그래픽카드 GeForce GTX 580 두 장으로 사진을 알아보는 인공 신경망 'AlexNet'을 학습시켰다.
 
@@ -203,7 +203,7 @@ AlexNet은 그해 이미지 인식 대회에서 2등과 큰 차이로 우승했�
 
 📷 **Photo:** Jensen Huang delivering the first DGX-1 to OpenAI, 2016
 
-**제목:** 머신러닝 전용 컴퓨터를 신인 OpenAI에 공급하다
+**제목:** 머신러닝 전용 컴퓨터를 초창기 OpenAI에 공급하다
 
 2016년 AI 학습 전용 컴퓨터 <DGX-1>을 내놨다.
 
