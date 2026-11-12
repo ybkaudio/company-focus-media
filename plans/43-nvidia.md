@@ -56,7 +56,7 @@ LSI에서 그는 <Sun Microsystems>의 엔지니어 크리스 말라코스키, �
 
 📷 **Photo:** The Denny's booth in San Jose where NVIDIA was founded (plaque photo, 2023)
 
-**제목:** Denny's 부스에서 600달러로 회사를 세우다
+**제목:** 알바하던 식당에서 그래픽 칩 사업을 시작하다
 
 세 사람은 1992년 산호세의 Denny's 부스에 모여, 커피를 시켜 놓고 몇 시간씩 사업을 의논했다.
 
