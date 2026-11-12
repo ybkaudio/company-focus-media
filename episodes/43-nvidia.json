@@ -162,7 +162,10 @@
       ],
       "photo_hint": "NVIDIA GeForce 256 graphics card, 1999 (or NASDAQ IPO 1999)",
       "value": "회사 가치 약 6억 달러(상장 시 추정)",
-      "photo_note": "NVIDIA GeForce 256 칩"
+      "photo_note": "NVIDIA GeForce 256 칩",
+   "bgsize": "100% auto",
+   "bgpos": "center top",
+   "photo_fade": "58-80"
     },
     {
       "index": "10 · 성장",

@@ -76,6 +76,9 @@ def slide_html(ep, s, i, n, base):
         mime = "image/png" if p.suffix.lower() == ".png" else "image/jpeg"
         uri = f"data:{mime};base64," + base64.b64encode(p.read_bytes()).decode()
         extra = (f';background-size:{s["bgsize"]}' if s.get("bgsize") else '') + (f';background-position:{s["bgpos"]}' if s.get("bgpos") else '')
+        if s.get("photo_fade"):   # 11/12 사용자: 사진은 위쪽 N%까지만, 그 아래는 검정 그라데이션 ("a-b" = 흐려지기 시작%-끝%)
+            a, b = s["photo_fade"].split("-")
+            extra += f';-webkit-mask-image:linear-gradient(180deg,#000 {a}%,transparent {b}%);mask-image:linear-gradient(180deg,#000 {a}%,transparent {b}%)'
         bg = f'<div class="bg" style="background-image:url({uri}){extra}"></div>'
     else:
         bg = '<div class="ph"><span>사진 자리</span></div>'
