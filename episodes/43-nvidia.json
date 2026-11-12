@@ -181,9 +181,9 @@
       "photo_hint": "Original Microsoft Xbox console 2001 with NVIDIA chip",
       "value": "회사 가치 약 100억 달러(2001년 시가총액 추정)",
       "photo_note": "Microsoft 첫 Xbox 본체와 컨트롤러",
-   "bgsize": "140% auto",
-   "bgpos": "center 40px",
-   "photo_fade": "50-66"
+      "bgsize": "140% auto",
+      "bgpos": "center 40px",
+      "photo_fade": "50-66"
     },
     {
       "index": "11 · 투자",
@@ -201,7 +201,7 @@
       "photo_note": "CUDA 구조 설명 그림 (NotebookLM 생성)"
     },
     {
-      "index": "12 · 방향 전환",
+      "index": "12 · 혁신",
       "when": "2012 · 49세",
       "photo": null,
       "title": "6년 뒤 나온 GTX 580,\n인공지능의 시작이 되다",

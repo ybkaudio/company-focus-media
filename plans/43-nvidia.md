@@ -184,7 +184,7 @@ GPU는 작은 계산을 수천 개씩 동시에 하는 칩이었다.
 2008년 금융위기 때 주가는 고점에서 80% 넘게 떨어졌다.
 
 
-## 13.jpg · 12 · 방향 전환
+## 13.jpg · 12 · 혁신
 
 📷 **Photo:** NVIDIA GeForce GTX 580 graphics card (or AlexNet researchers, 2012)
 
