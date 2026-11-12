@@ -84,7 +84,7 @@ Sequoia는 사업 계획보다 코리건의 추천을 믿고 투자했다.
 상장 전까지 들어온 돈은 약 2,000만 달러다.
 
 
-## 07.jpg · 06 · 위기
+## 07.jpg · 06 · 고집
 
 📷 **Photo:** NVIDIA NV1 / Diamond Edge 3D graphics card, 1995
 
