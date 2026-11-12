@@ -167,7 +167,7 @@ Sega는 남은 계약금을 주는 대신 500만 달러를 NVIDIA 지분에 투�
 2001년 NVIDIA는 S&P 500 지수에 들어갔다.
 
 
-## 12.jpg · 11 · 확장
+## 12.jpg · 11 · 투자
 
 📷 **Photo:** NVIDIA CUDA launch 2006 / GeForce 8800 GTX
 
@@ -199,7 +199,7 @@ AlexNet은 그해 이미지 인식 대회에서 2등과 큰 차이로 우승했�
 6년 전 넣은 CUDA가 AI 연구의 표준 도구가 된 것이다.
 
 
-## 14.jpg · 13 · 확장
+## 14.jpg · 13 · 투자
 
 📷 **Photo:** Jensen Huang delivering the first DGX-1 to OpenAI, 2016
 
