@@ -137,7 +137,7 @@ Sega는 남은 계약금을 주는 대신 500만 달러를 NVIDIA 지분에 투�
 그 뒤 그는 직원들에게 '우리 회사는 망하기 30일 전'이라는 말을 자주 했다.
 
 
-## 10.jpg · 09 · 자금
+## 10.jpg · 09 · 성장
 
 📷 **Photo:** NVIDIA GeForce 256 graphics card, 1999 (or NASDAQ IPO 1999)
 
