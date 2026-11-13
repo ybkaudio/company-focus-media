@@ -12,7 +12,7 @@
       "photo": null,
       "title": "박사 연구에서 시작한\n9천억 달러 검색 회사",
       "body": [
-        "기업집중탐구 #33"
+        "기업집중탐구"
       ],
       "photo_hint": "Larry Page and Sergey Brin together with Google logo, around 1999-2003 (if no logo visible, production adds a Google logo sticker) / COVER LOGO: Google logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)"
     },
@@ -76,7 +76,7 @@
       "body": [
         "1999년 6월 벤처 투자사 <Kleiner Perkins>와 <Sequoia Capital>이 함께 2,500만 달러를 넣었다.",
         "두 투자사는 경험 있는 CEO를 데려오라는 조건을 붙였다.",
-        "2000년 6월에는 당시 최대 포털 Yahoo의 기본 검색 엔진이 되면서 이용자가 크게 늘었다(#32)."
+        "2000년 6월에는 당시 최대 포털 Yahoo의 기본 검색 엔진이 되면서 이용자가 크게 늘었다(제리 양 · Yahoo 편)."
       ],
       "photo_hint": "Early Google office in Palo Alto (University Avenue) 1999, or Google team 1999",
       "value": "회사 가치 약 1억 달러(투자 기준)"
@@ -139,8 +139,8 @@
       "photo": null,
       "title": "Android·YouTube를 사서\n모바일·영상으로 넓히다",
       "body": [
-        "2005년 스마트폰 운영체제를 만들던 작은 회사 <Android>를 약 5천만 달러에 샀다(#34).",
-        "2006년 10월 동영상 사이트 <YouTube>를 16억 5천만 달러에 샀다(#10).",
+        "2005년 스마트폰 운영체제를 만들던 작은 회사 <Android>를 약 5천만 달러에 샀다(앤디 루빈 · Android 편).",
+        "2006년 10월 동영상 사이트 <YouTube>를 16억 5천만 달러에 샀다(채드 헐리 · YouTube 편).",
         "검색 광고로 번 돈으로 휴대폰과 영상이라는 새 광고 지면을 확보했다."
       ],
       "photo_hint": "Google and YouTube founders at acquisition announcement, October 2006, or first Android phone (T-Mobile G1) 2008",
@@ -212,6 +212,6 @@
       "photo_hint": "Larry Page and Sergey Brin portrait (person photo for the closing slide)"
     }
   ],
-  "caption": "Google은 팔리지 않아서 살아남은 회사였어요.\n\n래리 페이지와 세르게이 브린은 스탠퍼드 박사 과정에서 링크 수로 웹페이지 순위를 매기는 검색 엔진을 만들었어요. 75만 달러에도 팔리지 않은 회사를 직접 키웠고, 클릭률로 순서를 정하는 검색 광고로 돈 버는 법을 찾았어요. 상장 뒤 Android·YouTube를 샀지만 Motorola 인수에서는 크게 손해를 봤고, 2019년 경영에서 물러났어요.\n\n🔗 검색 시리즈. Google을 100만 달러에 살 수 있었던 Yahoo 이야기는 #32, Google이 산 Android는 #34, YouTube는 #10에서 볼 수 있어요.\n\n출처\n- Wikipedia, History of Google / Larry Page / Sergey Brin\n- WordStream, The Evolution of AdWords (2012)\n- InformationWeek, Google Files Long-Awaited IPO (2004.04)\n- Bloomberg, Google Ends Its Motorola Misadventure (2014.01.29)\n- CNN, Google co-founders step down (2019.12.04)\n- Palo Alto Daily Post (AP), Page and Brin stepping down (2019.12.03)\n- 장별 회사 가치: 1999년 Excite 매각 제안가 약 100만 달러, 1999년 6월 투자 라운드(2,500만 달러) 기준, 2004년 이후는 시가총액\n\n#기업집중탐구 #래리페이지 #세르게이브린 #구글 #Google #검색 #창업 #창업스토리 #스타트업 #자기계발",
+  "caption": "Google은 팔리지 않아서 살아남은 회사였어요.\n\n래리 페이지와 세르게이 브린은 스탠퍼드 박사 과정에서 링크 수로 웹페이지 순위를 매기는 검색 엔진을 만들었어요. 75만 달러에도 팔리지 않은 회사를 직접 키웠고, 클릭률로 순서를 정하는 검색 광고로 돈 버는 법을 찾았어요. 상장 뒤 Android·YouTube를 샀지만 Motorola 인수에서는 크게 손해를 봤고, 2019년 경영에서 물러났어요.\n\n🔗 검색 시리즈. Google을 100만 달러에 살 수 있었던 Yahoo 이야기는 제리 양 · Yahoo 편, Google이 산 Android는 앤디 루빈 · Android 편, YouTube는 채드 헐리 · YouTube 편에서 볼 수 있어요.\n\n출처\n- Wikipedia, History of Google / Larry Page / Sergey Brin\n- WordStream, The Evolution of AdWords (2012)\n- InformationWeek, Google Files Long-Awaited IPO (2004.04)\n- Bloomberg, Google Ends Its Motorola Misadventure (2014.01.29)\n- CNN, Google co-founders step down (2019.12.04)\n- Palo Alto Daily Post (AP), Page and Brin stepping down (2019.12.03)\n- 장별 회사 가치: 1999년 Excite 매각 제안가 약 100만 달러, 1999년 6월 투자 라운드(2,500만 달러) 기준, 2004년 이후는 시가총액\n\n#기업집중탐구 #래리페이지 #세르게이브린 #구글 #Google #검색 #창업 #창업스토리 #스타트업 #자기계발",
   "first_comment": "Google이 75만 달러에 팔렸다면 지금 검색은 어땠을까요? 댓글로 알려 주세요."
 }

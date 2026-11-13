@@ -12,9 +12,9 @@ def sentences(lines):
 def main(path):
     path = pathlib.Path(path)
     ep = json.loads(path.read_text())
-    no = ep["no"]
-    label = f"특별편 #{no:02d}" if ep.get("special") else f"#{no:02d}"
-    out = [f"# 기업집중탐구 {label} · {ep['person']} ({ep['company']})", ""]
+    no = ep.get("no")  # 11/13 사용자: 앞으로 편 번호를 쓰지 않음. 번호 없는 편은 이름만
+    label = "" if no is None else (f" 특별편 #{no:02d}" if ep.get("special") else f" #{no:02d}")
+    out = [f"# 기업집중탐구{label} · {ep['person']} ({ep['company']})", ""]
     out += ["> 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.", ""]
     if ep.get("music"):
         out += [f"🎵 **추천 음악:** {ep['music']}", ""]

@@ -1,16 +1,16 @@
-# 기업집중탐구 #27 · 피터 틸 (PayPal)
+# 기업집중탐구 · 피터 틸 (PayPal · Palantir)
 
 > 사진은 아래 장 순서대로 01.jpg부터 올려 주세요. 고칠 제목이 있으면 같이 적어 주세요.
 
-🎵 **추천 음악:** Money – Pink Floyd (돈이 오가는 결제 회사 이야기) / 없으면 검색어 'money pink floyd'
+🎵 **추천 음악:** Money – Pink Floyd (돈이 오가는 투자자 이야기) / 없으면 검색어 'money pink floyd'
 
 ## 01.jpg · 표지
 
-📷 **Photo:** Peter Thiel portrait around 2000-2002 with PayPal logo visible (if no logo, production adds a PayPal logo sticker) / COVER LOGO: PayPal logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
+📷 **Photo:** Peter Thiel portrait (recent, 2020s, stage or interview) / COVER LOGO: none (multi-company episode; if the user wants one, PayPal and Palantir logos as transparent PNGs)
 
-**제목:** 10만 달러 투자로 시작한 15억 달러 결제 회사
+**제목:** 페이팔에서 팔란티어까지, 실리콘밸리의 판을 짠 피터 틸
 
-기업집중탐구 #27
+기업집중탐구
 
 
 ## 02.jpg · 01 · 배경
@@ -77,7 +77,7 @@
 
 **제목:** 경쟁사와 합치고 1억 달러를 모으다
 
-머스크의 <X.com>도 같은 이메일 송금에 보너스를 쏟아부으며 경쟁했다(#24).
+머스크의 <X.com>도 같은 이메일 송금에 보너스를 쏟아부으며 경쟁했다(일론 머스크 · PayPal 편).
 
 두 회사 모두 보너스로 돈이 빠르게 나가자, 2000년 3월 합병했고 이름은 X.com으로 정했다.
 
@@ -88,29 +88,20 @@
 
 ## 07.jpg · 06 · 위기
 
-📷 **Photo:** Peter Thiel portrait 2000
+📷 **Photo:** Peter Thiel portrait 2000-2001, PayPal office Palo Alto
 
-**제목:** CEO를 넘기고 경영에서 물러나다
+**제목:** CEO를 넘겼다가 임원들의 요구로 돌아오다
 
-4월 머스크가 합친 회사의 CEO, 그는 이사회 의장이 됐다.
+2000년 3월 합병 뒤 머스크가 CEO, 그는 이사회 의장이 됐고 5월에는 회사 일에서 물러났다.
 
-5월 그는 직원들에게 지쳤고 자신은 관리자보다 큰 그림을 그리는 쪽에 가깝다는 이메일을 보내고 회사 일에서 물러났다.
+머스크가 시스템을 Microsoft의 Windows로 옮기고 이름도 X.com으로 바꾸려 하자, 기존 Unix 시스템이 보안과 사기 방지에 낫다고 본 Confinity 출신 임원들이 반발했다.
+
+9월 머스크가 해외 출장을 간 사이 레브친 등 임원들이 이사회에 틸을 CEO로 앉히라고 요구했고, 이사회가 받아들였다.
+
+그는 은행 업무를 닫고 송금 하나에 집중했으며 2001년 회사 이름을 PayPal로 바꿨다.
 
 
 ## 08.jpg · 07 · 위기
-
-📷 **Photo:** Peter Thiel portrait 2000-2001, PayPal office Palo Alto
-
-**제목:** 임원들의 요구로 CEO에 돌아오다
-
-머스크가 시스템을 Microsoft의 Windows로 옮기고 이름도 X.com으로 바꾸려 하자, Confinity 출신 임원들이 반발했다.
-
-2000년 9월 머스크가 해외 출장을 간 사이 레브친 등 임원들이 이사회에 머스크를 바꾸고 틸을 CEO로 앉히라고 요구했고, 이사회가 받아들였다.
-
-CEO로 돌아온 그는 10월 X.com의 은행 업무를 닫고 송금 하나에 집중했으며, 2001년 회사 이름을 PayPal로 바꿨다.
-
-
-## 09.jpg · 08 · 위기
 
 📷 **Photo:** PayPal office / engineers working, around 2001
 
@@ -125,79 +116,179 @@ CEO로 돌아온 그는 10월 X.com의 은행 업무를 닫고 송금 하나에 
 다만 이때까지 흑자를 낸 분기는 없었다.
 
 
-## 10.jpg · 09 · 성장
-
-📷 **Photo:** PayPal logo on eBay listing, or PayPal 2001 homepage
-
-**제목:** eBay의 결제 서비스를 누르고 온라인 결제 65%를 차지하다
-
-eBay는 2000년 3월 은행 Wells Fargo와 손잡고 Billpoint를 내놨지만, 판매자들은 이미 쓰던 PayPal을 계속 받았다.
-
-2000년 10월 eBay 거래의 25%가 PayPal로 결제됐다.
-
-2001년 말 계정은 1,280만 개, 그중 5분의 1이 사업자 계정이었고 온라인 결제 시장의 약 65%를 차지했다.
-
-
-## 11.jpg · 10 · 정점
+## 09.jpg · 08 · 정점
 
 📷 **Photo:** PayPal IPO day, February 2002 (Peter Thiel at NASDAQ if available)
 
-**제목:** 상장 첫날 주가가 55% 오르다
+**제목:** eBay 결제를 누르고 상장 첫날 55% 오르다
 
-특허 소송과 주 정부 규제 문제로 한 차례 미룬 끝에, 2002년 2월 15일 나스닥에 주당 13달러로 상장해 약 7천만 달러를 모았다.
+eBay가 은행 Wells Fargo와 만든 결제 서비스 Billpoint보다 판매자들은 이미 쓰던 PayPal을 계속 받았다.
 
-첫날 주가는 20달러 넘게 마감해 약 55% 올랐다.
+2001년 말 계정은 1,280만 개, 온라인 결제 시장의 약 65%였다.
+
+특허 소송과 주 정부 규제 문제로 한 차례 미룬 끝에 2002년 2월 나스닥에 주당 13달러로 상장해 약 7천만 달러를 모았고, 첫날 주가는 약 55% 올랐다.
 
 
-## 12.jpg · 11 · 떠날 때
+## 10.jpg · 09 · 매각
 
 📷 **Photo:** Peter Thiel portrait 2002, or eBay–PayPal acquisition news photo
 
-**제목:** eBay에 15억 달러에 팔고 떠나다
+**제목:** eBay에 15억 달러에 팔고 5,500만 달러를 받다
 
-- **약 15억 달러** — 떠날 때 회사 가치 (eBay 인수가, 2002년)
-- **약 4년** — 회사 설립부터 떠날 때까지
+2002년 7월 eBay가 PayPal을 15억 달러에 사기로 했다.
 
-2002년 7월 eBay가 15억 달러에 사기로 했고, 지분 3.7%인 그의 몫은 약 5,500만 달러였다.
+eBay는 자기 결제 서비스로 PayPal을 이기지 못했고, 경매 대금의 상당 부분이 이미 PayPal로 오가고 있었다.
 
-10월 인수가 끝나자 떠났고, 2004년 Facebook의 첫 외부 투자자가 됐다(#22).
+지분 3.7%를 가진 그의 몫은 약 5,500만 달러였다.
+
+10월 인수가 끝나자 그는 PayPal을 떠났고, 이 돈이 다음 회사들의 밑천이 됐다.
 
 
-## 13.jpg · 마무리
+## 11.jpg · 10 · 창업
+
+📷 **Photo:** Peter Thiel with Alex Karp, or Palantir logo / office (early Palantir, Palo Alto)
+
+**제목:** PayPal 사기 탐지를 보고 Palantir를 세우다
+
+PayPal은 레브친의 사기 탐지 시스템으로 수많은 거래 속에서 수상한 흐름을 찾아냈다.
+
+그는 이 방식을 테러 추적에 쓰면 시민의 자유를 지키면서도 테러를 줄일 수 있다고 봤다.
+
+2003년 5월 PayPal 출신 등과 데이터 분석 회사 <Palantir>를 세웠다.
+
+이름은 소설 『반지의 제왕』 속 멀리 보는 돌에서 땄다.
+
+벤처캐피털들이 투자를 꺼려 첫 3,000만 달러 대부분을 그와 그의 펀드가 댔고, 2004년 스탠퍼드 로스쿨 동문 알렉스 카프에게 CEO를 맡겼다(알렉스 카프 · Palantir 편에서 이어짐).
+
+
+## 12.jpg · 11 · 투자
+
+📷 **Photo:** Peter Thiel and Mark Zuckerberg together (mid-2000s), or early thefacebook.com page
+
+**제목:** 50만 달러로 Facebook 첫 외부 투자자가 되다
+
+2004년 여름 Napster 공동 창업자 숀 파커의 소개로 20살 마크 저커버그를 만났다.
+
+그는 50만 달러를 빌려주고, 그해 말까지 이용자 150만 명을 넘기면 지분 10.2%로 바꾸는 조건을 걸었다.
+
+목표에 조금 못 미쳤지만 그는 지분 전환을 허락했고 이사회에 들어갔다.
+
+그는 창업자들이 처음 생각대로 회사를 끌고 가는 데 동의했고, 약 490만 달러라는 회사 가치가 합리적이라 비교적 안전한 투자라고 봤다고 밝혔다(마크 저커버그 · Facebook 편).
+
+
+## 13.jpg · 12 · 창업
+
+📷 **Photo:** Founders Fund partners (Peter Thiel, Ken Howery, Luke Nosek) or Falcon 1 launch 2008
+
+**제목:** Founders Fund를 세우고 SpaceX에 2,000만 달러를 넣다
+
+2005년 PayPal에서 함께 일한 켄 하워리·루크 노섹과 벤처캐피털 <Founders Fund>를 세웠다.
+
+2008년 8월 SpaceX 로켓 Falcon 1이 세 번째 발사에서도 궤도에 오르지 못했을 때, Founders Fund는 2,000만 달러를 넣었고 노섹이 SpaceX 이사회에 들어갔다(일론 머스크 · SpaceX 편).
+
+머스크는 이 돈과 남은 현금으로 Falcon 1 발사를 이어 가면서 더 큰 Falcon 9과 화물선 Dragon을 개발할 수 있다고 직원들에게 밝혔다.
+
+한 달 뒤 네 번째 발사가 궤도에 올랐다.
+
+
+## 14.jpg · 13 · 위기
+
+📷 **Photo:** Peter Thiel portrait around 2008-2010 (Clarium Capital era)
+
+**제목:** 80억 달러 헤지펀드, 달러 하락에 걸었다가 90% 줄다
+
+2002년 PayPal에서 받은 돈 중 1,000만 달러로 헤지펀드 <Clarium Capital>을 세웠다.
+
+첫해 석유 부족을 예상한 에너지 투자로 돈을 벌었고, 2008년 6월 운용 자산이 78억 달러를 넘었다.
+
+2008년 미국 달러 가치가 떨어진다는 데 크게 걸었지만 금융위기 속에 달러가 오히려 강해졌다.
+
+그해 상반기 57.9% 수익은 연말 -4.5%가 됐고, 2009년 -25%, 2010년 -23%가 이어졌다.
+
+투자자들이 돈을 빼 가 2011년 운용 자산은 약 3억 5,000만 달러로 줄었고, 그중 약 3분의 2가 그의 돈이었다.
+
+
+## 15.jpg · 14 · 성장
+
+📷 **Photo:** Facebook IPO day May 2012 (Nasdaq), or Peter Thiel portrait 2012
+
+**제목:** Facebook 상장, 50만 달러가 10억 달러로
+
+2012년 5월 Facebook 상장 때 1,680만 주를 6억 3,800만 달러에 팔았고, 8월 보호예수가 풀리자 남은 지분 대부분을 3억 9,580만 달러에 팔았다.
+
+8년 전 50만 달러 투자가 10억 달러 넘게 돌아왔다.
+
+그는 2022년까지 17년 동안 Facebook 이사로 남았다.
+
+
+## 16.jpg · 15 · 정점
+
+📷 **Photo:** Peter Thiel portrait, recent (2024-2026)
+
+**제목:** 23년째 Palantir 이사회 의장, 순자산 377억 달러
+
+- **약 377억 달러** — 피터 틸 순자산 (Forbes, 2026년 10월)
+- **30년** — 첫 펀드부터 지금까지
+
+2020년 Palantir 상장 뒤 지분을 꾸준히 팔아 약 8%에서 약 3%로 줄였지만, 여전히 개인 최대 주주이자 이사회 의장이다.
+
+Palantir 가치는 2026년 11월 약 4,000억 달러다.
+
+
+## 17.jpg · 마무리
 
 📷 **Photo:** Peter Thiel portrait (person photo for the closing slide)
 
-**제목:** 작은 시장 하나를 먼저 차지하다
+**제목:** 남들보다 먼저 돈을 건 투자자
 
 - 만난 다음 날 투자를 정한 결단
-- 팜파일럿 송금을 버리고 이메일로 바꾼 유연함
-- 이베이 판매자부터 잡은 시장 집중
+- PayPal 사기 탐지에서 테러 추적을 본 안목
+- 벤처캐피털이 외면한 회사에 자기 돈을 건 확신
 
 
 ---
 
 ## 설명란 (캡션)
 
-PayPal을 처음 CEO로 이끈 사람은 머스크가 아니었어요.
+강의에서 만난 23살 개발자에게 다음 날 투자를 정한 사람.
+그 사람이 PayPal·Facebook·SpaceX·Palantir에 모두 이름을 올렸습니다.
 
-피터 틸은 1998년 강의에서 만난 개발자 맥스 레브친에게 다음 날 투자를 정하고 함께 회사를 세웠어요. 아무도 안 쓰던 팜파일럿 송금을 버리고 이메일 송금으로 바꿨고, eBay 판매자를 붙잡아 키웠어요. X.com과 합친 뒤 물러났다가 임원들의 요구로 CEO에 돌아왔고, 상장한 그해 eBay에 15억 달러에 팔았어요.
+1998년, 피터 틸은 맥스 레브친과 회사를 세우고 첫 10만 달러를 넣었습니다.
+팜파일럿 송금을 버리고 이메일 송금으로 바꿨습니다.
 
-🔗 PayPal 마피아 시리즈. 함께 PayPal을 키운 머스크의 이야기는 #24, 머스크가 PayPal로 번 돈으로 이끈 SpaceX·Tesla는 #25·#26, PayPal 첫 디자이너 채드 헐리의 YouTube는 #10에서 볼 수 있어요. 틸이 첫 외부 투자자가 된 Facebook 이야기는 #22 세버린·#23 저커버그 편에 이어져요.
+2002년, PayPal은 상장한 그해 eBay에 15억 달러에 팔렸습니다.
+그의 몫은 약 5,500만 달러였습니다.
+
+2003년, PayPal 사기 탐지 방식으로 테러를 추적하는 Palantir를 세웠습니다.
+2004년, Facebook에 50만 달러. 8년 뒤 10억 달러가 넘게 돌아왔습니다.
+
+2008년, 세 번 실패한 SpaceX에 2,000만 달러.
+같은 해 그의 헤지펀드는 달러에 잘못 걸어 3년 만에 90%가 줄었습니다.
+
+2026년, 순자산 377억 달러. 지금도 Palantir 이사회 의장입니다.
+
+여러분은 만난 다음 날 투자를 정할 수 있을까요?
+첫 댓글에 답해 주세요 👇
+
+🔗 PayPal 마피아 시리즈. 함께 PayPal을 키운 머스크 이야기는 일론 머스크 · PayPal 편, 그가 CEO로 앉힌 Palantir 이야기는 다음 알렉스 카프 · Palantir 편에서 이어집니다.
+
+#기업집중탐구 #페이팔마피아 #피터틸 #페이팔 #팔란티어
 
 출처
 - PayPal 보도자료, X.com raises $100 million (2000.04.05)
-- Wikipedia, Peter Thiel / Confinity / Timeline of PayPal
+- Wikipedia, Peter Thiel / Confinity / Timeline of PayPal / Palantir / Clarium Capital / Founders Fund
 - Business Insider, How a 23-year-old Max Levchin got Peter Thiel to invest in under 24 hours (2018.01)
 - Commoncog, The PayPal Idea Maze (Jimmy Soni 『The Founders』 인용)
-- Vator, When PayPal was young: the early years (2018.02)
-- Young Research, The time Peter Thiel outsmarted Elon Musk (Max Chafkin 『The Contrarian』 인용)
 - Fox Business, Elon Musk was dethroned by Peter Thiel in a coup (2023, Isaacson 전기 인용)
 - Encyclopedia.com, PayPal Inc. (International Directory of Company Histories)
 - CNN Money, PayPal IPO: Best first day (2002.02.15) / eBay to buy PayPal (2002.07.08)
-- 장별 회사 가치: 1998~2001년은 투자 라운드 규모로 셈한 추정(2000년 1억 달러 유치 때 약 5억 달러), 2002년은 상장 첫날 시가총액
-
-#기업집중탐구 #페이팔마피아 #피터틸 #페이팔 #PayPal #창업 #창업스토리 #스타트업 #자기계발
+- Fortune, Timeline: Where Facebook got its funding (2011.01.11)
+- Space.com, PayPal Co-Founders Invest $20 Million in SpaceX (2008.08.05)
+- Bloomberg, Clarium Hedge Fund Shrinks 90% as Thiel Has Third Losing Year (2011.01.12)
+- The Motley Fool, Peter Thiel has steadily sold down his Palantir stake (2026.08.27) / Palantir Q3 results (2026.11.03)
+- Forbes 실시간 부자 순위(2026.10, Wikipedia 재인용)
+- 장별 회사 가치: 1998~2001년 PayPal은 투자 라운드 규모로 셈한 추정, 2002년은 상장 첫날 시가총액·eBay 인수가, Facebook 2012년은 공모가 38달러 기준 시가총액
 
 ## 첫 댓글 (게시 후 우리 계정이 직접 닮)
 
-만난 다음 날 투자를 정할 수 있을까요? 댓글로 알려 주세요.
+여러분은 만난 다음 날 투자를 정할 수 있을까요? 댓글로 알려 주세요.
