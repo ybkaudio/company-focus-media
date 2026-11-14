@@ -14,7 +14,14 @@
       "body": [
         "기업집중탐구"
       ],
-      "photo_hint": "Colonel Harland Sanders in white suit with KFC sign or bucket, 1960s (KFC logo visible, so no sticker; if no logo, production adds a KFC logo sticker) / COVER LOGO: KFC logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)"
+      "photo_hint": "Colonel Harland Sanders in white suit with KFC sign or bucket, 1960s (KFC logo visible, so no sticker; if no logo, production adds a KFC logo sticker) / COVER LOGO: KFC logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)",
+      "photo_note": "사인하는 커널 샌더스",
+      "sticker": {
+        "src": "28-kfc/sticker-logo.png",
+        "size": 300,
+        "right": 110,
+        "top": 1100
+      }
     },
     {
       "index": "01 · 배경",
@@ -27,7 +34,8 @@
         "열두 살에 7학년을 그만두고 열세 살에 집을 떠나 일을 시작했다."
       ],
       "photo_hint": "Young Harland Sanders or his childhood home in Henryville, Indiana (old photo)",
-      "value": "가맹 사업 시작 전"
+      "value": "가맹 사업 시작 전",
+      "photo_note": "어린 샌더스와 어머니·동생들"
     },
     {
       "index": "02 · 배경",
@@ -40,7 +48,9 @@
         "1920년 오하이오강을 건너는 페리 회사를 세웠고, 이 회사는 잘됐다."
       ],
       "photo_hint": "1) Harland Sanders at his ferry boat company (1920s) / 2) Ohio River ferry between Jeffersonville and Louisville, 1920s / 3) young Sanders 1920s",
-      "value": "가맹 사업 시작 전"
+      "value": "가맹 사업 시작 전",
+      "photo_note": "철도 화부 시절의 샌더스",
+      "bgpos": "80% 50%"
     },
     {
       "index": "03 · 위기",
@@ -53,7 +63,8 @@
         "이어 Michelin 타이어 영업은 1924년 공장이 닫혀 끝났고, 그 뒤 운영한 주유소도 1930년 대공황으로 문을 닫았다."
       ],
       "photo_hint": "1) Sanders with acetylene lamp product or advertisement (1920s) / 2) 1920s acetylene car lamp / 3) Sanders 1920s",
-      "value": "가맹 사업 시작 전"
+      "value": "가맹 사업 시작 전",
+      "photo_note": "샌더스 (1914년 무렵) · 램프 회사 사진은 못 찾음"
     },
     {
       "index": "04 · 창업",
@@ -66,7 +77,8 @@
         "1934년 운전자 눈에 더 잘 띄는 길 건너 주유소로 옮겼고, 1937년 식당을 140석으로 넓혔다. 1939년 여행 맛집 안내서에 오르며 손님이 더 늘었다."
       ],
       "photo_hint": "Sanders Court & Café in Corbin, Kentucky, 1930s-40s (Harland Sanders Café and Museum)",
-      "value": "가맹 사업 시작 전"
+      "value": "가맹 사업 시작 전",
+      "photo_note": "Sanders Court & Café 옛 엽서, 코빈"
     },
     {
       "index": "05 · 성장",
@@ -80,7 +92,8 @@
         "1940년 7월 11가지 허브와 향신료를 쓰는 조리법을 완성했다."
       ],
       "photo_hint": "Vintage pressure cooker / pressure fryer, or Sanders cooking chicken in kitchen",
-      "value": "가맹 사업 시작 전"
+      "value": "가맹 사업 시작 전",
+      "photo_note": "11가지 허브·향신료 조리법 전시, 샌더스 카페 박물관"
     },
     {
       "index": "06 · 방향 전환",
@@ -93,7 +106,9 @@
         "가맹점은 조리법·방법·그의 이름과 얼굴을 쓰는 대가로 닭 한 마리에 4센트(뒤에 5센트)를 냈다. 직접 가게를 짓지 않고 남의 식당으로 매장을 늘리는 방식이었다."
       ],
       "photo_hint": "Pete Harman's Do Drive Inn in Salt Lake City, first KFC franchise, 1952",
-      "value": "회사 가치 약 15만 달러(추정)"
+      "value": "회사 가치 약 15만 달러(추정)",
+      "photo_note": "첫 가맹점 앞 샌더스와 피트 하먼 동상, 솔트레이크시티",
+      "bgpos": "12% 50%"
     },
     {
       "index": "07 · 위기",
@@ -107,7 +122,8 @@
         "66세에 첫 연금 105달러를 받아, 그 돈으로 미국 곳곳의 식당을 돌며 직접 닭을 튀겨 보이고 가맹점을 모았다. 가맹점주 중엔 뒤에 Wendy's를 세운 데이브 토머스도 있었다."
       ],
       "photo_hint": "Colonel Sanders on the road / with his car, 1950s",
-      "value": "회사 가치 약 10만 달러(추정)"
+      "value": "회사 가치 약 10만 달러(추정)",
+      "photo_note": "Kentucky Fried Chicken 명함 (1940년대 말)"
     },
     {
       "index": "08 · 성장",
@@ -120,7 +136,8 @@
         "식당에 앉지 않고 가족 한 끼를 통째로 사 가는 포장 메뉴가 되면서, KFC의 대표 상품이 됐다."
       ],
       "photo_hint": "Vintage KFC bucket, late 1950s-1960s",
-      "value": "회사 가치 약 30만 달러(추정)"
+      "value": "회사 가치 약 30만 달러(추정)",
+      "photo_note": "버킷 역사 전시, 샌더스 카페 박물관"
     },
     {
       "index": "09 · 정점",
@@ -132,7 +149,8 @@
         "1962년 압력 튀김 방식으로 특허를 받았고, 1963년 'It's Finger Lickin' Good' 문구를 상표로 등록했다."
       ],
       "photo_hint": "KFC restaurant with Colonel Sanders sign, early 1960s",
-      "value": "회사 가치 약 200만 달러(추정)"
+      "value": "회사 가치 약 200만 달러(추정)",
+      "photo_note": "옛 Kentucky Fried Chicken 간판과 버킷 탑, 코빈"
     },
     {
       "index": "10 · 떠날 때",
@@ -155,7 +173,8 @@
           "num": "약 12",
           "unit": "년"
         }
-      ]
+      ],
+      "photo_note": "회사를 판 뒤 얼굴로 테헤란을 찾은 샌더스 (1970년대)"
     },
     {
       "type": "outro",
@@ -168,7 +187,8 @@
         "65세에 다시 영업에 나선 끈기"
       ],
       "button": "지금 팔로우 →",
-      "photo_hint": "Colonel Sanders portrait (person photo for the closing slide)"
+      "photo_hint": "Colonel Sanders portrait (person photo for the closing slide)",
+      "photo_note": "노먼 록웰이 그린 샌더스 초상화"
     }
   ],
   "caption": "KFC 할아버지는 66세에 받은 연금 105달러로 다시 영업에 나섰어요.\n\n할랜드 샌더스는 변호사·페리 회사·램프 회사를 거치며 여러 번 실패한 뒤, 주유소 창고를 고쳐 여행객에게 닭을 튀겨 팔았어요. 압력솥을 튀김기로 바꿔 빠르게 튀기는 법을 만들었고, 고속도로가 마을을 비켜 가자 식당을 팔고 직접 미국을 돌며 조리법을 가맹점에 팔았어요. 11년 만에 600개 매장이 됐고, 물려줄 사람이 없어 회사를 넘겼어요.\n\nKFC에서 가장 좋아하는 메뉴는 무엇인가요? 댓글로 알려 주세요.\n\n🔗 패스트푸드 시리즈. KFC는 1986년 PepsiCo에 인수돼 1977년 먼저 PepsiCo에 팔린 Pizza Hut과 한 식구가 됐고, 두 회사는 지금 Yum! Brands에 함께 있어요. Pizza Hut 이야기는 프랭크 카니 · Pizza Hut 편, 같은 시기 가맹점으로 커진 McDonald's 형제 이야기는 맥도날드 형제 · McDonald's 편에서 볼 수 있어요.\n\n출처\n- Wikipedia, Colonel Sanders / History of KFC\n- AAP FactCheck, Barely a nugget of truth in Colonel Sanders rags-to-riches meme (자서전 인용)\n- 장별 회사 가치: 가맹 사업을 시작한 1952년부터 표시. 식당 매각가(1956년 7만 5천 달러)와 1964년 매각가 200만 달러 사이를 매장 수로 나눠 셈한 추정\n\n#기업집중탐구 #할랜드샌더스 #커널샌더스 #KFC #케이에프씨 #프랜차이즈 #창업 #창업스토리 #자기계발"

@@ -13,7 +13,14 @@
       "body": [
         "기업집중탐구"
       ],
-      "photo_hint": "Alex Karp portrait (recent, his trademark curly hair, on stage or interview) / COVER LOGO: Palantir logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)"
+      "photo_hint": "Alex Karp portrait (recent, his trademark curly hair, on stage or interview) / COVER LOGO: Palantir logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)",
+      "photo_note": "알렉스 카프, AI 안전 정상회의 (2023)",
+      "sticker": {
+        "src": "27b-palantir-karp/sticker-logo.png",
+        "size": 360,
+        "right": 80,
+        "top": 1110
+      }
     },
     {
       "index": "01 · 배경",
@@ -26,7 +33,8 @@
         "변호사가 되는 대신 독일로 건너가 프랑크푸르트 괴테 대학에서 사회이론을 공부했다."
       ],
       "photo_hint": "1) Alex Karp with Peter Thiel at Stanford Law (1990s) / 2) Stanford Law School building / 3) young Alex Karp (1990s)",
-      "value": "회사 설립 전"
+      "value": "회사 설립 전",
+      "photo_note": "스탠퍼드 로스쿨 건물"
     },
     {
       "index": "02 · 배경",
@@ -39,7 +47,8 @@
         "이 인맥으로 틸이 PayPal을 판 돈으로 세운 헤지펀드 <Clarium Capital>의 투자금 모집을 도왔다."
       ],
       "photo_hint": "1) Alex Karp at Caedmon Group or in Frankfurt (early 2000s) / 2) Goethe University Frankfurt or Sigmund Freud Institute building / 3) Alex Karp early 2000s",
-      "value": "회사 설립 전"
+      "value": "회사 설립 전",
+      "photo_note": "프랑크푸르트 괴테 대학 IG-Farben 건물"
     },
     {
       "index": "03 · 계기",
@@ -52,7 +61,8 @@
         "2003년 5월 틸, PayPal 엔지니어 출신 네이선 게팅스, 조 론스데일, 스티븐 코언과 함께 <Palantir>를 세웠다. 이름은 『반지의 제왕』 속 멀리 보는 돌에서 땄다."
       ],
       "photo_hint": "Palantir early office in Palo Alto, or Palantir logo",
-      "value": "회사 가치 비공개(첫 자금 약 3,000만 달러)"
+      "value": "회사 가치 비공개(첫 자금 약 3,000만 달러)",
+      "photo_note": "Palantir 로고"
     },
     {
       "index": "04 · 창업",
@@ -66,7 +76,9 @@
         "첫 3,000만 달러 대부분은 틸과 그의 펀드가 댔다."
       ],
       "photo_hint": "1) Alex Karp with Palantir co-founders (Thiel, Lonsdale, Cohen, Gettings) in early Palantir office, mid-2000s / 2) early Palantir office Palo Alto / 3) Alex Karp mid-2000s",
-      "value": "회사 가치 비공개(첫 자금 약 3,000만 달러)"
+      "value": "회사 가치 비공개(첫 자금 약 3,000만 달러)",
+      "photo_note": "정부 대표단과 회의하는 카프, 다보스 (2026) · 임시: 2004년 사진 못 찾음",
+      "bgpos": "8% 50%"
     },
     {
       "index": "05 · 자금",
@@ -80,7 +92,8 @@
         "In-Q-Tel 쪽 투자자는 Palantir가 자신들이 투자한 데이터 분석 회사 SRD의 화면 쪽을 맡을 수 있다고 봤고, PayPal이 러시아 해커를 막아 낸 경험도 눈여겨봤다."
       ],
       "photo_hint": "CIA headquarters Langley (exterior), or In-Q-Tel logo",
-      "value": "회사 가치 비공개(투자 규모로 추정 어려움)"
+      "value": "회사 가치 비공개(투자 규모로 추정 어려움)",
+      "photo_note": "In-Q-Tel 로고 (2005년 무렵)"
     },
     {
       "index": "06 · 혁신",
@@ -94,7 +107,8 @@
         "2006년 6월 750만 달러, 11월 1,050만 달러를 투자받았다."
       ],
       "photo_hint": "Palantir Gotham software screenshot (link analysis graph), or Palantir engineers at work",
-      "value": "회사 가치 비공개"
+      "value": "회사 가치 비공개",
+      "photo_note": "엔지니어 옆에서 화면을 짚는 카프 (2015)"
     },
     {
       "index": "07 · 성장",
@@ -107,7 +121,8 @@
         "2010년 6월 9,000만 달러를 투자받을 때 7억 3,500만 달러였던 회사 가치는 2013년 투자 때 90억 달러로 약 12배가 됐고, 2015년엔 200억 달러였다. 다만 2015년에도 흑자는 내지 못했다."
       ],
       "photo_hint": "1) Alex Karp in Palantir office with Gotham/Metropolis screens (around 2013) / 2) Palantir Gotham analysis graph screenshot or 2013 leaked client list / 3) Alex Karp 2013",
-      "value": "회사 가치 약 90억 달러(2013년 투자 기준)"
+      "value": "회사 가치 약 90억 달러(2013년 투자 기준)",
+      "photo_note": "투자 때 회사 가치를 그린 그림"
     },
     {
       "index": "08 · 고집",
@@ -121,7 +136,8 @@
         "다시 열린 경쟁에서 Raytheon을 이기고, 2019년 3월 10년간 8억 7,600만 달러 규모 계약을 따냈다."
       ],
       "photo_hint": "1) Alex Karp with US Army officials or at a defense event (2016-2019) / 2) US Army soldiers using DCGS-A / Palantir software in the field / 3) Alex Karp 2016",
-      "value": "회사 가치 약 200억 달러(2015년 투자 기준)"
+      "value": "회사 가치 약 200억 달러(2015년 투자 기준)",
+      "photo_note": "Palantir 대 미국 연방 항소법원 판결문 첫 장 (2018)"
     },
     {
       "index": "09 · 성장",
@@ -134,7 +150,8 @@
         "기준가 7.25달러, 첫 거래가 10달러였고, 첫 거래 뒤 회사 가치는 약 180억 달러로 2015년 투자 때 200억 달러보다 낮았다."
       ],
       "photo_hint": "Palantir NYSE direct listing September 30, 2020 (NYSE facade with Palantir banner)",
-      "value": "회사 가치 약 180억 달러(상장 첫날)"
+      "value": "회사 가치 약 180억 달러(상장 첫날)",
+      "photo_note": "뉴욕증권거래소 (2020년 12월)"
     },
     {
       "index": "10 · 혁신",
@@ -147,7 +164,8 @@
         "2023년 매출은 22억 3,000만 달러, 순이익은 2억 1,000만 달러로 2003년 설립 뒤 첫 흑자를 냈다. 발표 다음 날 주가는 31% 올랐다."
       ],
       "photo_hint": "Palantir AIP demo / AIPCon stage, or Alex Karp on stage 2023",
-      "value": "회사 가치 약 400억 달러(2023년 말 시가총액, 추정)"
+      "value": "회사 가치 약 400억 달러(2023년 말 시가총액, 추정)",
+      "photo_note": "2023년 순이익을 그린 그림"
     },
     {
       "index": "11 · 성장",
@@ -159,7 +177,8 @@
         "2025년 매출은 44억 8,000만 달러, 순이익은 16억 3,000만 달러였다. 2024년엔 매출의 약 54%가 정부, 46%가 기업 고객이었다."
       ],
       "photo_hint": "1) Alex Karp at Palantir AIPCon or earnings stage with Palantir logo (2024-2025) / 2) Palantir on S&P 500 / Nasdaq ticker screen (2024) / 3) Alex Karp 2024-2025",
-      "value": "회사 가치 약 3,000억 달러(2025년, 추정)"
+      "value": "회사 가치 약 3,000억 달러(2025년, 추정)",
+      "photo_note": "Palantir 주가 그래프 (2020~2025)"
     },
     {
       "index": "12 · 정점",
@@ -182,7 +201,8 @@
           "num": "23",
           "unit": "년"
         }
-      ]
+      ],
+      "photo_note": "Palantir 전시 부스에서 방문객과 이야기하는 직원들 (2022)"
     },
     {
       "type": "outro",
@@ -195,7 +215,8 @@
         "육군을 고소하면서까지 20년 적자를 버틴 고집"
       ],
       "button": "지금 팔로우 →",
-      "photo_hint": "Alex Karp portrait (person photo for the closing slide)"
+      "photo_hint": "Alex Karp portrait (person photo for the closing slide)",
+      "photo_note": "알렉스 카프, 다보스 (2026)"
     }
   ],
   "caption": "벤처캐피털이 회의 내내 낙서만 하던 회사.\n그 회사가 시가총액 4,000억 달러가 됐습니다.\n\n2004년, 철학 박사 알렉스 카프가 로스쿨 친구 피터 틸의 회사 Palantir CEO가 됐습니다.\n코드를 짜지 못하는 CEO였습니다.\n\n2004년, Sequoia와 Kleiner Perkins는 투자하지 않았습니다.\nCIA의 벤처 투자사 In-Q-Tel이 약 200만 달러를 넣었습니다.\n\n2016년, 상용 제품을 입찰에서 뺀 미국 육군을 고소해 이겼습니다.\n3년 뒤 8억 7,600만 달러 계약을 따냈습니다.\n\n2020년, 순손실 5억 8,000만 달러인 채로 직접 상장.\n2023년, AI 플랫폼 AIP와 함께 설립 20년 만에 첫 흑자.\n\n2026년 3분기, 분기 매출 20억 달러 돌파.\n\n여러분은 20년 적자를 버틸 수 있을까요?\n댓글로 알려 주세요.\n\n🔗 PayPal 마피아 시리즈. 카프를 CEO로 앉힌 공동 창업자 피터 틸 이야기는 바로 앞 피터 틸 편에서 볼 수 있습니다.\n\n#기업집중탐구 #페이팔마피아 #알렉스카프 #팔란티어 #Palantir\n\n출처\n- Wikipedia, Palantir / Alex Karp\n- Global Corporate Venturing, Case study: Farsighted Palantir sees data's potential (2013)\n- Fast Company, How Palantir got its start (Michael Steinberger 『The Philosopher in the Valley』, 2025)\n- BuzzFeed News, Inside Palantir, Silicon Valley's most secretive company (2016)\n- Defense News, Judge rules in favor of Palantir in lawsuit against US Army (2016.10.31) / Palantir won a major Army contract (2019.03.29)\n- Fortune, Palantir shares first day of trading (2020.09.30)\n- Slashdot·Axios, Palantir S-1: 2019년 순손실 5억 8,000만 달러 (2020.08)\n- Reuters(BizNews 재인용), Palantir jumps on first annual profit (2024.02)\n- The Motley Fool, Palantir Q3 2026 results (2026.11.03)\n- 장별 회사 가치: 2013·2015년은 투자 라운드 기준, 2020년은 상장 첫날, 2023·2025년은 연말 시가총액 추정, 2026년은 11월 시가총액(약 4,077억 달러)"
