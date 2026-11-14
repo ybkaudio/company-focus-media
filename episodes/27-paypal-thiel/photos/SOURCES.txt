@@ -1,18 +1,19 @@
-피터 틸 편 사진 출처 (위키미디어 공용, 자유 이용 라이선스. 2026-11-13 제작·게시가 직접 구함)
-01 Peter Thiel by Gage Skidmore.jpg (CC BY-SA 3.0, 2022)
-02 Stanford University Main Quad - 7 June 2009.jpg (CC BY 2.0)
-03 Max Levchin (2013).jpg (CC BY 2.0)
-04 Palm III in HotSync Cradle.jpg (CC BY-SA 4.0)
-05 PayPal logo pre-2014.svg (Public domain) - 흰 바탕 위쪽 가운데 배치
-06 Peter Thiel.jpg (CC BY 2.0, 2007)
-07 Peter Thiel (2014).jpg (CC BY 2.0)
-08 Peter Thiel by Dan Taylor.jpg (CC BY 2.0, 2014)
-09 Peter Thiel 2014 by Heisenberg Media.jpg (CC BY 2.0)
-10 Ebay-PayPal San Jose.jpg (CC BY-SA 3.0, 2010)
-11 Alex Karp attends AI Summit (53302457013) 4-5 ratio.jpg (CC BY 2.0, 2023)
-12 MarkZuckerberg.jpg (CC BY 2.5, 2005)
-13 Falcon 1 Flight 4 liftoff.jpg (CC BY-SA 3.0, 2008) - 640px 저해상도
-14 Clarium Capital office interior.jpg (CC BY-SA 2.0, 2011)
-15 Facebook on Nasdaq.jpeg (CC BY-SA 3.0, 2012) - 592px 저해상도
-16 Peter Thiel (51876930225).jpg (CC BY-SA 2.0, 2022, Gage Skidmore)
-17 Peter Thiel (51875327457).jpg (CC BY-SA 2.0, 2022, Gage Skidmore)
+피터 틸 편 사진 출처 (v2, 2026-11-14)
+01 Peter Thiel by Gage Skidmore.jpg (Commons CC BY-SA 3.0, 2022)
+02 Stanford University Main Quad - 7 June 2009.jpg (Commons CC BY 2.0)
+03 Max Levchin (2013).jpg (Commons CC BY 2.0)
+04 Palm III in HotSync Cradle.jpg (Commons CC BY-SA 4.0)
+05 PayPal logo pre-2014.svg (Commons PD), 흰 바탕 위쪽 가운데
+06 일론 머스크 · PayPal 편 photos/06.png (틸·머스크, PayPal 사무실)
+07 일론 머스크 · PayPal 편 photos/03.png (Zero to One 책 속 'The PayPal Team in 1999')
+08 직접 만든 Igor 원리 설명 그림
+09 직접 만든 상장 첫날 주가 그림 (CNN Money 2002-02-15: 공모가 13달러, 종가 20.09달러, 약 55%)
+10 Ebay-PayPal San Jose.jpg (Commons CC BY-SA 3.0, 2010)
+11 Palantir 1 2018-09-06.jpg (Commons CC BY-SA 4.0, Palo Alto 본사)
+12 합성: Peter Thiel.jpg (Commons CC BY 2.0, 2007) + MarkZuckerberg.jpg (Commons CC BY 2.5, 2005)
+13 합성: Peter Thiel 2014 by Heisenberg Media.jpg (Commons CC BY 2.0) + Falcon 1 Flight 4 liftoff.jpg (Commons CC BY-SA 3.0, 2008)
+14 The Generalist 'The Rise and Fall of Clarium Capital' 차트 (어두운 색으로 바꿈)
+15 Facebook on Nasdaq.jpeg (Commons CC BY-SA 3.0, 2012)
+16 Peter Thiel (51876930225).jpg (Commons CC BY-SA 2.0, 2022)
+17 Peter Thiel (51875327457).jpg (Commons CC BY-SA 2.0, 2022)
+spare/NN-v1.jpg = v1에서 빠진 사진

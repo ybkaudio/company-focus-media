@@ -187,6 +187,8 @@ def main(path):
               return null; }""")
             if bad:
                 sys.exit(f"{i:02d}장 레이아웃 문제: {bad}. 본문·제목을 줄이고 다시 렌더")
+            if s.get("photo") and not s.get("photo_note"):   # 11/14 사용자: 사진 있는 모든 장에 사진 설명(작은 글씨)
+                print(f"경고: {i:02d}장에 photo_note(사진 설명)가 없음")
             pg.screenshot(path=str(out / f"{i:02d}.png"))
         b.close()
     sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent / "publisher"))

@@ -13,7 +13,8 @@
       "body": [
         "기업집중탐구"
       ],
-      "photo_hint": "Peter Thiel portrait (recent, 2020s, stage or interview) / COVER LOGO: none (multi-company episode; if the user wants one, PayPal and Palantir logos as transparent PNGs)"
+      "photo_hint": "Peter Thiel portrait (recent, 2020s, stage or interview) / COVER LOGO: none (multi-company episode; if the user wants one, PayPal and Palantir logos as transparent PNGs)",
+      "photo_note": "피터 틸 (2022)"
     },
     {
       "index": "01 · 배경",
@@ -27,7 +28,8 @@
         "1996년 캘리포니아로 돌아와 친구와 가족에게 100만 달러를 모아 투자 회사 <Thiel Capital Management>를 세웠다. 이 돈이 다음 회사의 첫 투자금이 됐다."
       ],
       "photo_hint": "Young Peter Thiel portrait, 1990s (Stanford era if available)",
-      "value": "회사 설립 전"
+      "value": "회사 설립 전",
+      "photo_note": "스탠퍼드 대학교 메인 쿼드"
     },
     {
       "index": "02 · 계기",
@@ -40,7 +42,8 @@
         "1998년 12월 두 사람은 <Fieldlink>(뒤에 Confinity)를 세웠고, 그는 첫 10만 달러를 넣었다. 처음엔 투자자로만 남으려 했지만 레브친의 설득으로 CEO를 맡았다."
       ],
       "photo_hint": "Max Levchin and Peter Thiel together, early PayPal days (crop others if unclear)",
-      "value": "회사 가치 약 100만 달러(추정)"
+      "value": "회사 가치 약 100만 달러(추정)",
+      "photo_note": "맥스 레브친 (2013)"
     },
     {
       "index": "03 · 방향 전환",
@@ -53,7 +56,8 @@
         "반면 시연용으로 덧붙인 이메일 송금은 쓰는 사람이 계속 늘었고, 회사는 이메일 송금 'PayPal'에 집중했다."
       ],
       "photo_hint": "Palm Pilot (Palm III) device, late 1990s, or PayPal 1999 launch event",
-      "value": "회사 가치 약 2,000만 달러(추정)"
+      "value": "회사 가치 약 2,000만 달러(추정)",
+      "photo_note": "팜파일럿 Palm III와 충전 거치대"
     },
     {
       "index": "04 · 성장",
@@ -66,7 +70,8 @@
         "2000년 1월 하루 9,000명씩 가입했고, 7월에는 eBay 경매 약 200만 건이 PayPal을 받아 eBay가 직접 만든 결제 서비스 <Billpoint>보다 5배 많았다."
       ],
       "photo_hint": "Early PayPal website screenshot around 2000, or eBay auction page with PayPal logo",
-      "value": "회사 가치 약 2억 달러(추정)"
+      "value": "회사 가치 약 2억 달러(추정)",
+      "photo_note": "PayPal 로고"
     },
     {
       "index": "05 · 확장",
@@ -80,7 +85,8 @@
         "그 직후 인터넷 기업 주가가 내려앉아 투자 유치가 어려워졌고, 회사는 이 돈으로 버텼다."
       ],
       "photo_hint": "1) Peter Thiel and Elon Musk together at a computer, X.com/PayPal era 2000 (same photo as in 일론 머스크 · PayPal 편) / 2) X.com and PayPal logos / 3) Thiel 2000",
-      "value": "회사 가치 약 5억 달러(투자 기준)"
+      "value": "회사 가치 약 5억 달러(투자 기준)",
+      "photo_note": "피터 틸과 일론 머스크, PayPal 사무실"
     },
     {
       "index": "06 · 위기",
@@ -93,7 +99,8 @@
         "9월 머스크가 해외 출장을 간 사이 레브친 등 임원들이 이사회에 틸을 CEO로 앉히라고 요구했고, 이사회가 받아들였다. 그는 은행 업무를 닫고 송금 하나에 집중했으며 2001년 회사 이름을 PayPal로 바꿨다."
       ],
       "photo_hint": "1) Peter Thiel with PayPal or X.com logo / at PayPal office as CEO (2000-2001) / 2) PayPal office / X.com-to-PayPal rename / 3) Thiel 2000-2001",
-      "value": "회사 가치 약 5억 달러(추정)"
+      "value": "회사 가치 약 5억 달러(추정)",
+      "photo_note": "PayPal 팀 (1999), 피터 틸 포함"
     },
     {
       "index": "07 · 위기",
@@ -107,7 +114,8 @@
         "2000년 6월부터 사업자 계정에 건당 2.9%+30센트 수수료를 받았고, 2001년 매출은 1억 370만 달러가 됐다. 다만 이때까지 흑자를 낸 분기는 없었다."
       ],
       "photo_hint": "1) Max Levchin with Igor fraud detection screens / PayPal fraud team (2001) / 2) Igor system diagram or PayPal fraud alert screen, PayPal merchant fee page / 3) Thiel 2001",
-      "value": "회사 가치 약 5억 달러(추정)"
+      "value": "회사 가치 약 5억 달러(추정)",
+      "photo_note": "Igor 원리를 그린 설명 그림 (실제 화면 아님)"
     },
     {
       "index": "08 · 정점",
@@ -120,7 +128,8 @@
       ],
       "photo_hint": "1) Peter Thiel at PayPal IPO, Nasdaq February 2002 / 2) PayPal IPO day / Nasdaq ticker PYPL 2002 / 3) Thiel 2002",
       "value": "회사 가치 약 12억 달러(상장 첫날)",
-      "title_size": 70
+      "title_size": 70,
+      "photo_note": "상장 첫날 주가를 그린 그림"
     },
     {
       "index": "09 · 매각",
@@ -132,7 +141,8 @@
         "지분 3.7%를 가진 그의 몫은 약 5,500만 달러였다. 10월 인수가 끝나자 그는 PayPal을 떠났고, 이 돈이 다음 회사들의 밑천이 됐다."
       ],
       "photo_hint": "1) Peter Thiel with eBay–PayPal acquisition announcement (2002) / 2) eBay and PayPal logos together / acquisition headline / 3) Thiel 2002",
-      "value": "회사 가치 15억 달러(eBay 인수가)"
+      "value": "회사 가치 15억 달러(eBay 인수가)",
+      "photo_note": "eBay·PayPal 사옥, 새너제이 (2010)"
     },
     {
       "index": "10 · 창업",
@@ -145,7 +155,8 @@
         "벤처캐피털들이 투자를 꺼려 첫 3,000만 달러 대부분을 그와 그의 펀드가 댔고, 2004년 스탠퍼드 로스쿨 동문 알렉스 카프에게 CEO를 맡겼다(알렉스 카프 · Palantir 편에서 이어짐)."
       ],
       "photo_hint": "1) Peter Thiel with Palantir co-founders / Alex Karp at Palantir's founding (2003-2004) / 2) early Palantir office or logo / 3) Thiel 2003",
-      "value": "회사 가치 비공개(첫 자금 약 3,000만 달러)"
+      "value": "회사 가치 비공개(첫 자금 약 3,000만 달러)",
+      "photo_note": "Palo Alto의 Palantir 본사 건물 (2018)"
     },
     {
       "index": "11 · 투자",
@@ -159,7 +170,8 @@
         "그는 창업자들이 처음 생각대로 회사를 끌고 가는 데 동의했고, 약 490만 달러라는 회사 가치가 합리적이라 비교적 안전한 투자라고 봤다고 밝혔다(마크 저커버그 · Facebook 편)."
       ],
       "photo_hint": "1) Peter Thiel and Mark Zuckerberg together (2004-2005) / 2) early thefacebook.com page 2004 / 3) Thiel 2004",
-      "value": "Facebook 가치 약 490만 달러(틸 투자 기준)"
+      "value": "Facebook 가치 약 490만 달러(틸 투자 기준)",
+      "photo_note": "피터 틸(2007)과 마크 저커버그(2005) 사진을 나란히 붙임"
     },
     {
       "index": "12 · 창업",
@@ -173,7 +185,8 @@
         "머스크는 이 돈과 남은 현금으로 Falcon 1 발사를 이어 가면서 더 큰 Falcon 9과 화물선 Dragon을 개발할 수 있다고 직원들에게 밝혔다. 한 달 뒤 네 번째 발사가 궤도에 올랐다."
       ],
       "photo_hint": "1) Peter Thiel with Founders Fund partners (Ken Howery, Luke Nosek) or with Elon Musk at SpaceX (2008) / 2) Falcon 1 launch 2008 / Founders Fund logo / 3) Thiel 2005-2008",
-      "value": "펀드 규모 약 2억 2,000만 달러(2008년)"
+      "value": "펀드 규모 약 2억 2,000만 달러(2008년)",
+      "photo_note": "피터 틸(2014)과 SpaceX Falcon 1 발사(2008) 사진을 나란히 붙임"
     },
     {
       "index": "13 · 위기",
@@ -187,7 +200,8 @@
         "투자자들이 돈을 빼 가 2011년 운용 자산은 약 3억 5,000만 달러로 줄었고, 그중 약 3분의 2가 그의 돈이었다."
       ],
       "photo_hint": "1) Peter Thiel at Clarium Capital office (2008-2010) / 2) Clarium Capital logo or 2008 dollar/market crash chart / 3) Thiel 2008-2010",
-      "value": "운용 자산 약 80억 달러(2008년 고점)"
+      "value": "운용 자산 약 80억 달러(2008년 고점)",
+      "photo_note": "Clarium 운용 자산과 수익률 (자료: The Generalist)"
     },
     {
       "index": "14 · 성장",
@@ -199,7 +213,8 @@
         "8년 전 50만 달러 투자가 10억 달러 넘게 돌아왔다. 그는 2022년까지 17년 동안 Facebook 이사로 남았다."
       ],
       "photo_hint": "1) Peter Thiel at Facebook IPO (May 2012) / 2) Facebook IPO Nasdaq May 2012 / 3) Thiel 2012",
-      "value": "Facebook 가치 약 1,040억 달러(상장 공모가 기준)"
+      "value": "Facebook 가치 약 1,040억 달러(상장 공모가 기준)",
+      "photo_note": "나스닥의 Facebook 상장 축하 전광판 (2012)"
     },
     {
       "index": "15 · 정점",
@@ -223,7 +238,8 @@
           "num": "30",
           "unit": "년"
         }
-      ]
+      ],
+      "photo_note": "피터 틸 (2022)"
     },
     {
       "type": "outro",
@@ -237,6 +253,7 @@
       ],
       "button": "지금 팔로우 →",
       "photo_hint": "Peter Thiel portrait (person photo for the closing slide)",
+      "photo_note": "피터 틸 (2022)",
       "bgpos": "right center"
     }
   ],
