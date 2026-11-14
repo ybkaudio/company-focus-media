@@ -8,7 +8,7 @@
 
 📷 **Photo:** Larry Page and Sergey Brin together with Google logo, around 1999-2003 (if no logo visible, production adds a Google logo sticker) / COVER LOGO: Google logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 박사 연구에서 시작한 9천억 달러 검색 회사
+**제목:** 두 괴짜 박사생은 어떻게 검색을 지배했나
 
 기업집중탐구
 
@@ -202,6 +202,8 @@ Google은 팔리지 않아서 살아남은 회사였어요.
 
 래리 페이지와 세르게이 브린은 스탠퍼드 박사 과정에서 링크 수로 웹페이지 순위를 매기는 검색 엔진을 만들었어요. 75만 달러에도 팔리지 않은 회사를 직접 키웠고, 클릭률로 순서를 정하는 검색 광고로 돈 버는 법을 찾았어요. 상장 뒤 Android·YouTube를 샀지만 Motorola 인수에서는 크게 손해를 봤고, 2019년 경영에서 물러났어요.
 
+Google이 75만 달러에 팔렸다면 지금 검색은 어땠을까요? 댓글로 알려 주세요.
+
 🔗 검색 시리즈. Google을 100만 달러에 살 수 있었던 Yahoo 이야기는 제리 양 · Yahoo 편, Google이 산 Android는 앤디 루빈 · Android 편, YouTube는 채드 헐리 · YouTube 편에서 볼 수 있어요.
 
 출처
@@ -214,7 +216,3 @@ Google은 팔리지 않아서 살아남은 회사였어요.
 - 장별 회사 가치: 1999년 Excite 매각 제안가 약 100만 달러, 1999년 6월 투자 라운드(2,500만 달러) 기준, 2004년 이후는 시가총액
 
 #기업집중탐구 #래리페이지 #세르게이브린 #구글 #Google #검색 #창업 #창업스토리 #스타트업 #자기계발
-
-## 첫 댓글 (게시 후 우리 계정이 직접 닮)
-
-Google이 75만 달러에 팔렸다면 지금 검색은 어땠을까요? 댓글로 알려 주세요.

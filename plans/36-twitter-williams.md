@@ -8,7 +8,7 @@
 
 📷 **Photo:** Evan Williams with Twitter logo, around 2009-2010 (if no logo visible, production adds a Twitter bird logo sticker) / COVER LOGO: Twitter logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 블로그 도구에서 시작한 10억 달러 SNS
+**제목:** 인터넷에 글쓰기를 퍼뜨린 남자
 
 기업집중탐구
 
@@ -185,6 +185,8 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 
 에번 윌리엄스는 할 일 관리 프로그램을 만들다 메모 기능을 떼어 Blogger로 내놨고, 돈이 떨어져 혼자 남고도 버텨 Google에 팔았어요. 팟캐스트 회사 Odeo가 실패하자 그 안의 작은 프로젝트 Twitter를 자기 돈으로 되샀고, CEO가 돼 Facebook의 인수 제안을 거절했어요. 첫 광고 수입을 만든 뒤 2010년 CEO에서 물러났어요.
 
+블로그와 Twitter 중 무엇을 먼저 써 봤나요? 댓글로 알려 주세요.
+
 🔗 Twitter 시리즈. Twitter라는 이름을 지은 노아 글래스 이야기는 노아 글래스 · Twitter 편, 첫 트윗을 올린 잭 도시 이야기는 잭 도시 · Twitter 편에서 이어져요.
 
 출처
@@ -195,7 +197,3 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 - 장별 회사 가치: Odeo는 2006년 되산 값 약 500만 달러, Twitter는 2007·2008·2009년 투자 라운드 기준, 2008년은 Facebook 주식 제안가
 
 #기업집중탐구 #에번윌리엄스 #트위터 #Twitter #블로거 #Blogger #창업 #창업스토리 #스타트업 #자기계발
-
-## 첫 댓글 (게시 후 우리 계정이 직접 닮)
-
-블로그와 Twitter 중 무엇을 먼저 써 봤나요? 댓글로 알려 주세요.

@@ -8,7 +8,7 @@
 
 📷 **Photo:** Andy Rubin holding an early Android phone (T-Mobile G1), 2008, with Android logo visible (if no logo, production adds an Android logo sticker) / COVER LOGO: Android logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 카메라 운영체제에서 세계 1위 스마트폰 OS로
+**제목:** 안드로이드의 아버지는 왜 구글을 떠났나
 
 기업집중탐구
 
@@ -163,6 +163,8 @@ Android는 원래 디지털카메라용 운영체제였어요.
 
 📊 Android는 Google 안의 사업이라 따로 매긴 회사 가치가 없어, 떠날 때 숫자는 Google이 발표한 Android 기기 수(2013년 3월)로 적었어요.
 
+첫 스마트폰은 Android였나요, iPhone이었나요? 댓글로 알려 주세요.
+
 🔗 검색 시리즈. Android를 산 Google 이야기는 래리 페이지·세르게이 브린 · Google 편, Android 설계를 바꾸게 한 iPhone의 Apple 이야기는 스티브 잡스 · Apple 편에서 볼 수 있어요.
 
 출처
@@ -174,7 +176,3 @@ Android는 원래 디지털카메라용 운영체제였어요.
 - 장별 회사 가치: 2005년 Google 인수가 약 5천만 달러. 인수 뒤 Android는 Google 사업부라 따로 표시하지 않음
 
 #기업집중탐구 #앤디루빈 #안드로이드 #Android #구글 #스마트폰 #창업 #창업스토리 #스타트업 #자기계발
-
-## 첫 댓글 (게시 후 우리 계정이 직접 닮)
-
-첫 스마트폰은 Android였나요, iPhone이었나요? 댓글로 알려 주세요.

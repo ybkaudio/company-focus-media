@@ -8,9 +8,9 @@
 
 📷 **Photo:** Frank Carney portrait (1960s-70s; cover Pizza Hut logo sticker, please also send a Pizza Hut logo image) / COVER LOGO: Pizza Hut logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 600달러로 시작한 세계 1위 피자 체인
+**제목:** 엄마에게 빌린 600달러가 피자 제국이 되기까지
 
-기업집중탐구 #29
+기업집중탐구
 
 
 ## 02.jpg · 01 · 창업
@@ -137,7 +137,9 @@
 
 프랭크 카니는 열아홉 살에 형과 함께 빈 건물에 피자 가게를 열었어요. 은행이 믿어 주지 않자 가맹점으로 매장을 늘렸고, 빨간 지붕 건물을 표준으로 삼아 13년 만에 세계 1위 피자 체인을 만들었어요. 1977년 PepsiCo에 회사를 판 뒤 1980년 피자 업계를 떠났어요.
 
-🔗 Pizza Hut은 1977년 PepsiCo에 팔렸고, PepsiCo는 1986년 KFC도 사들였어요. 두 회사는 지금 같은 Yum! Brands 식구예요. KFC 이야기는 #28에서 볼 수 있어요.
+여러분이 가장 좋아하는 피자 브랜드는 어디인가요? 댓글로 알려 주세요.
+
+🔗 Pizza Hut은 1977년 PepsiCo에 팔렸고, PepsiCo는 1986년 KFC도 사들였어요. 두 회사는 지금 같은 Yum! Brands 식구예요. KFC 이야기는 할랜드 샌더스 · KFC 편에서 볼 수 있어요.
 
 출처
 - Wikipedia, Pizza Hut / Dan and Frank Carney
@@ -148,7 +150,3 @@
 - 장별 회사 가치: 1958년은 창업 자금 600달러, 1959~1971년은 매장 수와 상장 규모로 셈한 추정, 1977년은 PepsiCo 인수가
 
 #기업집중탐구 #프랭크카니 #피자헛 #PizzaHut #창업 #프랜차이즈 #창업스토리 #자기계발
-
-## 첫 댓글 (게시 후 우리 계정이 직접 닮)
-
-여러분이 가장 좋아하는 피자 브랜드는 어디인가요? 댓글로 알려 주세요.

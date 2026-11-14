@@ -8,7 +8,7 @@
 
 📷 **Photo:** Jack Dorsey with Twitter logo, around 2015-2021 (if no logo visible, production adds a Twitter bird logo sticker) / COVER LOGO: Twitter logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 배차 프로그램에서 370억 달러 SNS로
+**제목:** 첫 트윗을 쓴 남자는 왜 두 번 떠났나
 
 기업집중탐구
 
@@ -183,6 +183,8 @@ Elliott과 합의한 성장 목표에 다가서는 숫자였다.
 
 잭 도시는 14살부터 빠졌던 배차 시스템에서 '지금 뭐 하는지 알리는' 서비스를 떠올렸고, 2006년 첫 트윗을 올렸어요. 2008년 CEO에서 밀려난 뒤 카드 결제 회사 Square를 세웠고, 2015년 Twitter CEO로 돌아와 두 회사를 함께 이끌었어요. 행동주의 펀드의 압박 속에 이용자를 늘린 뒤 2021년 스스로 물러났어요.
 
+회사에서 밀려났다가 돌아간다면 어떤 기분일까요? 댓글로 알려 주세요.
+
 🔗 Twitter 시리즈. Twitter라는 이름을 지은 노아 글래스는 노아 글래스 · Twitter 편, 그를 대신해 CEO가 된 에번 윌리엄스는 에번 윌리엄스 · Twitter 편에서 볼 수 있어요.
 
 출처
@@ -194,7 +196,3 @@ Elliott과 합의한 성장 목표에 다가서는 숫자였다.
 - 장별 회사 가치: Twitter는 투자 라운드 기준과 상장 이후 시가총액, Square 장은 2009·2010년 Square 투자 라운드 기준
 
 #기업집중탐구 #잭도시 #트위터 #Twitter #스퀘어 #Square #창업 #창업스토리 #스타트업 #자기계발
-
-## 첫 댓글 (게시 후 우리 계정이 직접 닮)
-
-회사에서 밀려났다가 돌아간다면 어떤 기분일까요? 댓글로 알려 주세요.

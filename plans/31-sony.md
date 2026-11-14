@@ -8,7 +8,7 @@
 
 📷 **Photo:** Masaru Ibuka portrait with Sony logo or early Sony product, 1950s-60s (if no logo visible, production adds a Sony logo sticker) / COVER LOGO: Sony logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 라디오 수리점에서 세계의 소니로
+**제목:** 일본의 에디슨이 라디오 수리점에서 꾼 꿈
 
 기업집중탐구
 
@@ -171,6 +171,8 @@ Sony의 첫 제품은 팔리지 않은 전기밥솥이었어요.
 
 떠날 때 회사 가치는 시가총액 자료가 없어, 1971 회계연도 매출 1,597억 엔(1달러=360엔으로 약 4.4억 달러)에 매출 대비 가치 약 2배를 곱한 추정치(약 9억 달러)로 적었어요.
 
+가장 기억에 남는 Sony 제품은 무엇인가요? 댓글로 알려 주세요.
+
 출처
 - Wikipedia, Masaru Ibuka / History of Sony
 - The Shashi, Ibuka Masaru (Sony 사장·회장 연표, 매출 자료)
@@ -180,7 +182,3 @@ Sony의 첫 제품은 팔리지 않은 전기밥솥이었어요.
 - 장별 회사 가치: 1946년 자본금 19만 엔(당시 환율로 약 1만 달러), 이후는 자본금·매출 규모로 셈한 추정(1949년 이후 360엔=1달러)
 
 #기업집중탐구 #이부카마사루 #소니 #Sony #워크맨 #트랜지스터 #창업 #창업스토리 #자기계발
-
-## 첫 댓글 (게시 후 우리 계정이 직접 닮)
-
-가장 기억에 남는 Sony 제품은 무엇인가요? 댓글로 알려 주세요.

@@ -8,7 +8,7 @@
 
 📷 **Photo:** Alex Karp portrait (recent, his trademark curly hair, on stage or interview) / COVER LOGO: Palantir logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 로스쿨 토론 상대에서 4천억 달러 팔란티어 CEO로
+**제목:** 코딩 못하는 철학자는 어떻게 팔란티어를 키웠나
 
 기업집중탐구
 
@@ -223,7 +223,7 @@ CIA의 벤처 투자사 In-Q-Tel이 약 200만 달러를 넣었습니다.
 2026년 3분기, 분기 매출 20억 달러 돌파.
 
 여러분은 20년 적자를 버틸 수 있을까요?
-첫 댓글에 답해 주세요 👇
+댓글로 알려 주세요.
 
 🔗 PayPal 마피아 시리즈. 카프를 CEO로 앉힌 공동 창업자 피터 틸 이야기는 바로 앞 피터 틸 편에서 볼 수 있습니다.
 
@@ -240,7 +240,3 @@ CIA의 벤처 투자사 In-Q-Tel이 약 200만 달러를 넣었습니다.
 - Reuters(BizNews 재인용), Palantir jumps on first annual profit (2024.02)
 - The Motley Fool, Palantir Q3 2026 results (2026.11.03)
 - 장별 회사 가치: 2013·2015년은 투자 라운드 기준, 2020년은 상장 첫날, 2023·2025년은 연말 시가총액 추정, 2026년은 11월 시가총액(약 4,077억 달러)
-
-## 첫 댓글 (게시 후 우리 계정이 직접 닮)
-
-여러분은 20년 적자를 버틸 수 있을까요? 댓글로 알려 주세요.

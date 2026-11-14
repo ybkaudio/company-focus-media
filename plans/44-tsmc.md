@@ -8,7 +8,7 @@
 
 📷 **Photo:** Morris Chang portrait with pipe or at TSMC event (TSMC logo visible if possible) / COVER LOGO: TSMC logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** TI에서 밀려난 엔지니어가 55세에 세운 세계 1위 반도체 회사
+**제목:** 55세에 다시 시작한 반도체의 대부
 
 기업집중탐구
 
@@ -250,7 +250,7 @@ Intel과 TI가 투자를 거절한 회사.
 2014년, Apple A8 칩. 2017년, Intel 추월. 2018년, 86세에 은퇴.
 
 남의 제품만 만들어 주는 회사가 1등이 될 거라 믿으셨나요?
-첫 댓글에 답해 주세요 👇
+댓글로 알려 주세요.
 
 🔗 반도체 시리즈. TSMC가 칩을 만들어 주는 NVIDIA 이야기는 젠슨 황 · NVIDIA 편에서 볼 수 있습니다.
 
@@ -265,7 +265,3 @@ Intel과 TI가 투자를 거절한 회사.
 - eeNews Europe, TSMC's Morris Chang sets retirement date (2018)
 - CompaniesMarketCap, TSMC 연말 시가총액 1997~2026
 - 장별 회사 가치: 1987~1990년은 자본금·매출 기준 추정(자본금은 Caixin 기준 1억 4,500만 달러, IEEE는 2억 2,000만 달러), 1997년 이후는 연말 시가총액, 2018년은 6월 은퇴 시점 근처 추정
-
-## 첫 댓글 (게시 후 우리 계정이 직접 닮)
-
-남의 제품만 만들어 주는 회사가 1등이 될 거라 믿으셨나요? 댓글로 알려 주세요.

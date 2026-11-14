@@ -8,7 +8,7 @@
 
 📷 **Photo:** Reed Hastings with Netflix logo behind him, 2000s-2010s (logo visible, so no sticker) / COVER LOGO: Netflix logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 우편 DVD에서 시작한 1,500억 달러 회사
+**제목:** 비디오 가게를 무너뜨린 수학 선생님
 
 기업집중탐구
 
@@ -213,6 +213,8 @@ Netflix를 처음 CEO로 이끈 사람은 리드 헤이스팅스가 아니었어
 
 수학 교사 출신 개발자 헤이스팅스는 첫 소프트웨어 회사를 판 뒤 마크 랜돌프와 Netflix를 세웠고, 연체료 없는 월 구독으로 회사를 살렸어요. Blockbuster에 5천만 달러에 팔릴 뻔했고 요금 인상으로 가입자 80만 명을 잃기도 했지만, DVD가 잘될 때 스트리밍을 시작하고 자체 드라마로 190개 나라에 나갔어요.
 
+연체료가 없었다면 여러분은 DVD를 더 빌렸을까요? 댓글로 알려 주세요.
+
 🔗 Netflix 시리즈. 함께 Netflix를 세우고 첫 CEO를 맡은 마크 랜돌프 이야기는 마크 랜돌프 · Netflix 편에서 볼 수 있어요.
 
 📊 떠날 때 회사 가치는 2023년 1월 주가(약 340달러)에 발행 주식 수(약 4억 4,500만 주)를 곱한 시가총액이에요.
@@ -230,7 +232,3 @@ Netflix를 처음 CEO로 이끈 사람은 리드 헤이스팅스가 아니었어
 - 장별 회사 가치: 1997년 헤이스팅스 투자금, 2000년 Blockbuster 매각 제안가, 2002년 이후 시가총액
 
 #기업집중탐구 #리드헤이스팅스 #넷플릭스 #Netflix #스트리밍 #창업 #창업스토리 #스타트업 #자기계발
-
-## 첫 댓글 (게시 후 우리 계정이 직접 닮)
-
-연체료가 없었다면 여러분은 DVD를 더 빌렸을까요? 댓글로 알려 주세요.

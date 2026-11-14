@@ -8,7 +8,7 @@
 
 📷 **Photo:** Tom Anderson ("Tom from Myspace") with Myspace logo, mid-2000s (if no logo visible, production adds a Myspace logo sticker) / COVER LOGO: Myspace logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 열흘 만에 시작한 미국 1위 웹사이트
+**제목:** 모두의 첫 친구 '톰'은 어디로 갔을까
 
 기업집중탐구
 
@@ -156,6 +156,8 @@ Google 계약은 사이트에 광고를 더 많이 붙이도록 요구했고, �
 
 떠날 때 회사 가치는 공개된 값이 없어, 2008 회계연도 매출(약 8억 달러)에 당시 인터넷 광고 회사의 매출 대비 가치(약 1.5배)를 곱한 추정치(약 12억 달러)로 적었어요.
 
+Myspace를 써 본 적 있나요? 댓글로 알려 주세요.
+
 🔗 SNS 시리즈. Myspace를 넘어선 Facebook 이야기는 에두아르도 세버린 · Facebook 편·마크 저커버그 · Facebook 편, Facebook이 사들인 사진 SNS Instagram은 케빈 시스트롬 · Instagram 편에서 볼 수 있어요.
 
 출처
@@ -166,7 +168,3 @@ Google 계약은 사이트에 광고를 더 많이 붙이도록 요구했고, �
 - 장별 회사 가치: 2005년 초 Redpoint 투자(1,150만 달러에 약 25%), 2005년 News Corp 인수가, 2006년 이후는 당시 업계 추정과 매출로 셈한 추정
 
 #기업집중탐구 #톰앤더슨 #마이스페이스 #Myspace #SNS #창업 #창업스토리 #스타트업 #자기계발
-
-## 첫 댓글 (게시 후 우리 계정이 직접 닮)
-
-Myspace를 써 본 적 있나요? 댓글로 알려 주세요.

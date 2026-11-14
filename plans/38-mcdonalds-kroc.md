@@ -8,7 +8,7 @@
 
 📷 **Photo:** Ray Kroc in front of a McDonald's restaurant with golden arches, late 1950s-1960s (logo visible, so no sticker) / COVER LOGO: McDonald's logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 믹서 판매원에서 시작한 7,500개 매장 체인
+**제목:** 믹서 판매원은 어떻게 맥도날드의 주인이 됐나
 
 기업집중탐구
 
@@ -170,6 +170,8 @@ McDonald's를 세계로 키운 사람은 52살 믹서 판매원이었어요.
 
 📊 McDonald's의 1984년 시가총액은 확인되는 공개값이 없어, 1983년 순이익(약 3억 4천만 달러)에 당시 주가수익비율 약 12배를 곱한 추정치(약 40억 달러)로 적었어요. 그해 전체 매장 매출은 80억 달러를 넘었어요.
 
+McDonald's에서 가장 좋아하는 메뉴는 무엇인가요? 댓글로 알려 주세요.
+
 🔗 패스트푸드 시리즈. 그에게 회사를 판 맥도날드 형제 이야기는 맥도날드 형제 · McDonald's 편, KFC는 할랜드 샌더스 · KFC 편, Pizza Hut은 프랭크 카니 · Pizza Hut 편에서 볼 수 있어요.
 
 출처
@@ -179,7 +181,3 @@ McDonald's를 세계로 키운 사람은 52살 믹서 판매원이었어요.
 - 장별 회사 가치: 1955~1962년은 매장 수와 1961년 인수 대금 270만 달러로 셈한 추정, 1965년 이후는 시가총액 추정
 
 #기업집중탐구 #레이크록 #맥도날드 #McDonalds #프랜차이즈 #창업 #창업스토리 #스타트업 #자기계발
-
-## 첫 댓글 (게시 후 우리 계정이 직접 닮)
-
-McDonald's에서 가장 좋아하는 메뉴는 무엇인가요? 댓글로 알려 주세요.

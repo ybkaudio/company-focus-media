@@ -8,7 +8,7 @@
 
 📷 **Photo:** Jerry Yang (with David Filo, crop if needed) and Yahoo! logo, late 1990s (if no logo visible, production adds a Yahoo! logo sticker) / COVER LOGO: Yahoo logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 사이트 목록에서 시작한 1,250억 달러 포털
+**제목:** 인터넷의 첫 지도를 그린 대학원생
 
 기업집중탐구
 
@@ -155,6 +155,8 @@ Yahoo는 대학원생 두 명의 즐겨찾기 목록이었어요.
 
 제리 양은 1994년 스탠퍼드 박사 과정 중 동료 데이비드 파일로와 웹사이트를 주제별로 정리한 목록을 만들었어요. 투자를 받고 전문 경영인을 들여 뉴스·메일을 갖춘 포털로 키웠고, 2000년 1,250억 달러 회사가 됐어요. 하지만 100만 달러에 살 수 있던 Google을 놓쳤고, CEO 시절 Microsoft의 446억 달러 제안을 거절한 뒤 주가가 떨어져 2012년 회사를 떠났어요.
 
+Yahoo를 처음 썼던 때를 기억하나요? 댓글로 알려 주세요.
+
 🔗 검색 시리즈. Yahoo가 사지 않은 Google 이야기는 래리 페이지·세르게이 브린 · Google 편에서 이어져요.
 
 출처
@@ -165,7 +167,3 @@ Yahoo는 대학원생 두 명의 즐겨찾기 목록이었어요.
 - 장별 회사 가치: 1995년 Sequoia 투자(200만 달러에 약 25%), 1996년 상장 첫날 시가총액, 1999년 이후는 해당 시점 시가총액
 
 #기업집중탐구 #제리양 #야후 #Yahoo #포털 #창업 #창업스토리 #스타트업 #자기계발
-
-## 첫 댓글 (게시 후 우리 계정이 직접 닮)
-
-Yahoo를 처음 썼던 때를 기억하나요? 댓글로 알려 주세요.
