@@ -8,7 +8,7 @@
 
 📷 **Photo:** Peter Thiel portrait (recent, 2020s, stage or interview) / COVER LOGO: none (multi-company episode; if the user wants one, PayPal and Palantir logos as transparent PNGs)
 
-**제목:** 페이팔에서 팔란티어까지, 실리콘밸리의 판을 짠 피터 틸
+**제목:** 페이스북·스페이스X에 먼저 돈을 건 피터 틸
 
 기업집중탐구
 
@@ -17,7 +17,7 @@
 
 📷 **Photo:** Young Peter Thiel portrait, 1990s (Stanford era if available)
 
-**제목:** 변호사·트레이더를 그만두고 100만 달러 펀드를 세우다
+**제목:** 로펌을 나와 100만 달러 펀드를 차리다
 
 스탠퍼드에서 철학과 법학을 공부한 뒤 뉴욕 대형 로펌 <Sullivan & Cromwell>에서 증권 변호사로 일했지만 1년을 채우지 않고 나왔다.
 
@@ -47,20 +47,32 @@
 
 📷 **Photo:** Palm Pilot (Palm III) device, late 1990s, or PayPal 1999 launch event
 
-**제목:** 팜파일럿 송금을 버리고 이메일 송금으로 바꾸다
+**제목:** 손바닥 컴퓨터 대신 이메일 송금으로
 
-처음엔 휴대용 컴퓨터 팜파일럿의 데이터를 암호화하는 보안 소프트웨어였고, 1999년 팜파일럿끼리 적외선으로 돈을 보내는 기능으로 바꿨다.
+처음 만든 건 팜파일럿의 데이터를 암호화하는 보안 소프트웨어였다.
 
-7월 출시 행사에서 투자사 Nokia Ventures가 팜파일럿으로 투자금 300만 달러를 보내는 시연까지 했지만, 사용자는 몇 주 뒤 약 1만 3천 명이었고 1년 뒤에도 그대로였다.
+팜파일럿은 1990년대 말 인기를 끈 손바닥만 한 개인용 컴퓨터로, 펜으로 일정·주소록을 적었다.
 
-반면 시연용으로 덧붙인 이메일 송금은 쓰는 사람이 계속 늘었고, 회사는 이메일 송금 'PayPal'에 집중했다.
+1999년 이를 송금 기능으로 바꿨다.
+
+두 기기를 마주 대면 TV 리모컨처럼 적외선으로 암호화된 송금 정보가 넘어가고, 실제 돈은 각자 연결해 둔 은행 계좌·신용카드 사이에서 옮겨졌다.
+
+7월 출시 행사에서 Nokia Ventures가 이 방식으로 투자금 300만 달러를 보내는 시연까지 했지만, 사용자는 몇 주 뒤 약 1만 3천 명에서 1년 넘게 늘지 않았다.
+
+팜파일럿을 가진 사람끼리, 그것도 마주 앉아야만 쓸 수 있었기 때문이다.
+
+반면 시연용으로 덧붙인 이메일 송금은 받는 사람의 이메일 주소만 알면 누구에게나 보낼 수 있었다.
+
+돈을 받으려면 가입해야 해서, 송금 한 번이 새 가입자를 데려왔다.
+
+회사는 이메일 송금 'PayPal'에 집중했다.
 
 
 ## 05.jpg · 04 · 성장
 
 📷 **Photo:** Early PayPal website screenshot around 2000, or eBay auction page with PayPal logo
 
-**제목:** eBay 판매자를 찾아내 가입 보너스로 키우다
+**제목:** 10달러 보너스로 eBay 결제의 5배
 
 가입하면 10달러, 친구를 데려오면 10달러를 더 줬다.
 
@@ -75,7 +87,7 @@
 
 📷 **Photo:** 1) Peter Thiel and Elon Musk together at a computer, X.com/PayPal era 2000 (same photo as in 일론 머스크 · PayPal 편) / 2) X.com and PayPal logos / 3) Thiel 2000
 
-**제목:** 경쟁사와 합치고 1억 달러를 모으다
+**제목:** 머스크와 합병, 1억 달러를 모으다
 
 머스크의 <X.com>도 같은 이메일 송금에 보너스를 쏟아부으며 경쟁했다(일론 머스크 · PayPal 편).
 
@@ -90,7 +102,7 @@
 
 📷 **Photo:** 1) Peter Thiel with PayPal or X.com logo / at PayPal office as CEO (2000-2001) / 2) PayPal office / X.com-to-PayPal rename / 3) Thiel 2000-2001
 
-**제목:** CEO를 넘겼다가 임원들의 요구로 돌아오다
+**제목:** 머스크 출장 중, CEO로 돌아오다
 
 2000년 3월 합병 뒤 머스크가 CEO, 그는 이사회 의장이 됐고 5월에는 회사 일에서 물러났다.
 
@@ -105,22 +117,26 @@
 
 📷 **Photo:** 1) Max Levchin with Igor fraud detection screens / PayPal fraud team (2001) / 2) Igor system diagram or PayPal fraud alert screen, PayPal merchant fee page / 3) Thiel 2001
 
-**제목:** 사기 손실을 막고 수수료로 매출 1억 달러를 넘기다
+**제목:** 한 달 1,000만 달러 사기, 3분의 1로 줄이다
 
-가입자가 늘자 남의 카드로 돈을 빼 가는 사기로 한때 한 달에 1,000만 달러 넘게 잃었다.
+가입자가 늘자 훔친 카드로 계정을 만들어 돈을 빼 가는 사기로 한때 한 달에 1,000만 달러 넘게 잃었다.
 
-레브친이 만든 사기 탐지 시스템 'Igor'로 사기 비율을 인터넷 평균 2.64%의 3분의 1 수준인 0.85%로 낮췄다.
+레브친 팀은 프로그램이 계정을 대량으로 만들지 못하게, 사람만 읽을 수 있는 일그러진 글자를 입력하게 했다.
+
+지금 흔히 보는 CAPTCHA의 초기 형태다.
+
+사기 탐지 시스템 'Igor'는 계정과 거래의 연결을 그림으로 보여 줘, 같은 사람이 여러 계정으로 돈을 돌리는 흐름을 직원이 한눈에 찾게 했다.
+
+사기 비율은 인터넷 평균 2.64%의 3분의 1 수준인 0.85%로 내려갔다.
 
 2000년 6월부터 사업자 계정에 건당 2.9%+30센트 수수료를 받았고, 2001년 매출은 1억 370만 달러가 됐다.
-
-다만 이때까지 흑자를 낸 분기는 없었다.
 
 
 ## 09.jpg · 08 · 정점
 
 📷 **Photo:** 1) Peter Thiel at PayPal IPO, Nasdaq February 2002 / 2) PayPal IPO day / Nasdaq ticker PYPL 2002 / 3) Thiel 2002
 
-**제목:** eBay 결제를 누르고 상장 첫날 55% 오르다
+**제목:** 상장 첫날 55% 오르다
 
 eBay가 은행 Wells Fargo와 만든 결제 서비스 Billpoint보다 판매자들은 이미 쓰던 PayPal을 계속 받았다.
 
@@ -133,7 +149,7 @@ eBay가 은행 Wells Fargo와 만든 결제 서비스 Billpoint보다 판매자�
 
 📷 **Photo:** 1) Peter Thiel with eBay–PayPal acquisition announcement (2002) / 2) eBay and PayPal logos together / acquisition headline / 3) Thiel 2002
 
-**제목:** eBay에 15억 달러에 팔고 5,500만 달러를 받다
+**제목:** eBay에 15억 달러, 그의 몫 5,500만 달러
 
 2002년 7월 eBay가 PayPal을 15억 달러에 사기로 했다.
 
@@ -148,7 +164,7 @@ eBay는 자기 결제 서비스로 PayPal을 이기지 못했고, 경매 대금�
 
 📷 **Photo:** 1) Peter Thiel with Palantir co-founders / Alex Karp at Palantir's founding (2003-2004) / 2) early Palantir office or logo / 3) Thiel 2003
 
-**제목:** PayPal 사기 탐지를 보고 Palantir를 세우다
+**제목:** 사기 탐지를 테러 추적에, Palantir 창업
 
 PayPal은 레브친의 사기 탐지 시스템으로 수많은 거래 속에서 수상한 흐름을 찾아냈다.
 
@@ -165,7 +181,7 @@ PayPal은 레브친의 사기 탐지 시스템으로 수많은 거래 속에서 
 
 📷 **Photo:** 1) Peter Thiel and Mark Zuckerberg together (2004-2005) / 2) early thefacebook.com page 2004 / 3) Thiel 2004
 
-**제목:** 50만 달러로 Facebook 첫 외부 투자자가 되다
+**제목:** 50만 달러로 Facebook 지분 10.2%
 
 2004년 여름 Napster 공동 창업자 숀 파커의 소개로 20살 마크 저커버그를 만났다.
 
@@ -180,7 +196,7 @@ PayPal은 레브친의 사기 탐지 시스템으로 수많은 거래 속에서 
 
 📷 **Photo:** 1) Peter Thiel with Founders Fund partners (Ken Howery, Luke Nosek) or with Elon Musk at SpaceX (2008) / 2) Falcon 1 launch 2008 / Founders Fund logo / 3) Thiel 2005-2008
 
-**제목:** Founders Fund를 세우고 SpaceX에 2,000만 달러를 넣다
+**제목:** 세 번 실패한 SpaceX에 2,000만 달러
 
 2005년 PayPal에서 함께 일한 켄 하워리·루크 노섹과 벤처캐피털 <Founders Fund>를 세웠다.
 
@@ -195,7 +211,7 @@ PayPal은 레브친의 사기 탐지 시스템으로 수많은 거래 속에서 
 
 📷 **Photo:** 1) Peter Thiel at Clarium Capital office (2008-2010) / 2) Clarium Capital logo or 2008 dollar/market crash chart / 3) Thiel 2008-2010
 
-**제목:** 80억 달러 헤지펀드, 달러 하락에 걸었다가 90% 줄다
+**제목:** 78억 달러 헤지펀드, 3년 만에 90% 증발
 
 2002년 PayPal에서 받은 돈 중 1,000만 달러로 헤지펀드 <Clarium Capital>을 세웠다.
 
@@ -212,7 +228,7 @@ PayPal은 레브친의 사기 탐지 시스템으로 수많은 거래 속에서 
 
 📷 **Photo:** 1) Peter Thiel at Facebook IPO (May 2012) / 2) Facebook IPO Nasdaq May 2012 / 3) Thiel 2012
 
-**제목:** Facebook 상장, 50만 달러가 10억 달러로
+**제목:** 50만 달러가 10억 달러로
 
 2012년 5월 Facebook 상장 때 1,680만 주를 6억 3,800만 달러에 팔았고, 8월 보호예수가 풀리자 남은 지분 대부분을 3억 9,580만 달러에 팔았다.
 
@@ -225,7 +241,7 @@ PayPal은 레브친의 사기 탐지 시스템으로 수많은 거래 속에서 
 
 📷 **Photo:** Peter Thiel portrait, recent (2024-2026)
 
-**제목:** 23년째 Palantir 이사회 의장, 순자산 377억 달러
+**제목:** Palantir 의장, 순자산 377억 달러
 
 - **약 377억 달러** — 피터 틸 순자산 (Forbes, 2026년 10월)
 - **30년** — 첫 펀드부터 지금까지
@@ -268,7 +284,7 @@ Palantir 가치는 2026년 11월 약 4,000억 달러다.
 2026년, 순자산 377억 달러. 지금도 Palantir 이사회 의장입니다.
 
 여러분은 만난 다음 날 투자를 정할 수 있을까요?
-첫 댓글에 답해 주세요 👇
+댓글로 알려 주세요.
 
 🔗 PayPal 마피아 시리즈. 함께 PayPal을 키운 머스크 이야기는 일론 머스크 · PayPal 편, 그가 CEO로 앉힌 Palantir 이야기는 다음 알렉스 카프 · Palantir 편에서 이어집니다.
 
@@ -288,7 +304,3 @@ Palantir 가치는 2026년 11월 약 4,000억 달러다.
 - The Motley Fool, Peter Thiel has steadily sold down his Palantir stake (2026.08.27) / Palantir Q3 results (2026.11.03)
 - Forbes 실시간 부자 순위(2026.10, Wikipedia 재인용)
 - 장별 회사 가치: 1998~2001년 PayPal은 투자 라운드 규모로 셈한 추정, 2002년은 상장 첫날 시가총액·eBay 인수가, Facebook 2012년은 공모가 38달러 기준 시가총액
-
-## 첫 댓글 (게시 후 우리 계정이 직접 닮)
-
-여러분은 만난 다음 날 투자를 정할 수 있을까요? 댓글로 알려 주세요.
