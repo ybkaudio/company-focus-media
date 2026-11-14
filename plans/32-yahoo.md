@@ -10,7 +10,7 @@
 
 **제목:** 사이트 목록에서 시작한 1,250억 달러 포털
 
-기업집중탐구 #32
+기업집중탐구
 
 
 ## 02.jpg · 01 · 배경
@@ -126,7 +126,7 @@
 
 ## 11.jpg · 10 · 떠날 때
 
-📷 **Photo:** Jerry Yang portrait around 2012
+📷 **Photo:** 1) Jerry Yang at Yahoo shareholder meeting with Yahoo logo (2008-2012) / 2) Yahoo HQ Sunnyvale / news of his board resignation 2012 / 3) Jerry Yang 2012
 
 **제목:** 주주들의 비판 속에 이사회를 떠나다
 
@@ -155,7 +155,7 @@ Yahoo는 대학원생 두 명의 즐겨찾기 목록이었어요.
 
 제리 양은 1994년 스탠퍼드 박사 과정 중 동료 데이비드 파일로와 웹사이트를 주제별로 정리한 목록을 만들었어요. 투자를 받고 전문 경영인을 들여 뉴스·메일을 갖춘 포털로 키웠고, 2000년 1,250억 달러 회사가 됐어요. 하지만 100만 달러에 살 수 있던 Google을 놓쳤고, CEO 시절 Microsoft의 446억 달러 제안을 거절한 뒤 주가가 떨어져 2012년 회사를 떠났어요.
 
-🔗 검색 시리즈. Yahoo가 사지 않은 Google 이야기는 #33에서 이어져요.
+🔗 검색 시리즈. Yahoo가 사지 않은 Google 이야기는 래리 페이지·세르게이 브린 · Google 편에서 이어져요.
 
 출처
 - Wikipedia, Jerry Yang / History of Yahoo

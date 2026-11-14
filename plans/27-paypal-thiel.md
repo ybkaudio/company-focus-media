@@ -73,7 +73,7 @@
 
 ## 06.jpg · 05 · 확장
 
-📷 **Photo:** Peter Thiel and Elon Musk together around 2000 (PayPal era group photo, crop others if unclear)
+📷 **Photo:** 1) Peter Thiel and Elon Musk together at a computer, X.com/PayPal era 2000 (same photo as in 일론 머스크 · PayPal 편) / 2) X.com and PayPal logos / 3) Thiel 2000
 
 **제목:** 경쟁사와 합치고 1억 달러를 모으다
 
@@ -88,7 +88,7 @@
 
 ## 07.jpg · 06 · 위기
 
-📷 **Photo:** Peter Thiel portrait 2000-2001, PayPal office Palo Alto
+📷 **Photo:** 1) Peter Thiel with PayPal or X.com logo / at PayPal office as CEO (2000-2001) / 2) PayPal office / X.com-to-PayPal rename / 3) Thiel 2000-2001
 
 **제목:** CEO를 넘겼다가 임원들의 요구로 돌아오다
 
@@ -103,7 +103,7 @@
 
 ## 08.jpg · 07 · 위기
 
-📷 **Photo:** PayPal office / engineers working, around 2001
+📷 **Photo:** 1) Max Levchin with Igor fraud detection screens / PayPal fraud team (2001) / 2) Igor system diagram or PayPal fraud alert screen, PayPal merchant fee page / 3) Thiel 2001
 
 **제목:** 사기 손실을 막고 수수료로 매출 1억 달러를 넘기다
 
@@ -118,7 +118,7 @@
 
 ## 09.jpg · 08 · 정점
 
-📷 **Photo:** PayPal IPO day, February 2002 (Peter Thiel at NASDAQ if available)
+📷 **Photo:** 1) Peter Thiel at PayPal IPO, Nasdaq February 2002 / 2) PayPal IPO day / Nasdaq ticker PYPL 2002 / 3) Thiel 2002
 
 **제목:** eBay 결제를 누르고 상장 첫날 55% 오르다
 
@@ -131,7 +131,7 @@ eBay가 은행 Wells Fargo와 만든 결제 서비스 Billpoint보다 판매자�
 
 ## 10.jpg · 09 · 매각
 
-📷 **Photo:** Peter Thiel portrait 2002, or eBay–PayPal acquisition news photo
+📷 **Photo:** 1) Peter Thiel with eBay–PayPal acquisition announcement (2002) / 2) eBay and PayPal logos together / acquisition headline / 3) Thiel 2002
 
 **제목:** eBay에 15억 달러에 팔고 5,500만 달러를 받다
 
@@ -146,7 +146,7 @@ eBay는 자기 결제 서비스로 PayPal을 이기지 못했고, 경매 대금�
 
 ## 11.jpg · 10 · 창업
 
-📷 **Photo:** Peter Thiel with Alex Karp, or Palantir logo / office (early Palantir, Palo Alto)
+📷 **Photo:** 1) Peter Thiel with Palantir co-founders / Alex Karp at Palantir's founding (2003-2004) / 2) early Palantir office or logo / 3) Thiel 2003
 
 **제목:** PayPal 사기 탐지를 보고 Palantir를 세우다
 
@@ -163,7 +163,7 @@ PayPal은 레브친의 사기 탐지 시스템으로 수많은 거래 속에서 
 
 ## 12.jpg · 11 · 투자
 
-📷 **Photo:** Peter Thiel and Mark Zuckerberg together (mid-2000s), or early thefacebook.com page
+📷 **Photo:** 1) Peter Thiel and Mark Zuckerberg together (2004-2005) / 2) early thefacebook.com page 2004 / 3) Thiel 2004
 
 **제목:** 50만 달러로 Facebook 첫 외부 투자자가 되다
 
@@ -178,7 +178,7 @@ PayPal은 레브친의 사기 탐지 시스템으로 수많은 거래 속에서 
 
 ## 13.jpg · 12 · 창업
 
-📷 **Photo:** Founders Fund partners (Peter Thiel, Ken Howery, Luke Nosek) or Falcon 1 launch 2008
+📷 **Photo:** 1) Peter Thiel with Founders Fund partners (Ken Howery, Luke Nosek) or with Elon Musk at SpaceX (2008) / 2) Falcon 1 launch 2008 / Founders Fund logo / 3) Thiel 2005-2008
 
 **제목:** Founders Fund를 세우고 SpaceX에 2,000만 달러를 넣다
 
@@ -193,7 +193,7 @@ PayPal은 레브친의 사기 탐지 시스템으로 수많은 거래 속에서 
 
 ## 14.jpg · 13 · 위기
 
-📷 **Photo:** Peter Thiel portrait around 2008-2010 (Clarium Capital era)
+📷 **Photo:** 1) Peter Thiel at Clarium Capital office (2008-2010) / 2) Clarium Capital logo or 2008 dollar/market crash chart / 3) Thiel 2008-2010
 
 **제목:** 80억 달러 헤지펀드, 달러 하락에 걸었다가 90% 줄다
 
@@ -210,7 +210,7 @@ PayPal은 레브친의 사기 탐지 시스템으로 수많은 거래 속에서 
 
 ## 15.jpg · 14 · 성장
 
-📷 **Photo:** Facebook IPO day May 2012 (Nasdaq), or Peter Thiel portrait 2012
+📷 **Photo:** 1) Peter Thiel at Facebook IPO (May 2012) / 2) Facebook IPO Nasdaq May 2012 / 3) Thiel 2012
 
 **제목:** Facebook 상장, 50만 달러가 10억 달러로
 

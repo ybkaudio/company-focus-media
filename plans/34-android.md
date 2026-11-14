@@ -10,7 +10,7 @@
 
 **제목:** 카메라 운영체제에서 세계 1위 스마트폰 OS로
 
-기업집중탐구 #34
+기업집중탐구
 
 
 ## 02.jpg · 01 · 배경
@@ -67,7 +67,7 @@
 
 ## 06.jpg · 05 · 방향 전환
 
-📷 **Photo:** Andy Rubin portrait around 2004, or mid-2000s feature phones (Nokia Symbian, Windows Mobile)
+📷 **Photo:** 1) Andy Rubin with Android prototype or with Android co-founders (2004) / 2) mid-2000s feature phones (Symbian, Windows Mobile) / 3) Andy Rubin 2004
 
 **제목:** 카메라를 버리고 휴대폰 운영체제로 바꾸다
 
@@ -86,7 +86,7 @@
 
 2005년 한국에서 Samsung 경영진에게 회사를 소개했지만 받아들여지지 않았다.
 
-이어 래리 페이지에게 연 7억 대가 팔리는 휴대폰 시장이 컴퓨터 시장의 3배가 넘는다고 설명했다(#33). Google은 2005년 약 5천만 달러에 회사를 샀고, 그는 Google 안에서 Android를 계속 이끌었다.
+이어 래리 페이지에게 연 7억 대가 팔리는 휴대폰 시장이 컴퓨터 시장의 3배가 넘는다고 설명했다(래리 페이지·세르게이 브린 · Google 편). Google은 2005년 약 5천만 달러에 회사를 샀고, 그는 Google 안에서 Android를 계속 이끌었다.
 
 
 ## 08.jpg · 07 · 위기
@@ -97,7 +97,7 @@
 
 Android의 첫 시제품은 BlackBerry처럼 물리 자판이 달린 휴대폰이었다.
 
-2007년 1월 Apple이 터치스크린 iPhone을 공개하자, 이를 접고 터치스크린 중심으로 설계를 바꿨다(#01).
+2007년 1월 Apple이 터치스크린 iPhone을 공개하자, 이를 접고 터치스크린 중심으로 설계를 바꿨다(스티브 잡스 · Apple 편).
 
 11월 휴대폰 제조사·통신사 등과 함께 Android를 공동 플랫폼으로 쓰는 'Open Handset Alliance'를 발표했다.
 
@@ -130,7 +130,7 @@ Samsung이 거절했던 회사의 운영체제로 Samsung의 Galaxy 폰도 만�
 
 ## 11.jpg · 10 · 떠날 때
 
-📷 **Photo:** Andy Rubin portrait around 2013-2014
+📷 **Photo:** 1) Andy Rubin with Android robot / Android phones at Google event (2013) / 2) Android logo and phones 2013 / 3) Andy Rubin 2013-2014
 
 **제목:** Android를 넘기고 Google을 떠나다
 
@@ -163,7 +163,7 @@ Android는 원래 디지털카메라용 운영체제였어요.
 
 📊 Android는 Google 안의 사업이라 따로 매긴 회사 가치가 없어, 떠날 때 숫자는 Google이 발표한 Android 기기 수(2013년 3월)로 적었어요.
 
-🔗 검색 시리즈. Android를 산 Google 이야기는 #33, Android 설계를 바꾸게 한 iPhone의 Apple 이야기는 #01에서 볼 수 있어요.
+🔗 검색 시리즈. Android를 산 Google 이야기는 래리 페이지·세르게이 브린 · Google 편, Android 설계를 바꾸게 한 iPhone의 Apple 이야기는 스티브 잡스 · Apple 편에서 볼 수 있어요.
 
 출처
 - Wikipedia, Andy Rubin / Android (operating system)

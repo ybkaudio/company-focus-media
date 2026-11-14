@@ -10,12 +10,12 @@
 
 **제목:** 열흘 만에 시작한 미국 1위 웹사이트
 
-기업집중탐구 #30
+기업집중탐구
 
 
 ## 02.jpg · 01 · 배경
 
-📷 **Photo:** Young Tom Anderson portrait, 1990s (band era if available)
+📷 **Photo:** 1) young Tom Anderson performing with his band (1990s) / 2) his band's flyer or album / 3) young Tom Anderson 1990s
 
 **제목:** 해커·밴드 보컬을 거쳐 영화 대학원에 가다
 
@@ -125,7 +125,7 @@ Google 계약은 사이트에 광고를 더 많이 붙이도록 요구했고, �
 
 ## 10.jpg · 09 · 떠날 때
 
-📷 **Photo:** Tom Anderson portrait around 2009
+📷 **Photo:** 1) Tom Anderson with Myspace logo / Myspace office (2008-2009) / 2) news headline of Myspace CEO change 2009 (Owen Van Natta) / 3) Tom Anderson 2009
 
 **제목:** Facebook 출신 CEO에 자리를 내주다
 
@@ -156,7 +156,7 @@ Google 계약은 사이트에 광고를 더 많이 붙이도록 요구했고, �
 
 떠날 때 회사 가치는 공개된 값이 없어, 2008 회계연도 매출(약 8억 달러)에 당시 인터넷 광고 회사의 매출 대비 가치(약 1.5배)를 곱한 추정치(약 12억 달러)로 적었어요.
 
-🔗 SNS 시리즈. Myspace를 넘어선 Facebook 이야기는 #22 세버린·#23 저커버그, Facebook이 사들인 사진 SNS Instagram은 #21에서 볼 수 있어요.
+🔗 SNS 시리즈. Myspace를 넘어선 Facebook 이야기는 에두아르도 세버린 · Facebook 편·마크 저커버그 · Facebook 편, Facebook이 사들인 사진 SNS Instagram은 케빈 시스트롬 · Instagram 편에서 볼 수 있어요.
 
 출처
 - Wikipedia, Tom Anderson / Myspace

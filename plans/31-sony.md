@@ -10,12 +10,12 @@
 
 **제목:** 라디오 수리점에서 세계의 소니로
 
-기업집중탐구 #31
+기업집중탐구
 
 
 ## 02.jpg · 01 · 배경
 
-📷 **Photo:** Young Masaru Ibuka portrait, 1930s-40s
+📷 **Photo:** 1) young Masaru Ibuka with Akio Morita or at naval research lab (1940s) / 2) Japanese naval research equipment / Ibuka's early invention / 3) young Ibuka 1930s-40s
 
 **제목:** 전기공학을 공부하고 해군 연구소에서 동업자를 만나다
 

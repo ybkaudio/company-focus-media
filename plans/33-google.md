@@ -10,7 +10,7 @@
 
 **제목:** 박사 연구에서 시작한 9천억 달러 검색 회사
 
-기업집중탐구 #33
+기업집중탐구
 
 
 ## 02.jpg · 01 · 배경
@@ -75,7 +75,7 @@
 
 두 투자사는 경험 있는 CEO를 데려오라는 조건을 붙였다.
 
-2000년 6월에는 당시 최대 포털 Yahoo의 기본 검색 엔진이 되면서 이용자가 크게 늘었다(#32).
+2000년 6월에는 당시 최대 포털 Yahoo의 기본 검색 엔진이 되면서 이용자가 크게 늘었다(제리 양 · Yahoo 편).
 
 
 ## 07.jpg · 06 · 첫 성과
@@ -136,16 +136,16 @@
 
 **제목:** Android·YouTube를 사서 모바일·영상으로 넓히다
 
-2005년 스마트폰 운영체제를 만들던 작은 회사 <Android>를 약 5천만 달러에 샀다(#34).
+2005년 스마트폰 운영체제를 만들던 작은 회사 <Android>를 약 5천만 달러에 샀다(앤디 루빈 · Android 편).
 
-2006년 10월 동영상 사이트 <YouTube>를 16억 5천만 달러에 샀다(#10).
+2006년 10월 동영상 사이트 <YouTube>를 16억 5천만 달러에 샀다(채드 헐리 · YouTube 편).
 
 검색 광고로 번 돈으로 휴대폰과 영상이라는 새 광고 지면을 확보했다.
 
 
 ## 12.jpg · 11 · 위기
 
-📷 **Photo:** Larry Page portrait around 2012, or Motorola Mobility headquarters 2012
+📷 **Photo:** 1) Larry Page with Motorola phone (Moto X) or at Motorola event (2012-2013) / 2) Motorola Mobility HQ / Moto X / 3) Larry Page 2012
 
 **제목:** 125억 달러에 산 Motorola를 29억 달러에 팔다
 
@@ -171,7 +171,7 @@
 
 ## 14.jpg · 13 · 떠날 때
 
-📷 **Photo:** Larry Page and Sergey Brin portrait around 2019, or Sundar Pichai 2019
+📷 **Photo:** 1) Larry Page and Sergey Brin with Sundar Pichai (2019) / 2) Alphabet logo / Google HQ 2019 / 3) Page and Brin 2019
 
 **제목:** CEO 둘은 필요 없다며 경영에서 물러나다
 
@@ -202,7 +202,7 @@ Google은 팔리지 않아서 살아남은 회사였어요.
 
 래리 페이지와 세르게이 브린은 스탠퍼드 박사 과정에서 링크 수로 웹페이지 순위를 매기는 검색 엔진을 만들었어요. 75만 달러에도 팔리지 않은 회사를 직접 키웠고, 클릭률로 순서를 정하는 검색 광고로 돈 버는 법을 찾았어요. 상장 뒤 Android·YouTube를 샀지만 Motorola 인수에서는 크게 손해를 봤고, 2019년 경영에서 물러났어요.
 
-🔗 검색 시리즈. Google을 100만 달러에 살 수 있었던 Yahoo 이야기는 #32, Google이 산 Android는 #34, YouTube는 #10에서 볼 수 있어요.
+🔗 검색 시리즈. Google을 100만 달러에 살 수 있었던 Yahoo 이야기는 제리 양 · Yahoo 편, Google이 산 Android는 앤디 루빈 · Android 편, YouTube는 채드 헐리 · YouTube 편에서 볼 수 있어요.
 
 출처
 - Wikipedia, History of Google / Larry Page / Sergey Brin

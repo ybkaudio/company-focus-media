@@ -15,7 +15,7 @@
 
 ## 02.jpg · 01 · 배경
 
-📷 **Photo:** Stanford Law School campus, or young Alex Karp portrait (1990s)
+📷 **Photo:** 1) Alex Karp with Peter Thiel at Stanford Law (1990s) / 2) Stanford Law School building / 3) young Alex Karp (1990s)
 
 **제목:** 스탠퍼드 로스쿨에서 피터 틸과 토론하다
 
@@ -30,7 +30,7 @@
 
 ## 03.jpg · 02 · 배경
 
-📷 **Photo:** Goethe University Frankfurt campus, or Alex Karp portrait early 2000s
+📷 **Photo:** 1) Alex Karp at Caedmon Group or in Frankfurt (early 2000s) / 2) Goethe University Frankfurt or Sigmund Freud Institute building / 3) Alex Karp early 2000s
 
 **제목:** 유산 1만 2천 달러로 투자 회사를 차리다
 
@@ -62,7 +62,7 @@ PayPal은 사기 탐지 시스템으로 수많은 거래 속 수상한 흐름을
 
 ## 05.jpg · 04 · 창업
 
-📷 **Photo:** Alex Karp portrait mid-2000s, or Alex Karp with Peter Thiel
+📷 **Photo:** 1) Alex Karp with Palantir co-founders (Thiel, Lonsdale, Cohen, Gettings) in early Palantir office, mid-2000s / 2) early Palantir office Palo Alto / 3) Alex Karp mid-2000s
 
 **제목:** 엔지니어도 아닌 철학 박사, CEO를 맡다
 
@@ -107,7 +107,7 @@ Palantir는 완성된 소프트웨어를 팔고 끝내지 않고 '현장 배치 
 
 ## 08.jpg · 07 · 성장
 
-📷 **Photo:** Palantir office around 2013, or Alex Karp portrait 2013
+📷 **Photo:** 1) Alex Karp in Palantir office with Gotham/Metropolis screens (around 2013) / 2) Palantir Gotham analysis graph screenshot or 2013 leaked client list / 3) Alex Karp 2013
 
 **제목:** 정부 고객을 넘어 3년 만에 가치 12배
 
@@ -122,7 +122,7 @@ Palantir는 완성된 소프트웨어를 팔고 끝내지 않고 '현장 배치 
 
 ## 09.jpg · 08 · 고집
 
-📷 **Photo:** US Army soldiers using a laptop / DCGS-A, or Alex Karp portrait 2016
+📷 **Photo:** 1) Alex Karp with US Army officials or at a defense event (2016-2019) / 2) US Army soldiers using DCGS-A / Palantir software in the field / 3) Alex Karp 2016
 
 **제목:** 미국 육군을 고소해 이기고 8억 7,600만 달러 계약을 따내다
 
@@ -165,7 +165,7 @@ Palantir는 완성된 소프트웨어를 팔고 끝내지 않고 '현장 배치 
 
 ## 12.jpg · 11 · 성장
 
-📷 **Photo:** Alex Karp portrait 2024-2025, or Palantir logo on Nasdaq screen
+📷 **Photo:** 1) Alex Karp at Palantir AIPCon or earnings stage with Palantir logo (2024-2025) / 2) Palantir on S&P 500 / Nasdaq ticker screen (2024) / 3) Alex Karp 2024-2025
 
 **제목:** S&P 500에 들고 순이익 16억 달러
 
@@ -178,7 +178,7 @@ Palantir는 완성된 소프트웨어를 팔고 끝내지 않고 '현장 배치 
 
 ## 13.jpg · 12 · 정점
 
-📷 **Photo:** Alex Karp portrait, recent (2026)
+📷 **Photo:** 1) Alex Karp on stage with Palantir logo (2026) / 2) Palantir Q3 2026 results chart or new Miami HQ / 3) Alex Karp 2026
 
 **제목:** 분기 매출 20억 달러, 4천억 달러 회사
 

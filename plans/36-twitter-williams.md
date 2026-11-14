@@ -10,7 +10,7 @@
 
 **제목:** 블로그 도구에서 시작한 10억 달러 SNS
 
-기업집중탐구 #36
+기업집중탐구
 
 
 ## 02.jpg · 01 · 배경
@@ -52,7 +52,7 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 
 ## 05.jpg · 04 · 위기
 
-📷 **Photo:** Evan Williams portrait around 2001
+📷 **Photo:** 1) Evan Williams working alone at Pyra Labs / Blogger office (2001) / 2) early Blogger homepage 2001 / 3) Evan Williams 2001
 
 **제목:** 돈이 떨어져 혼자 남다
 
@@ -69,7 +69,7 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 
 **제목:** 버텨 낸 Blogger를 Google에 팔다
 
-2003년 2월 Google이 Pyra Labs를 샀다(#33).
+2003년 2월 Google이 Pyra Labs를 샀다(래리 페이지·세르게이 브린 · Google 편).
 
 그는 Google에서 Blogger를 계속 맡았고, 2004년 10월 Google을 떠났다.
 
@@ -80,7 +80,7 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 
 **제목:** 팟캐스트 회사 Odeo, Apple에 밀리다
 
-이웃 노아 글래스와 팟캐스트 회사 <Odeo>를 세우고 초기 자금을 댔다(#20).
+이웃 노아 글래스와 팟캐스트 회사 <Odeo>를 세우고 초기 자금을 댔다(노아 글래스 · Twitter 편).
 
 2005년 Apple이 iTunes에 팟캐스트를 넣자 Odeo는 설 자리를 잃었다.
 
@@ -121,14 +121,14 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 
 이용자가 갑자기 늘면서 서버가 자주 멈췄다.
 
-2008년 10월 이사회는 CEO 잭 도시를 의장으로 물리고, 의장이던 윌리엄스를 CEO로 앉혔다(#37).
+2008년 10월 이사회는 CEO 잭 도시를 의장으로 물리고, 의장이던 윌리엄스를 CEO로 앉혔다(잭 도시 · Twitter 편).
 
 그는 서비스 안정과 제품을 직접 챙겼다.
 
 
 ## 11.jpg · 10 · 성장
 
-📷 **Photo:** Evan Williams portrait 2008-2009, or Twitter office San Francisco 2009
+📷 **Photo:** 1) Evan Williams in Twitter office with Twitter logo (2008-2009) / 2) Twitter office San Francisco 2009 / 3) Evan Williams 2008-2009
 
 **제목:** Facebook의 인수 제안을 거절하다
 
@@ -154,7 +154,7 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 
 ## 13.jpg · 12 · 떠날 때
 
-📷 **Photo:** Evan Williams portrait around 2010
+📷 **Photo:** 1) Evan Williams with Dick Costolo at Twitter (2010) / 2) news of Twitter CEO change 2010 / 3) Evan Williams 2010
 
 **제목:** 제품에 집중하겠다며 CEO에서 물러나다
 
@@ -185,7 +185,7 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 
 에번 윌리엄스는 할 일 관리 프로그램을 만들다 메모 기능을 떼어 Blogger로 내놨고, 돈이 떨어져 혼자 남고도 버텨 Google에 팔았어요. 팟캐스트 회사 Odeo가 실패하자 그 안의 작은 프로젝트 Twitter를 자기 돈으로 되샀고, CEO가 돼 Facebook의 인수 제안을 거절했어요. 첫 광고 수입을 만든 뒤 2010년 CEO에서 물러났어요.
 
-🔗 Twitter 시리즈. Twitter라는 이름을 지은 노아 글래스 이야기는 #20, 첫 트윗을 올린 잭 도시 이야기는 #37에서 이어져요.
+🔗 Twitter 시리즈. Twitter라는 이름을 지은 노아 글래스 이야기는 노아 글래스 · Twitter 편, 첫 트윗을 올린 잭 도시 이야기는 잭 도시 · Twitter 편에서 이어져요.
 
 출처
 - Wikipedia, Evan Williams / Pyra Labs / History of Twitter

@@ -54,7 +54,7 @@ TI는 그의 스탠퍼드 박사 과정 학비를 대 줬고, 그는 1964년 전
 
 ## 05.jpg · 04 · 위기
 
-📷 **Photo:** Morris Chang portrait early 1980s, or TI calculators / Speak & Spell (1978)
+📷 **Photo:** 1) Morris Chang at Texas Instruments (late 1970s-early 1980s) / 2) TI calculators / Speak & Spell (1978) / 3) Morris Chang early 1980s
 
 **제목:** 계산기 사업으로 밀려나 25년 다닌 TI를 떠나다
 
@@ -176,7 +176,7 @@ Apple은 TSMC의 가장 중요한 고객이 됐다.
 
 ## 13.jpg · 12 · 정점
 
-📷 **Photo:** Morris Chang portrait 2017, or TSMC logo on fab
+📷 **Photo:** 1) Morris Chang at TSMC event with TSMC logo (2017) / 2) TSMC fab with logo, or market cap chart TSMC vs Intel 2017 / 3) Morris Chang 2017
 
 **제목:** 30년 만에 Intel의 시가총액을 넘다
 
@@ -205,7 +205,7 @@ Apple은 TSMC의 가장 중요한 고객이 됐다.
 
 ## 15.jpg · 14 · 그 뒤
 
-📷 **Photo:** C.C. Wei (TSMC CEO) portrait, or TSMC Arizona fab
+📷 **Photo:** 1) C.C. Wei at TSMC Arizona fab or with TSMC logo / 2) TSMC Arizona fab / 2nm wafer / 3) C.C. Wei
 
 **제목:** C.C. 웨이 체제, 2조 달러 회사가 되다
 

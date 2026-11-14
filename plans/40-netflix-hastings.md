@@ -10,7 +10,7 @@
 
 **제목:** 우편 DVD에서 시작한 1,500억 달러 회사
 
-기업집중탐구 #40
+기업집중탐구
 
 
 ## 02.jpg · 01 · 배경
@@ -39,7 +39,7 @@
 
 ## 04.jpg · 03 · 매각
 
-📷 **Photo:** Reed Hastings portrait, late 1990s
+📷 **Photo:** 1) Reed Hastings at Pure Software / Pure Atria (late 1990s) / 2) Pure Software logo or office / 3) Reed Hastings late 1990s
 
 **제목:** 규칙만 늘어난 회사를 팔고 나오다
 
@@ -56,7 +56,7 @@
 
 **제목:** CD 한 장을 우편으로 부쳐 사업을 시험하다
 
-Pure Atria에서 함께 일한 마크 랜돌프와 출퇴근 차 안에서 새 사업을 궁리했다(#04).
+Pure Atria에서 함께 일한 마크 랜돌프와 출퇴근 차 안에서 새 사업을 궁리했다(마크 랜돌프 · Netflix 편).
 
 그해 미국에 막 나온 DVD는 얇고 가벼워 우편으로 보내기 좋았고, 둘은 CD 한 장을 집으로 부쳐 깨지지 않고 도착하는지 확인했다.
 
@@ -182,7 +182,7 @@ Netflix에서만 볼 수 있는 작품이 가입 이유가 됐다.
 
 ## 15.jpg · 14 · 떠날 때
 
-📷 **Photo:** Reed Hastings portrait, 2023
+📷 **Photo:** 1) Reed Hastings with Ted Sarandos and Greg Peters (2023) / 2) Netflix logo/HQ 2023 / 3) Reed Hastings 2023
 
 **제목:** 26년 만에 CEO에서 물러나다
 
@@ -213,7 +213,7 @@ Netflix를 처음 CEO로 이끈 사람은 리드 헤이스팅스가 아니었어
 
 수학 교사 출신 개발자 헤이스팅스는 첫 소프트웨어 회사를 판 뒤 마크 랜돌프와 Netflix를 세웠고, 연체료 없는 월 구독으로 회사를 살렸어요. Blockbuster에 5천만 달러에 팔릴 뻔했고 요금 인상으로 가입자 80만 명을 잃기도 했지만, DVD가 잘될 때 스트리밍을 시작하고 자체 드라마로 190개 나라에 나갔어요.
 
-🔗 Netflix 시리즈. 함께 Netflix를 세우고 첫 CEO를 맡은 마크 랜돌프 이야기는 #04에서 볼 수 있어요.
+🔗 Netflix 시리즈. 함께 Netflix를 세우고 첫 CEO를 맡은 마크 랜돌프 이야기는 마크 랜돌프 · Netflix 편에서 볼 수 있어요.
 
 📊 떠날 때 회사 가치는 2023년 1월 주가(약 340달러)에 발행 주식 수(약 4억 4,500만 주)를 곱한 시가총액이에요.
 

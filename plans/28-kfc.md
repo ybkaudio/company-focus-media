@@ -10,7 +10,7 @@
 
 **제목:** 주유소 식당에서 시작한 600개 매장 치킨 체인
 
-기업집중탐구 #28
+기업집중탐구
 
 
 ## 02.jpg · 01 · 배경
@@ -28,7 +28,7 @@
 
 ## 03.jpg · 02 · 배경
 
-📷 **Photo:** Ohio River ferry between Jeffersonville and Louisville, 1920s (or young Sanders portrait)
+📷 **Photo:** 1) Harland Sanders at his ferry boat company (1920s) / 2) Ohio River ferry between Jeffersonville and Louisville, 1920s / 3) young Sanders 1920s
 
 **제목:** 철도 화부·변호사를 거쳐 페리 회사를 세우다
 
@@ -41,7 +41,7 @@
 
 ## 04.jpg · 03 · 위기
 
-📷 **Photo:** Acetylene lamp from the 1920s, or Sanders portrait 1920s
+📷 **Photo:** 1) Sanders with acetylene lamp product or advertisement (1920s) / 2) 1920s acetylene car lamp / 3) Sanders 1920s
 
 **제목:** 페리 지분을 팔아 세운 램프 회사가 망하다
 
@@ -175,7 +175,7 @@ KFC 할아버지는 66세에 받은 연금 105달러로 다시 영업에 나섰�
 
 할랜드 샌더스는 변호사·페리 회사·램프 회사를 거치며 여러 번 실패한 뒤, 주유소 창고를 고쳐 여행객에게 닭을 튀겨 팔았어요. 압력솥을 튀김기로 바꿔 빠르게 튀기는 법을 만들었고, 고속도로가 마을을 비켜 가자 식당을 팔고 직접 미국을 돌며 조리법을 가맹점에 팔았어요. 11년 만에 600개 매장이 됐고, 물려줄 사람이 없어 회사를 넘겼어요.
 
-🔗 패스트푸드 시리즈. KFC는 1986년 PepsiCo에 인수돼 1977년 먼저 PepsiCo에 팔린 Pizza Hut과 한 식구가 됐고, 두 회사는 지금 Yum! Brands에 함께 있어요. Pizza Hut 이야기는 #29, 같은 시기 가맹점으로 커진 McDonald's 형제 이야기는 #13에서 볼 수 있어요.
+🔗 패스트푸드 시리즈. KFC는 1986년 PepsiCo에 인수돼 1977년 먼저 PepsiCo에 팔린 Pizza Hut과 한 식구가 됐고, 두 회사는 지금 Yum! Brands에 함께 있어요. Pizza Hut 이야기는 프랭크 카니 · Pizza Hut 편, 같은 시기 가맹점으로 커진 McDonald's 형제 이야기는 맥도날드 형제 · McDonald's 편에서 볼 수 있어요.
 
 출처
 - Wikipedia, Colonel Sanders / History of KFC

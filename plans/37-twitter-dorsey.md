@@ -10,7 +10,7 @@
 
 **제목:** 배차 프로그램에서 370억 달러 SNS로
 
-기업집중탐구 #37
+기업집중탐구
 
 
 ## 02.jpg · 01 · 배경
@@ -45,7 +45,7 @@
 
 **제목:** 2주 만에 만든 시제품으로 첫 트윗을 올리다
 
-팟캐스트 회사 Odeo에서 일하던 그는 새 아이디어를 찾던 회사에 상태 메시지 서비스를 내놨다(#20).
+팟캐스트 회사 Odeo에서 일하던 그는 새 아이디어를 찾던 회사에 상태 메시지 서비스를 내놨다(노아 글래스 · Twitter 편).
 
 휴대폰 문자로 쓰기로 하고 비즈 스톤과 약 2주 만에 시제품을 만들었다.
 
@@ -60,12 +60,12 @@
 
 2007년 Twitter가 Odeo에서 떨어져 나와 회사가 되자 그가 CEO를 맡았다.
 
-3월 SXSW 축제에서 하루 트윗이 3배로 늘며 이름이 알려졌다(#36).
+3월 SXSW 축제에서 하루 트윗이 3배로 늘며 이름이 알려졌다(에번 윌리엄스 · Twitter 편).
 
 
 ## 06.jpg · 05 · 위기
 
-📷 **Photo:** Twitter 'fail whale' error page 2008, or Jack Dorsey portrait 2008
+📷 **Photo:** 1) Jack Dorsey in Twitter office with fail whale screen (2008) / 2) Twitter 'fail whale' error page 2008 / 3) Jack Dorsey 2008
 
 **제목:** 서버 장애 끝에 CEO에서 밀려나다
 
@@ -115,7 +115,7 @@
 
 ## 10.jpg · 09 · 위기
 
-📷 **Photo:** Jack Dorsey portrait 2015, or Square IPO at NYSE November 2015
+📷 **Photo:** 1) Jack Dorsey at Square NYSE IPO November 2015 / 2) Square IPO at NYSE / Twitter layoffs news 2015 / 3) Jack Dorsey 2015
 
 **제목:** 두 회사 CEO를 맡고 직원 8%를 줄이다
 
@@ -128,7 +128,7 @@ Square CEO도 그대로 맡아 두 회사를 함께 이끌었다.
 
 ## 11.jpg · 10 · 위기
 
-📷 **Photo:** Jack Dorsey portrait around 2020
+📷 **Photo:** 1) Jack Dorsey with Twitter logo (2020) / 2) Elliott Management news headline 2020 / 3) Jack Dorsey 2020
 
 **제목:** 행동주의 펀드가 교체를 요구하다
 
@@ -152,7 +152,7 @@ Elliott과 합의한 성장 목표에 다가서는 숫자였다.
 
 ## 13.jpg · 12 · 떠날 때
 
-📷 **Photo:** Jack Dorsey portrait 2021
+📷 **Photo:** 1) Jack Dorsey with Parag Agrawal (2021) / 2) Dorsey's resignation tweet screenshot, Nov 2021 / 3) Jack Dorsey 2021
 
 **제목:** 창업자에게서 벗어날 때라며 CEO를 내려놓다
 
@@ -183,7 +183,7 @@ Elliott과 합의한 성장 목표에 다가서는 숫자였다.
 
 잭 도시는 14살부터 빠졌던 배차 시스템에서 '지금 뭐 하는지 알리는' 서비스를 떠올렸고, 2006년 첫 트윗을 올렸어요. 2008년 CEO에서 밀려난 뒤 카드 결제 회사 Square를 세웠고, 2015년 Twitter CEO로 돌아와 두 회사를 함께 이끌었어요. 행동주의 펀드의 압박 속에 이용자를 늘린 뒤 2021년 스스로 물러났어요.
 
-🔗 Twitter 시리즈. Twitter라는 이름을 지은 노아 글래스는 #20, 그를 대신해 CEO가 된 에번 윌리엄스는 #36에서 볼 수 있어요.
+🔗 Twitter 시리즈. Twitter라는 이름을 지은 노아 글래스는 노아 글래스 · Twitter 편, 그를 대신해 CEO가 된 에번 윌리엄스는 에번 윌리엄스 · Twitter 편에서 볼 수 있어요.
 
 출처
 - Wikipedia, Jack Dorsey / History of Twitter

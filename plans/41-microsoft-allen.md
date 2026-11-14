@@ -10,7 +10,7 @@
 
 **제목:** 잡지 표지 한 장에서 시작한 마이크로소프트
 
-기업집중탐구 #41
+기업집중탐구
 
 
 ## 02.jpg · 01 · 배경
@@ -21,7 +21,7 @@
 
 시애틀 레이크사이드 고등학교는 1968년 학부모회 바자회 수익으로 원격 단말기를 들여, 학생들이 전화선으로 대형 컴퓨터를 빌려 쓰게 했다.
 
-두 학년 아래 빌 게이츠(#02 주인공)를 이 단말기 앞에서 만났다.
+두 학년 아래 빌 게이츠(빌 게이츠 · Microsoft 편 주인공)를 이 단말기 앞에서 만났다.
 
 컴퓨터 사용료는 시간 단위로 나와 학생이 감당하기 어려웠다.
 
@@ -45,7 +45,7 @@
 
 ## 04.jpg · 03 · 배경
 
-📷 **Photo:** Paul Allen portrait, early-mid 1970s (Honeywell / Boston era if available)
+📷 **Photo:** 1) young Paul Allen with Bill Gates in Boston / at Honeywell (1974) / 2) Popular Electronics Altair 8800 cover (Jan 1975) / 3) Paul Allen early-mid 1970s
 
 **제목:** 대학을 그만두고 보스턴으로 가 게이츠에게 창업을 권하다
 
@@ -94,7 +94,7 @@ Altair 실물이 없어서, 앨런은 Traf-O-Data 때처럼 하버드의 대형 
 
 ## 07.jpg · 06 · 창업
 
-📷 **Photo:** Early Micro-Soft office in Albuquerque, 1975-1978 (or Allen and Gates young portrait)
+📷 **Photo:** 1) Paul Allen and Bill Gates at early Micro-Soft office in Albuquerque (1975-1978) / 2) early Micro-Soft office / logo / 3) young Allen and Gates
 
 **제목:** Micro-Soft라 이름 짓고 지분을 60 대 40으로 나누다
 
@@ -198,7 +198,7 @@ IBM에만 독점으로 주지 않고 다른 제조사에도 팔 권리를 남겼
 
 ## 13.jpg · 12 · 위기
 
-📷 **Photo:** Paul Allen portrait around 1982-1983
+📷 **Photo:** 1) Paul Allen at Microsoft around 1982-1983 / 2) Microsoft office early 1980s / 3) Paul Allen 1982-1983
 
 **제목:** 암 치료 중에 지분을 줄이자는 대화를 듣다
 
@@ -215,7 +215,7 @@ IBM에만 독점으로 주지 않고 다른 제조사에도 팔 권리를 남겼
 
 ## 14.jpg · 13 · 떠날 때
 
-📷 **Photo:** Paul Allen portrait, 1983
+📷 **Photo:** 1) Paul Allen with Microsoft logo or staff (1983) / 2) Microsoft 1983 office / 3) Paul Allen 1983
 
 **제목:** 주당 5달러 제안을 거절하고 지분을 지킨 채 떠나다
 
@@ -231,7 +231,7 @@ IBM에만 독점으로 주지 않고 다른 제조사에도 팔 권리를 남겼
 
 ## 15.jpg · 14 · 그 뒤
 
-📷 **Photo:** Microsoft IPO day, March 1986 (or Paul Allen portrait late 1980s)
+📷 **Photo:** 1) Paul Allen at Microsoft IPO (March 1986) / 2) Microsoft IPO day 1986 / 3) Paul Allen late 1980s
 
 **제목:** 팔지 않은 지분, 상장으로 억만장자가 되다
 
@@ -265,7 +265,7 @@ IBM에만 독점으로 주지 않고 다른 제조사에도 팔 권리를 남겼
 
 앨런은 잡지 표지에서 Altair를 보고 게이츠와 BASIC을 만들었고, 컴퓨터도 없이 직접 짠 에뮬레이터로 8주 만에 완성해 Microsoft를 세웠어요. 이름을 짓고, Apple II용 SoftCard를 기획하고, IBM PC에 들어간 운영체제를 찾아낸 것도 그였어요. 암 치료 중 지분을 줄이자는 대화를 듣고 떠났지만, 주당 5달러 제안을 거절하고 지킨 지분으로 억만장자가 됐어요.
 
-🔗 Microsoft 시리즈. 함께 Microsoft를 세운 빌 게이츠 이야기는 #02, 앨런의 SoftCard가 꽂힌 Apple II를 설계한 스티브 워즈니악 이야기는 #42에서 볼 수 있어요.
+🔗 Microsoft 시리즈. 함께 Microsoft를 세운 빌 게이츠 이야기는 빌 게이츠 · Microsoft 편, 앨런의 SoftCard가 꽂힌 Apple II를 설계한 스티브 워즈니악 이야기는 스티브 워즈니악 · Apple 편에서 볼 수 있어요.
 
 📊 떠날 때 회사 가치는 공개된 값이 없어, 1981년 투자 기준 가치(약 2천만 달러, 그해 매출 약 1,600만 달러)와 1986년 상장 가치(약 5억 1,900만 달러, 직전 회계연도 매출 약 1억 4천만 달러) 사이의 매출 대비 배수를 1983 회계연도 매출 약 5천만 달러에 곱한 추정치예요.
 
