@@ -43,13 +43,32 @@
 이 인맥으로 틸이 PayPal을 판 돈으로 세운 헤지펀드 <Clarium Capital>의 투자금 모집을 도왔다.
 
 
-## 04.jpg · 03 · 계기
+## 04.jpg · 03 · 배경
+
+📷 **Photo:** 1) Max Levchin with PayPal fraud team / Igor screens (2000-2001) / 2) Igor fraud-detection interface, or PayPal early CAPTCHA (Gausebeck-Levchin test) / 3) PayPal office 2001
+
+**제목:** 러시아 사기범에 뚫린 PayPal, 사람과 컴퓨터로 막다
+
+2000년 PayPal은 훔친 카드로 계정을 만들어 돈을 빼 가는 사기로 한 달 1,000만 달러 넘게 잃었다.
+
+한 러시아 사기범은 PayPal 팀을 대놓고 조롱하기도 했다.
+
+레브친은 그 이름을 딴 프로그램 'Igor'를 만들었다.
+
+Igor가 하루 약 20만 건 거래에서 동시 다발 거래·고액 송금 같은 수상한 패턴을 찾아 표시하면, 약 100명의 사기 전담 직원이 증거를 보고 계좌를 막을지 판단했다.
+
+틸은 수법을 바꾸는 사기범을 컴퓨터만으로는 못 따라가고, 컴퓨터가 찾고 사람이 판단할 때 통한다는 이 경험에서 Palantir가 나왔다고 『Zero to One』에 썼다.
+
+
+## 05.jpg · 04 · 계기
 
 📷 **Photo:** Palantir early office in Palo Alto, or Palantir logo
 
 **제목:** PayPal의 사기 탐지를 테러 추적에 쓰자
 
-PayPal은 사기 탐지 시스템으로 수많은 거래 속 수상한 흐름을 찾아내 손실을 줄였다.
+틸은 PayPal에서 쓴 이 방식을 정보기관에 쓰면 시민의 자유를 지키면서 테러를 줄일 수 있다고 봤다.
+
+9·11 테러 뒤 미국 정보기관들이 서로 흩어진 정보를 잇지 못한 것이 문제로 떠오른 때였다.
 
 틸은 이 방식을 정보기관에 쓰면 시민의 자유를 지키면서 테러를 줄일 수 있다고 봤다.
 
@@ -60,7 +79,7 @@ PayPal은 사기 탐지 시스템으로 수많은 거래 속 수상한 흐름을
 이름은 『반지의 제왕』 속 멀리 보는 돌에서 땄다.
 
 
-## 05.jpg · 04 · 창업
+## 06.jpg · 05 · 창업
 
 📷 **Photo:** 1) Alex Karp with Palantir co-founders (Thiel, Lonsdale, Cohen, Gettings) in early Palantir office, mid-2000s / 2) early Palantir office Palo Alto / 3) Alex Karp mid-2000s
 
@@ -77,7 +96,7 @@ Palantir 소프트웨어는 고객이 따로 쌓아 둔 여러 데이터베이�
 틸은 운영을 대부분 카프에게 맡기고 이사회 의장으로 남았다.
 
 
-## 06.jpg · 05 · 자금
+## 07.jpg · 06 · 자금
 
 📷 **Photo:** CIA headquarters Langley (exterior), or In-Q-Tel logo
 
@@ -89,10 +108,10 @@ Palantir 소프트웨어는 고객이 따로 쌓아 둔 여러 데이터베이�
 
 In-Q-Tel은 약 200만 달러를 넣었다.
 
-In-Q-Tel 쪽 투자자는 Palantir가 자신들이 투자한 데이터 분석 회사 SRD의 화면 쪽을 맡을 수 있다고 봤고, PayPal이 러시아 해커를 막아 낸 경험도 눈여겨봤다.
+In-Q-Tel 쪽 투자자는 Palantir가 자신들이 투자한 데이터 분석 회사 SRD의 화면 쪽을 맡을 수 있다고 봤고, PayPal이 러시아 사기범을 막아 낸 Igor 경험도 눈여겨봤다.
 
 
-## 07.jpg · 06 · 혁신
+## 08.jpg · 07 · 혁신
 
 📷 **Photo:** Palantir Gotham software screenshot (link analysis graph), or Palantir engineers at work
 
@@ -107,7 +126,7 @@ Palantir는 완성된 소프트웨어를 팔고 끝내지 않고 '현장 배치 
 2006년 6월 750만 달러, 11월 1,050만 달러를 투자받았다.
 
 
-## 08.jpg · 07 · 성장
+## 09.jpg · 08 · 성장
 
 📷 **Photo:** 1) Alex Karp in Palantir office with Gotham/Metropolis screens (around 2013) / 2) Palantir Gotham analysis graph screenshot or 2013 leaked client list / 3) Alex Karp 2013
 
@@ -122,7 +141,7 @@ Palantir는 완성된 소프트웨어를 팔고 끝내지 않고 '현장 배치 
 다만 2015년에도 흑자는 내지 못했다.
 
 
-## 09.jpg · 08 · 고집
+## 10.jpg · 09 · 고집
 
 📷 **Photo:** 1) Alex Karp with US Army officials or at a defense event (2016-2019) / 2) US Army soldiers using DCGS-A / Palantir software in the field / 3) Alex Karp 2016
 
@@ -137,7 +156,7 @@ Palantir는 완성된 소프트웨어를 팔고 끝내지 않고 '현장 배치 
 다시 열린 경쟁에서 Raytheon을 이기고, 2019년 3월 10년간 8억 7,600만 달러 규모 계약을 따냈다.
 
 
-## 10.jpg · 09 · 성장
+## 11.jpg · 10 · 성장
 
 📷 **Photo:** Palantir NYSE direct listing September 30, 2020 (NYSE facade with Palantir banner)
 
@@ -150,7 +169,7 @@ Palantir는 완성된 소프트웨어를 팔고 끝내지 않고 '현장 배치 
 기준가 7.25달러, 첫 거래가 10달러였고, 첫 거래 뒤 회사 가치는 약 180억 달러로 2015년 투자 때 200억 달러보다 낮았다.
 
 
-## 11.jpg · 10 · 혁신
+## 12.jpg · 11 · 혁신
 
 📷 **Photo:** Palantir AIP demo / AIPCon stage, or Alex Karp on stage 2023
 
@@ -165,7 +184,7 @@ Palantir는 완성된 소프트웨어를 팔고 끝내지 않고 '현장 배치 
 발표 다음 날 주가는 31% 올랐다.
 
 
-## 12.jpg · 11 · 성장
+## 13.jpg · 12 · 성장
 
 📷 **Photo:** 1) Alex Karp at Palantir AIPCon or earnings stage with Palantir logo (2024-2025) / 2) Palantir on S&P 500 / Nasdaq ticker screen (2024) / 3) Alex Karp 2024-2025
 
@@ -178,7 +197,7 @@ Palantir는 완성된 소프트웨어를 팔고 끝내지 않고 '현장 배치 
 2024년엔 매출의 약 54%가 정부, 46%가 기업 고객이었다.
 
 
-## 13.jpg · 12 · 정점
+## 14.jpg · 13 · 정점
 
 📷 **Photo:** 1) Alex Karp on stage with Palantir logo (2026) / 2) Palantir Q3 2026 results chart or new Miami HQ / 3) Alex Karp 2026
 
@@ -192,7 +211,7 @@ Palantir는 완성된 소프트웨어를 팔고 끝내지 않고 '현장 배치 
 2026년 매출 전망은 85억 3,000만 달러다.
 
 
-## 14.jpg · 마무리
+## 15.jpg · 마무리
 
 📷 **Photo:** Alex Karp portrait (person photo for the closing slide)
 
@@ -233,6 +252,9 @@ CIA의 벤처 투자사 In-Q-Tel이 약 200만 달러를 넣었습니다.
 
 출처
 - Wikipedia, Palantir / Alex Karp
+- Peter Thiel, 『Zero to One』 12장 Man and Machine (PayPal 사기 대응과 Palantir)
+- MIT Technology Review, Digital Cash Payoff (2001.12, Igor·사기 전담 직원 약 100명·하루 20만 건)
+- Plaid, PayPal's history of fighting fraud (Igor 이름 유래)
 - Global Corporate Venturing, Case study: Farsighted Palantir sees data's potential (2013)
 - Fast Company, How Palantir got its start (Michael Steinberger 『The Philosopher in the Valley』, 2025)
 - BuzzFeed News, Inside Palantir, Silicon Valley's most secretive company (2016)

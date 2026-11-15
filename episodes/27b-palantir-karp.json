@@ -51,12 +51,25 @@
       "photo_note": "프랑크푸르트 괴테 대학 IG-Farben 건물"
     },
     {
-      "index": "03 · 계기",
+      "index": "03 · 배경",
+      "when": "2001 · 33세",
+      "photo": null,
+      "title": "러시아 사기범에 뚫린 PayPal,\n사람과 컴퓨터로 막다",
+      "body": [
+        "2000년 PayPal은 훔친 카드로 계정을 만들어 돈을 빼 가는 사기로 한 달 1,000만 달러 넘게 잃었다. 한 러시아 사기범은 PayPal 팀을 대놓고 조롱하기도 했다.",
+        "레브친은 그 이름을 딴 프로그램 'Igor'를 만들었다. Igor가 하루 약 20만 건 거래에서 동시 다발 거래·고액 송금 같은 수상한 패턴을 찾아 표시하면, 약 100명의 사기 전담 직원이 증거를 보고 계좌를 막을지 판단했다.",
+        "틸은 수법을 바꾸는 사기범을 컴퓨터만으로는 못 따라가고, 컴퓨터가 찾고 사람이 판단할 때 통한다는 이 경험에서 Palantir가 나왔다고 『Zero to One』에 썼다."
+      ],
+      "photo_hint": "1) Max Levchin with PayPal fraud team / Igor screens (2000-2001) / 2) Igor fraud-detection interface, or PayPal early CAPTCHA (Gausebeck-Levchin test) / 3) PayPal office 2001",
+      "value": "회사 설립 전"
+    },
+    {
+      "index": "04 · 계기",
       "when": "2003 · 35세",
       "photo": null,
       "title": "PayPal의 사기 탐지를\n테러 추적에 쓰자",
       "body": [
-        "PayPal은 사기 탐지 시스템으로 수많은 거래 속 수상한 흐름을 찾아내 손실을 줄였다.",
+        "틸은 PayPal에서 쓴 이 방식을 정보기관에 쓰면 시민의 자유를 지키면서 테러를 줄일 수 있다고 봤다. 9·11 테러 뒤 미국 정보기관들이 서로 흩어진 정보를 잇지 못한 것이 문제로 떠오른 때였다.",
         "틸은 이 방식을 정보기관에 쓰면 시민의 자유를 지키면서 테러를 줄일 수 있다고 봤다. 9·11 테러 뒤 미국 정보기관들이 서로 흩어진 정보를 잇지 못한 것이 문제로 떠오른 때였다.",
         "2003년 5월 틸, PayPal 엔지니어 출신 네이선 게팅스, 조 론스데일, 스티븐 코언과 함께 <Palantir>를 세웠다. 이름은 『반지의 제왕』 속 멀리 보는 돌에서 땄다."
       ],
@@ -65,7 +78,7 @@
       "photo_note": "Palantir 로고"
     },
     {
-      "index": "04 · 창업",
+      "index": "05 · 창업",
       "when": "2004 · 36세",
       "photo": null,
       "title": "엔지니어도 아닌 철학 박사,\nCEO를 맡다",
@@ -81,7 +94,7 @@
       "bgpos": "8% 50%"
     },
     {
-      "index": "05 · 자금",
+      "index": "06 · 자금",
       "when": "2004 · 36세",
       "photo": null,
       "title": "벤처캐피털의 조롱,\nCIA 투자사가 200만 달러를 넣다",
@@ -89,14 +102,14 @@
       "body": [
         "카프와 틸은 Sequoia·Kleiner Perkins 같은 벤처캐피털을 찾아갔지만, Sequoia의 마이클 모리츠는 회의 내내 노트에 낙서만 했고 Kleiner의 한 임원은 한 시간 반 동안 실패할 이유를 늘어놓았다.",
         "거절하던 한 투자자가 CIA의 벤처 투자사 <In-Q-Tel>을 권했다. In-Q-Tel은 약 200만 달러를 넣었다.",
-        "In-Q-Tel 쪽 투자자는 Palantir가 자신들이 투자한 데이터 분석 회사 SRD의 화면 쪽을 맡을 수 있다고 봤고, PayPal이 러시아 해커를 막아 낸 경험도 눈여겨봤다."
+        "In-Q-Tel 쪽 투자자는 Palantir가 자신들이 투자한 데이터 분석 회사 SRD의 화면 쪽을 맡을 수 있다고 봤고, PayPal이 러시아 사기범을 막아 낸 Igor 경험도 눈여겨봤다."
       ],
       "photo_hint": "CIA headquarters Langley (exterior), or In-Q-Tel logo",
       "value": "회사 가치 비공개(투자 규모로 추정 어려움)",
       "photo_note": "In-Q-Tel 로고 (2005년 무렵)"
     },
     {
-      "index": "06 · 혁신",
+      "index": "07 · 혁신",
       "when": "2006 · 39세",
       "photo": null,
       "title": "고객 옆에 엔지니어를 보내\n소프트웨어를 고치다",
@@ -111,7 +124,7 @@
       "photo_note": "엔지니어 옆에서 화면을 짚는 카프 (2015)"
     },
     {
-      "index": "07 · 성장",
+      "index": "08 · 성장",
       "when": "2013 · 46세",
       "photo": null,
       "title": "정부 고객을 넘어\n3년 만에 가치 12배",
@@ -125,7 +138,7 @@
       "photo_note": "투자 때 회사 가치를 그린 그림"
     },
     {
-      "index": "08 · 고집",
+      "index": "09 · 고집",
       "when": "2016 · 49세",
       "photo": null,
       "title": "미국 육군을 고소해 이기고\n8억 7,600만 달러 계약을 따내다",
@@ -140,7 +153,7 @@
       "photo_note": "Palantir 대 미국 연방 항소법원 판결문 첫 장 (2018)"
     },
     {
-      "index": "09 · 성장",
+      "index": "10 · 성장",
       "when": "2020 · 53세",
       "photo": null,
       "title": "17년 만에\n뉴욕증시에 직접 상장하다",
@@ -154,7 +167,7 @@
       "photo_note": "뉴욕증권거래소 (2020년 12월)"
     },
     {
-      "index": "10 · 혁신",
+      "index": "11 · 혁신",
       "when": "2023 · 56세",
       "photo": null,
       "title": "AI 플랫폼 AIP를 내놓고\n20년 만에 첫 흑자",
@@ -168,7 +181,7 @@
       "photo_note": "2023년 순이익을 그린 그림"
     },
     {
-      "index": "11 · 성장",
+      "index": "12 · 성장",
       "when": "2025 · 58세",
       "photo": null,
       "title": "S&P 500에 들고\n순이익 16억 달러",
@@ -181,7 +194,7 @@
       "photo_note": "Palantir 주가 그래프 (2020~2025)"
     },
     {
-      "index": "12 · 정점",
+      "index": "13 · 정점",
       "when": "2026 · 59세",
       "photo": null,
       "type": "stats",
@@ -219,5 +232,5 @@
       "photo_note": "알렉스 카프, 다보스 (2026)"
     }
   ],
-  "caption": "벤처캐피털이 회의 내내 낙서만 하던 회사.\n그 회사가 시가총액 4,000억 달러가 됐습니다.\n\n2004년, 철학 박사 알렉스 카프가 로스쿨 친구 피터 틸의 회사 Palantir CEO가 됐습니다.\n코드를 짜지 못하는 CEO였습니다.\n\n2004년, Sequoia와 Kleiner Perkins는 투자하지 않았습니다.\nCIA의 벤처 투자사 In-Q-Tel이 약 200만 달러를 넣었습니다.\n\n2016년, 상용 제품을 입찰에서 뺀 미국 육군을 고소해 이겼습니다.\n3년 뒤 8억 7,600만 달러 계약을 따냈습니다.\n\n2020년, 순손실 5억 8,000만 달러인 채로 직접 상장.\n2023년, AI 플랫폼 AIP와 함께 설립 20년 만에 첫 흑자.\n\n2026년 3분기, 분기 매출 20억 달러 돌파.\n\n여러분은 20년 적자를 버틸 수 있을까요?\n댓글로 알려 주세요.\n\n🔗 PayPal 마피아 시리즈. 카프를 CEO로 앉힌 공동 창업자 피터 틸 이야기는 바로 앞 피터 틸 편에서 볼 수 있습니다.\n\n#기업집중탐구 #페이팔마피아 #알렉스카프 #팔란티어 #Palantir\n\n출처\n- Wikipedia, Palantir / Alex Karp\n- Global Corporate Venturing, Case study: Farsighted Palantir sees data's potential (2013)\n- Fast Company, How Palantir got its start (Michael Steinberger 『The Philosopher in the Valley』, 2025)\n- BuzzFeed News, Inside Palantir, Silicon Valley's most secretive company (2016)\n- Defense News, Judge rules in favor of Palantir in lawsuit against US Army (2016.10.31) / Palantir won a major Army contract (2019.03.29)\n- Fortune, Palantir shares first day of trading (2020.09.30)\n- Slashdot·Axios, Palantir S-1: 2019년 순손실 5억 8,000만 달러 (2020.08)\n- Reuters(BizNews 재인용), Palantir jumps on first annual profit (2024.02)\n- The Motley Fool, Palantir Q3 2026 results (2026.11.03)\n- 장별 회사 가치: 2013·2015년은 투자 라운드 기준, 2020년은 상장 첫날, 2023·2025년은 연말 시가총액 추정, 2026년은 11월 시가총액(약 4,077억 달러)"
+  "caption": "벤처캐피털이 회의 내내 낙서만 하던 회사.\n그 회사가 시가총액 4,000억 달러가 됐습니다.\n\n2004년, 철학 박사 알렉스 카프가 로스쿨 친구 피터 틸의 회사 Palantir CEO가 됐습니다.\n코드를 짜지 못하는 CEO였습니다.\n\n2004년, Sequoia와 Kleiner Perkins는 투자하지 않았습니다.\nCIA의 벤처 투자사 In-Q-Tel이 약 200만 달러를 넣었습니다.\n\n2016년, 상용 제품을 입찰에서 뺀 미국 육군을 고소해 이겼습니다.\n3년 뒤 8억 7,600만 달러 계약을 따냈습니다.\n\n2020년, 순손실 5억 8,000만 달러인 채로 직접 상장.\n2023년, AI 플랫폼 AIP와 함께 설립 20년 만에 첫 흑자.\n\n2026년 3분기, 분기 매출 20억 달러 돌파.\n\n여러분은 20년 적자를 버틸 수 있을까요?\n댓글로 알려 주세요.\n\n🔗 PayPal 마피아 시리즈. 카프를 CEO로 앉힌 공동 창업자 피터 틸 이야기는 바로 앞 피터 틸 편에서 볼 수 있습니다.\n\n#기업집중탐구 #페이팔마피아 #알렉스카프 #팔란티어 #Palantir\n\n출처\n- Wikipedia, Palantir / Alex Karp\n- Peter Thiel, 『Zero to One』 12장 Man and Machine (PayPal 사기 대응과 Palantir)\n- MIT Technology Review, Digital Cash Payoff (2001.12, Igor·사기 전담 직원 약 100명·하루 20만 건)\n- Plaid, PayPal's history of fighting fraud (Igor 이름 유래)\n- Global Corporate Venturing, Case study: Farsighted Palantir sees data's potential (2013)\n- Fast Company, How Palantir got its start (Michael Steinberger 『The Philosopher in the Valley』, 2025)\n- BuzzFeed News, Inside Palantir, Silicon Valley's most secretive company (2016)\n- Defense News, Judge rules in favor of Palantir in lawsuit against US Army (2016.10.31) / Palantir won a major Army contract (2019.03.29)\n- Fortune, Palantir shares first day of trading (2020.09.30)\n- Slashdot·Axios, Palantir S-1: 2019년 순손실 5억 8,000만 달러 (2020.08)\n- Reuters(BizNews 재인용), Palantir jumps on first annual profit (2024.02)\n- The Motley Fool, Palantir Q3 2026 results (2026.11.03)\n- 장별 회사 가치: 2013·2015년은 투자 라운드 기준, 2020년은 상장 첫날, 2023·2025년은 연말 시가총액 추정, 2026년은 11월 시가총액(약 4,077억 달러)"
 }
