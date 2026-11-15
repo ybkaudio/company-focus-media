@@ -88,13 +88,7 @@
       ],
       "photo_hint": "[새 사진 필요] Falcon 1 Flight 1 on Omelek Island, Kwajalein Atoll, March 2006 (or Omelek launch site)",
       "value": "회사 가치 약 1억 달러(추정)",
-      "sticker": {
-        "src": "25-spacex/sticker-omelek.png",
-        "size": 540,
-        "right": 50,
-        "top": 190
-      },
-      "photo_note": "격납고에 모은 Falcon 1 첫 발사 잔해 (2006)"
+      "photo_note": "오멜렉 섬 발사대에 선 Falcon 1 (2006)"
     },
     {
       "index": "06 · 자금",
@@ -122,7 +116,7 @@
       ],
       "photo_hint": "Falcon 1 launch failure on Omelek Island, Kwajalein, 2006-2008",
       "value": "회사 가치 약 3억 달러(추정)",
-      "photo_note": "Falcon 1 발사 장면 (2000년대 후반)"
+      "photo_note": "격납고에 모은 Falcon 1 첫 발사 잔해 (2006)"
     },
     {
       "index": "08 · 첫 성과",
@@ -151,7 +145,8 @@
       "photo_hint": "[새 사진 필요] Elon Musk in 2008 (stressed, at SpaceX or Tesla), or Tesla Roadster 2008",
       "value": "회사 가치 약 3억 달러(추정)",
       "title_size": 64,
-      "photo_note": "일론 머스크 (2008 무렵, 영상 캡처)"
+      "photo_note": "일론 머스크 (2008 무렵, 영상 캡처)",
+      "photo_fade": "46-60"
     },
     {
       "index": "10 · 자금",
