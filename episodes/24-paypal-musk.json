@@ -9,7 +9,7 @@
     {
       "type": "cover",
       "photo": null,
-      "title": "일론 머스크의\n페이팔 이야기",
+      "title": "일론 머스크의\n두 번째 도전",
       "body": [
         "기업집중탐구 #24"
       ],
@@ -26,11 +26,11 @@
       "when": "1999 · 28세",
       "photo": null,
       "value": "회사 가치 약 1,200만 달러(추정)",
-      "title": "1,200만 달러로\n온라인 은행을 세우다",
+      "title": "Zip2를 판 돈의 절반을,\n온라인 은행 창업에 넣다",
       "body": [
-        "캐나다 스코샤은행 인턴 시절, 그는 다른 은행들이 헐값에 파는 중남미 채권을 사 두자고 제안했지만 거절당했다. 이때 은행은 새로운 시도를 하지 않는다고 결론 내렸다.",
-        "1999년 2월 Zip2를 팔아 2,200만 달러를 받은 그는(#11), 3월 그중 약 1,200만 달러를 넣어 온라인 금융 회사 <X.com>을 세웠다.",
-        "예금·투자·송금을 한 계좌에서 처리하고, 이메일 주소만 알면 돈을 보낼 수 있는 인터넷 은행을 만드는 게 목표였다."
+        "1999년 2월 Compaq이 Zip2를 3억 700만 달러에 샀다. 지분 7%를 가진 머스크는 2,200만 달러를 받았고(#11), 3월 그중 약 1,200만 달러로 온라인 금융 회사 <X.com>을 세웠다.",
+        "스코샤은행 인턴 시절 은행이 새 시도를 꺼리는 걸 본 그는 예금·투자·송금을 한 계좌에 모으고 이메일 주소만으로 돈을 보내는 인터넷 은행을 구상했다.",
+        "그해 나스닥은 86% 올랐다. 닷컴 버블로 인터넷 회사에 투자금이 몰리던 때였다."
       ],
       "photo_hint": "초기 X.com 웹사이트 화면 (기존 사진)",
       "shade": "strong"
@@ -42,112 +42,174 @@
       "value": "회사 가치 약 1,200만 달러(추정)",
       "title": "다섯 달 만에\n공동 창업자들과 갈라서다",
       "body": [
-        "공동 창업자는 스코샤은행에서 함께 일한 해리스 프리커, 그의 친구 크리스토퍼 페인, Zip2 출신 엔지니어 에드 호였다.",
-        "은행 출신 프리커는 기존 금융 회사처럼 차근차근 키우자고 했고, 머스크는 빨리 서비스를 내자고 했다. 회사 운영 방식을 두고 부딪친 끝에 머스크는 다섯 달 만에 프리커를 내보냈다.",
-        "페인과 호도 떠났고, 직원 대부분이 따라 나가 회사에는 몇 명만 남았다."
+        "공동 창업자는 셋이었다. 은행 지식을 가진 스코샤은행 시절 동료이자 로즈 장학생 출신 해리스 프리커, 그의 친구이자 캐나다 금융계 출신인 크리스토퍼 페인, 개발을 맡은 SGI·Zip2 출신 엔지니어 에드 호였다. 첫 투자로 발행한 주식의 약 93%는 머스크 몫이었다.",
+        "프리커는 기존 은행처럼 차근차근 키우자고 했다. 다섯 달 만에 그는 CEO 자리를 달라며, 안 주면 직원들을 데리고 나가겠다고 했다. 머스크는 거절했고, 페인과 호, 핵심 엔지니어들이 프리커를 따라 떠났다."
       ],
       "photo_hint": "X.com office or team in Palo Alto, 1999 (or Harris Fricker)"
     },
     {
-      "index": "03 · 성장",
+      "index": "03 · 개발",
+      "when": "1999 · 28세",
+      "photo": null,
+      "value": "회사 가치 약 1,200만 달러(추정)",
+      "title": "남은 몇 명으로\n넉 달 만에 온라인 은행을 열다",
+      "body": [
+        "1999년 8월 1일 엔지니어 스콧 앤더슨이 합류했고, 이후 매주 개발자가 늘었다. 머스크는 시험 운영에 자기 돈 10만 달러를 내줬다.",
+        "X.com은 웹사이트와 계좌, 이메일 송금, 자체 뮤추얼 펀드 3개를 직접 만들었다. 예금은 미국 연방예금보험에 든 First Western National Bank가 맡았고, 펀드는 Barclays와 손잡았다.",
+        "추수감사절 전날 밤인 11월 24일 서비스를 열었다. 수표를 우편으로 보낼 필요 없이 온라인으로만 계좌를 만들 수 있었다."
+      ],
+      "photo_hint": "1) X.com engineers or Musk at the X.com office, 1999 / 2) X.com website or account screen at launch (1999) / 3) Elon Musk around 1999"
+    },
+    {
+      "index": "04 · 자금",
+      "when": "1999 · 28세",
+      "photo": null,
+      "value": "회사 가치 약 1,200만 달러(추정)",
+      "title": "2,500만 달러를 투자받고\nCEO 자리를 내주다",
+      "body": [
+        "첫 투자는 1999년 5~6월 1,250만 달러로, 약 93%가 머스크의 돈이었다. 8월엔 Sequoia의 마이클 모리츠가 이사회에 들어왔다.",
+        "12월부터 이듬해 1월까지 2차로 1,290만 달러가 들어왔다. Sequoia가 약 290만 달러, Intuit CEO 출신 빌 해리스가 약 1,000만 달러를 넣었다.",
+        "투자자들은 경험 많은 경영자가 필요하다며 해리스를 CEO로 앉혔고, 머스크는 1999년 12월 CEO에서 내려왔다."
+      ],
+      "photo_hint": "1) Elon Musk with Bill Harris or Michael Moritz, 1999 / 2) Bill Harris (Intuit CEO) around 1999 / 3) Sequoia Capital office or logo"
+    },
+    {
+      "index": "05 · 성장",
       "when": "1999 · 28세",
       "photo": null,
       "value": "회사 가치 약 1,200만 달러(추정)",
       "title": "가입하면 20달러,\n두 달만에 20만 사용자",
       "body": [
-        "투자자들은 경험 많은 경영자가 필요하다며 1999년 말 Intuit CEO 출신 빌 해리스를 CEO로 데려왔다.",
-        "1999년 12월 서비스를 열면서 수수료와 최소 잔액을 없앴다. 예금은 미국 연방예금보험에 가입한 First Western National Bank가 맡았다.",
-        "가입하면 20달러, 친구를 데려오면 한 명당 10달러를 줬다. 광고비 대신 사용자에게 직접 돈을 준 셈이었고, 두 달 만에 가입자가 20만 명을 넘었다."
+        "X.com은 수수료와 최소 잔액, 연체료를 없앴다. 그리고 가입하면 20달러, 친구를 데려오면 한 명당 10달러가 든 현금 카드를 줬다.",
+        "광고 대신 사용자에게 직접 돈을 준 셈이었다. 머스크는 언론 인터뷰마다 인터넷 은행이 기존 은행을 대신할 거라고 큰소리쳤다.",
+        "두 달 만에 가입자가 20만 명을 넘었다. 이런 보너스에 들어간 돈은 모두 수천만 달러였다."
       ],
       "photo_hint": "PayPal 가입 보너스 안내 화면 (기존 사진)"
     },
     {
-      "index": "04 · 방향 전환",
+      "index": "06 · 방향 전환",
       "when": "2000 · 29세",
       "photo": null,
       "value": "회사 가치 약 1,200만 달러(추정)",
       "title": "온라인 은행 대신\n이메일 송금에 집중하다",
       "body": [
-        "X.com은 계좌·투자를 한 화면에 모은 종합 금융 계좌를 내세웠지만, 사용자는 대부분 이메일 송금만 썼다.",
-        "당시 개인끼리 돈을 주고받으려면 수표를 우편으로 보내야 했다. 이메일 송금은 이 과정을 몇 분으로 줄였다.",
+        "당시 개인끼리 돈을 주고받으려면 수표를 우편으로 보내야 했다. 수표가 며칠 걸려 도착하고, 은행에 넣은 뒤에도 돈을 쓰기까지 며칠이 더 걸렸다.",
+        "이메일 송금은 이 과정을 몇 분으로 줄였다. X.com 사용자도 계좌·투자보다 이메일 송금을 가장 많이 썼다.",
         "머스크는 사업의 중심을 이메일 송금으로 옮겼고, 같은 송금 서비스를 하던 <Confinity>와 정면으로 맞붙게 됐다."
       ],
       "photo_hint": "Early X.com / PayPal email payment screen (기존 사진)"
     },
     {
-      "index": "05 · 합병",
+      "index": "07 · 경쟁",
+      "when": "2000 · 29세",
+      "photo": null,
+      "value": "회사 가치 약 1,200만 달러(추정)",
+      "title": "팜파일럿 송금에서\n이메일 송금 PayPal로",
+      "body": [
+        "Confinity는 1998년 12월 맥스 레브친과 피터 틸이 세웠다. 처음엔 손바닥만 한 휴대용 컴퓨터 팜파일럿끼리 적외선으로 돈을 보내는 서비스를 만들었다.",
+        "1999년 말 이메일 송금 'PayPal'을 내놓자 사용자가 몰렸다. 계정 수는 2000년 1월 1일 약 1만 개에서 2월 1일 10만 개가 됐다.",
+        "대신 가입 보너스로 하루 10만 달러씩 나갔다. 그때까지 모은 투자금은 약 1,600만 달러로 X.com보다 적었다."
+      ],
+      "photo_hint": "1) Max Levchin and Peter Thiel at Confinity, 1999-2000 / 2) PalmPilot money beaming demo or early PayPal email payment screen / 3) Confinity / PayPal logo"
+    },
+    {
+      "index": "08 · 합병",
       "when": "2000 · 29세",
       "photo": null,
       "value": "회사 가치 약 5억 달러(추정)",
       "title": "보너스 경쟁을 끝내려\n경쟁자와 합병하다",
       "body": [
-        "Confinity는 맥스 레브친과 피터 틸이 세운 회사로, 같은 동네에서 송금 서비스 'PayPal'을 운영하며 같은 방식의 가입 보너스를 주고 있었다.",
-        "두 회사가 사용자 한 명을 데려올 때마다 돈을 쓰는 경쟁이 길어지면 둘 다 자금이 바닥날 처지였다. 2000년 3월 두 회사는 합병했다.",
-        "합친 회사는 X.com 이름을 유지했고, 5월 해리스가 물러나자 최대 주주 머스크가 CEO가 됐다."
+        "두 회사가 사용자 한 명을 데려올 때마다 돈을 쓰는 경쟁이 길어지면 둘 다 자금이 바닥날 처지였다. 2000년 3월 30일 두 회사는 합병했다.",
+        "현금이 더 많던 X.com이 조건을 주도했다. 합병 직후 Confinity 쪽 주주는 의결권의 약 46.5%, X.com 쪽은 나머지를 가졌다. X.com 주식 대부분을 가진 머스크가 합친 회사의 최대 주주가 됐다.",
+        "이름은 X.com을 유지했고, 5월 해리스가 물러나자 머스크가 CEO로 돌아왔다."
       ],
       "photo_hint": "피터 틸과 머스크 (기존 사진)",
       "bgsize": "1080px auto",
       "bgpos": "center 90px"
     },
     {
-      "index": "06 · 자금",
+      "index": "09 · 자금",
       "when": "2000 · 29세",
       "photo": null,
       "value": "회사 가치 약 5억 달러(추정)",
-      "title": "합병 한 달 만에\n1억 달러를 모으다",
+      "title": "합병 한 달 만에\n1억 달러를 투자받다",
       "body": [
-        "2000년 4월 합친 회사는 투자사 Madison Dearborn을 비롯해 Goldman Sachs·Sequoia Capital 등에서 1억 달러를 모았다.",
-        "가입자는 100만 명을 넘었지만, 보너스와 사기 손실로 돈이 빠르게 나가던 때였다.",
-        "그 직후 인터넷 기업 주가가 떨어져 새 투자를 받기 어려워졌고, 회사는 이 돈으로 버텼다."
+        "2000년 3~4월 Madison Dearborn이 이끌고 Goldman Sachs·Sequoia 등이 참여해 1억 달러를 넣었다(4월 5일 발표).",
+        "바로 그때 닷컴 버블이 꺼지기 시작했다. 3월 10일 정점을 찍은 나스닥은 이후 2년 반 동안 약 78% 떨어졌고, 인터넷 회사에 가던 투자금이 얼어붙었다.",
+        "보너스와 사기 손실로 돈이 빠르게 나가던 회사는 붕괴 직전에 받은 이 1억 달러로 버텼다."
       ],
       "photo_hint": "X.com / PayPal office in Palo Alto, 2000 (기존 사진)",
       "bgpos": "left top"
     },
     {
-      "index": "07 · 위기",
+      "index": "10 · 위기",
+      "when": "2000 · 29세",
+      "photo": null,
+      "value": "회사 가치 약 5억 달러(추정)",
+      "title": "훔친 카드 사기로\n한 달 1,200만 달러를 잃다",
+      "body": [
+        "사기범들은 프로그램으로 훔친 카드 번호와 가짜 이름을 넣어 계정을 대량으로 만들었다. 그 카드로 돈을 충전해 다른 계정에 보내고 빼 갔다.",
+        "카드 주인이 '내가 쓴 게 아니다'라고 신고하면 카드사는 결제를 취소하고 돈을 되가져갔다(차지백). 돈은 이미 빠져나갔기 때문에 손실은 PayPal에 남았다.",
+        "2000년 6월에는 한 달 약 1,200만 달러를 사기로 잃었다."
+      ],
+      "photo_hint": "1) PayPal fraud team (Max Levchin) around 2000 / 2) fraud detection screen or chargeback diagram / 3) Max Levchin around 2000"
+    },
+    {
+      "index": "11 · 위기",
       "when": "2000 · 29세",
       "photo": null,
       "value": "회사 가치 약 5억 달러(추정)",
       "title": "Confinity 팀과 갈등하다",
       "body": [
-        "가입자가 늘면서 남의 카드로 돈을 빼 가는 사기도 늘어, 한때 한 달에 1,000만 달러 넘게 잃었다.",
         "머스크는 시스템을 Microsoft의 Windows로 새로 짜자고 밀어붙였고, Confinity 출신 엔지니어들은 쓰던 Unix를 지키자며 맞섰다. 시스템을 바꾸는 동안 사기 대응이 늦어진다는 이유였다.",
-        "이름을 두고도 그는 X.com을 고집했지만, 다른 임원들은 사용자에게 더 알려진 PayPal을 원했다."
+        "이름도 문제였다. 사용자가 실제로 쓰는 제품 이름이 PayPal이었고, eBay 판매자들의 입소문으로 PayPal은 eBay에서 가장 많이 쓰는 결제 수단이 됐다. 고객들은 X.com이 성인 사이트처럼 들린다고 했지만 그는 X.com을 고집했다."
       ],
       "photo_hint": "Max Levchin and PayPal engineers around 2000 / Windows vs Unix (or PayPal fraud team)"
     },
     {
-      "index": "08 · 축출",
+      "index": "12 · 축출",
       "when": "2000 · 29세",
       "photo": null,
       "value": "회사 가치 약 5억 달러(추정)",
-      "title": "신혼여행 비행기에 탄 사이\nCEO에서 밀려나다",
+      "title": "신혼여행 겸 출장 중\nCEO에서 밀려나다",
       "body": [
-        "2000년 9월 그는 미뤘던 신혼여행 겸 투자 유치 출장으로 시드니행 비행기에 올랐다.",
-        "그 사이 임원들이 이사회에 불신임 편지를 냈고, 이사회는 Confinity 공동 창업자 피터 틸에게 CEO를 넘겼다.",
-        "그는 CEO에서 물러났지만 최대 주주이자 이사회 고문으로 남았다. 회사는 2001년 이름을 PayPal로 바꿨다."
+        "2000년 9월 그는 미뤘던 신혼여행 겸 투자 유치 출장으로 시드니행 비행기에 올랐다. 그 사이 임원들이 이사회에 불신임 편지를 냈다. 이사회는 일관된 사업 모델이 없고 기술 문제가 쌓였다는 이유로 그를 CEO에서 내렸다.",
+        "새 CEO는 피터 틸이었다. 틸은 합병 전까지 Confinity의 공동 창업자이자 CEO였고, 5월부터는 합친 회사의 이사회 의장이었다. 레브친이 틸에게 임시 CEO를 맡자고 했다."
       ],
       "photo_hint": "Elon Musk and Peter Thiel at X.com / PayPal, around 2000 (기존 사진)"
     },
     {
-      "index": "09 · 정점",
+      "index": "13 · 투자",
+      "when": "2001 · 30세",
+      "photo": null,
+      "value": "회사 가치 약 5억 달러(추정)",
+      "title": "CEO에서 물러나고도\n최대 주주로 남다",
+      "body": [
+        "머스크는 급히 돌아왔지만 결정은 바뀌지 않았다. 그는 회사를 떠나지 않고 이사이자 고문으로 남았다.",
+        "2000년 8월부터 이듬해 2월까지 이어진 8,620만 달러 투자에도 직접 돈을 넣었다. 2001년 9월 그의 지분은 14.2%로 여전히 최대 주주였다. 틸의 지분은 5.6%였다.",
+        "회사는 2001년 2월 이름을 PayPal로 바꿨다."
+      ],
+      "photo_hint": "1) Elon Musk with Peter Thiel or the PayPal team, 2001 / 2) PayPal board or office, 2001 / 3) Elon Musk around 2001"
+    },
+    {
+      "index": "14 · 정점",
       "when": "2002 · 31세",
       "photo": null,
       "value": "회사 가치 약 8억 달러(공모가 기준)",
       "title": "eBay 판매자의\n지갑이 되어 상장하다",
       "body": [
         "개인 판매자는 카드 결제를 받기 어려웠지만, PayPal은 이메일 주소만 있으면 돈을 주고받게 해 줬다.",
-        "그래서 eBay 경매 판매자들이 몰렸고, eBay가 직접 만든 결제 서비스보다 PayPal을 더 많이 받았다.",
-        "2002년 2월 상장 첫날 주가가 55% 가까이 올랐다."
+        "그래서 eBay 경매 판매자들이 몰렸고, eBay가 직접 만든 결제 서비스보다 PayPal을 더 많이 받았다. 2001년 2분기 PayPal 결제액의 약 70%가 경매 대금이었다.",
+        "2002년 2월 상장 첫날 주가가 55% 가까이 올랐다. 머스크는 이사·최대 주주로 이 상장을 맞았다."
       ],
       "photo_hint": "PayPal 화면 앞의 머스크 (기존 사진)"
     },
     {
       "type": "stats",
-      "index": "10 · 떠날 때",
+      "index": "15 · 떠날 때",
       "when": "2002 · 31세",
       "photo": null,
-      "title": "CEO에서 밀려난 뒤\n회사를 팔고 떠나다",
+      "title": "eBay 매각으로\n1억 7,580만 달러를 받고 떠나다",
       "stats": [
         {
           "cap": "회사 가치 (eBay가 인수한 2002년)",
@@ -161,8 +223,8 @@
         }
       ],
       "body": [
-        "2002년 eBay가 PayPal을 15억 달러에 사들이면서, 지분 11.7%를 가진 최대 주주 머스크는 1억 7,580만 달러를 받았다.",
-        "그는 이 돈을 같은 해 세운 SpaceX와 2004년 투자한 Tesla에 쏟았다(#25·#26)."
+        "2002년 7월 틸 CEO와 이사회는 PayPal을 eBay에 15억 달러(eBay 주식)에 팔기로 했다. 머스크는 상장 전 eBay 제안들은 너무 낮았지만 상장으로 값이 정해지자 찬성했다고 말했다.",
+        "지분 11.7%의 최대 주주였던 그는 1억 7,580만 달러를 받고 회사를 떠났다. 이 돈은 같은 해 세운 SpaceX와 2004년 투자한 Tesla로 갔다(#25·#26)."
       ],
       "photo_hint": "eBay·PayPal 로고",
       "value": "회사 가치 15억 달러(인수가)"
@@ -181,7 +243,6 @@
       "photo_hint": "SpaceX 드래곤 캡슐 앞 머스크 (PayPal로 번 돈이 간 곳)"
     }
   ],
-  "caption": "신혼여행 비행기에 탄 사이, 자기 회사 CEO 자리를 잃었습니다.\n그래도 2년 뒤 그는 1억 7,580만 달러를 받고 떠났습니다.\n\n1999년 3월, 일론 머스크는 Zip2를 팔아 받은 돈 중 약 1,200만 달러로 온라인 은행 X.com을 세웠습니다.\n다섯 달 만에 공동 창업자들이 모두 떠났습니다.\n\n가입하면 20달러, 친구를 데려오면 10달러.\n광고비 대신 사용자에게 돈을 줬고, 두 달 만에 20만 명이 가입했습니다.\n\n2000년 3월, 같은 보너스 경쟁을 하던 Confinity와 합병했습니다.\n사기 손실은 한때 한 달 1,000만 달러가 넘었습니다.\n\n2000년 9월, 그가 시드니행 비행기에 탄 사이\n임원들은 이사회에 불신임 편지를 냈고, CEO는 피터 틸이 됐습니다.\n\n2002년, eBay가 PayPal을 15억 달러에 샀습니다.\n지분 11.7%의 최대 주주였던 그는 그 돈을 SpaceX와 Tesla에 넣었습니다.\n\n경쟁사와 합치는 것, 여러분이라면 할 수 있을까요?\n첫 댓글에 답해 주세요 👇\n\n🔗 머스크 시리즈 · PayPal 마피아 시리즈. 첫 회사 Zip2는 #11, PayPal 첫 디자이너 채드 헐리의 YouTube는 #10, 이 돈으로 시작한 SpaceX·Tesla는 #25·#26, PayPal 공동 창업자 피터 틸은 #27에서 볼 수 있습니다.\n\n#기업집중탐구 #페이팔마피아 #일론머스크 #PayPal #창업스토리\n\n출처\n- Wikipedia, Elon Musk / X.com (bank) / Business career of Elon Musk\n- Ashlee Vance, 『Elon Musk』 (2015)\n- PayPal 보도자료, X.com raises $100 million (2000.04.05)\n- Fortune, The little-known story about Elon Musk's first post-grad internship (Jimmy Soni 『The Founders』 발췌)\n- American Banker, X.com Scraps Bank Strategy To Focus on PayPal System (2000.10.11)\n- CNN Money, PayPal IPO: Best first day (2002.02.15)\n- CNN Money, eBay to buy PayPal (2002.07.08)\n- PayPal 보도자료, eBay to Acquire PayPal (2002.07.08)\n- Snopes, Was Elon Musk fired from PayPal?\n- Jessica Livingston, Founders at Work (Max Levchin 인터뷰, 2007)\n- Stanford eCorner, Elon Musk: The Founding of PayPal (강연 녹취)\n- Fox Business, Elon Musk was dethroned by Peter Thiel in a coup (2022)\n- Snopes, Was Elon Musk Fired from PayPal? (2022)\n- 장별 회사 가치: X.com은 머스크가 넣은 약 1,200만 달러, 2000년은 1억 달러 투자를 지분 약 20%로 셈한 추정, 2002년 상장 공모가 기준 8억 달러(Vator), eBay 인수가 15억 달러",
-  "first_comment": "경쟁사와 합치는 것, 여러분이라면 할 수 있을까요? 댓글로 의견을 남겨 주세요.",
+  "caption": "신혼여행 비행기에 탄 사이, 자기 회사 CEO 자리를 잃었습니다.\n그래도 2년 뒤 그는 1억 7,580만 달러를 받고 떠났습니다.\n\n1999년 3월, 일론 머스크는 Zip2를 팔아 받은 돈 중 약 1,200만 달러로 온라인 은행 X.com을 세웠습니다.\n다섯 달 만에 공동 창업자들이 모두 떠났습니다.\n\n가입하면 20달러, 친구를 데려오면 10달러.\n광고비 대신 사용자에게 돈을 줬고, 두 달 만에 20만 명이 가입했습니다.\n\n2000년 3월, 같은 보너스 경쟁을 하던 Confinity와 합병했습니다.\n사기 손실은 한때 한 달 1,000만 달러가 넘었습니다.\n\n2000년 9월, 그가 시드니행 비행기에 탄 사이\n임원들은 이사회에 불신임 편지를 냈고, CEO는 피터 틸이 됐습니다.\n그래도 그는 이사·최대 주주로 남았습니다.\n\n2002년, 틸 경영진은 PayPal을 eBay에 15억 달러에 팔았습니다.\n지분 11.7%의 최대 주주였던 그는 그 돈을 SpaceX와 Tesla에 넣었습니다.\n\n경쟁사와 합치는 것, 여러분이라면 할 수 있을까요?\n댓글로 알려 주세요.\n\n🔗 머스크 시리즈 · PayPal 마피아 시리즈. 첫 회사 Zip2는 #11, PayPal 첫 디자이너 채드 헐리의 YouTube는 #10, 이 돈으로 시작한 SpaceX·Tesla는 #25·#26, PayPal 공동 창업자 피터 틸의 여정은 피터 틸 · PayPal·Palantir 편에서 볼 수 있습니다.\n\n#기업집중탐구 #페이팔마피아 #일론머스크 #PayPal #창업스토리\n\n출처\n- Wikipedia, Elon Musk / X.com (bank) / Business career of Elon Musk\n- Ashlee Vance, 『Elon Musk』 (2015)\n- PayPal 보도자료, X.com raises $100 million (2000.04.05)\n- Fortune, The little-known story about Elon Musk's first post-grad internship (Jimmy Soni 『The Founders』 발췌)\n- American Banker, X.com Scraps Bank Strategy To Focus on PayPal System (2000.10.11)\n- CNN Money, PayPal IPO: Best first day (2002.02.15)\n- CNN Money, eBay to buy PayPal (2002.07.08)\n- PayPal 보도자료, eBay to Acquire PayPal (2002.07.08)\n- Snopes, Was Elon Musk fired from PayPal?\n- Jessica Livingston, Founders at Work (Max Levchin 인터뷰, 2007)\n- Stanford eCorner, Elon Musk: The Founding of PayPal (강연 녹취)\n- Fox Business, Elon Musk was dethroned by Peter Thiel in a coup (2022)\n- PayPal 상장 신고서 S-1 (2001.09, 투자 차수·합병 지분·주주 지분)\n- Salon, PayPal (2001.02, 계정 수·사기 방식)\n- Stanford eCorner, Coping with Fraud / What is the right time to sell (강연 녹취)\n- Fortune, Elon Musk's second try at X.com (2023.07)\n- 나스닥 지수: 1999년 약 86% 상승, 2000.03.10 정점 뒤 2002.10까지 약 78% 하락\n- 장별 회사 가치: X.com은 머스크가 넣은 약 1,200만 달러, 2000년은 1억 달러 투자를 지분 약 20%로 셈한 추정, 2002년 상장 공모가 기준 8억 달러(Vator), eBay 인수가 15억 달러",
   "music": "Harder, Better, Faster, Stronger – Daft Punk (닷컴 시절의 속도감) / 없으면 검색어 'electronic upbeat'"
 }
