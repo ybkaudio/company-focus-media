@@ -8,7 +8,7 @@
 
 📷 **Photo:** Alex Karp portrait (recent, his trademark curly hair, on stage or interview) / COVER LOGO: Palantir logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 코딩 못하는 철학자는 어떻게 팔란티어를 키웠나
+**제목:** 팔란티어 CEO는 "철학자"였다
 
 기업집중탐구
 
