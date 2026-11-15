@@ -104,7 +104,9 @@
       ],
       "photo_hint": "CIA headquarters Langley (exterior), or In-Q-Tel logo",
       "value": "회사 가치 비공개(투자 규모로 추정 어려움)",
-      "photo_note": "In-Q-Tel 로고 (2005년 무렵)"
+      "photo_note": "벤처캐피털 심사장을 그린 그림 (사용자 제공)",
+      "photo_fade": "38-50",
+      "title_size": 66
     },
     {
       "index": "07 · 혁신",
@@ -208,7 +210,8 @@
       ],
       "photo_hint": "Palantir AIP demo / AIPCon stage, or Alex Karp on stage 2023",
       "value": "회사 가치 약 400억 달러(2023년 말 시가총액, 추정)",
-      "photo_note": "2023년 순이익을 그린 그림"
+      "photo_note": "Palantir 소프트웨어로 만든 공항 운항 지연 관제 화면 (사용자 제공)",
+      "photo_fade": "36-50"
     },
     {
       "index": "15 · 성장",

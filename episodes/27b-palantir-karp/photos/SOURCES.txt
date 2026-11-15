@@ -5,7 +5,7 @@
 04 피터 틸 편 08장의 직접 만든 Igor 원리 그림 (11/15 러시아 사기범 장 추가)
 05 Palantir 로고 직접 배치(피터 틸 편 11장과 같은 그림)
 06 Palantir 화면 캡처: 미 해군대학원 논문 'Data integration to explore the dynamics of conflict'(2008, 미국 정부 저작물·퍼블릭 도메인, archive.org datintegrationto109453848) 47쪽 그림 12 잘라 씀 (이전 임시 다보스 사진은 spare/06-davos-temp.jpg)
-07 Logo of In-Q-Tel (2005).svg (퍼블릭 도메인) 어두운 배경에 배치
+07 사용자 제공 그림: 심사장 만화(user/vc-cartoon.png, 11/15) 윗부분 잘라 배치 · 이전 In-Q-Tel 로고는 spare/old07-inqtel.jpg · 옅은 스톡 워터마크 있음
 08 Alex-karp.jpg (CC BY-SA 4.0, 2015)
 09 Cia-lobby-seal.jpg (Commons, 퍼블릭 도메인, CIA)
 10 직접 만든 회사 가치 그림(본문 숫자)
@@ -13,7 +13,7 @@
 12 Palantir Technologies logo.svg + Raytheon.svg(Commons, 로고) 직접 배치
 13 New York Stock Exchange Christmas Tree Snowstorm 2020 (50732619158).jpg
 14 Palantir 1 2018-09-06.jpg (Commons CC BY-SA 4.0, 팰로앨토 사무실) + Downtown Denver from Speer Blvd overlook (cropped).jpg (Commons CC BY-SA 4.0, 2020) 나란히 붙임
-15 직접 만든 2023년 순이익 그림(본문 숫자)
+15 사용자 제공: Palantir 소프트웨어 공항 관제 화면(user/aip-dashboard.png, 11/15) · 이전 순이익 그림은 spare/old15-netincome.jpg
 16 Palantir stock price.pdf (CC0, 2025) 어두운 배경에 배치
 17 Palantir 2022.jpg (CC BY-SA 4.0)
 18 REUNIÓN CON ALEX KARP ... DAVOS 2026 (55053421059).jpg (퍼블릭 도메인) 잘라 씀
