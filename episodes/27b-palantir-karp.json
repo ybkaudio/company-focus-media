@@ -88,8 +88,9 @@
       ],
       "photo_hint": "1) Alex Karp with Palantir co-founders (Thiel, Lonsdale, Cohen, Gettings) in early Palantir office, mid-2000s / 2) early Palantir office Palo Alto / 3) Alex Karp mid-2000s",
       "value": "회사 가치 비공개(첫 자금 약 3,000만 달러)",
-      "photo_note": "정부 대표단과 회의하는 카프, 다보스 (2026) · 임시: 2004년 사진 못 찾음",
-      "bgpos": "8% 50%"
+      "photo_note": "Palantir 분석 화면, 사건·인물 연결 그래프 (2008, 미 해군대학원 논문 속 캡처)",
+      "bgpos": "8% 50%",
+      "photo_fade": "36-50"
     },
     {
       "index": "06 · 자금",
@@ -191,7 +192,8 @@
       ],
       "photo_hint": "1) Alex Karp at Palantir Denver headquarters or NYSE listing day 2020 / 2) Palantir Denver office building / 3) Alex Karp around 2020",
       "value": "회사 가치 약 180억 달러(상장 첫날)",
-      "photo_note": ""
+      "photo_note": "왼쪽 팰로앨토 Palantir 사무실 (2018) · 오른쪽 덴버 시내 (2020), 나란히 붙임",
+      "photo_fade": "36-52"
     },
     {
       "index": "14 · 혁신",
