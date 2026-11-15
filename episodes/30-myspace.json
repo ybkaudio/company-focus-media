@@ -14,7 +14,14 @@
       "body": [
         "기업집중탐구"
       ],
-      "photo_hint": "Tom Anderson (\"Tom from Myspace\") with Myspace logo, mid-2000s (if no logo visible, production adds a Myspace logo sticker) / COVER LOGO: Myspace logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)"
+      "photo_hint": "Tom Anderson (\"Tom from Myspace\") with Myspace logo, mid-2000s (if no logo visible, production adds a Myspace logo sticker) / COVER LOGO: Myspace logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)",
+      "photo_note": "톰 앤더슨 (Myspace 공동 창업자)",
+      "sticker": {
+        "src": "30-myspace/sticker-logo.png",
+        "size": 360,
+        "right": 80,
+        "top": 1105
+      }
     },
     {
       "index": "01 · 배경",
@@ -27,7 +34,8 @@
         "대만에서 지내다 돌아와 UCLA 영화 대학원에 들어갔다. 음악과 영상을 하는 친구들은 뒤에 그의 사이트 첫 사용자가 됐다."
       ],
       "photo_hint": "1) young Tom Anderson performing with his band (1990s) / 2) his band's flyer or album / 3) young Tom Anderson 1990s",
-      "value": "회사 설립 전"
+      "value": "회사 설립 전",
+      "photo_note": "UCLA 로이스 홀 · 톰이 다닌 영화 대학원 학교 (1990년대 톰 사진은 못 찾음)"
     },
     {
       "index": "02 · 계기",
@@ -40,7 +48,8 @@
         "2002년 9월 인터넷 마케팅 회사 <eUniverse>가 ResponseBase를 사들였고, 두 사람은 eUniverse에서 일하게 됐다."
       ],
       "photo_hint": "Tom Anderson and Chris DeWolfe together, early 2000s (crop others if unclear)",
-      "value": "회사 설립 전"
+      "value": "회사 설립 전",
+      "photo_note": "크리스 드울프 · XDrive에서 만난 톰의 동료, 훗날 Myspace 공동 창업자·CEO"
     },
     {
       "index": "03 · 창업",
@@ -53,7 +62,9 @@
         "드울프는 기본 서비스를 유료로 하자고 했지만, eUniverse 대표 브래드 그린스펀은 무료여야 사용자가 모인다며 막았다."
       ],
       "photo_hint": "Early Myspace homepage screenshot, 2003-2004",
-      "value": "회사 가치 약 100만 달러(추정)"
+      "value": "회사 가치 약 100만 달러(추정)",
+      "photo_note": "Friendster 로고 → 첫 Myspace 로고 (로고로 직접 만든 그림)",
+      "photo_small": true
     },
     {
       "index": "04 · 성장",
@@ -67,7 +78,9 @@
         "모든 가입자에게 그가 첫 친구로 자동 추가돼 환영 메시지를 받았고, '톰'은 Myspace의 얼굴이 됐다. 2005년 1월 가입자는 1천만 명이 됐다."
       ],
       "photo_hint": "Tom Anderson's Myspace profile ('Tom' default friend), mid-2000s",
-      "value": "회사 가치 약 2,000만 달러(추정)"
+      "value": "회사 가치 약 2,000만 달러(추정)",
+      "photo_note": "첫 Myspace 로고 'a place for friends'",
+      "photo_small": true
     },
     {
       "index": "05 · 성장",
@@ -80,7 +93,8 @@
         "밴드는 페이지에 곡을 올려 팬을 모았고, 2004년 말 Arctic Monkeys가 Myspace 팬 페이지로 알려지면서 음악가와 10대가 함께 몰렸다."
       ],
       "photo_hint": "Customized Myspace band profile page, mid-2000s, or Arctic Monkeys 2005",
-      "value": "회사 가치 약 4,600만 달러(2005년 초 투자 기준)"
+      "value": "회사 가치 약 4,600만 달러(2005년 초 투자 기준)",
+      "photo_note": "Myspace 음악 무대에서 팬 사인회를 여는 밴드 Anberlin"
     },
     {
       "index": "06 · 매각",
@@ -93,7 +107,8 @@
         "그는 사장으로 남았고, 두 창업자는 이 거래로 각각 약 1,500만 달러를 받은 것으로 알려졌다."
       ],
       "photo_hint": "Rupert Murdoch with Myspace founders, 2005-2006 (crop others if unclear)",
-      "value": "회사 가치 약 5억 8,000만 달러(매각가)"
+      "value": "회사 가치 약 5억 8,000만 달러(매각가)",
+      "photo_note": "News Corp 회장 루퍼트 머독(왼쪽)과 톰 앤더슨"
     },
     {
       "index": "07 · 정점",
@@ -106,7 +121,8 @@
         "10월 월 매출은 100만 달러에서 3천만 달러로 늘었고, 그 절반이 Google 계약에서 나왔다."
       ],
       "photo_hint": "Myspace headquarters or Tom Anderson at event, 2006",
-      "value": "회사 가치 약 60억 달러(추정)"
+      "value": "회사 가치 약 60억 달러(추정)",
+      "photo_note": "Myspace가 속한 News Corp 인터넷 부문(Fox Interactive Media) 본사"
     },
     {
       "index": "08 · 위기",
@@ -119,7 +135,8 @@
         "머독은 Myspace가 Fox 콘텐츠를 퍼뜨리는 통로가 되지 못하고 매출 10억 달러 목표도 넘지 못한 데 실망했다."
       ],
       "photo_hint": "Myspace vs Facebook logos, around 2008",
-      "value": "회사 가치 약 30억 달러(추정)"
+      "value": "회사 가치 약 30억 달러(추정)",
+      "photo_note": "'Myspace는 패배자들이 쓴다' 낙서"
     },
     {
       "index": "09 · 떠날 때",
@@ -143,7 +160,8 @@
           "unit": "년"
         }
       ],
-      "title_size": 70
+      "title_size": 70,
+      "photo_note": "Myspace 직원 티셔츠 'Myspace makes work fun'"
     },
     {
       "type": "outro",
@@ -156,7 +174,9 @@
         "규칙 대신 마음대로 꾸미게 한 자유"
       ],
       "button": "지금 팔로우 →",
-      "photo_hint": "Tom Anderson portrait (person photo for the closing slide; his famous Myspace profile photo style)"
+      "photo_hint": "Tom Anderson portrait (person photo for the closing slide; his famous Myspace profile photo style)",
+      "photo_note": "2008년 쿠웨이트 미군 위문 공연에서 크리스 드울프(가운데)·톰 앤더슨(오른쪽)",
+      "bgpos": "80% 30%"
     }
   ],
   "caption": "모두의 첫 친구 '톰'은 Myspace를 만든 사람이었어요.\n\n톰 앤더슨은 2003년 Friendster를 보고 열흘 만에 Myspace를 띄웠어요. 모회사 사용자에게 알려 첫 가입자를 모았고, 가짜 계정을 지우던 Friendster와 달리 뭐든 올리고 꾸미게 해 음악가와 10대를 끌어모았어요. 2년 만에 News Corp에 5억 8천만 달러에 팔렸고 미국 1위 사이트가 됐지만, 광고를 늘리는 사이 Facebook에 밀려 2009년 회사를 떠났어요.\n\n떠날 때 회사 가치는 공개된 값이 없어, 2008 회계연도 매출(약 8억 달러)에 당시 인터넷 광고 회사의 매출 대비 가치(약 1.5배)를 곱한 추정치(약 12억 달러)로 적었어요.\n\nMyspace를 써 본 적 있나요? 댓글로 알려 주세요.\n\n🔗 SNS 시리즈. Myspace를 넘어선 Facebook 이야기는 에두아르도 세버린 · Facebook 편·마크 저커버그 · Facebook 편, Facebook이 사들인 사진 SNS Instagram은 케빈 시스트롬 · Instagram 편에서 볼 수 있어요.\n\n출처\n- Wikipedia, Tom Anderson / Myspace\n- Encyclopedia.com, Anderson, Tom and DeWolfe, Chris (Newsmakers)\n- Emergic, The MySpace Story: The Early Days (New York Times 인용, 2006.03)\n- Silicon UK, Tales in Tech History: Myspace\n- 장별 회사 가치: 2005년 초 Redpoint 투자(1,150만 달러에 약 25%), 2005년 News Corp 인수가, 2006년 이후는 당시 업계 추정과 매출로 셈한 추정\n\n#기업집중탐구 #톰앤더슨 #마이스페이스 #Myspace #SNS #창업 #창업스토리 #스타트업 #자기계발"
