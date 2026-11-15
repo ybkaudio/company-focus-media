@@ -62,7 +62,8 @@
       ],
       "photo_hint": "1) Max Levchin with PayPal fraud team / Igor screens (2000-2001) / 2) Igor fraud-detection interface, or PayPal early CAPTCHA (Gausebeck-Levchin test) / 3) PayPal office 2001",
       "value": "회사 설립 전",
-      "photo_note": "Igor 원리를 그린 설명 그림 (실제 화면 아님)"
+      "photo_note": "Igor 원리를 그린 설명 그림 (실제 화면 아님)",
+      "title_size": 72
     },
     {
       "index": "04 · 계기",
@@ -116,7 +117,8 @@
       ],
       "photo_hint": "Palantir Gotham software screenshot (link analysis graph), or Palantir engineers at work",
       "value": "회사 가치 비공개",
-      "photo_note": "엔지니어 옆에서 화면을 짚는 카프 (2015)"
+      "photo_note": "엔지니어 옆에서 화면을 짚는 카프 (2015)",
+      "title_size": 72
     },
     {
       "index": "08 · 첫 성과",
