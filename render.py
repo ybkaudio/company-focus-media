@@ -187,6 +187,15 @@ def main(path):
               return null; }""")
             if bad:
                 sys.exit(f"{i:02d}장 레이아웃 문제: {bad}. 본문·제목을 줄이고 다시 렌더")
+            if s.get("photo") and not s.get("photo_small") and s.get("type") != "stats":   # 11/15 사용자: 스티커가 아닌 메인 사진은 좌우 끝까지 꽉 채움
+                try:
+                    from PIL import Image
+                    im = Image.open(path.parent / s["photo"]).convert("L")
+                    bb = im.point(lambda v: 255 if v > 45 else 0).getbbox()
+                    if abs(im.width / im.height - 0.8) < 0.02 and bb and (bb[2] - bb[0]) < im.width * 0.9:   # 4:5 합성(어두운 배경 위 배치)만 검사, 원본 사진은 화면을 꽉 채워 깔림
+                        sys.exit(f"{i:02d}장 메인 사진이 좌우를 다 채우지 않음(내용 폭 {(bb[2]-bb[0])*100//im.width}%). 좌우 끝까지 키우고 다시 렌더 (로고만 놓는 장 등 예외는 photo_small: true)")
+                except ImportError:
+                    pass
             if s.get("photo") and not s.get("photo_note"):   # 11/14 사용자: 사진 있는 모든 장에 사진 설명(작은 글씨)
                 sys.exit(f"{i:02d}장에 photo_note(사진 설명)가 없음. 사진 설명을 넣고 다시 렌더 (11/15 사용자: 빠지면 절대 안 됨)")
             pg.screenshot(path=str(out / f"{i:02d}.png"))

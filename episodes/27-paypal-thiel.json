@@ -128,7 +128,8 @@
       ],
       "photo_hint": "1) Peter Thiel at PayPal IPO, Nasdaq February 2002 / 2) PayPal IPO day / Nasdaq ticker PYPL 2002 / 3) Thiel 2002",
       "value": "회사 가치 약 12억 달러(상장 첫날)",
-      "photo_note": "상장 첫날 주가를 그린 그림"
+      "photo_note": "상장 첫날 주가를 그린 그림",
+      "photo_small": true
     },
     {
       "index": "09 · 매각",
@@ -155,7 +156,8 @@
       ],
       "photo_hint": "1) Peter Thiel with Palantir co-founders / Alex Karp at Palantir's founding (2003-2004) / 2) early Palantir office or logo / 3) Thiel 2003",
       "value": "회사 가치 비공개(첫 자금 약 3,000만 달러)",
-      "photo_note": "Palantir 로고"
+      "photo_note": "Palantir 로고",
+      "photo_small": true
     },
     {
       "index": "11 · 투자",
@@ -197,7 +199,8 @@
       ],
       "photo_hint": "1) Peter Thiel at Clarium Capital office (2008-2010) / 2) Clarium Capital logo or 2008 dollar/market crash chart / 3) Thiel 2008-2010",
       "value": "운용 자산 약 80억 달러(2008년 고점)",
-      "photo_note": "Clarium 운용 자산과 수익률 (자료: The Generalist)"
+      "photo_note": "Clarium 운용 자산과 수익률 (자료: The Generalist)",
+      "photo_small": true
     },
     {
       "index": "14 · 성장",

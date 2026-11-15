@@ -59,7 +59,8 @@
       ],
       "photo_hint": "Moscow in winter, early 2000s (or Russian Dnepr rocket launch)",
       "value": "회사 설립 전",
-      "photo_note": "로켓 앞의 일론 머스크 (흑백 인물 사진)"
+      "photo_note": "로켓 앞의 일론 머스크 (흑백 인물 사진)",
+      "photo_fade": "36-46"
     },
     {
       "index": "04 · 창업",
@@ -74,7 +75,8 @@
       "photo_hint": "Early SpaceX factory in El Segundo, Musk with Tom Mueller (crop other people if unclear)",
       "title_size": 80,
       "value": "회사 가치 약 1억 달러(추정)",
-      "photo_note": "초기 SpaceX 공장에서 로켓 옆에 선 머스크 (2000년대 중반)"
+      "photo_note": "초기 SpaceX 공장에서 로켓 옆에 선 머스크 (2000년대 중반)",
+      "bgpos": "left center"
     },
     {
       "index": "05 · 위기",
@@ -158,7 +160,8 @@
       ],
       "photo_hint": "NASA logo with SpaceX Dragon cargo capsule, or Musk at NASA event 2008-2010",
       "value": "회사 가치 약 10억 달러(추정)",
-      "photo_note": "NASA 국장 찰스 볼든과 악수하는 머스크 (2012)"
+      "photo_note": "NASA 국장 찰스 볼든과 악수하는 머스크 (2012)",
+      "title_size": 72
     },
     {
       "index": "11 · 성장",
@@ -229,7 +232,9 @@
       ],
       "photo_hint": "Crew Dragon Demo-2 launch, May 30 2020",
       "value": "회사 가치 약 460억 달러(추정)",
-      "photo_note": "Crew Dragon 공개 행사의 머스크 (2014)"
+      "photo_note": "Crew Dragon 공개 행사의 머스크 (2014)",
+      "bgpos": "right center",
+      "title_size": 72
     },
     {
       "index": "16 · 확장",
