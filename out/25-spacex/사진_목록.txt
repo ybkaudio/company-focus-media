@@ -1,0 +1,20 @@
+01.jpg  표지: Elon Musk at SpaceX factory with Falcon 1 or Falcon 9 behind him, 2000s (SpaceX logo visible, so no sticker) / COVER LOGO: SpaceX logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
+02.jpg  01 · 배경: [새 사진 필요] Young Elon Musk as a teenager in South Africa (or Isaac Asimov's Foundation book cover)
+03.jpg  02 · 계기: NASA website or Mars surface image (Mars Oasis greenhouse concept art if available)
+04.jpg  03 · 방향 전환: Moscow in winter, early 2000s (or Russian Dnepr rocket launch)
+05.jpg  04 · 창업: Early SpaceX factory in El Segundo, Musk with Tom Mueller (crop other people if unclear)
+06.jpg  05 · 위기: [새 사진 필요] Falcon 1 Flight 1 on Omelek Island, Kwajalein Atoll, March 2006 (or Omelek launch site)
+07.jpg  06 · 자금: NASA COTS announcement 2006, or early Dragon capsule mockup / SpaceX Hawthorne factory 2006-2007
+08.jpg  07 · 위기: Falcon 1 launch failure on Omelek Island, Kwajalein, 2006-2008
+09.jpg  08 · 첫 성과: Falcon 1 Flight 4 lifting off, September 28 2008 (or SpaceX team celebrating)
+10.jpg  09 · 위기: [새 사진 필요] Elon Musk in 2008 (stressed, at SpaceX or Tesla), or Tesla Roadster 2008
+11.jpg  10 · 자금: NASA logo with SpaceX Dragon cargo capsule, or Musk at NASA event 2008-2010
+12.jpg  11 · 성장: Dragon capsule captured by the ISS robotic arm, May 2012
+13.jpg  12 · 위기: [새 사진 필요] Falcon 9 booster crash/explosion on the drone ship, January or April 2015 (SpaceX released video)
+14.jpg  13 · 방향 전환: Falcon 9 first stage landing (Orbcomm-2 landing, December 2015, or twin booster landing)
+15.jpg  14 · 성장: [새 사진 필요] Falcon Heavy side boosters landing simultaneously (Feb 2018), or Starman in the Tesla Roadster with Earth behind
+16.jpg  15 · 확장: Crew Dragon Demo-2 launch, May 30 2020
+17.jpg  16 · 확장: [새 사진 필요] Starship Super Heavy booster caught by the launch tower 'chopsticks' (Mechazilla), October 2024
+18.jpg  17 · 확장: Starlink satellites stacked before deployment, or Starlink dish
+19.jpg  18 · 정점: Elon Musk portrait, 2025-2026
+20.jpg  마무리: Elon Musk with Falcon 9 or Starship (person photo for the closing slide)
