@@ -24,6 +24,9 @@ CIA의 벤처 투자사 In-Q-Tel이 약 200만 달러를 넣었습니다.
 
 출처
 - Wikipedia, Palantir / Alex Karp
+- Peter Thiel, 『Zero to One』 12장 Man and Machine (PayPal 사기 대응과 Palantir)
+- MIT Technology Review, Digital Cash Payoff (2001.12, Igor·사기 전담 직원 약 100명·하루 20만 건)
+- Plaid, PayPal's history of fighting fraud (Igor 이름 유래)
 - Global Corporate Venturing, Case study: Farsighted Palantir sees data's potential (2013)
 - Fast Company, How Palantir got its start (Michael Steinberger 『The Philosopher in the Valley』, 2025)
 - BuzzFeed News, Inside Palantir, Silicon Valley's most secretive company (2016)
@@ -32,4 +35,12 @@ CIA의 벤처 투자사 In-Q-Tel이 약 200만 달러를 넣었습니다.
 - Slashdot·Axios, Palantir S-1: 2019년 순손실 5억 8,000만 달러 (2020.08)
 - Reuters(BizNews 재인용), Palantir jumps on first annual profit (2024.02)
 - The Motley Fool, Palantir Q3 2026 results (2026.11.03)
-- 장별 회사 가치: 2013·2015년은 투자 라운드 기준, 2020년은 상장 첫날, 2023·2025년은 연말 시가총액 추정, 2026년은 11월 시가총액(약 4,077억 달러)
+- Forbes, How a 'Deviant' Philosopher Built Palantir (2013.08)
+- Washingtonian, Killer App (2012.01)
+- Defense One, The War Over Soon-to-Be-Outdated Army Intelligence Systems (2016.07)
+- Fortune, Trump, Palantir, and the Battle to Clean Up a Huge Army Procurement Swamp
+- Washington Technology, Palantir's Army win (2019.03)
+- Fox Business, Palantir CEO rips Silicon Valley (2020.08)
+- Benzinga, Palantir's 'Rock Concert' AI Sales Strategy / Constellation Research, AI boot camps (2023)
+- The Motley Fool, Meet the newest stock in the S&P 500 (2024.09) / Irish Times (2025.02)
+- 장별 회사 가치: 2013·2015년은 투자 라운드 기준, 2020년은 상장 첫날, 2023·2024년은 연말 시가총액 추정, 2026년은 11월 시가총액(약 4,077억 달러)
