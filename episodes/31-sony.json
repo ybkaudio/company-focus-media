@@ -14,7 +14,14 @@
       "body": [
         "기업집중탐구"
       ],
-      "photo_hint": "Masaru Ibuka portrait with Sony logo or early Sony product, 1950s-60s (if no logo visible, production adds a Sony logo sticker) / COVER LOGO: Sony logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)"
+      "photo_hint": "Masaru Ibuka portrait with Sony logo or early Sony product, 1950s-60s (if no logo visible, production adds a Sony logo sticker) / COVER LOGO: Sony logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)",
+      "photo_note": "실험복을 입은 이부카 마사루",
+      "sticker": {
+        "src": "31-sony/sticker-logo.png",
+        "size": 360,
+        "right": 80,
+        "top": 1110
+      }
     },
     {
       "index": "01 · 배경",
@@ -28,7 +35,8 @@
         "전쟁 중 해군 전시연구위원회에서 열두 살 아래 연구원 모리타 아키오를 만났다. 두 사람은 함께 열 추적 유도 장치를 연구했고, 이 인연이 회사로 이어졌다."
       ],
       "photo_hint": "1) young Masaru Ibuka with Akio Morita or at naval research lab (1940s) / 2) Japanese naval research equipment / Ibuka's early invention / 3) young Ibuka 1930s-40s",
-      "value": "회사 설립 전"
+      "value": "회사 설립 전",
+      "photo_note": "모리타 아키오 · 해군 연구소에서 만난 동업자, 훗날 Sony 공동 창업자"
     },
     {
       "index": "02 · 창업",
@@ -41,7 +49,8 @@
         "이 소식이 아사히신문에 실렸고, 기사를 본 모리타가 그를 찾아왔다."
       ],
       "photo_hint": "Shirokiya department store Nihonbashi after the war, 1945-46 (or Tokyo Tsushin Kenkyujo workshop)",
-      "value": "회사 설립 전"
+      "value": "회사 설립 전",
+      "photo_note": "시로키야 백화점 니혼바시점 (1911년 모습) · 1945년 이 백화점 3층에 수리점을 염"
     },
     {
       "index": "03 · 자금",
@@ -54,7 +63,8 @@
         "회사는 단파 어댑터와 전기 확성기를 팔며 버텼다."
       ],
       "photo_hint": "Early Tokyo Tsushin Kogyo staff / Ibuka and Morita, 1946 (crop others if unclear), or the failed wooden rice cooker",
-      "value": "회사 가치 약 1만 달러(자본금 19만 엔, 추정)"
+      "value": "회사 가치 약 1만 달러(자본금 19만 엔, 추정)",
+      "photo_note": "이부카 마사루 (1964년) · 창업 초기 사진은 못 찾음 (임시)"
     },
     {
       "index": "04 · 첫 성과",
@@ -67,7 +77,8 @@
         "도쿄의 예술 학교를 비롯해 수업을 녹음하려는 학교들이 사기 시작했다. 그해 5월 그는 사장이 됐고, 매출은 9천만 엔, 직원은 114명이 됐다."
       ],
       "photo_hint": "Sony (Totsuko) G-type tape recorder, 1950",
-      "value": "회사 가치 약 10만 달러(추정)"
+      "value": "회사 가치 약 10만 달러(추정)",
+      "photo_note": "Sony 릴 테이프 녹음기 (1960년대) · 1950년 G형 사진은 못 찾음"
     },
     {
       "index": "05 · 방향 전환",
@@ -80,7 +91,8 @@
         "특허료 2만 5천 달러의 송금을 꺼리던 통상산업성을 설득해 1954년 1월 승인을 받았다."
       ],
       "photo_hint": "Early transistor, or Ibuka in the United States, early 1950s",
-      "value": "회사 가치 약 20만 달러(추정)"
+      "value": "회사 가치 약 20만 달러(추정)",
+      "photo_note": "벨 연구소의 첫 트랜지스터 복제품"
     },
     {
       "index": "06 · 성장",
@@ -93,7 +105,8 @@
         "미국 시계 회사 <Bulova>가 자기 이름을 붙여 1만 대를 사겠다고 했지만, 모리타는 자기 상표로 팔겠다며 거절했다."
       ],
       "photo_hint": "Sony TR-55 transistor radio, 1955",
-      "value": "회사 가치 약 300만 달러(추정)"
+      "value": "회사 가치 약 300만 달러(추정)",
+      "photo_note": "Sony TR-55 트랜지스터라디오 (1955년, 전시 복제품)"
     },
     {
       "index": "07 · 성장",
@@ -106,7 +119,8 @@
         "1958년 해외에서 부르기 쉬운 'Sony'로 회사 이름을 바꾸고 도쿄증권거래소에 상장했다."
       ],
       "photo_hint": "Sony TR-63 pocket transistor radio, 1957",
-      "value": "회사 가치 약 1,000만 달러(추정)"
+      "value": "회사 가치 약 1,000만 달러(추정)",
+      "photo_note": "TR-63 등 Sony 트랜지스터라디오 신문 광고 (1957년 캐나다)"
     },
     {
       "index": "08 · 위기",
@@ -119,7 +133,8 @@
         "양산이 막히자 그는 엔지니어 30명을 모아 Sony만의 방식을 처음부터 다시 개발하게 했다."
       ],
       "photo_hint": "Sony Chromatron color TV, early 1960s, or Ibuka with engineers",
-      "value": "회사 가치 약 1억 달러(추정)"
+      "value": "회사 가치 약 1억 달러(추정)",
+      "photo_note": "Sony 크로마트론 컬러TV"
     },
     {
       "index": "09 · 정점",
@@ -131,7 +146,9 @@
         "구조가 단순해지고 화면이 밝아졌으며, Sony 컬러TV의 대표 기술이 됐다. 1973년 이 기술로 미국 TV 업계의 에미상을 받았다."
       ],
       "photo_hint": "Sony Trinitron color TV, 1968",
-      "value": "회사 가치 약 5억 달러(추정)"
+      "value": "회사 가치 약 5억 달러(추정)",
+      "photo_note": "쇼와 시대 Sony 트리니트론 컬러TV (오사카 난바 지하상가 전시)",
+      "bgpos": "50% 25%"
     },
     {
       "index": "10 · 떠날 때",
@@ -154,7 +171,8 @@
           "num": "약 25",
           "unit": "년"
         }
-      ]
+      ],
+      "photo_note": "1972년 브라질 상파울루 주지사 라우두 나테우와 만난 모리타 아키오"
     },
     {
       "type": "outro",
@@ -167,7 +185,8 @@
         "실패한 기술을 버리고 트리니트론을 만든 결단"
       ],
       "button": "지금 팔로우 →",
-      "photo_hint": "Masaru Ibuka portrait (person photo for the closing slide)"
+      "photo_hint": "Masaru Ibuka portrait (person photo for the closing slide)",
+      "photo_note": "이부카 마사루 (1966년 주니치 신문)"
     }
   ],
   "caption": "Sony의 첫 제품은 팔리지 않은 전기밥솥이었어요.\n\n이부카 마사루는 전쟁이 끝난 1945년 폭격 맞은 백화점에 라디오 수리점을 열었어요. 밥솥에 실패한 뒤 일본 첫 테이프 녹음기를 만들었고, 미국에서 보청기에나 쓰라던 트랜지스터 특허를 사 와 주머니에 들어가는 라디오로 세계에 이름을 알렸어요. 컬러TV에서 한 번 실패한 뒤 트리니트론을 내놓고, 1971년 동업자 모리타에게 사장 자리를 넘겼어요.\n\n떠날 때 회사 가치는 시가총액 자료가 없어, 1971 회계연도 매출 1,597억 엔(1달러=360엔으로 약 4.4억 달러)에 매출 대비 가치 약 2배를 곱한 추정치(약 9억 달러)로 적었어요.\n\n가장 기억에 남는 Sony 제품은 무엇인가요? 댓글로 알려 주세요.\n\n출처\n- Wikipedia, Masaru Ibuka / History of Sony\n- The Shashi, Ibuka Masaru (Sony 사장·회장 연표, 매출 자료)\n- Tokyo Weekender, On This Day in Japan: Sony Celebrates 75 Years (2021.05)\n- EBSCO Research Starters, Morita Licenses Transistor Technology\n- Company-Histories.com, Sony Corporation\n- 장별 회사 가치: 1946년 자본금 19만 엔(당시 환율로 약 1만 달러), 이후는 자본금·매출 규모로 셈한 추정(1949년 이후 360엔=1달러)\n\n#기업집중탐구 #이부카마사루 #소니 #Sony #워크맨 #트랜지스터 #창업 #창업스토리 #자기계발"
