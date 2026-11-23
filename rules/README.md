@@ -10,6 +10,9 @@
 | [2-design.md](2-design.md) | 사진 고르기·렌더 전 | 🖼 제작·게시 |
 | [3-upload.md](3-upload.md) | 편성표 넣기·예약 전 | 🗂 편성, 🖼 제작·게시 |
 | [4-review.md](4-review.md) | overview를 사용자에게 보이기 직전 (별도 점검) | 🖼 제작·게시 |
+| [6-ai-process.md](6-ai-process.md) | AI기업집중탐구 원고를 만드는 실제 순서·도구 (Anthropic 편 기준) | AI 쪽 Claude |
+
+AI기업집중탐구에 넘길 합본은 `python3 publisher/make_ai_pack.py`가 위 파일들로 다시 만듦 → `/mnt/project-files/ai-pack/AI기업집중탐구-원고-지침.md`. 합본은 직접 고치지 않음.
 
 ## 흐름 한 장
 원고(1) → 공동 구글 문서 `[기업인] 인물명` 탭 + `episodes/NN-slug.json` → 사용자가 탭 표지 장 `표지 제목:`만 채움 → 13:43 편성 점검이 제목이 채워진 가장 앞 탭(schedule.json에 아직 없는 편)을 제작에 넘김 → 사진 선정·렌더(2, render.py 자동 멈춤) → **별도 점검(4)** → overview를 제작·게시 스레드에 → `sched.py add` → Business Suite 예약(3).
