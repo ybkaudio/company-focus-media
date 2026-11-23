@@ -165,6 +165,18 @@ def resolve_photos(slides, path):
                     s["photo"] = str(cand.relative_to(path.parent))
                     break
 
+def final_caption(ep):
+    """게시되는 설명란 그대로(caption.txt)."""
+    sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent / "publisher"))
+    from caption_split import split_caption, question_into_caption
+    cap, comment = split_caption(ep["caption"])
+    question = (ep.get("first_comment") or comment.lstrip("💬").strip()).strip()   # 원고 first_comment 우선
+    return question_into_caption(cap, question)   # 11/14 사용자: 첫 댓글 없음, 질문은 설명란에
+
+
+CAP_MAX = 2200   # 인스타 설명란 한도. 이모지는 2자로 셀 수 있어 UTF-16 길이로 잼 (11/24 카프 편 2,368자로 게시 실패)
+
+
 def rule_check(ep, path, legacy=False):
     """rules/ 폴더 규칙 중 기계로 잴 수 있는 것. 어긴 곳 목록을 돌려줌(비면 통과).
     legacy=True: 이미 게시된 옛 편(번호·옛 장 이름이 박힌 편)을 다시 렌더할 때만."""
@@ -209,6 +221,10 @@ def rule_check(ep, path, legacy=False):
         txt = json.dumps({k: s.get(k) for k in ("title", "body", "points", "index", "photo_note", "question", "stats")}, ensure_ascii=False)
         if re.search(r"#\d", txt):   # 11/13 사용자: 편 번호(#NN) 쓰지 않음
             bad.append(f"{n}: 편 번호(#숫자) 있음 → '(인물 · 회사 편)'으로")
+    if ep.get("caption"):
+        m = len(final_caption(ep).encode("utf-16-le")) // 2
+        if m > CAP_MAX:
+            bad.append(f"캡션: 설명란 {m}자 > {CAP_MAX}자(인스타 한도, 넘으면 게시 실패) → 출처 줄부터 줄임")
     if not legacy:
         cap = ep.get("caption", "")
         if re.search(r"#\d", cap):
@@ -269,13 +285,7 @@ def main(path, check_only=False, legacy=False):
                 sys.exit(f"{i:02d}장 레이아웃 문제: {bad}. 본문·제목을 줄이고 다시 렌더")
             pg.screenshot(path=str(out / f"{i:02d}.png"))
         b.close()
-    sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent / "publisher"))
-    from caption_split import split_caption
-    from caption_split import question_into_caption
-    cap, comment = split_caption(ep["caption"])
-    question = (ep.get("first_comment") or comment.lstrip("💬").strip()).strip()   # 원고 first_comment 우선
-    cap = question_into_caption(cap, question)   # 11/14 사용자: 첫 댓글 없음, 질문은 설명란에
-    (out / "caption.txt").write_text(cap)
+    (out / "caption.txt").write_text(final_caption(ep))
     (out / "comment.txt").write_text("")
     # 장별 필요한 사진 목록 (photos 폴더에 01.jpg부터 이 순서로 넣으면 자동 반영)
     hints = [f"{i:02d}.jpg  {s.get('index', '표지')}: {s.get('photo_hint', '')}" for i, s in enumerate(slides, 1)]
