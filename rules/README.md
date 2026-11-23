@@ -12,6 +12,7 @@
 | [4-review.md](4-review.md) | overview를 사용자에게 보이기 직전 (별도 점검) | 🖼 제작·게시 |
 | [6-ai-process.md](6-ai-process.md) | AI기업집중탐구 원고를 만드는 실제 순서·도구 (Anthropic 편 기준) | AI 쪽 Claude |
 | [7-ai-structure-check.md](7-ai-structure-check.md) | AI 쪽 작업 구조 점검(한 번 실행, 합본 ⑤) | AI 쪽 Claude |
+| [8-ai-upload.md](8-ai-upload.md) | AI 쪽 매일 00:00 흐름·슬롯·Aside 예약 프롬프트 | AI 쪽 Claude |
 
 AI기업집중탐구에 넘길 합본은 `python3 publisher/make_ai_pack.py`가 위 파일들로 다시 만듦 → `/mnt/project-files/ai-pack/AI기업집중탐구-원고-지침.md`. 합본은 직접 고치지 않음.
 

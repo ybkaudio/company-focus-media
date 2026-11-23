@@ -160,6 +160,8 @@ def rule_check(ep, path, legacy=False):
     legacy=True: 이미 게시된 옛 편(번호·옛 장 이름이 박힌 편)을 다시 렌더할 때만."""
     import hashlib, re
     bad, seen = [], {}
+    if len(ep["slides"]) > 20:
+        bad.append(f"장 수 {len(ep['slides'])}장: 한 편 최대 20장(표지·마무리 포함)")
     for i, s in enumerate(ep["slides"], 1):
         n = f"{i:02d}장"
         ph = s.get("photo")
