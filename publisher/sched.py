@@ -3,7 +3,8 @@
   python3 publisher/sched.py add 10-youtube 2026-11-11T08:00 "#10 YouTube"   # 추가·시각 변경
   python3 publisher/sched.py remove 10-youtube                               # 빼기
   python3 publisher/sched.py refresh                                         # count·first_line·music 다시 채움
-시각은 한국 시간(KST)."""
+  python3 publisher/sched.py slot 46-xxx "인물 · 회사"                         # 비어 있는 가장 빠른 슬롯에 넣기(렌더 직후)
+시각은 한국 시간(KST). 실행할 때마다 publisher/upcoming.txt(Aside 루틴이 읽는 앞으로 올라갈 편 목록)도 다시 씀."""
 import glob, json, os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 P = os.path.join(ROOT, "publisher", "schedule.json")
@@ -36,9 +37,31 @@ if cmd == "add":
     slug, at, name = sys.argv[2], sys.argv[3], sys.argv[4]
     s = [i for i in s if i["folder"] != f"posts/{slug}-final"]
     s.append({"at": at + ":00+09:00", "folder": f"posts/{slug}-final", "episode": name})
+elif cmd == "slot":
+    # 슬롯 00·04·08·12·16·20시 KST(rules/3-upload.md). Aside 루틴이 각 슬롯 1시간 전에 돌므로
+    # 지금부터 LEAD 뒤 이후의, 아무 편도 없는 가장 빠른 슬롯.
+    import datetime as dt
+    KST = dt.timezone(dt.timedelta(hours=9)); SLOTS = (0, 4, 8, 12, 16, 20); LEAD = dt.timedelta(minutes=65)
+    slug, name = sys.argv[2], sys.argv[3]
+    s = [i for i in s if i["folder"] != f"posts/{slug}-final"]
+    used = {dt.datetime.fromisoformat(i["at"]) for i in s}
+    t = dt.datetime.now(KST) + LEAD
+    c = t.replace(minute=0, second=0, microsecond=0)
+    while c < t or c.hour not in SLOTS or c in used:
+        c += dt.timedelta(hours=1)
+    s.append({"at": c.strftime("%Y-%m-%dT%H:%M:%S+09:00"), "folder": f"posts/{slug}-final", "episode": name})
+    print("슬롯:", c.strftime("%m/%d %H:%M KST"), name)
 elif cmd == "remove":
     s = [i for i in s if i["folder"] != f"posts/{sys.argv[2]}-final"]
 s = sorted((fill(i) for i in s), key=lambda i: i["at"])
 json.dump(s, open(P, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 for i in s:
     print(i["at"][5:16], i["episode"], i["count"], "장 |", i["music"][:40])
+
+# Aside 루틴용 목록: 아직 게시 시각이 안 된 편(한 줄에 한 편, 시각순)
+import datetime as _dt
+_now = _dt.datetime.now(_dt.timezone.utc)
+rows = [f"{i['at'][:10]} {i['at'][11:16]} KST | 폴더 {i['folder']} | {i['count']}장 | 첫 줄: \"{i['first_line']}\" | {i['episode']}"
+        for i in s if _dt.datetime.fromisoformat(i["at"]) > _now and i.get("count")]
+open(os.path.join(ROOT, "publisher", "upcoming.txt"), "w", encoding="utf-8").write(
+    "# 앞으로 올라갈 기업집중탐구 편 (sched.py가 자동으로 씀, 손으로 고치지 않음)\n" + "\n".join(rows) + "\n")
