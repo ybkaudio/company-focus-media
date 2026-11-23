@@ -187,6 +187,8 @@ def rule_check(ep, path, legacy=False):
             bad.append(f"{n}: 사진을 어둡게·흐리게 하는 설정 (2-design: 가독성은 그라데이션으로만)")
         if legacy:
             continue
+        if s.get("photo_fade") and not s.get("photo_fade_by_user"):   # 11/12·11/23 사용자: 검정 페이드는 내가 말한 장만
+            bad.append(f"{n}: photo_fade는 사용자가 그 장을 지시했을 때만 (photo_fade_by_user에 날짜 적기, 아니면 photo_fade 빼고 사진 크기·위치로)")
         if s.get("type") != "cover" and "index" in s:
             w = s["index"].split("·")[-1].strip()
             if w not in INDEX_OK:
