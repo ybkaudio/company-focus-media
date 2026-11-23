@@ -8,7 +8,7 @@
 ## 편성표
 - 기준은 `publisher/schedule.json` 하나. Notion은 이것에 맞춤. (11/11)
 - 넣기: posts/<stem>-final이 생긴 뒤 `python3 publisher/sched.py add <stem> YYYY-MM-DDT00:00 "인물 · 회사"`(번호 없이). (11/13)
-- 흐름: 13:43 편성 점검이 공동 문서에서 `제목:`이 채워진 `상태: 제목 대기` [기업인] 탭 중 가장 앞 탭을 골라 제작에 넘기고 탭 상태를 "렌더 중"으로 → 제작이 렌더·점검·overview·sched.py add → 예약 → 탭 상태 "게시 예약 MM/DD 00:00". (11/23)
+- 흐름: 13:43 편성 점검이 공동 문서 [기업인] 탭 중 표지 장 `표지 제목:` 줄이 채워졌고 아직 schedule.json·Notion에 없는 가장 앞 탭을 골라 제작에 넘김 → 제작이 렌더·점검·overview·sched.py add → 예약. 진행 상태는 문서가 아니라 schedule.json·Notion에만 적음. (11/23 템플릿 고정)
 - 이미 게시된 편의 caption.txt·first_line은 바꾸지 않음(게시 여부 확인이 첫 줄 비교라 깨지면 다시 올라감). (11/11)
 
 ## 예약 프롬프트 (손으로 고치지 않음)
