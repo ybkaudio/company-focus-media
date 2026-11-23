@@ -15,7 +15,13 @@
         "기업집중탐구"
       ],
       "photo_hint": "Jerry Yang (with David Filo, crop if needed) and Yahoo! logo, late 1990s (if no logo visible, production adds a Yahoo! logo sticker) / COVER LOGO: Yahoo logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)",
-      "photo_note": "Yahoo! 행사 무대에 선 제리 양"
+      "photo_note": "Yahoo! 행사 무대에 선 제리 양",
+      "sticker": {
+        "src": "32-yahoo/sticker-logo.png",
+        "size": 360,
+        "right": 80,
+        "top": 1100
+      }
     },
     {
       "index": "01 · 배경",
@@ -76,7 +82,7 @@
       "photo_note": "새 Yahoo! Mail 출시를 축하하는 제리 양(왼쪽)과 데이비드 파일로"
     },
     {
-      "index": "05 · 성장",
+      "index": "05 · 상장",
       "when": "1996 · 27세",
       "photo": null,
       "title": "직원 49명으로\n상장하다",
@@ -104,7 +110,7 @@
       "photo_small": true
     },
     {
-      "index": "07 · 위기",
+      "index": "07 · 실수",
       "when": "2000 · 31세",
       "photo": null,
       "title": "100만 달러에 살 수 있던\nGoogle에 검색을 맡기다",
@@ -133,7 +139,7 @@
       "photo_note": "2005년 6월 글로벌 인터넷 서밋의 제리 양 · 같은 해 Alibaba 투자"
     },
     {
-      "index": "09 · 위기",
+      "index": "09 · 실수",
       "when": "2008 · 39세",
       "photo": null,
       "title": "Microsoft의 446억 달러\n인수 제안을 거절하다",
