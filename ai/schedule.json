@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "at": "2026-11-24T06:00:00+09:00",
+  "folder": "ai/posts/01-openai",
+  "episode": "AI #01 OpenAI",
+  "count": 20,
+  "first_line": "돈을 벌지 않겠다던 연구소의 기업가치가 1조 2,500억 달러로 보도됐습니다.",
+  "music": "Max Richter – On the Nature of Daylight"
+ },
+ {
+  "at": "2026-11-24T10:00:00+09:00",
+  "folder": "ai/posts/02-anthropic",
+  "episode": "AI #02 Anthropic",
+  "count": 20,
+  "first_line": "ChatGPT보다 3개월 반 늦게 나온 Claude의 회사가 813억 달러를 모아 역대 최대 공모로 상장했습니다.",
+  "music": "Jon Hopkins – Emerald Rush"
+ }
+]
