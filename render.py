@@ -111,6 +111,15 @@ def slide_html(ep, s, i, n, base):
                 f'<div class="dv"></div><div class="who">{e(ep["person"])} · {e(ep.get("company_ko") or ep["company"])}</div><p>{lines(s["body"])}</p>')
         return f'<div class="s cover">{bg}<div class="{shade}"></div>{head}<div class="txt">{body}</div></div>'
     hs = f' style="font-size:{s["title_size"]}px"' if s.get("title_size") else ''
+    if t == "promo":   # 11/23 사용자: 모든 편 맨 끝 고정 홍보 장(assets/promo/01~06.jpg 6분할, 문구 고정)
+        cfg = json.loads((PROMO_DIR / "promo.json").read_text())
+        cells = "".join(
+            f'<div style="background:url(data:image/jpeg;base64,{base64.b64encode((PROMO_DIR / c["file"]).read_bytes()).decode()}) {c.get("pos","center 20%")}/cover"></div>'
+            for c in cfg["photos"])
+        grid = f'<div style="position:absolute;left:0;right:0;top:0;height:900px;display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(2,1fr);gap:4px;background:#0b0b0d">{cells}</div>'
+        body = (f'<div class="handle">{e(ep["handle"]).upper()}</div><h1>{e(cfg["title"])}</h1><div class="dv"></div>'
+                f'<p>{"<br>".join(e(x) for x in cfg["body"])}</p><div class="btn">{e(cfg["button"])}</div>')
+        return f'<div class="s">{grid}<div class="shade on tall"></div><div class="txt">{body}</div></div>'
     if t == "stats":
         st = "".join(f'<div class="st"><div class="c">{e(x["cap"])}</div><div class="n">{e(x["num"])}<span class="u">{e(x["unit"])}</span></div></div>' for x in s["stats"])
         body = f'<h1{hs}>{e(s["title"])}</h1><div class="dv"></div><div class="stats">{st}</div><p>{lines(s["body"])}</p>'
@@ -118,11 +127,12 @@ def slide_html(ep, s, i, n, base):
         pts = "".join(f'<div class="pt">{e(x)}</div>' for x in s["points"])
         q = (f'<div class="q">{e(s["question"])}</div><div class="qa">{e(s.get("ask",""))}</div>' if s.get("question") else '')
         body = (f'<h1>{e(s["title"])}</h1><div class="dv"></div>{pts}{q}'
-                f'<div class="ft">{e(ep["handle"]).upper()}</div><div class="btn">{e(s["button"])}</div>')
+                + (f'<div class="ft">{e(ep["handle"]).upper()}</div><div class="btn">{e(s["button"])}</div>' if not ep.get("_promo") else ''))
     else:
         body = f'<h1{hs}>{e(s["title"])}</h1><div class="dv"></div><p>{lines(s["body"])}</p>'
     return f'<div class="s">{bg}<div class="{shade}"></div>{head}<div class="txt">{body}</div></div>'
 
+PROMO_DIR = pathlib.Path(__file__).resolve().parent / "assets" / "promo"
 FONT = "Noto Sans CJK KR"   # 고정 폰트. 없으면 대체 폰트로 렌더하지 않고 멈춤
 
 def check_font():
@@ -160,8 +170,9 @@ def rule_check(ep, path, legacy=False):
     legacy=True: 이미 게시된 옛 편(번호·옛 장 이름이 박힌 편)을 다시 렌더할 때만."""
     import hashlib, re
     bad, seen = [], {}
-    if len(ep["slides"]) > 20:
-        bad.append(f"장 수 {len(ep['slides'])}장: 한 편 최대 20장(표지·마무리 포함)")
+    lim = 20 if legacy else 19   # 11/23: 새 편은 렌더러가 홍보 장을 붙이므로 원고는 최대 19장
+    if len(ep["slides"]) > lim:
+        bad.append(f"장 수 {len(ep['slides'])}장: 한 편 최대 {lim}장(표지·마무리 포함, 홍보 장은 렌더러가 붙여 20장)")
     for i, s in enumerate(ep["slides"], 1):
         n = f"{i:02d}장"
         ph = s.get("photo")
@@ -218,8 +229,10 @@ def main(path, check_only=False, legacy=False):
     bad = rule_check(ep, path, legacy)
     if bad:   # rules/ 규칙 자동 멈춤 (11/23 규칙 정리)
         sys.exit("규칙 점검에 걸림(rules/ 폴더 참고). 고치고 다시:\n- " + "\n- ".join(bad))
+    if not legacy and len(slides) <= 19 and not ep.get("no_promo"):
+        slides.append({"type": "promo", "index": "홍보"}); ep["_promo"] = True
     if check_only:
-        print(f"규칙 점검 통과: {path.stem} ({len(slides)}장)")
+        print(f"규칙 점검 통과: {path.stem} ({len(slides)}장{', 홍보 장 포함' if ep.get('_promo') else ''})")
         return
     check_font()
     from playwright.sync_api import sync_playwright   # --check는 playwright 없이 돌게

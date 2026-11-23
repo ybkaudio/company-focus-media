@@ -1,0 +1,13 @@
+{
+  "title": "아이디어 하나가\n대기업이 되기까지",
+  "body": ["성공한 기업들이 겪어온 과정을", "매일 조사해 요약합니다."],
+  "button": "팔로우하고 업데이트 받기",
+  "photos": [
+    {"file": "01.jpg", "name": "일론 머스크", "pos": "center 20%"},
+    {"file": "02.jpg", "name": "스티브 잡스", "pos": "center 30%"},
+    {"file": "03.jpg", "name": "빌 게이츠", "pos": "center 20%"},
+    {"file": "04.jpg", "name": "마크 저커버그", "pos": "center 20%"},
+    {"file": "05.jpg", "name": "제프 베이조스", "pos": "center 20%"},
+    {"file": "06.jpg", "name": "젠슨 황", "pos": "center 25%"}
+  ]
+}
