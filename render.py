@@ -1,11 +1,11 @@
 """기업집중탐구 캐러셀 렌더러 v2 (korea_titans식: 전면 사진 + 하단 그라데이션)
-사용법: python3 render.py episodes/01-apple.json
+사용법: python3 render.py [--check] [--legacy] episodes/01-apple.json
+규칙: rules/ 폴더(README.md). 잴 수 있는 규칙은 rule_check()가 렌더 전에 멈춤
 - 각 장의 "photo"에 이미지 파일(episodes/ 기준 경로)을 넣으면 배경 사진으로 들어감
 - photo가 없으면 '사진 자리' 표시가 있는 시안으로 렌더됨
 출력: out/<에피소드>/NN.png (1080x1350) + caption.txt
 """
 import html, json, sys, base64, pathlib, subprocess
-from playwright.sync_api import sync_playwright
 
 W, H = 1080, 1350
 
@@ -141,14 +141,84 @@ def _rename(o):
     if isinstance(o,dict): return {k:_rename(v) for k,v in o.items()}
     return o
 
-def main(path):
-    check_font()
+INDEX_OK = {"배경", "계기", "창업", "자금", "투자", "상장", "첫 성과", "방향 전환", "혁신", "성장", "확장",
+            "경쟁", "갈등", "위기", "실수", "정점", "매각", "떠날 때", "그 뒤", "마무리", "지금"}   # rules/1-wongo-common.md (11/23)
+DARK_KEYS = ("filter", "brightness", "blur", "dim", "darken", "opacity")   # rules/2-design.md: 사진 어둡게·흐리게 금지 (11/09)
+
+def resolve_photos(slides, path):
+    photos = path.parent / path.stem / "photos"   # episodes/01-apple/photos/01.jpg ... 자동 연결
+    for i, s in enumerate(slides, 1):
+        if not s.get("photo"):
+            for ext in ("jpg", "jpeg", "png", "webp"):
+                cand = photos / f"{i:02d}.{ext}"
+                if cand.exists():
+                    s["photo"] = str(cand.relative_to(path.parent))
+                    break
+
+def rule_check(ep, path, legacy=False):
+    """rules/ 폴더 규칙 중 기계로 잴 수 있는 것. 어긴 곳 목록을 돌려줌(비면 통과).
+    legacy=True: 이미 게시된 옛 편(번호·옛 장 이름이 박힌 편)을 다시 렌더할 때만."""
+    import hashlib, re
+    bad, seen = [], {}
+    for i, s in enumerate(ep["slides"], 1):
+        n = f"{i:02d}장"
+        ph = s.get("photo")
+        if ph:
+            f = path.parent / ph
+            if not f.exists():
+                bad.append(f"{n}: 사진 파일 없음 {ph}")
+                continue
+            if not s.get("photo_note"):   # 11/14·11/15 사용자: 사진 있는 모든 장에 사진 설명
+                bad.append(f"{n}: photo_note(사진 설명) 없음 (2-design: 사진 설명은 모든 장)")
+            h = hashlib.md5(f.read_bytes()).hexdigest()
+            if h in seen and not s.get("photo_dup_ok"):   # 11/11 사용자 "사진 재탕하냐?"
+                bad.append(f"{n}: {seen[h]}과 같은 사진 (2-design: 한 편 안 사진 중복 금지)")
+            seen.setdefault(h, n)
+            if not s.get("photo_small") and s.get("type") != "stats":   # 11/15 사용자: 메인 사진은 좌우 끝까지
+                try:
+                    from PIL import Image
+                    im = Image.open(f).convert("L")
+                    bb = im.point(lambda v: 255 if v > 45 else 0).getbbox()
+                    if abs(im.width / im.height - 0.8) < 0.02 and bb and (bb[2] - bb[0]) < im.width * 0.9:
+                        bad.append(f"{n}: 메인 사진이 좌우를 다 채우지 않음(내용 폭 {(bb[2]-bb[0])*100//im.width}%) — 좌우 끝까지 키우기, 로고만·직접 그린 그래프는 photo_small: true")
+                except ImportError:
+                    pass
+        if s.get("shade") == "strong" or any(k in s for k in DARK_KEYS) or any(k in str(s.get("bgsize", "")) + str(s.get("bgpos", "")) for k in DARK_KEYS):
+            bad.append(f"{n}: 사진을 어둡게·흐리게 하는 설정 (2-design: 가독성은 그라데이션으로만)")
+        if legacy:
+            continue
+        if s.get("type") != "cover" and "index" in s:
+            w = s["index"].split("·")[-1].strip()
+            if w not in INDEX_OK:
+                bad.append(f"{n}: 장 이름 '{w}'은 목록에 없음 (1-wongo-common 2번 장 이름)")
+        txt = json.dumps({k: s.get(k) for k in ("title", "body", "points", "index", "photo_note", "question", "stats")}, ensure_ascii=False)
+        if re.search(r"#\d", txt):   # 11/13 사용자: 편 번호(#NN) 쓰지 않음
+            bad.append(f"{n}: 편 번호(#숫자) 있음 → '(인물 · 회사 편)'으로")
+    if not legacy:
+        cap = ep.get("caption", "")
+        if re.search(r"#\d", cap):
+            bad.append("캡션: 편 번호(#숫자) 있음 → '인물 · 회사 편'으로")
+        for c in ("📌", "👇"):   # 11/14 사용자: 첫 댓글·저장 유도 줄 없음
+            if c in cap:
+                bad.append(f"캡션: '{c}' 줄 있음 (1-wongo-common 5번 설명란)")
+        if not ep.get("company_ko"):
+            bad.append("company_ko 없음 (표지 '인물 · 회사' 줄)")
+    return bad
+
+def main(path, check_only=False, legacy=False):
     path = pathlib.Path(path)
     ep = _rename(json.loads(path.read_text()))
     slides = ep["slides"]
     assert 1 <= len(slides) <= 20, "인스타 캐러셀은 최대 20장"
-    if len(slides) > 10:
-        print(f"알림: {len(slides)}장이라 자동 게시(Metricool·API, 최대 10장)는 안 됨 → 사용자가 앱에서 수동 게시")
+    resolve_photos(slides, path)
+    bad = rule_check(ep, path, legacy)
+    if bad:   # rules/ 규칙 자동 멈춤 (11/23 규칙 정리)
+        sys.exit("규칙 점검에 걸림(rules/ 폴더 참고). 고치고 다시:\n- " + "\n- ".join(bad))
+    if check_only:
+        print(f"규칙 점검 통과: {path.stem} ({len(slides)}장)")
+        return
+    check_font()
+    from playwright.sync_api import sync_playwright   # --check는 playwright 없이 돌게
     out = pathlib.Path("out") / path.stem
     out.mkdir(parents=True, exist_ok=True)
     for old in out.glob("[0-9]*.png"):
@@ -156,14 +226,7 @@ def main(path):
     with sync_playwright() as pw:
         b = pw.chromium.launch(executable_path="/usr/bin/google-chrome")
         pg = b.new_page(viewport={"width": W, "height": H})
-        photos = path.parent / path.stem / "photos"   # episodes/01-apple/photos/01.jpg ... 자동 연결
         for i, s in enumerate(slides, 1):
-            if not s.get("photo"):
-                for ext in ("jpg", "jpeg", "png", "webp"):
-                    cand = photos / f"{i:02d}.{ext}"
-                    if cand.exists():
-                        s["photo"] = str(cand.relative_to(path.parent))
-                        break
             doc =(f'<html><head><meta charset="utf-8"><style>:root{{--a:{ep["accent"]}}}{CSS}</style></head>'
                    f'<body>{slide_html(ep, s, i, len(slides), path.parent)}</body></html>')
             pg.set_content(doc)
@@ -187,17 +250,6 @@ def main(path):
               return null; }""")
             if bad:
                 sys.exit(f"{i:02d}장 레이아웃 문제: {bad}. 본문·제목을 줄이고 다시 렌더")
-            if s.get("photo") and not s.get("photo_small") and s.get("type") != "stats":   # 11/15 사용자: 스티커가 아닌 메인 사진은 좌우 끝까지 꽉 채움
-                try:
-                    from PIL import Image
-                    im = Image.open(path.parent / s["photo"]).convert("L")
-                    bb = im.point(lambda v: 255 if v > 45 else 0).getbbox()
-                    if abs(im.width / im.height - 0.8) < 0.02 and bb and (bb[2] - bb[0]) < im.width * 0.9:   # 4:5 합성(어두운 배경 위 배치)만 검사, 원본 사진은 화면을 꽉 채워 깔림
-                        sys.exit(f"{i:02d}장 메인 사진이 좌우를 다 채우지 않음(내용 폭 {(bb[2]-bb[0])*100//im.width}%). 좌우 끝까지 키우고 다시 렌더 (로고만 놓는 장 등 예외는 photo_small: true)")
-                except ImportError:
-                    pass
-            if s.get("photo") and not s.get("photo_note"):   # 11/14 사용자: 사진 있는 모든 장에 사진 설명(작은 글씨)
-                sys.exit(f"{i:02d}장에 photo_note(사진 설명)가 없음. 사진 설명을 넣고 다시 렌더 (11/15 사용자: 빠지면 절대 안 됨)")
             pg.screenshot(path=str(out / f"{i:02d}.png"))
         b.close()
     sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent / "publisher"))
@@ -223,4 +275,7 @@ def main(path):
     print(f"{len(slides)} slides -> {out}")
 
 if __name__ == "__main__":
-    main(sys.argv[1])
+    args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    # --check: 렌더 없이 규칙 점검만 (rules/4-review.md 1단계)
+    # --legacy: 이미 게시된 옛 편(번호·옛 장 이름)을 다시 렌더할 때만
+    main(args[0], check_only="--check" in sys.argv, legacy="--legacy" in sys.argv)
