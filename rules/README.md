@@ -13,6 +13,7 @@
 | [6-ai-process.md](6-ai-process.md) | AI기업집중탐구 원고를 만드는 실제 순서·도구 (Anthropic 편 기준) | AI 쪽 Claude |
 | [7-ai-structure-check.md](7-ai-structure-check.md) | AI 쪽 작업 구조 점검(한 번 실행, 합본 ⑤) | AI 쪽 Claude |
 | [8-ai-upload.md](8-ai-upload.md) | AI 쪽 매일 00:00 흐름·슬롯·Aside 게시 루틴 | AI 쪽 Claude |
+| [9-ai-promo.md](9-ai-promo.md) | AI 쪽 끝 홍보 장·마무리 버튼 없앰·19+1장 | AI 쪽 Claude |
 
 AI기업집중탐구에 넘길 합본은 `python3 publisher/make_ai_pack.py`가 위 파일들로 다시 만듦 → `/mnt/project-files/ai-pack/AI기업집중탐구-원고-지침.md`. 합본은 직접 고치지 않음.
 
