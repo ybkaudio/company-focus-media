@@ -26,7 +26,7 @@
 1. 공동 문서를 `read_doc` → `python3 publisher/doc2episode.py <결과 파일> "<탭 제목>" <stem>`으로 바뀔 것을 보고 `--apply`(문서가 원본: 사용자가 바꾼 사진·제목·본문을 JSON·photos로 가져옴). 장 수가 다르면 원고에 넘김.
 2. 사진 배치를 이 파일 '배치'대로 손봄(합성·크롭·스티커) → `render.py --check` → 렌더 → `export.py`.
 3. rules/4-review.md 2단계 별도 점검 → 어긴 곳 고치고 다시 1단계. 사용자에게 overview를 보이지 않음(확인 필요만 코디네이터로).
-4. `python3 publisher/sched.py slot <stem> "인물 · 회사"`(지금+65분 이후 빈 슬롯) → 커밋·push(사진은 `git add -f`). Aside 루틴이 upcoming.txt를 읽어 예약.
+4. `python3 publisher/sched.py slot <stem> "인물 · 회사"`(지금+10분 이후 빈 슬롯) → 커밋·push(사진은 `git add -f`). Aside 게시 루틴이 그 슬롯 5분 뒤 instagram.com에 게시.
 
 ## 글자·고정 디자인 (사용자 지시 없이 render.py 값 변경 금지, 11/08 23:39)
 - 1080×1350, ⚙ 글꼴 Noto Sans CJK KR(없으면 멈춤, 대체 글꼴 렌더 금지).

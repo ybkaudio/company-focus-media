@@ -38,10 +38,10 @@ if cmd == "add":
     s = [i for i in s if i["folder"] != f"posts/{slug}-final"]
     s.append({"at": at + ":00+09:00", "folder": f"posts/{slug}-final", "episode": name})
 elif cmd == "slot":
-    # 슬롯 00·04·08·12·16·20시 KST(rules/3-upload.md). Aside 루틴이 각 슬롯 1시간 전에 돌므로
+    # 슬롯 00·04·08·12·16·20시 KST(rules/3-upload.md). Aside 게시 루틴이 각 슬롯 5분 뒤 schedule.json을 읽으므로
     # 지금부터 LEAD 뒤 이후의, 아무 편도 없는 가장 빠른 슬롯.
     import datetime as dt
-    KST = dt.timezone(dt.timedelta(hours=9)); SLOTS = (0, 4, 8, 12, 16, 20); LEAD = dt.timedelta(minutes=65)
+    KST = dt.timezone(dt.timedelta(hours=9)); SLOTS = (0, 4, 8, 12, 16, 20); LEAD = dt.timedelta(minutes=10)
     slug, name = sys.argv[2], sys.argv[3]
     s = [i for i in s if i["folder"] != f"posts/{slug}-final"]
     used = {dt.datetime.fromisoformat(i["at"]) for i in s}
