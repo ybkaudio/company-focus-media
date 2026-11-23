@@ -39,7 +39,7 @@
 휴대 기기 운영체제와 회사 매각을 모두 겪은 셈이었다.
 
 
-## 04.jpg · 03 · 첫 창업
+## 04.jpg · 03 · 배경
 
 📷 **Photo:** T-Mobile Sidekick (Danger Hiptop) phone, 2002-2004
 
