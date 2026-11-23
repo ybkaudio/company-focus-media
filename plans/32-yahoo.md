@@ -65,7 +65,7 @@
 사용자가 오래 머물수록 광고를 더 많이 보여 줄 수 있었다.
 
 
-## 06.jpg · 05 · 성장
+## 06.jpg · 05 · 상장
 
 📷 **Photo:** Jerry Yang and David Filo at Yahoo IPO, April 1996, or Yahoo HQ around 2000
 
@@ -87,7 +87,7 @@
 2000년 초 회사 가치는 1,250억 달러에 이르렀지만, 2001년 9월 주가는 최고점의 10분의 1도 안 되는 8.11달러까지 떨어졌다.
 
 
-## 08.jpg · 07 · 위기
+## 08.jpg · 07 · 실수
 
 📷 **Photo:** Yahoo! search results page 'Powered by Google', around 2000-2002
 
@@ -111,7 +111,7 @@
 2012년 Yahoo는 이 지분의 절반을 70억 달러 넘게 받고 팔았다.
 
 
-## 10.jpg · 09 · 위기
+## 10.jpg · 09 · 실수
 
 📷 **Photo:** Jerry Yang as Yahoo CEO, 2008
 

@@ -89,7 +89,7 @@
 이어 래리 페이지에게 연 7억 대가 팔리는 휴대폰 시장이 컴퓨터 시장의 3배가 넘는다고 설명했다(래리 페이지·세르게이 브린 · Google 편). Google은 2005년 약 5천만 달러에 회사를 샀고, 그는 Google 안에서 Android를 계속 이끌었다.
 
 
-## 08.jpg · 07 · 위기
+## 08.jpg · 07 · 경쟁
 
 📷 **Photo:** Open Handset Alliance announcement November 2007, or Android early prototype 'Sooner' phone
 

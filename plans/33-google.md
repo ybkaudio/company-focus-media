@@ -117,7 +117,7 @@
 2003년 매출은 9억 6,180만 달러, 순이익은 1억 560만 달러였다.
 
 
-## 10.jpg · 09 · 정점
+## 10.jpg · 09 · 상장
 
 📷 **Photo:** Larry Page and Sergey Brin at Google IPO, NASDAQ, August 2004
 
@@ -143,7 +143,7 @@
 검색 광고로 번 돈으로 휴대폰과 영상이라는 새 광고 지면을 확보했다.
 
 
-## 12.jpg · 11 · 위기
+## 12.jpg · 11 · 실수
 
 📷 **Photo:** 1) Larry Page with Motorola phone (Moto X) or at Motorola event (2012-2013) / 2) Motorola Mobility HQ / Moto X / 3) Larry Page 2012
 

@@ -98,7 +98,7 @@
 같은 해 점장 교육 학교 'Hamburger University'를 열었다.
 
 
-## 09.jpg · 08 · 위기
+## 09.jpg · 08 · 실수
 
 📷 **Photo:** Filet-O-Fish sandwich 1960s advertisement, or Lou Groen's Cincinnati McDonald's
 
@@ -111,7 +111,7 @@
 결과는 350개 대 6개로 Filet-O-Fish의 승리였고, 그는 가맹점주의 메뉴를 받아들였다.
 
 
-## 10.jpg · 09 · 정점
+## 10.jpg · 09 · 상장
 
 📷 **Photo:** McDonald's IPO 1965, or McDonald's sign '1 billion sold' 1963
 

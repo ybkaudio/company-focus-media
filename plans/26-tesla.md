@@ -8,9 +8,9 @@
 
 📷 **Photo:** Young Elon Musk with the first Tesla Roadster, around 2008 (Tesla logo visible, so no sticker) / COVER LOGO: Tesla logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 650만 달러 투자로 시작한 1.6조 달러 전기차 회사
+**제목:** 일론 머스크와 테슬라
 
-기업집중탐구 #26
+기업집중탐구
 
 
 ## 02.jpg · 01 · 계기
@@ -34,7 +34,7 @@
 
 2003년 7월 엔지니어 마틴 에버하드와 마크 타페닝이 <Tesla>를 세웠다.
 
-2004년 2월 첫 투자금 750만 달러 중 650만 달러를 PayPal로 번 돈으로 머스크가 냈고(#24), 이사회 의장이 됐다.
+2004년 2월 첫 투자금 750만 달러 중 650만 달러를 PayPal로 번 돈으로 머스크가 냈고(일론 머스크 · PayPal 편), 이사회 의장이 됐다.
 
 창업자가 아니라 가장 큰 투자자로 회사에 들어온 것이다.
 
@@ -56,7 +56,7 @@
 그해 7월 첫 차 <Roadster>를 공개했다.
 
 
-## 05.jpg · 04 · 위기
+## 05.jpg · 04 · 갈등
 
 📷 **Photo:** Elon Musk in Tesla factory or with Roadster, 2008
 
@@ -68,12 +68,12 @@ Roadster는 출시가 늦어지고 원가가 계획보다 크게 불어났다.
 
 2008년 10월 머스크가 직접 CEO를 맡아 직원을 줄였다.
 
-같은 해 SpaceX도 파산 직전이었다(#25).
+같은 해 SpaceX도 파산 직전이었다(일론 머스크 · SpaceX 편).
 
 12월 그는 자기 돈을 더해 약 4천만 달러를 마련해 파산을 막았다.
 
 
-## 06.jpg · 05 · 자금
+## 06.jpg · 05 · 상장
 
 📷 **Photo:** Tesla IPO day at NASDAQ, June 29 2010
 
@@ -85,7 +85,7 @@ Roadster는 출시가 늦어지고 원가가 계획보다 크게 불어났다.
 
 Roadster는 2008년 2월 첫 생산차를 머스크가 직접 받았고, 2012년까지 약 2,450대가 팔려 전기차도 팔린다는 걸 보여 줬다.
 
-그가 받은 그 Roadster는 2018년 SpaceX의 Falcon Heavy에 실려 우주로 갔다(#25).
+그가 받은 그 Roadster는 2018년 SpaceX의 Falcon Heavy에 실려 우주로 갔다(일론 머스크 · SpaceX 편).
 
 
 ## 07.jpg · 06 · 성장
@@ -146,7 +146,7 @@ Panasonic이 배터리 셀을 만들고 Tesla가 묶는 방식으로, 대량 생
 2022년 법원은 값은 공정했다고 판단했지만, 그가 거래에 필요 이상으로 관여했다고 지적했다.
 
 
-## 11.jpg · 10 · 위기
+## 11.jpg · 10 · 실수
 
 📷 **Photo:** Tesla Model 3 tent assembly line at Fremont, 2018
 
@@ -159,7 +159,7 @@ Panasonic이 배터리 셀을 만들고 Tesla가 묶는 방식으로, 대량 생
 2018년 4월 그는 '지나친 자동화는 실수였다, 사람이 과소평가됐다'고 인정했고, 공장 옆 천막에 생산 라인을 하나 더 세워 물량을 맞췄다.
 
 
-## 12.jpg · 11 · 위기
+## 12.jpg · 11 · 실수
 
 📷 **Photo:** Elon Musk tweet screenshot 'funding secured', or Musk portrait 2018
 
@@ -241,7 +241,7 @@ Tesla를 세운 사람은 사실 일론 머스크가 아니었어요.
 
 머스크는 2004년 남이 세운 전기차 회사에 650만 달러를 넣고 의장이 됐어요. 비싼 스포츠카로 번 돈으로 싼 차를 만든다는 순서를 세웠고, 파산 직전 직접 CEO를 맡아 자기 돈을 넣었어요. Google에 회사를 팔 뻔했고, 배터리 공장을 직접 짓고 사촌들의 태양광 회사를 사들였다가 소송도 겪었어요. 로봇에 맡긴 Model 3 공장과 트윗 한 줄로 큰 대가도 치렀지만, 지금은 한 해 163만 대를 파는 회사가 됐어요. 2026년에는 9년을 미룬 새 Roadster를 SpaceX 추진기로 공중에 띄워 보였어요.
 
-🔗 PayPal 마피아 시리즈. 머스크가 이 투자금을 번 PayPal 이야기는 #24, 같은 해 파산 위기를 함께 넘긴 SpaceX는 #25, 같은 PayPal 출신 채드 헐리의 YouTube는 #10, PayPal 공동 창업자 피터 틸 이야기는 #27에서 볼 수 있어요.
+🔗 PayPal 마피아 시리즈. 머스크가 이 투자금을 번 PayPal 이야기는 일론 머스크 · PayPal 편, 같은 해 파산 위기를 함께 넘긴 SpaceX는 일론 머스크 · SpaceX 편, 같은 PayPal 출신 채드 헐리의 YouTube는 채드 헐리 · YouTube 편, PayPal 공동 창업자 피터 틸 이야기는 피터 틸 편에서 볼 수 있어요.
 
 출처
 - Renewable Energy World, Panasonic agrees to help Tesla build battery Gigafactory (2014.07)

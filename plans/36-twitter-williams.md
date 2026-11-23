@@ -74,7 +74,7 @@ Pyra를 만들던 중 팀 안에서 쓰던 메모 도구를 따로 떼어 1999�
 그는 Google에서 Blogger를 계속 맡았고, 2004년 10월 Google을 떠났다.
 
 
-## 07.jpg · 06 · 위기
+## 07.jpg · 06 · 경쟁
 
 📷 **Photo:** Odeo office San Francisco 2005-2006, or Evan Williams 2005
 

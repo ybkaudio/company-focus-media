@@ -85,7 +85,7 @@
 그는 어린 시절 트럭 운전사 아버지가 일하다 다친 뒤 보험 없이 일자리를 잃은 경험을 이유로 들었다.
 
 
-## 08.jpg · 07 · 정점
+## 08.jpg · 07 · 상장
 
 📷 **Photo:** 1) Howard Schultz at Starbucks IPO (1992) / 2) Starbucks stores early 1990s / 3) Howard Schultz early 1990s
 

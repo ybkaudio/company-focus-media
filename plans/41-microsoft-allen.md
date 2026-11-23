@@ -111,7 +111,7 @@ Altair 실물이 없어서, 앨런은 Traf-O-Data 때처럼 하버드의 대형 
 1977년 게이츠의 요구로 비율은 64 대 36이 됐다.
 
 
-## 08.jpg · 07 · 위기
+## 08.jpg · 07 · 갈등
 
 📷 **Photo:** MITS Altair company building in Albuquerque, 1970s (or Pertec Altair ad)
 
@@ -196,7 +196,7 @@ IBM에만 독점으로 주지 않고 다른 제조사에도 팔 권리를 남겼
 8월 나온 IBM PC에 PC-DOS가 실렸고, 그해 매출은 약 1,600만 달러로 한 해 전의 두 배가 됐다.
 
 
-## 13.jpg · 12 · 위기
+## 13.jpg · 12 · 갈등
 
 📷 **Photo:** 1) Paul Allen at Microsoft around 1982-1983 / 2) Microsoft office early 1980s / 3) Paul Allen 1982-1983
 

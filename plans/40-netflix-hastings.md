@@ -104,7 +104,7 @@ Blockbuster는 거절했다.
 그해 회사를 세운 지 6년 만에 처음 한 해 흑자를 냈다.
 
 
-## 09.jpg · 08 · 위기
+## 09.jpg · 08 · 경쟁
 
 📷 **Photo:** Blockbuster Total Access advertisement, 2006-2007
 
@@ -130,7 +130,7 @@ Blockbuster는 교환 한 번에 약 2달러씩 손해를 보면서도 손님을
 2010년 9월 캐나다에서 첫 해외 스트리밍을 열었고, 같은 해 Blockbuster는 파산 보호를 신청했다.
 
 
-## 11.jpg · 10 · 위기
+## 11.jpg · 10 · 실수
 
 📷 **Photo:** Reed Hastings 2011, or Qwikster announcement screenshot
 

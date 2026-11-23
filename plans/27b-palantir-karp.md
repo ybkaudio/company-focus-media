@@ -160,7 +160,7 @@ CIA는 대테러센터에 Palantir를 설치하게 해 줬고, Palantir는 몇 �
 회사 가치는 2010년 7억 3,500만 달러에서 2013년 90억 달러, 약 12배가 됐다.
 
 
-## 11.jpg · 10 · 고집
+## 11.jpg · 10 · 갈등
 
 📷 **Photo:** 1) Alex Karp with US Army officials or at a defense event (2016-2019) / 2) US Army soldiers using DCGS-A / Palantir software in the field / 3) Alex Karp 2016
 
@@ -177,7 +177,7 @@ CIA는 대테러센터에 Palantir를 설치하게 해 줬고, Palantir는 몇 �
 'Palantir를 쓰라'가 아니라 '상용 제품도 넣어 입찰을 다시 하라'는 판결이었다.
 
 
-## 12.jpg · 11 · 성장
+## 12.jpg · 11 · 경쟁
 
 📷 **Photo:** 1) US soldiers using Palantir software / 2) DCGS-A or Army combat intelligence system screen / 3) Alex Karp around 2019
 
@@ -192,7 +192,7 @@ Raytheon은 미사일 등을 만드는 미국 대형 방산업체로, 기존 DCG
 10년간 최대 8억 7,600만 달러 규모의 계약이었다.
 
 
-## 13.jpg · 12 · 성장
+## 13.jpg · 12 · 상장
 
 📷 **Photo:** Palantir NYSE direct listing September 30, 2020 (NYSE facade with Palantir banner)
 
@@ -213,7 +213,7 @@ Palantir는 새 투자금이 필요 없었다.
 첫날 회사 가치 약 180억 달러는 2015년 비상장 때의 200억 달러보다 낮았다.
 
 
-## 14.jpg · 13 · 고집
+## 14.jpg · 13 · 갈등
 
 📷 **Photo:** 1) Alex Karp at Palantir Denver headquarters or NYSE listing day 2020 / 2) Palantir Denver office building / 3) Alex Karp around 2020
 

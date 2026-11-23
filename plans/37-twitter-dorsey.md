@@ -63,7 +63,7 @@
 3월 SXSW 축제에서 하루 트윗이 3배로 늘며 이름이 알려졌다(에번 윌리엄스 · Twitter 편).
 
 
-## 06.jpg · 05 · 위기
+## 06.jpg · 05 · 갈등
 
 📷 **Photo:** 1) Jack Dorsey in Twitter office with fail whale screen (2008) / 2) Twitter 'fail whale' error page 2008 / 3) Jack Dorsey 2008
 
@@ -100,7 +100,7 @@
 비싼 단말기 없이도 노점·소상공인이 카드를 받을 수 있게 됐다.
 
 
-## 09.jpg · 08 · 정점
+## 09.jpg · 08 · 상장
 
 📷 **Photo:** Jack Dorsey at Twitter IPO, NYSE, November 2013
 
@@ -126,7 +126,7 @@ Square CEO도 그대로 맡아 두 회사를 함께 이끌었다.
 그해 10월 직원 약 8%인 336명을 줄였고, 11월 Square를 상장했다.
 
 
-## 11.jpg · 10 · 위기
+## 11.jpg · 10 · 갈등
 
 📷 **Photo:** 1) Jack Dorsey with Twitter logo (2020) / 2) Elliott Management news headline 2020 / 3) Jack Dorsey 2020
 

@@ -65,7 +65,7 @@
 1960년대 말 매장은 300곳을 넘었고 일주일에 100만 명 넘는 손님이 찾았다.
 
 
-## 06.jpg · 05 · 성장
+## 06.jpg · 05 · 상장
 
 📷 **Photo:** Frank Carney as Pizza Hut president, 1969-1973 (or Pizza Hut stock certificate)
 

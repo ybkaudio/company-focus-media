@@ -8,7 +8,7 @@
 
 📷 **Photo:** Tom Anderson ("Tom from Myspace") with Myspace logo, mid-2000s (if no logo visible, production adds a Myspace logo sticker) / COVER LOGO: Myspace logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)
 
-**제목:** 모두의 첫 친구 '톰'은 어디로 갔을까
+**제목:** 초창기 SNS를 만든 사람
 
 기업집중탐구
 
@@ -110,7 +110,7 @@ Myspace는 규칙을 거의 두지 않았고, 가입하지 않아도 둘러볼 �
 10월 월 매출은 100만 달러에서 3천만 달러로 늘었고, 그 절반이 Google 계약에서 나왔다.
 
 
-## 09.jpg · 08 · 위기
+## 09.jpg · 08 · 경쟁
 
 📷 **Photo:** Myspace vs Facebook logos, around 2008
 

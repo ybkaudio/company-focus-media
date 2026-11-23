@@ -154,7 +154,7 @@ Apple의 매출은 Apple II가 나온 1977 회계연도 약 77만 달러에서 1
 디스크가 생기자 큰 프로그램을 돌릴 수 있게 됐고, 1979년 나온 첫 스프레드시트 <VisiCalc>가 1년 동안 Apple II에서만 돌면서 회사들이 Apple II를 업무용으로 사기 시작했다.
 
 
-## 11.jpg · 10 · 정점
+## 11.jpg · 10 · 상장
 
 📷 **Photo:** Steve Wozniak around 1980 (or Apple IPO newspaper headline December 1980)
 
