@@ -5,7 +5,7 @@
 - photo가 없으면 '사진 자리' 표시가 있는 시안으로 렌더됨
 출력: out/<에피소드>/NN.png (1080x1350) + caption.txt
 """
-import html, json, sys, base64, pathlib, subprocess
+import html, json, re, sys, base64, pathlib, subprocess
 
 W, H = 1080, 1350
 
@@ -171,7 +171,21 @@ def final_caption(ep):
     from caption_split import split_caption, question_into_caption
     cap, comment = split_caption(ep["caption"])
     question = (ep.get("first_comment") or comment.lstrip("💬").strip()).strip()   # 원고 first_comment 우선
-    return question_into_caption(cap, question)   # 11/14 사용자: 첫 댓글 없음, 질문은 설명란에
+    return strip_sources(question_into_caption(cap, question))   # 11/14 사용자: 첫 댓글 없음, 질문은 설명란에
+
+
+def strip_sources(cap):
+    """11/24 사용자: 설명란에 출처를 넣지 않음(출처는 원고 문서에만). '출처' 줄부터 해시태그 줄 전까지 뺌."""
+    out, skip = [], False
+    for l in cap.split("\n"):
+        if re.match(r"\s*(📚\s*)?출처\s*:?\s*$", l) or re.match(r"\s*(📚\s*)?출처\s*:", l):
+            skip = True
+            continue
+        if skip and l.lstrip().startswith("#"):
+            skip = False
+        if not skip:
+            out.append(l)
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(out)).strip() + "\n"
 
 
 CAP_MAX = 2200   # 인스타 설명란 한도. 이모지는 2자로 셀 수 있어 UTF-16 길이로 잼 (11/24 카프 편 2,368자로 게시 실패)
