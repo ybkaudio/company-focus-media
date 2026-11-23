@@ -94,7 +94,7 @@
 그 직후 인터넷 기업 주가가 내려앉아 투자 유치가 어려워졌고, 회사는 이 돈으로 버텼다.
 
 
-## 07.jpg · 06 · 갈등
+## 07.jpg · 06 · 위기
 
 📷 **Photo:** 1) Peter Thiel with PayPal or X.com logo / at PayPal office as CEO (2000-2001) / 2) PayPal office / X.com-to-PayPal rename / 3) Thiel 2000-2001
 
@@ -205,7 +205,7 @@ PayPal의 Igor는 흩어진 계정·거래를 이어 그림으로 보여 줘 사
 한 달 뒤 네 번째 발사가 궤도에 올랐다.
 
 
-## 14.jpg · 13 · 실수
+## 14.jpg · 13 · 위기
 
 📷 **Photo:** 1) Peter Thiel at Clarium Capital office (2008-2010) / 2) Clarium Capital logo or 2008 dollar/market crash chart / 3) Thiel 2008-2010
 

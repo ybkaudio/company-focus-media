@@ -177,7 +177,7 @@ CIA는 대테러센터에 Palantir를 설치하게 해 줬고, Palantir는 몇 �
 'Palantir를 쓰라'가 아니라 '상용 제품도 넣어 입찰을 다시 하라'는 판결이었다.
 
 
-## 12.jpg · 11 · 경쟁
+## 12.jpg · 11 · 성장
 
 📷 **Photo:** 1) US soldiers using Palantir software / 2) DCGS-A or Army combat intelligence system screen / 3) Alex Karp around 2019
 
