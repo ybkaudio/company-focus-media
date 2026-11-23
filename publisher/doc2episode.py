@@ -8,7 +8,9 @@ read_doc 결과 파일 = Google Docs 커넥터 read_doc(documentId=공동 문서
   - 표지 제목(= 사용자 제목, 그대로), 장 제목, 본문(문장 나눔), 회사 가치 줄
   - 장마다 사진: 첫 사진 → photos/NN.jpg(1.85:1 이상이면 위쪽 띠 합성), 표지의 로고 사진('사진 설명'에 '로고') → <stem>/sticker-logo.png
     한 장에 사진이 2개면 나란히(설명에 '위아래'가 있으면 위아래) 붙여 1600x2000 합성
-  - 사진 설명 → photo_note (첫 문장만)
+  - 사진 설명 → photo_note (첫 문장만). 설명 줄이 없는 사진 = 사용자가 바꾼 사진(11/23 사용자: 바꾸면 설명을 지워 둠)
+    → photo_note를 비우고 '설명 필요'로 알리고 코드 3으로 끝냄. 사진(photos/NN.jpg)을 직접 보고 무엇·누구·연도를 써서
+      문서 '사진 설명:' 줄과 JSON photo_note에 넣은 뒤 다시 실행해야 렌더됨(render.py --check도 빈 설명이면 멈춤)
   - 떠날 때·지금(숫자)·마무리·설명란은 바꾸지 않고 다르면 '확인' 줄로만 알림(원고가 고침)
 문서의 ■ 장 수와 JSON 장 수가 다르면 멈춤(장 구성은 원고 일)."""
 import io, json, os, re, sys, urllib.request
@@ -119,7 +121,7 @@ def main():
     if len(secs) != len(slides):
         sys.exit(f"장 수 다름: 문서 ■ {len(secs)}장, JSON {len(slides)}장 → 원고에 맞춰 달라고 할 것")
     pdir = os.path.join(ROOT, "episodes", stem, "photos")
-    changes, checks, jobs = [], [], []
+    changes, checks, jobs, need = [], [], [], []
     for k, (sec, sl) in enumerate(zip(secs, slides)):
         nn = f"{k + 1:02d}"
         L = sec["lines"]
@@ -150,14 +152,18 @@ def main():
         if not main_imgs:
             checks.append(f"{nn} 사진 없음")
             continue
+        if any(i["note"] is None for i in main_imgs):
+            need.append(nn)
         note = main_imgs[0]["note"] or ""
         if len(main_imgs) >= 2 and not re.search("나란히|위아래", note):
             note += (" · " if note else "") + "나란히 붙임"
-        setv("photo_note", first_sentence(note) if len(main_imgs) == 1 else note, "사진 설명")
+        setv("photo_note", "" if nn in need else (first_sentence(note) if len(main_imgs) == 1 else note), "사진 설명")
         jobs.append((nn, main_imgs, logo[0] if logo else None, "위아래" in note))
     print("\n".join(changes) or "글·사진 설명 바뀐 것 없음")
     for c in checks:
         print("확인:", c)
+    if need:
+        print("설명 필요(사용자가 바꾼 사진):", ", ".join(need))
     if not apply:
         print(f"(미리보기) 사진 {len(jobs)}장 받을 예정. --apply로 적용")
         return
@@ -180,6 +186,11 @@ def main():
     json.dump(ep, open(jp, "w", encoding="utf-8"), ensure_ascii=False, indent=2)
     open(jp, "a", encoding="utf-8").write("\n")
     print(f"적용: {jp}, 사진 {len(jobs)}장 → {pdir}")
+    if need:
+        print("설명 필요(사진을 직접 보고 무엇·누구·연도를 써서 문서 '사진 설명:'과 JSON photo_note에 넣은 뒤 렌더):")
+        for nn in need:
+            print(f"  {nn} → {os.path.join(pdir, nn + '.jpg')}")
+        sys.exit(3)
 
 
 if __name__ == "__main__":
