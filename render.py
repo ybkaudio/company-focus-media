@@ -238,7 +238,7 @@ def rule_check(ep, path, legacy=False):
     if ep.get("caption"):
         m = len(final_caption(ep).encode("utf-16-le")) // 2
         if m > CAP_MAX:
-            bad.append(f"캡션: 설명란 {m}자 > {CAP_MAX}자(인스타 한도, 넘으면 게시 실패) → 출처 줄부터 줄임")
+            bad.append(f"캡션: 설명란 {m}자 > {CAP_MAX}자(인스타 한도, 넘으면 게시 실패) → 연도 문단을 줄임(출처는 설명란에 넣지 않음)")
     if not legacy:
         cap = ep.get("caption", "")
         if re.search(r"#\d", cap):
