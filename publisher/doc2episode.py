@@ -11,7 +11,7 @@ read_doc 결과 파일 = Google Docs 커넥터 read_doc(documentId=공동 문서
   - 사진 설명 → photo_note (첫 문장만). 설명 줄이 없는 사진 = 사용자가 바꾼 사진(11/23 사용자: 바꾸면 설명을 지워 둠)
     → photo_note를 비우고 '설명 필요'로 알리고 코드 3으로 끝냄. 사진(photos/NN.jpg)을 직접 보고 무엇·누구·연도를 써서
       문서 '사진 설명:' 줄과 JSON photo_note에 넣은 뒤 다시 실행해야 렌더됨(render.py --check도 빈 설명이면 멈춤)
-  - 떠날 때·지금(숫자)·마무리·설명란은 바꾸지 않고 다르면 '확인' 줄로만 알림(원고가 고침)
+  - 지금 장 숫자(숫자 N: 설명 = 숫자 단위)·마무리 줄(1. 2. 3.)·■ 설명란·■ 음악 추천도 문서 그대로(11/25 사용자: 모든 수정은 문서에서, 렌더는 문서 그대로)
 문서의 ■ 장 수와 JSON 장 수가 다르면 멈춤(장 구성은 원고 일)."""
 import io, json, os, re, sys, urllib.request
 
@@ -139,13 +139,28 @@ def main():
             if t:
                 setv("title", t.replace(" / ", "\n"), "장 제목")
             b = field(L, "본문")
-            if b and sl.get("type") not in ("stats", "outro"):
-                setv("body", sentences(b), "본문")
+            if b and " ".join(sl.get("body") or []).split() != b.split():   # 문장 나눔만 다르면 그대로
+                setv("body", sentences(b) if sl.get("type") != "stats" else [b], "본문")
             v = field(L, "회사 가치 줄")
             if v:
                 setv("value", v, "회사 가치 줄")
-            if sl.get("type") in ("stats", "outro") and (field(L, "숫자 1") or field(L, "본문")):
-                checks.append(f"{nn} {sl.get('type')} 장 글은 자동으로 안 맞춤 → 문서와 JSON 직접 대조")
+            if sl.get("type") == "stats":   # 11/25 사용자: 렌더는 문서 그대로 → 숫자도 문서에서
+                st = []
+                for n in (1, 2, 3):
+                    x = field(L, f"숫자 {n}")
+                    if not x:
+                        continue
+                    cap, _, val = x.rpartition("=")
+                    m = re.match(r"\s*((?:약\s*)?[\d,.]+)\s*(.*)$", val)
+                    if not (cap.strip() and m):
+                        sys.exit(f"{nn} '숫자 {n}:' 줄 형식이 '설명 = 숫자 단위'가 아님: {x}")
+                    st.append({"cap": cap.strip(), "num": m.group(1).strip(), "unit": m.group(2).strip()})
+                if st:
+                    setv("stats", st, "숫자")
+            if sl.get("type") == "outro":
+                pts = [re.sub(r"^\d+\.\s*", "", l) for l in L if re.match(r"^\d+\.\s", l)]
+                if pts:
+                    setv("points", pts, "마무리 줄")
         imgs = sec["imgs"]
         logo = [i for i in imgs if k == 0 and i["note"] and "로고" in i["note"]]
         main_imgs = [i for i in imgs if i not in logo]
@@ -159,6 +174,23 @@ def main():
             note += (" · " if note else "") + "나란히 붙임"
         setv("photo_note", "" if nn in need else (first_sentence(note) if len(main_imgs) == 1 else note), "사진 설명")
         jobs.append((nn, main_imgs, logo[0] if logo else None, "위아래" in note))
+    cap, mus, on = [], None, None
+    for _st, tx, _im in paragraphs(tab):
+        if tx.startswith("■"):
+            on = tx[1:].strip().split()[0] if tx[1:].strip() else ""
+            continue
+        if on == "설명란":
+            cap.append(tx)
+        elif on == "음악" and tx and mus is None:
+            mus = tx
+    if any(cap):
+        c = re.sub(r"\n{3,}", "\n\n", "\n".join(cap)).strip()
+        if (ep.get("caption") or "").split() != c.split():
+            changes.append(f"설명란: 문서 것으로 ({len(c)}자)")
+            ep["caption"] = c
+    if mus and ep.get("music") != mus:
+        changes.append(f"음악: {str(ep.get('music'))[:30]!r} → {mus[:30]!r}")
+        ep["music"] = mus
     print("\n".join(changes) or "글·사진 설명 바뀐 것 없음")
     for c in checks:
         print("확인:", c)
