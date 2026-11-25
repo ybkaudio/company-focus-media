@@ -1,8 +1,9 @@
-# 앞으로 올라갈 기업집중탐구 편 (sched.py가 자동으로 씀, 손으로 고치지 않음)
-2026-11-25 12:00 KST | 폴더 posts/27b-palantir-karp-final | 19장 | 첫 줄: "벤처캐피털이 회의 내내 낙서만 하던 회사." | 알렉스 카프 · Palantir
-2026-11-25 16:00 KST | 폴더 posts/28-kfc-final | 13장 | 첫 줄: "KFC 할아버지는 66세에 받은 연금 105달러로 다시 영업에 나섰어요." | 할랜드 샌더스 · KFC
-2026-11-25 20:00 KST | 폴더 posts/30-myspace-final | 12장 | 첫 줄: "모두의 첫 친구 '톰'은 Myspace를 만든 사람이었어요." | 톰 앤더슨 · Myspace
-2026-11-26 00:00 KST | 폴더 posts/26-tesla-final | 17장 | 첫 줄: "Tesla를 세운 사람은 사실 일론 머스크가 아니었어요." | #26 일론 머스크 · Tesla
-2026-11-26 04:00 KST | 폴더 posts/31-sony-final | 13장 | 첫 줄: "Sony의 첫 제품은 팔리지 않은 전기밥솥이었어요." | 이부카 마사루 · Sony
-2026-11-26 08:00 KST | 폴더 posts/32-yahoo-final | 13장 | 첫 줄: "Yahoo는 대학원생 두 명의 즐겨찾기 목록이었어요." | 제리 양 · Yahoo
-2026-11-27 00:00 KST | 폴더 posts/29-pizzahut-final | 10장 | 첫 줄: "어머니에게 빌린 600달러로 시작한 세계 1위 피자 체인." | 프랭크 카니 · Pizza Hut
+# 아직 안 올라간 기업집중탐구 편, 올라갈 순서 (sched.py가 자동으로 씀, 손으로 고치지 않음)
+# 맥북 Aside에 게시 프롬프트를 한 번 넣을 때마다 맨 위 1편이 올라감
+1. 폴더 posts/27b-palantir-karp-final | 19장 | 첫 줄: "벤처캐피털이 회의 내내 낙서만 하던 회사." | 알렉스 카프 · Palantir
+2. 폴더 posts/28-kfc-final | 13장 | 첫 줄: "KFC 할아버지는 66세에 받은 연금 105달러로 다시 영업에 나섰어요." | 할랜드 샌더스 · KFC
+3. 폴더 posts/30-myspace-final | 12장 | 첫 줄: "모두의 첫 친구 '톰'은 Myspace를 만든 사람이었어요." | 톰 앤더슨 · Myspace
+4. 폴더 posts/26-tesla-final | 17장 | 첫 줄: "Tesla를 세운 사람은 사실 일론 머스크가 아니었어요." | #26 일론 머스크 · Tesla
+5. 폴더 posts/31-sony-final | 13장 | 첫 줄: "Sony의 첫 제품은 팔리지 않은 전기밥솥이었어요." | 이부카 마사루 · Sony
+6. 폴더 posts/32-yahoo-final | 13장 | 첫 줄: "Yahoo는 대학원생 두 명의 즐겨찾기 목록이었어요." | 제리 양 · Yahoo
+7. 폴더 posts/29-pizzahut-final | 10장 | 첫 줄: "어머니에게 빌린 600달러로 시작한 세계 1위 피자 체인." | 프랭크 카니 · Pizza Hut

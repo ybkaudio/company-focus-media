@@ -28,7 +28,7 @@
 1. 공동 문서를 `read_doc` → `python3 publisher/doc2episode.py <결과 파일> "<탭 제목>" <stem>`으로 바뀔 것을 보고 `--apply`(문서가 원본: 사용자가 바꾼 사진·제목·본문을 JSON·photos로 가져옴). 장 수가 다르면 원고에 넘김. '설명 필요'가 나오면(사용자가 사진을 바꾸고 설명 줄을 지운 장) 그 사진을 직접 보고 무엇·누구·연도 설명을 써서 문서 '사진 설명:' 줄과 JSON photo_note에 넣은 뒤 렌더함. 추측으로 쓰지 말고 모르면 사진 출처를 찾아 확인. (11/23 사용자 "설명란 없는 사진이 있다면 네가 직접 렌더 전에 설명을 추가해줘")
 2. 사진 배치를 이 파일 '배치'대로 손봄(합성·크롭·스티커) → `render.py --check` → 렌더 → `export.py`.
 3. rules/4-review.md 2단계 별도 점검 → 어긴 곳 고치고 다시 1단계. 사용자에게 overview를 보이지 않음(확인 필요만 코디네이터로).
-4. `python3 publisher/sched.py slot <stem> "인물 · 회사"`(지금+10분 이후 빈 슬롯) → 커밋·push(사진은 `git add -f`). Aside 게시 루틴이 그 슬롯 5분 뒤 instagram.com에 게시.
+4. `python3 publisher/sched.py slot <stem> "인물 · 회사"`(대기열 맨 뒤) → 커밋·push(사진은 `git add -f`). 사용자가 맥북 Aside에 게시 프롬프트를 넣을 때 차례대로 게시(3-upload, 11/25).
 
 ## 글자·고정 디자인 (사용자 지시 없이 render.py 값 변경 금지, 11/08 23:39)
 - 1080×1350, ⚙ 글꼴 Noto Sans CJK KR(없으면 멈춤, 대체 글꼴 렌더 금지).

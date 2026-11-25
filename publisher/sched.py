@@ -3,8 +3,10 @@
   python3 publisher/sched.py add 10-youtube 2026-11-11T08:00 "#10 YouTube"   # 추가·시각 변경
   python3 publisher/sched.py remove 10-youtube                               # 빼기
   python3 publisher/sched.py refresh                                         # count·first_line·music 다시 채움
-  python3 publisher/sched.py slot 46-xxx "인물 · 회사"                         # 비어 있는 가장 빠른 슬롯에 넣기(렌더 직후)
-시각은 한국 시간(KST). 실행할 때마다 publisher/upcoming.txt(Aside 루틴이 읽는 앞으로 올라갈 편 목록)도 다시 씀."""
+  python3 publisher/sched.py slot 46-xxx "인물 · 회사"                         # 대기열 맨 뒤에 넣기(렌더 직후)
+  python3 publisher/sched.py posted 27b-palantir-karp                         # 게시됨 표시(Notion '완료'·'이미 게시됨' 확인 후)
+11/25부터 at은 게시 시각이 아니라 대기열 순서(사용자가 맥북 Aside에 프롬프트를 넣을 때마다 맨 앞 미게시 편 1편이 올라감).
+실행할 때마다 publisher/upcoming.txt(아직 안 올라간 편, 순서대로)도 다시 씀."""
 import glob, json, os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 P = os.path.join(ROOT, "publisher", "schedule.json")
@@ -16,9 +18,7 @@ def fill(i):
         i.setdefault("count", 0); i.setdefault("first_line", ""); i.setdefault("music", ""); i.setdefault("comment", "")
         return i
     i["count"] = len(glob.glob(f + "/[0-9][0-9].jpg"))
-    import datetime
-    posted = datetime.datetime.fromisoformat(i["at"]) <= datetime.datetime.now(datetime.timezone.utc)
-    if not (posted and i.get("first_line")):   # 이미 게시 시각이 지난 편은 first_line을 바꾸지 않음(중복 게시 확인용, 11/11)
+    if not (i.get("posted") and i.get("first_line")):   # 이미 올라간 편은 first_line을 바꾸지 않음(중복 게시 확인용, 11/11)
         i["first_line"] = open(f + "/caption.txt", encoding="utf-8").read().strip().splitlines()[0].strip()
     ep = json.load(open(os.path.join(ROOT, "episodes", slug + ".json"), encoding="utf-8"))
     i["music"] = ep.get("music") or ""
@@ -38,19 +38,19 @@ if cmd == "add":
     s = [i for i in s if i["folder"] != f"posts/{slug}-final"]
     s.append({"at": at + ":00+09:00", "folder": f"posts/{slug}-final", "episode": name})
 elif cmd == "slot":
-    # 슬롯 00·04·08·12·16·20시 KST(rules/3-upload.md). Aside 게시 루틴이 각 슬롯 5분 뒤 schedule.json을 읽으므로
-    # 지금부터 LEAD 뒤 이후의, 아무 편도 없는 가장 빠른 슬롯.
+    # 11/25 사용자: 정시 슬롯 폐지, 순서 대기열. 맨 뒤 편 at + 4시간(순서용 값, 게시 시각 아님)
     import datetime as dt
-    KST = dt.timezone(dt.timedelta(hours=9)); SLOTS = (0, 4, 8, 12, 16, 20); LEAD = dt.timedelta(minutes=10)
+    KST = dt.timezone(dt.timedelta(hours=9))
     slug, name = sys.argv[2], sys.argv[3]
     s = [i for i in s if i["folder"] != f"posts/{slug}-final"]
-    used = {dt.datetime.fromisoformat(i["at"]) for i in s}
-    t = dt.datetime.now(KST) + LEAD
-    c = t.replace(minute=0, second=0, microsecond=0)
-    while c < t or c.hour not in SLOTS or c in used:
-        c += dt.timedelta(hours=1)
+    last = max([dt.datetime.fromisoformat(i["at"]) for i in s] + [dt.datetime.now(KST).replace(minute=0, second=0, microsecond=0)])
+    c = (last + dt.timedelta(hours=4)).astimezone(KST)
     s.append({"at": c.strftime("%Y-%m-%dT%H:%M:%S+09:00"), "folder": f"posts/{slug}-final", "episode": name})
-    print("슬롯:", c.strftime("%m/%d %H:%M KST"), name)
+    print("대기열 맨 뒤:", name)
+elif cmd == "posted":
+    for i in s:
+        if i["folder"] == f"posts/{sys.argv[2]}-final":
+            i["posted"] = True
 elif cmd == "remove":
     s = [i for i in s if i["folder"] != f"posts/{sys.argv[2]}-final"]
 s = sorted((fill(i) for i in s), key=lambda i: i["at"])
@@ -58,10 +58,9 @@ json.dump(s, open(P, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 for i in s:
     print(i["at"][5:16], i["episode"], i["count"], "장 |", i["music"][:40])
 
-# Aside 루틴용 목록: 아직 게시 시각이 안 된 편(한 줄에 한 편, 시각순)
-import datetime as _dt
-_now = _dt.datetime.now(_dt.timezone.utc)
-rows = [f"{i['at'][:10]} {i['at'][11:16]} KST | 폴더 {i['folder']} | {i['count']}장 | 첫 줄: \"{i['first_line']}\" | {i['episode']}"
-        for i in s if _dt.datetime.fromisoformat(i["at"]) > _now and i.get("count")]
+# 사용자용 대기열: 아직 안 올라간 편(posted 없음), 순서대로
+rows = [f"{n}. 폴더 {i['folder']} | {i['count']}장 | 첫 줄: \"{i['first_line']}\" | {i['episode']}"
+        for n, i in enumerate((i for i in s if not i.get("posted") and i.get("count")), 1)]
 open(os.path.join(ROOT, "publisher", "upcoming.txt"), "w", encoding="utf-8").write(
-    "# 앞으로 올라갈 기업집중탐구 편 (sched.py가 자동으로 씀, 손으로 고치지 않음)\n" + "\n".join(rows) + "\n")
+    "# 아직 안 올라간 기업집중탐구 편, 올라갈 순서 (sched.py가 자동으로 씀, 손으로 고치지 않음)\n"
+    "# 맥북 Aside에 게시 프롬프트를 한 번 넣을 때마다 맨 위 1편이 올라감\n" + "\n".join(rows) + "\n")
