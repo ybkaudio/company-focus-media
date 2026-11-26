@@ -157,6 +157,13 @@ def _rename(o):
     if isinstance(o,dict): return {k:_rename(v) for k,v in o.items()}
     return o
 
+# 장 제목에 써도 되는 영어(제품·약어). 여기 없는 영어 낱말이 장 제목에 있으면 --check가 멈춤.
+# 낯선 영어 회사명은 제목에서 빼고, 알려진 회사는 한글(구글·애플·인텔·엔비디아…)로. (11/26 사용자 결정 카드, textbook 6장)
+TITLE_LATIN_OK = {"CEO", "CTO", "COO", "AI", "PC", "CD", "DVD", "GPU", "CPU", "VR", "IPO", "OS", "BASIC", "IBM", "HP",
+                  "LG", "SK", "KAIST", "MIT", "CIA", "CES", "TSMC", "HBM", "HBM3E", "D", "A8", "II", "C.C.", "SNS",
+                  "Android", "YouTube", "Blogger", "Sidekick", "Altair", "Micro-Soft", "Falcon", "GTX", "iPhone"}
+
+
 INDEX_OK = {"배경", "계기", "창업", "자금", "투자", "상장", "첫 성과", "방향 전환", "혁신", "성장", "확장",
             "경쟁", "갈등", "위기", "실수", "정점", "매각", "떠날 때", "그 뒤", "마무리", "지금"}   # textbook/04-구성.md (11/23)
 DARK_KEYS = ("filter", "brightness", "blur", "dim", "darken", "opacity")   # textbook/10-렌더.md: 사진 어둡게·흐리게 금지 (11/09)
@@ -270,6 +277,15 @@ def rule_check(ep, path, legacy=False):
         da = sum(t.endswith("다") for t in tt)
         if tt and da * 2 > len(tt):   # 11/09·11/26 사용자: '-다' 끝 제목은 절반까지
             bad.append(f"제목: '-다'로 끝나는 장 제목 {da}/{len(tt)}개 > 절반 (textbook 6장 어미 섞기)")
+        if ep.get("account", "kiupin") != "ai":   # [AI] 계정은 자기 기준
+            for s in ep["slides"]:
+                if s.get("type") in ("cover", "stats", "promo"):
+                    continue
+                t = str(s.get("title", "")).replace("Apple II", "II")   # 제품명 Apple II만 허용, 회사 Apple은 '애플'
+                for w in re.findall(r"[A-Za-z][A-Za-z0-9.\-]*", t):
+                    if w.rstrip(".") not in TITLE_LATIN_OK and w not in TITLE_LATIN_OK:
+                        bad.append(f"제목: 장 제목의 영어 '{w}' → 낯선 영어 회사명은 빼고 알려진 회사는 한글로"
+                                   f" (제품·약어면 render.py TITLE_LATIN_OK에 추가, textbook 6장)")
         for c in ("📌", "👇"):   # 11/14 사용자: 첫 댓글·저장 유도 줄 없음
             if c in cap:
                 bad.append(f"캡션: '{c}' 줄 있음 (textbook 8장 설명란)")
