@@ -291,6 +291,58 @@ def rule_check(ep, path, legacy=False):
                 bad.append(f"캡션: '{c}' 줄 있음 (textbook 8장 설명란)")
         if not ep.get("company_ko"):
             bad.append("company_ko 없음 (표지 '인물 · 회사' 줄)")
+        if ep.get("account", "kiupin") != "ai":
+            bad += ch8_check(ep, cap)
+    return bad
+
+
+AFTER_SUCCESS_OK = {"정점", "상장", "성장", "첫 성과", "매각", "갈등"}   # 떠날 때 바로 앞 장(4장 끝 장: 성공담, 밀려난 편은 갈등)
+
+
+def ch8_check(ep, cap):
+    """11/26 Google 별도 점검에서 걸린 것 중 기계로 잴 수 있는 것(textbook 8장 통과 기준 '⚙ 자체 점검')."""
+    import re
+    bad, sl = [], ep["slides"]
+    for i, s in enumerate(sl, 1):
+        n = f"{i:02d}장"
+        note = str(s.get("photo_note") or "")
+        if s.get("photo") and note and not re.search(r"(1[89]|20)\d\d", note):
+            bad.append(f"{n}: 사진 설명에 연도 없음 → 무엇·누구·연도 (textbook 7장 사진 설명)")
+        t = str(s.get("title", ""))
+        for u in ("달러", "%", "원"):
+            if t.count(u) >= 2:
+                bad.append(f"{n}: 장 제목에 숫자 두 개('{u}' 두 번) → 가장 큰 숫자 하나만 (textbook 6장)")
+        w = str(s.get("index", "")).split("·")[-1].strip()
+        if w == "떠날 때":
+            prev = str(sl[i - 2].get("index", "")).split("·")[-1].strip() if i >= 2 else ""
+            if prev not in AFTER_SUCCESS_OK:
+                bad.append(f"{n}: 떠날 때 바로 앞 장이 '{prev}' → 성공담(정점·상장 등)을 앞에 (textbook 4장 끝 장)")
+            body = s.get("body") or []
+            last = body[-1] if body else ""
+            if not re.search(r"뒤|이후|그 다음|떠난 다음|(19|20)\d\d년", last):
+                bad.append(f"{n}: 떠날 때 본문 끝에 떠난 뒤 행보 한 줄 없음 (textbook 4장 끝 장)")
+    if cap:
+        lines = [l.strip() for l in cap.split("\n")]
+        head = " ".join(lines[:2])
+        if not re.search(r"\d", head):
+            bad.append("캡션: 훅 2줄에 숫자 없음 (textbook 8장 설명란 ①)")
+        if "댓글로 알려 주세요." not in lines:
+            bad.append("캡션: '댓글로 알려 주세요.'가 질문 다음 줄에 따로 없음 (textbook 8장 설명란 ④)")
+        if re.search(r"(어요|해요|예요|이에요|거든요)[.!]", cap):
+            bad.append("캡션: 해요체 → 습니다체 (textbook 8장 설명란 ②)")
+        if re.search(r"^\s*(📚\s*)?출처\s*:?\s*$", cap, re.M):
+            bad.append("캡션: 출처 블록 있음 → 작성 메모로 (textbook 8장 설명란)")
+        tags = [l for l in lines if l.startswith("#")]
+        if tags and not tags[-1].startswith("#기업집중탐구"):
+            bad.append("캡션: 해시태그 줄이 #기업집중탐구로 시작하지 않음 (textbook 8장 설명란 ⑥)")
+        link = [l for l in lines if l.startswith("🔗")]
+        if link and "시리즈" in link[0] and tags:
+            ser = re.sub(r"\s", "", link[0][1:].split("시리즈")[0])
+            second = (tags[-1].split() + ["", ""])[1]
+            if ser and not second.startswith(f"#{ser}"):
+                bad.append(f"캡션: 묶음 해시태그(#{ser}시리즈)가 #기업집중탐구 바로 뒤에 없음 (textbook 8장 묶음 편)")
+    if not re.search(r"대안", str(ep.get("music", ""))):
+        bad.append("음악: 대안 1곡 없음 (textbook 8장 음악 추천)")
     return bad
 
 def main(path, check_only=False, legacy=False):
