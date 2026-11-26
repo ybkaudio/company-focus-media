@@ -40,7 +40,8 @@
         "회사가 빠르게 커지는 동안 그는 CEO를 맡았다."
       ],
       "photo_hint": "Reed Hastings early 1990s, or Pure Software office / product box",
-      "value": "Netflix 설립 전"
+      "value": "Netflix 설립 전",
+      "photo_note": "(임시)"
     },
     {
       "index": "03 · 매각",
@@ -53,7 +54,8 @@
         "이때 겪은 일은 뒤에 Netflix에서 규칙 대신 직원에게 판단을 맡기는 문화로 이어졌다."
       ],
       "photo_hint": "1) Reed Hastings at Pure Software / Pure Atria (late 1990s) / 2) Pure Software logo or office / 3) Reed Hastings late 1990s",
-      "value": "Netflix 설립 전"
+      "value": "Netflix 설립 전",
+      "photo_note": "(임시)"
     },
     {
       "index": "04 · 계기",
@@ -95,7 +97,8 @@
         "인터넷 기업에 돈이 끊기자 2001년 직원 약 3분의 1을 내보내고 버텼다."
       ],
       "photo_hint": "Blockbuster video store, around 2000",
-      "value": "회사 가치 약 5,000만 달러(매각 제안가)"
+      "value": "회사 가치 약 5,000만 달러(매각 제안가)",
+      "photo_note": "(임시)"
     },
     {
       "index": "07 · 성장",
@@ -108,7 +111,8 @@
         "그해 회사를 세운 지 6년 만에 처음 한 해 흑자를 냈다."
       ],
       "photo_hint": "Netflix IPO day at NASDAQ, May 2002",
-      "value": "회사 가치 약 3억 달러"
+      "value": "회사 가치 약 3억 달러",
+      "photo_note": "(임시)"
     },
     {
       "index": "08 · 경쟁",
@@ -135,7 +139,8 @@
         "2010년 9월 캐나다에서 첫 해외 스트리밍을 열었고, 같은 해 Blockbuster는 파산 보호를 신청했다."
       ],
       "photo_hint": "Netflix Watch Now streaming on a laptop, 2007-2008",
-      "value": "회사 가치 약 20억 달러"
+      "value": "회사 가치 약 20억 달러",
+      "photo_note": "(임시)"
     },
     {
       "index": "10 · 실수",
@@ -187,7 +192,8 @@
         "그해 7월 콘텐츠 책임자 테드 사랜도스를 공동 CEO로 올려 회사를 함께 이끌었다."
       ],
       "photo_hint": "Reed Hastings and Ted Sarandos together, 2020-2022",
-      "value": "회사 가치 약 2,400억 달러"
+      "value": "회사 가치 약 2,400억 달러",
+      "photo_note": "(임시)"
     },
     {
       "type": "stats",
