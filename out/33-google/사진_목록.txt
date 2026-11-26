@@ -2,7 +2,7 @@
 02.jpg  01 · 배경: Young Larry Page and Sergey Brin at Stanford, mid-1990s
 03.jpg  02 · 계기: Early Google/BackRub server rack made of LEGO bricks at Stanford, or Stanford Gates building 1996-97
 04.jpg  03 · 창업: Susan Wojcicki's garage in Menlo Park, Google's first office 1998
-05.jpg  04 · 위기: Larry Page and Sergey Brin around 1998-1999, early Google office
+05.jpg  04 · 방향 전환: Larry Page and Sergey Brin around 1998-1999, early Google office
 06.jpg  05 · 자금: Early Google office in Palo Alto (University Avenue) 1999, or Google team 1999
 07.jpg  06 · 첫 성과: Google search results page with AdWords text ads, early 2000s screenshot
 08.jpg  07 · 성장: Larry Page, Sergey Brin and Eric Schmidt together, early 2000s
@@ -11,6 +11,7 @@
 11.jpg  10 · 확장: Google and YouTube founders at acquisition announcement, October 2006, or first Android phone (T-Mobile G1) 2008
 12.jpg  11 · 실수: 1) Larry Page with Motorola phone (Moto X) or at Motorola event (2012-2013) / 2) Motorola Mobility HQ / Moto X / 3) Larry Page 2012
 13.jpg  12 · 확장: Alphabet logo announcement 2015, or Larry Page and Sergey Brin around 2015
-14.jpg  13 · 떠날 때: 1) Larry Page and Sergey Brin with Sundar Pichai (2019) / 2) Alphabet logo / Google HQ 2019 / 3) Page and Brin 2019
-15.jpg  마무리: Larry Page and Sergey Brin portrait (person photo for the closing slide)
-16.jpg  홍보: 
+14.jpg  13 · 정점: 1) Alphabet passing Apple market cap Feb 2016 / 2) chart
+15.jpg  14 · 떠날 때: 1) Larry Page and Sergey Brin with Sundar Pichai (2019) / 2) Alphabet logo / Google HQ 2019 / 3) Page and Brin 2019
+16.jpg  마무리: Larry Page and Sergey Brin portrait (person photo for the closing slide)
+17.jpg  홍보: 
