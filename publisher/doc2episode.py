@@ -151,7 +151,7 @@ def main():
                     if not x:
                         continue
                     cap, _, val = x.rpartition("=")
-                    m = re.match(r"\s*((?:약\s*)?[\d,.]+)\s*(.*)$", val)
+                    m = re.match(r"\s*((?:약\s*)?[\d,.]+(?:[천백십]+(?=\s*[만억조]))?)\s*(.*)$", val)
                     if not (cap.strip() and m):
                         sys.exit(f"{nn} '숫자 {n}:' 줄 형식이 '설명 = 숫자 단위'가 아님: {x}")
                     st.append({"cap": cap.strip(), "num": m.group(1).strip(), "unit": m.group(2).strip()})
@@ -162,7 +162,10 @@ def main():
                 if pts:
                     setv("points", pts, "마무리 줄")
         imgs = sec["imgs"]
-        logo = [i for i in imgs if k == 0 and i["note"] and "로고" in i["note"]]
+        # 표지 로고: 설명에 '스티커'가 있는 사진. 없으면 2장 이상일 때 '로고'라고 적힌 마지막 사진(인물 사진 설명에 '로고 앞의'가 있어도 안 헷갈리게, 11/26 Google)
+        logo = [i for i in imgs if k == 0 and i["note"] and "스티커" in i["note"]]
+        if k == 0 and not logo and len(imgs) >= 2 and imgs[-1]["note"] and "로고" in imgs[-1]["note"]:
+            logo = [imgs[-1]]
         main_imgs = [i for i in imgs if i not in logo]
         if not main_imgs:
             checks.append(f"{nn} 사진 없음")
