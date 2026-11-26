@@ -55,7 +55,7 @@ def keep_ai(md):
         if drop is not None:
             continue
         if "[기업인]" in line:
-            if re.match(r"^\s*[-|]?\s*\d*\.?\s*\[기업인\]", line) and "[AI]" not in line:
+            if re.match(r"^\s*[-|]?\s*(\[ \]\s*)?\d*\.?\s*\[기업인\]", line) and "[AI]" not in line:
                 continue
             line = re.sub(r"\[기업인\].*?(?=\[AI\])", "", line)      # "[기업인] … [AI] …" → "[AI] …"
             line = re.sub(r"\s*\[기업인\].*$", "", line)              # 줄 끝 [기업인] 구간
