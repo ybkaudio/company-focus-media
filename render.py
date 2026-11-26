@@ -236,6 +236,8 @@ def rule_check(ep, path, legacy=False):
                 continue
             if not s.get("photo_note"):   # 11/14·11/15 사용자: 사진 있는 모든 장에 사진 설명
                 bad.append(f"{n}: photo_note(사진 설명) 없음 (textbook 7장 사진 설명)")
+            if "임시" in (s.get("photo_note") or ""):   # 11/26 코디네이터: 관련 사진을 못 찾은 임시 사진이 남은 편은 대기열에 넣지 않음
+                bad.append(f"{n}: 임시 사진 → 관련 사진으로 바꾼 뒤 사진 설명에서 '(임시)'를 지움 (textbook 7장 순서 2)")
             h = hashlib.md5(f.read_bytes()).hexdigest()
             if h in seen and not s.get("photo_dup_ok"):   # 11/11 사용자 "사진 재탕하냐?"
                 bad.append(f"{n}: {seen[h]}과 같은 사진 (textbook 7장)")
