@@ -175,7 +175,10 @@ def main():
         note = main_imgs[0]["note"] or ""
         if len(main_imgs) >= 2 and not re.search("나란히|위아래", note):
             note += (" · " if note else "") + "나란히 붙임"
-        setv("photo_note", "" if nn in need else (first_sentence(note) if len(main_imgs) == 1 else note), "사진 설명")
+        pn = "" if nn in need else (first_sentence(note) if len(main_imgs) == 1 else note)
+        if pn and (note or "").rstrip().endswith("(임시)") and not pn.endswith("(임시)"):
+            pn += " (임시)"   # 11/26 임시 사진 표시는 첫 문장만 옮겨도 남겨야 render --check가 잡음(textbook 7장 순서 2)
+        setv("photo_note", pn, "사진 설명")
         jobs.append((nn, main_imgs, logo[0] if logo else None, "위아래" in note))
     cap, mus, on = [], None, None
     for _st, tx, _im in paragraphs(tab):
