@@ -240,7 +240,7 @@ def rule_check(ep, path, legacy=False):
             if h in seen and not s.get("photo_dup_ok"):   # 11/11 사용자 "사진 재탕하냐?"
                 bad.append(f"{n}: {seen[h]}과 같은 사진 (textbook 7장)")
             seen.setdefault(h, n)
-            if wide_ratio(f) and s.get("bgsize"):   # 11/26 사용자: 가로 사진은 확대해서 자르지 않음
+            if wide_ratio(f) and s.get("bgsize") and not s.get("photo_small"):   # 로고만 놓는 장(photo_small)은 예외   # 11/26 사용자: 가로 사진은 확대해서 자르지 않음
                 bad.append(f"{n}: 가로로 긴 사진에 bgsize(확대·자르기) 있음 → 빼면 가로 폭에 맞춰 위에 놓고 아래는 검정 그라데이션 (textbook 10장 배치)")
             if not s.get("photo_small") and s.get("type") != "stats":   # 11/15 사용자: 메인 사진은 좌우 끝까지
                 try:
