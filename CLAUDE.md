@@ -1,11 +1,10 @@
 # company-focus-media
 
-기업집중탐구(@company.focus) 인스타 캐러셀 제작 저장소.
+기업집중탐구(@company.focus) 인스타 캐러셀 제작 저장소 (AI기업집중탐구 파일은 `ai/`).
 
-**규칙은 `rules/` 폴더 하나가 원본** (rules/README.md부터). 작업 전에 맡은 단계의 파일을 읽는다.
-- 원고: rules/1-wongo-common.md + rules/1-wongo-kiupin.md
-- 사진·렌더: rules/2-design.md, 렌더 전 `python3 render.py --check episodes/<stem>.json`
-- 편성·예약: rules/3-upload.md, 예약 프롬프트는 `python3 publisher/make_bs_prompt.py`
-- overview를 사용자에게 보이기 직전: rules/4-review.md 별도 점검
+**규칙은 작업 교과서 `textbook/` 하나가 원본** (textbook/00-시작.md부터). 모든 일은 이 순서로:
+1. 하려는 일이 몇 장인지 0장 표에서 찾고, **그 장을 처음부터 끝까지 읽는다**(기억·메모리로 대신하지 않음).
+2. 편을 다루면 `python3 tools/step.py show <stem>`로 지금 단계를 보고 그 단계만 한다(새 편은 `step.py start`).
+3. 장의 '순서'대로 하고 '통과 기준'을 다 채운 뒤 `python3 tools/step.py done <stem> <단계> --checked <칸 수>`. 검사에 걸리면 고치고 다시.
 
-사용자 피드백이 규칙이면 rules/ 해당 파일 한 곳만 고치고(옛 줄은 지움, 날짜·예시 붙임), 적은 문장을 사용자에게 한 줄로 돌려준다. 메모리·스킬·인수인계 파일에 규칙 본문을 쓰지 않는다.
+사용자 피드백이 규칙이면 textbook/12-개정.md 절차대로(교과서 한 곳 + 기계 검사/체크 칸 + 진행 중인 편 점검 + 개정 이력), 적은 문장을 사용자에게 한 줄로 돌려준다. 메모리·스킬·인수인계 파일에 규칙 본문을 쓰지 않는다. 옛 rules/는 보관용.

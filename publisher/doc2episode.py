@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""공동 원고 문서의 편 탭(Anthropic 형식, rules/1-wongo-common.md 6) → episodes/<stem>.json + photos/.
+"""공동 원고 문서의 편 탭(Anthropic 형식, textbook/08-문서.md) → episodes/<stem>.json + photos/.
   python3 publisher/doc2episode.py <read_doc 결과 파일> "<탭 제목 또는 t.탭ID>" <stem>        # 바꿀 것만 보여 줌
   python3 publisher/doc2episode.py <read_doc 결과 파일> "<탭 제목 또는 t.탭ID>" <stem> --apply
 

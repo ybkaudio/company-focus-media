@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""공동 원고 문서 [기업인] 탭의 장별 사진 지문 저장·비교 → 사용자가 바꾼 사진 찾기(rules/2-design.md '사용자 사진 교체에서 배운 점').
+"""공동 원고 문서 [기업인] 탭의 장별 사진 지문 저장·비교 → 사용자가 바꾼 사진 찾기(textbook/07-사진.md '사용자 사진 교체에서 배운 점').
   python3 publisher/photo_fp.py <read_doc 결과 파일>           # 저장된 지문과 비교, 바뀐 장만 보여 줌
   python3 publisher/photo_fp.py <read_doc 결과 파일> --save    # 지금 문서 상태를 지문으로 저장(publisher/photo_fp.json)
 

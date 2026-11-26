@@ -1,34 +1,7 @@
-# 규칙 (최신본은 여기 하나)
+# → textbook/ 로 옮김 (2026-11-26)
 
-기업집중탐구(@company.focus) 규칙의 원본은 이 폴더뿐임. 스킬·프로젝트 메모리·Notion·인수인계 파일에는 규칙 본문을 두지 않고 이 폴더를 가리키기만 함. (2026-11-23 사용자 "정리해")
+규칙은 이제 일하는 순서대로 쓴 교과서 [textbook/](../textbook/README.md) 하나가 원본. 이 폴더엔 옛 원문만 있음(근거 찾을 때만):
+- 11/26 직전 주제별 규칙 파일: [archive/2026-11-26-before-textbook/](archive/2026-11-26-before-textbook/)
+- 그 전: archive/ 나머지, `/mnt/project-files/archive/rules-2026-11-23/`
 
-| 파일 | 언제 읽나 | 누가 |
-|---|---|---|
-| [1-wongo-common.md](1-wongo-common.md) | 원고 쓰기 전·후 (두 계정 공통: 리서치·구성·본문·제목·설명란) | ✍ 원고 |
-| [1-wongo-kiupin.md](1-wongo-kiupin.md) | 같이 읽음 (기업집중탐구만의 구성·표지·떠날 때) | ✍ 원고 |
-| [1-wongo-ai.md](1-wongo-ai.md) | AI기업집중탐구 원고일 때 common 대신 차이만 | ✍ 원고 |
-| [2-design.md](2-design.md) | 사진 고르기·렌더 전 | 🖼 제작·게시 |
-| [3-upload.md](3-upload.md) | 편성표 넣기·예약 전 | 🗂 편성, 🖼 제작·게시 |
-| [4-review.md](4-review.md) | overview를 사용자에게 보이기 직전 (별도 점검) | 🖼 제작·게시 |
-| [6-ai-process.md](6-ai-process.md) | AI기업집중탐구 원고를 만드는 실제 순서·도구 (Anthropic 편 기준) | AI 쪽 Claude |
-| [7-ai-structure-check.md](7-ai-structure-check.md) | AI 쪽 작업 구조 점검(한 번 실행, 합본 ⑤) | AI 쪽 Claude |
-| [8-ai-upload.md](8-ai-upload.md) | AI 쪽 매일 00:00 흐름·슬롯·Aside 게시 루틴 | AI 쪽 Claude |
-| [9-ai-promo.md](9-ai-promo.md) | AI 쪽 끝 홍보 장·마무리 버튼 없앰·19+1장 | AI 쪽 Claude |
-
-AI기업집중탐구에 넘길 합본은 `python3 publisher/make_ai_pack.py`가 위 파일들로 다시 만듦 → `/mnt/project-files/ai-pack/AI기업집중탐구-원고-지침.md`. 합본은 직접 고치지 않음.
-
-## 흐름 한 장
-원고(1) → 공동 구글 문서 `[기업인] 인물명` 탭(사진까지) + `episodes/NN-slug.json` → 사용자가 읽고 사진을 바꾸거나 `표지 제목:`을 채움(= 최종 합격) → 매일 00시 편성 스캔이 제목 찬 탭을 오래된 순으로 제작에 넘김 → 제작 자동 제작(2 '자동 제작', render.py 자동 멈춤) → **별도 점검(4)** → `sched.py slot`(대기열 맨 뒤) → 사용자가 맥북 Aside에 게시 프롬프트를 넣을 때마다 맨 앞 1편이 instagram.com에 게시(3). (11/23, 11/25)
-
-## 피드백이 규칙이 되는 길 (한 곳만)
-1. 사용자 지적이 규칙이면 해당 파일 **한 곳**만 고침. 같은 주제의 옛 줄은 지우고 새 줄로 바꿈(같은 주제가 두 번 나오지 않게).
-2. 줄 끝에 `(MM/DD 편 장)` 날짜와 예시를 붙임. 규칙끼리 부딪치면 날짜가 늦은 쪽.
-3. 적은 문장을 사용자에게 한 줄로 돌려줌: "이렇게 적었어요: ○○". 범위가 틀리면 그 자리에서 고침.
-4. 사용자가 고친 곳만 고침. 다른 장·다른 편으로 넓힐지는 물어보고 넓힘.
-5. 잴 수 있는 규칙(있다/없다, 몇 %, 중복)은 render.py 자동 멈춤으로도 옮김.
-6. 한 편·한 장에만 해당하면 규칙이 아니라 각 파일 끝 **예외** 칸.
-
-## 파일 관리
-- 규칙 한 줄은 1~2줄. 파일이 두 페이지를 넘으면 겹치는 줄부터 합침.
-- 옛 원문은 [archive/](archive/)와 공유 폴더 `/mnt/project-files/archive/rules-2026-11-23/`(읽기 전용, 근거 찾을 때만).
-- 인수인계 파일에는 "진행 중인 일"만 적고 규칙은 적지 않음.
+옛 파일 → 새 장: 1-wongo-common·kiupin·ai → 1·3·4·5·6·8장 / 2-design → 7·10장 / 3-upload → 11장 / 4-review → 10장 '별도 점검' / 6-ai-process → 3·4·7·8장 / 7·8·9-ai → 부록 A / 예외 → 부록 B.

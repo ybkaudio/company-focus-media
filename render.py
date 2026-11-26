@@ -1,6 +1,6 @@
 """기업집중탐구 캐러셀 렌더러 v2 (korea_titans식: 전면 사진 + 하단 그라데이션)
 사용법: python3 render.py [--check] [--legacy] episodes/01-apple.json
-규칙: rules/ 폴더(README.md). 잴 수 있는 규칙은 rule_check()가 렌더 전에 멈춤
+규칙: textbook/ 폴더(00-시작.md). 잴 수 있는 규칙은 rule_check()가 렌더 전에 멈춤
 - 각 장의 "photo"에 이미지 파일(episodes/ 기준 경로)을 넣으면 배경 사진으로 들어감
 - photo가 없으면 '사진 자리' 표시가 있는 시안으로 렌더됨
 출력: out/<에피소드>/NN.png (1080x1350) + caption.txt
@@ -158,8 +158,8 @@ def _rename(o):
     return o
 
 INDEX_OK = {"배경", "계기", "창업", "자금", "투자", "상장", "첫 성과", "방향 전환", "혁신", "성장", "확장",
-            "경쟁", "갈등", "위기", "실수", "정점", "매각", "떠날 때", "그 뒤", "마무리", "지금"}   # rules/1-wongo-common.md (11/23)
-DARK_KEYS = ("filter", "brightness", "blur", "dim", "darken", "opacity")   # rules/2-design.md: 사진 어둡게·흐리게 금지 (11/09)
+            "경쟁", "갈등", "위기", "실수", "정점", "매각", "떠날 때", "그 뒤", "마무리", "지금"}   # textbook/04-구성.md (11/23)
+DARK_KEYS = ("filter", "brightness", "blur", "dim", "darken", "opacity")   # textbook/10-렌더.md: 사진 어둡게·흐리게 금지 (11/09)
 
 WIDE = 1.0   # 가로:세로 1:1 이상 = 가로로 긴 사진(11/26 사용자). 이보다 세로로 긴 사진만 꽉 채우기(cover)
 
@@ -212,7 +212,7 @@ CAP_MAX = 2200   # 인스타 설명란 한도. 이모지는 2자로 셀 수 있�
 
 
 def rule_check(ep, path, legacy=False):
-    """rules/ 폴더 규칙 중 기계로 잴 수 있는 것. 어긴 곳 목록을 돌려줌(비면 통과).
+    """textbook/ 규칙 중 기계로 잴 수 있는 것. 어긴 곳 목록을 돌려줌(비면 통과).
     legacy=True: 이미 게시된 옛 편(번호·옛 장 이름이 박힌 편)을 다시 렌더할 때만."""
     import hashlib, re
     bad, seen = [], {}
@@ -228,13 +228,13 @@ def rule_check(ep, path, legacy=False):
                 bad.append(f"{n}: 사진 파일 없음 {ph}")
                 continue
             if not s.get("photo_note"):   # 11/14·11/15 사용자: 사진 있는 모든 장에 사진 설명
-                bad.append(f"{n}: photo_note(사진 설명) 없음 (2-design: 사진 설명은 모든 장)")
+                bad.append(f"{n}: photo_note(사진 설명) 없음 (textbook 7장 사진 설명)")
             h = hashlib.md5(f.read_bytes()).hexdigest()
             if h in seen and not s.get("photo_dup_ok"):   # 11/11 사용자 "사진 재탕하냐?"
-                bad.append(f"{n}: {seen[h]}과 같은 사진 (2-design: 한 편 안 사진 중복 금지)")
+                bad.append(f"{n}: {seen[h]}과 같은 사진 (textbook 7장)")
             seen.setdefault(h, n)
             if wide_ratio(f) and s.get("bgsize"):   # 11/26 사용자: 가로 사진은 확대해서 자르지 않음
-                bad.append(f"{n}: 가로로 긴 사진에 bgsize(확대·자르기) 있음 → 빼면 가로 폭에 맞춰 위에 놓고 아래는 검정 그라데이션 (2-design 배치)")
+                bad.append(f"{n}: 가로로 긴 사진에 bgsize(확대·자르기) 있음 → 빼면 가로 폭에 맞춰 위에 놓고 아래는 검정 그라데이션 (textbook 10장 배치)")
             if not s.get("photo_small") and s.get("type") != "stats":   # 11/15 사용자: 메인 사진은 좌우 끝까지
                 try:
                     from PIL import Image
@@ -245,7 +245,7 @@ def rule_check(ep, path, legacy=False):
                 except ImportError:
                     pass
         if s.get("shade") == "strong" or any(k in s for k in DARK_KEYS) or any(k in str(s.get("bgsize", "")) + str(s.get("bgpos", "")) for k in DARK_KEYS):
-            bad.append(f"{n}: 사진을 어둡게·흐리게 하는 설정 (2-design: 가독성은 그라데이션으로만)")
+            bad.append(f"{n}: 사진을 어둡게·흐리게 하는 설정 (textbook 10장 배치)")
         if legacy:
             continue
         if s.get("photo_fade") and not s.get("photo_fade_by_user"):   # 11/12·11/23 사용자: 검정 페이드는 내가 말한 장만
@@ -253,7 +253,7 @@ def rule_check(ep, path, legacy=False):
         if s.get("type") != "cover" and "index" in s:
             w = s["index"].split("·")[-1].strip()
             if w not in INDEX_OK:
-                bad.append(f"{n}: 장 이름 '{w}'은 목록에 없음 (1-wongo-common 2번 장 이름)")
+                bad.append(f"{n}: 장 이름 '{w}'은 목록에 없음 (textbook 4장 장 이름)")
         txt = json.dumps({k: s.get(k) for k in ("title", "body", "points", "index", "photo_note", "question", "stats")}, ensure_ascii=False)
         if re.search(r"#\d", txt):   # 11/13 사용자: 편 번호(#NN) 쓰지 않음
             bad.append(f"{n}: 편 번호(#숫자) 있음 → '(인물 · 회사 편)'으로")
@@ -265,9 +265,14 @@ def rule_check(ep, path, legacy=False):
         cap = ep.get("caption", "")
         if re.search(r"#\d", cap):
             bad.append("캡션: 편 번호(#숫자) 있음 → '인물 · 회사 편'으로")
+        tt = [re.sub(r"[\s.!?…\"'”’」』)]+$", "", str(s.get("title", ""))) for s in ep["slides"]
+              if s.get("type") not in ("cover", "stats", "promo") and s.get("title")]
+        da = sum(t.endswith("다") for t in tt)
+        if tt and da * 2 > len(tt):   # 11/09·11/26 사용자: '-다' 끝 제목은 절반까지
+            bad.append(f"제목: '-다'로 끝나는 장 제목 {da}/{len(tt)}개 > 절반 (textbook 6장 어미 섞기)")
         for c in ("📌", "👇"):   # 11/14 사용자: 첫 댓글·저장 유도 줄 없음
             if c in cap:
-                bad.append(f"캡션: '{c}' 줄 있음 (1-wongo-common 5번 설명란)")
+                bad.append(f"캡션: '{c}' 줄 있음 (textbook 8장 설명란)")
         if not ep.get("company_ko"):
             bad.append("company_ko 없음 (표지 '인물 · 회사' 줄)")
     return bad
@@ -279,8 +284,8 @@ def main(path, check_only=False, legacy=False):
     assert 1 <= len(slides) <= 20, "인스타 캐러셀은 최대 20장"
     resolve_photos(slides, path)
     bad = rule_check(ep, path, legacy)
-    if bad:   # rules/ 규칙 자동 멈춤 (11/23 규칙 정리)
-        sys.exit("규칙 점검에 걸림(rules/ 폴더 참고). 고치고 다시:\n- " + "\n- ".join(bad))
+    if bad:   # textbook/ 규칙 자동 멈춤 (11/23 규칙 정리)
+        sys.exit("규칙 점검에 걸림(textbook/ 참고). 고치고 다시:\n- " + "\n- ".join(bad))
     if not legacy and len(slides) <= 19 and not ep.get("no_promo"):
         slides.append({"type": "promo", "index": "홍보"}); ep["_promo"] = True
     if check_only:
@@ -339,6 +344,6 @@ def main(path, check_only=False, legacy=False):
 
 if __name__ == "__main__":
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    # --check: 렌더 없이 규칙 점검만 (rules/4-review.md 1단계)
+    # --check: 렌더 없이 규칙 점검만 (textbook/08·10장)
     # --legacy: 이미 게시된 옛 편(번호·옛 장 이름)을 다시 렌더할 때만
     main(args[0], check_only="--check" in sys.argv, legacy="--legacy" in sys.argv)
