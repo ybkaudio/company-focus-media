@@ -1,0 +1,13 @@
+{
+ "stem": "33-google",
+ "title": "래리 페이지·세르게이 브린 · Google",
+ "account": "kiupin",
+ "step": 9,
+ "history": [
+  {
+   "step": "교과서 이전 원고(11/26 이전)",
+   "done_at": "2026-11-26 23:00"
+  }
+ ],
+ "note": "12장 4번 점검: 장 제목 '-다' 절반 초과 → 원고가 문서에서 고칠 것(render --check가 멈춤)"
+}
