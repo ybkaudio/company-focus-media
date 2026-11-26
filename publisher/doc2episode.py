@@ -6,7 +6,7 @@
 read_doc 결과 파일 = Google Docs 커넥터 read_doc(documentId=공동 문서) 출력(크면 도구가 파일로 저장해 줌).
 문서가 원본(사용자가 사진을 바꾸거나 글을 고침). 이 스크립트는 문서 → JSON 방향으로만 맞춤:
   - 표지 제목(= 사용자 제목, 그대로), 장 제목, 본문(문장 나눔), 회사 가치 줄
-  - 장마다 사진: 첫 사진 → photos/NN.jpg(1.85:1 이상이면 위쪽 띠 합성), 표지의 로고 사진('사진 설명'에 '로고') → <stem>/sticker-logo.png
+  - 장마다 사진: 첫 사진 → photos/NN.jpg(원본 그대로, 가로 사진 배치는 render.py), 표지의 로고 사진('사진 설명'에 '로고') → <stem>/sticker-logo.png
     한 장에 사진이 2개면 나란히(설명에 '위아래'가 있으면 위아래) 붙여 1600x2000 합성
   - 사진 설명 → photo_note (첫 문장만). 설명 줄이 없는 사진 = 사용자가 바꾼 사진(11/23 사용자: 바꾸면 설명을 지워 둠)
     → photo_note를 비우고 '설명 필요'로 알리고 코드 3으로 끝냄. 사진(photos/NN.jpg)을 직접 보고 무엇·누구·연도를 써서
@@ -205,11 +205,7 @@ def main():
         out = os.path.join(pdir, nn + ".jpg")
         if len(pics) >= 2:
             img = compose(pics, vertical)
-        elif pics[0].width / pics[0].height >= 1.85:   # 가로로 긴 사진: 위쪽에 가로 채우고 아래 검정(rules/2-design.md 배치)
-            from PIL import Image
-            im = pics[0].convert("RGB"); im = im.resize((1600, round(im.height * 1600 / im.width)), Image.LANCZOS)
-            img = Image.new("RGB", (1600, 2000), (14, 14, 16)); img.paste(im, (0, 0))
-        else:
+        else:   # 가로로 긴 사진도 원본 그대로 저장, 배치(가로 폭 맞춤 + 아래 검정 그라데이션)는 render.py가 함(11/26)
             img = pics[0].convert("RGB")
         img.save(out, quality=92)
         if logo:

@@ -76,6 +76,12 @@ def slide_html(ep, s, i, n, base):
         mime = "image/png" if p.suffix.lower() == ".png" else "image/jpeg"
         uri = f"data:{mime};base64," + base64.b64encode(p.read_bytes()).decode()
         extra = (f';background-size:{s["bgsize"]}' if s.get("bgsize") else '') + (f';background-position:{s["bgpos"]}' if s.get("bgpos") else '')
+        ar = wide_ratio(p)
+        if ar and not s.get("bgsize") and not s.get("photo_fade"):   # 11/26 사용자: 가로로 긴 사진은 확대·자르기 없이 가로 폭에 맞춰 위에, 남는 아래는 검정 그라데이션
+            h = 1080 / ar
+            a, b = max(h - 220, h * 0.7), h
+            extra += (';background-size:100% auto;background-position:center top'
+                      f';-webkit-mask-image:linear-gradient(180deg,#000 {a:.0f}px,transparent {b:.0f}px);mask-image:linear-gradient(180deg,#000 {a:.0f}px,transparent {b:.0f}px)')
         if s.get("photo_fade"):   # 11/12 사용자: 사진은 위쪽 N%까지만, 그 아래는 검정 그라데이션 ("a-b" = 흐려지기 시작%-끝%)
             a, b = s["photo_fade"].split("-")
             extra += f';-webkit-mask-image:linear-gradient(180deg,#000 {a}%,transparent {b}%);mask-image:linear-gradient(180deg,#000 {a}%,transparent {b}%)'
@@ -155,6 +161,20 @@ INDEX_OK = {"배경", "계기", "창업", "자금", "투자", "상장", "첫 성
             "경쟁", "갈등", "위기", "실수", "정점", "매각", "떠날 때", "그 뒤", "마무리", "지금"}   # rules/1-wongo-common.md (11/23)
 DARK_KEYS = ("filter", "brightness", "blur", "dim", "darken", "opacity")   # rules/2-design.md: 사진 어둡게·흐리게 금지 (11/09)
 
+WIDE = 1.0   # 가로:세로 1:1 이상 = 가로로 긴 사진(11/26 사용자). 이보다 세로로 긴 사진만 꽉 채우기(cover)
+
+
+def wide_ratio(p):
+    """가로로 긴 사진이면 가로/세로 비율, 아니면 None."""
+    try:
+        from PIL import Image
+        with Image.open(p) as im:
+            r = im.width / im.height
+        return r if r >= WIDE else None
+    except Exception:
+        return None
+
+
 def resolve_photos(slides, path):
     photos = path.parent / path.stem / "photos"   # episodes/01-apple/photos/01.jpg ... 자동 연결
     for i, s in enumerate(slides, 1):
@@ -213,6 +233,8 @@ def rule_check(ep, path, legacy=False):
             if h in seen and not s.get("photo_dup_ok"):   # 11/11 사용자 "사진 재탕하냐?"
                 bad.append(f"{n}: {seen[h]}과 같은 사진 (2-design: 한 편 안 사진 중복 금지)")
             seen.setdefault(h, n)
+            if wide_ratio(f) and s.get("bgsize"):   # 11/26 사용자: 가로 사진은 확대해서 자르지 않음
+                bad.append(f"{n}: 가로로 긴 사진에 bgsize(확대·자르기) 있음 → 빼면 가로 폭에 맞춰 위에 놓고 아래는 검정 그라데이션 (2-design 배치)")
             if not s.get("photo_small") and s.get("type") != "stats":   # 11/15 사용자: 메인 사진은 좌우 끝까지
                 try:
                     from PIL import Image
