@@ -15,7 +15,7 @@
         "기업집중탐구"
       ],
       "photo_hint": "Larry Page and Sergey Brin together with Google logo, around 1999-2003 (if no logo visible, production adds a Google logo sticker) / COVER LOGO: Google logo as a transparent PNG (required unless the logo is clearly visible in the cover photo)",
-      "photo_note": "2003년 4월 Google 로고 앞의 래리 페이지(왼쪽)와 세르게이 브린(사진 Kim Kulish, 사용자가 넣은 사진)",
+      "photo_note": "2003년 4월 Google 로고 앞의 래리 페이지(왼쪽)와 세르게이 브린",
       "sticker": {
         "src": "33-google/sticker-logo.png",
         "size": 260,
@@ -27,16 +27,16 @@
       "index": "01 · 배경",
       "when": "1995 · 22세",
       "photo": null,
-      "title": "스탠퍼드 캠퍼스 투어에서\n만난 동업자",
+      "title": "스탠퍼드 캠퍼스 투어에서\n처음 만난 평생 동업자",
       "body": [
         "1995년 여름 래리 페이지는 스탠퍼드 컴퓨터과학 박사 과정 입학 예정자로 캠퍼스를 둘러봤다.",
         "안내를 맡은 학생이 한 살 어린 박사 과정생 세르게이 브린이었다.",
         "페이지는 웹 전체의 링크 구조를 내려받아 분석하는 것을 박사 연구 주제로 골랐고, 수학을 잘하던 브린이 합류했다.",
-        "3년 뒤 두 사람은 이 연구로 회사를 세워 친구의 차고에 첫 사무실을 차렸다."
+        "논문이 많이 인용될수록 중요하듯, 많이 링크된 페이지가 중요하다고 봤기 때문이다."
       ],
       "photo_hint": "Young Larry Page and Sergey Brin at Stanford, mid-1990s",
       "value": "회사 설립 전",
-      "photo_note": "1998~99년 무렵 멘로파크 차고 사무실의 래리 페이지(왼쪽)와 세르게이 브린(사용자가 넣은 사진)"
+      "photo_note": "1998~99년 무렵 멘로파크 차고 사무실의 래리 페이지(왼쪽)와 세르게이 브린"
     },
     {
       "index": "02 · 계기",
@@ -58,13 +58,15 @@
       "photo": null,
       "title": "아직 없는 회사 앞으로\n10만 달러 수표",
       "body": [
-        "1998년 8월 <Sun Microsystems> 공동 창업자 앤디 벡톨샤임이 시연을 보고 'Google Inc.' 앞으로 10만 달러 수표를 써 줬다.",
+        "1998년 8월 컴퓨터 회사 <Sun Microsystems> 공동 창업자 앤디 벡톨샤임이 시연을 보고 'Google Inc.' 앞으로 10만 달러 수표를 써 줬다.",
+        "회사 지분을 받는 투자였다.",
         "회사가 아직 없어 수표를 바로 넣을 수 없었고, 두 사람은 9월 4일 회사를 세웠다.",
+        "그해 엔젤 투자로 모두 약 100만 달러를 모았다.",
         "첫 사무실은 뒤에 YouTube CEO가 되는 수전 워치츠키의 멘로파크 차고였다."
       ],
       "photo_hint": "Susan Wojcicki's garage in Menlo Park, Google's first office 1998",
       "value": "회사 가치 약 1,000만 달러(추정)",
-      "photo_note": "2018년 Google이 1998년 첫 사무실 모습대로 꾸며 스트리트 뷰로 공개한 멘로파크 차고 내부"
+      "photo_note": "2018년 Google이 1998년 첫 사무실 모습대로 꾸며 스트리트 뷰로 공개한 멘로파크 차고 내부(화면 글자·버튼은 잘라냄)"
     },
     {
       "index": "04 · 방향 전환",
@@ -80,7 +82,7 @@
       ],
       "photo_hint": "Larry Page and Sergey Brin around 1998-1999, early Google office",
       "value": "회사 가치 약 100만 달러(매각 제안가)",
-      "photo_note": "1998년 7월 Excite 첫 화면(인수 제안 반년쯤 전 모습)"
+      "photo_note": "1998년 7월 Excite 첫 화면 윗부분(로고·검색창, 인수 제안 반년쯤 전 모습)"
     },
     {
       "index": "05 · 자금",
@@ -89,19 +91,19 @@
       "title": "두 벤처 투자사에서\n2,500만 달러를 받다",
       "body": [
         "1999년 6월 Kleiner Perkins의 존 도어와 <Sequoia Capital>의 마이클 모리츠가 함께 2,500만 달러를 넣었다.",
-        "도어는 회사가 얼마나 커질지 묻자 '연 매출 100억 달러'라는 답을 듣고 들어왔다.",
-        "Sequoia는 더 정확한 검색 결과와 이미 맺은 Netscape 등과의 검색 계약을 보고 투자했다.",
+        "도어는 두 사람이 연 매출 100억 달러 회사를 목표로 한다는 답에서 큰 시장을 보고 들어왔다.",
+        "모리츠는 다른 검색 엔진보다 정확한 검색 결과를 보고 투자했다.",
         "두 투자사는 경험 있는 CEO를 데려오라는 조건을 붙였다."
       ],
       "photo_hint": "Early Google office in Palo Alto (University Avenue) 1999, or Google team 1999",
       "value": "회사 가치 약 1억 달러(투자 기준)",
-      "photo_note": "1999년 1월 Google 첫 화면(베타)"
+      "photo_note": "1999년 6월 Google에 함께 2,500만 달러를 넣은 두 투자사(직접 만든 그림)"
     },
     {
       "index": "06 · 첫 성과",
       "when": "2000 · 27세",
       "photo": null,
-      "title": "검색 결과 옆 글자 광고로\n돈 버는 법",
+      "title": "검색 결과 옆에 붙인\n글자 광고 애드워즈",
       "body": [
         "2000년 10월 검색어에 맞춰 검색 결과 옆에 짧은 글자 광고를 붙이는 <AdWords>를 시작했다.",
         "2002년부터는 광고주가 클릭될 때만 돈을 내고, 입찰가와 클릭률을 함께 따져 광고 순서를 정했다.",
@@ -110,16 +112,16 @@
       ],
       "photo_hint": "Google search results page with AdWords text ads, early 2000s screenshot",
       "value": "회사 가치 약 2억 달러(추정)",
-      "photo_note": "Google 연 매출 2000~2003년(상장 신고서 S-1 숫자로 직접 만든 그래프)"
+      "photo_note": "Google 연 매출 2000~2003년, 단위 달러(상장 신고서 S-1 숫자로 직접 만든 그래프)"
     },
     {
-      "index": "07 · 성장",
+      "index": "07 · 자금",
       "when": "2001 · 28세",
       "photo": null,
       "title": "18살 많은 경영자를\nCEO로 데려온 이유",
       "body": [
         "2001년 8월 투자사 조건에 따라 두 사람보다 18살 많은 에릭 슈미트를 CEO로 데려왔다.",
-        "슈미트는 <Sun Microsystems> 최고기술책임자로 Java 개발을 이끌었고, 1997년부터 기업용 네트워크 소프트웨어 회사 <Novell>의 CEO였다.",
+        "슈미트는 Sun Microsystems 최고기술책임자로 Java 개발을 이끌었고, 1997년부터 기업용 네트워크 소프트웨어 회사 <Novell>의 CEO였다.",
         "존 도어는 Sun 시절부터 그를 알았고, 페이지는 '기술을 아는 사람이라 우리 문화와 잘 맞는다'고 했다.",
         "페이지는 제품, 브린은 기술을 맡았다."
       ],
@@ -131,7 +133,7 @@
       "index": "08 · 확장",
       "when": "2003 · 30세",
       "photo": null,
-      "title": "남의 사이트에도\n광고를 붙이다",
+      "title": "다른 사람 웹사이트에도\n구글 광고를 붙이다",
       "body": [
         "2003년 3월 다른 웹사이트에 내용에 맞는 Google 광고를 붙이고 수입을 나누는 <AdSense>를 내놨다.",
         "검색창 밖의 수많은 사이트가 광고 지면이 되면서, 광고주는 더 많은 곳에 광고를 낼 수 있었다.",
@@ -160,31 +162,30 @@
       "index": "10 · 확장",
       "when": "2006 · 33세",
       "photo": null,
-      "title": "16억 5천만 달러에 산\n20개월 된 유튜브",
+      "title": "16억 5천만 달러에 산\n동영상 사이트 유튜브",
       "body": [
         "2006년 10월 동영상 사이트 <YouTube>를 주식 16억 5천만 달러에 샀다(채드 헐리 · YouTube 편).",
         "창업 20개월 된 YouTube는 하루 재생이 1억 회를 넘었지만, 서버 비용과 저작권 소송 위험 때문에 돈을 벌지 못하고 있었다.",
-        "Google은 자체 서비스 Google Video가 이용자를 모으지 못하자, 사람이 이미 모인 곳을 사서 검색 다음의 광고 지면으로 삼았다."
+        "자체 서비스 Google Video로는 이용자를 모으지 못했던 Google은 사람이 이미 모인 곳을 사서 검색 다음의 광고 지면으로 삼았다."
       ],
       "photo_hint": "Google and YouTube founders at acquisition announcement, October 2006, or first Android phone (T-Mobile G1) 2008",
-      "value": "회사 가치 약 1,400억 달러",
+      "value": "회사 가치 약 1,300억 달러(시가총액, 2006년 10월)",
       "photo_note": "2006년 10월 10일, 인수 발표 다음 날 한 학생이 Google과 YouTube 로고를 합쳐 만든 패러디 화면 'GooTube'(Flickr)"
     },
     {
       "index": "11 · 실수",
       "when": "2012 · 39세",
       "photo": null,
-      "title": "125억 달러에 산 모토로라,\n2년 만에 되팔다",
+      "title": "안드로이드를 지키려\n125억 달러에 산 모토로라",
       "body": [
-        "회사가 커지며 결정이 느려지자, 빨리 결정하려고 2011년 4월 페이지가 CEO로 돌아왔다.",
         "2012년 휴대폰 회사 <Motorola Mobility>를 125억 달러에 샀다.",
-        "특허 약 1만 7천 건으로 Android를 특허 소송에서 지키려는 목적이었다.",
+        "특허 약 1만 7천 건으로 Google의 휴대폰 운영체제 Android를 특허 소송에서 지키려는 목적이었다.",
         "휴대폰 사업은 적자를 냈고, 2년 만인 2014년 특허 대부분은 남긴 채 중국 PC 회사 <Lenovo>에 29억 1천만 달러에 넘겼다."
       ],
       "photo_hint": "1) Larry Page with Motorola phone (Moto X) or at Motorola event (2012-2013) / 2) Motorola Mobility HQ / Moto X / 3) Larry Page 2012",
       "title_size": 70,
-      "value": "회사 가치 약 2,500억 달러",
-      "photo_note": "Motorola Moto X(2013)"
+      "value": "회사 가치 약 2,000억 달러(시가총액, 2012년 5월)",
+      "photo_note": "2013년 Google 소유 시절 Motorola가 내놓은 Moto X"
     },
     {
       "index": "12 · 확장",
@@ -198,7 +199,7 @@
         "자율주행·생명과학 같은 새 사업은 검색 광고와 따로 운영하고 실적도 따로 공개했다."
       ],
       "photo_hint": "Alphabet logo announcement 2015, or Larry Page and Sergey Brin around 2015",
-      "value": "회사 가치 약 5,000억 달러",
+      "value": "회사 가치 약 4,600억 달러(시가총액, 2015년 8월)",
       "photo_note": "2015년 세운 지주회사 Alphabet 로고",
       "photo_small": true,
       "bgsize": "84% auto",
@@ -225,7 +226,7 @@
       "photo": null,
       "title": "CEO 둘은 필요 없다며\n경영에서 물러나다",
       "body": [
-        "2019년 12월 3일 'Alphabet이 자리를 잡아 CEO 둘과 사장이 필요 없다'며 피차이에게 Alphabet CEO를 넘겼다. 이사회에 남아 의결권 과반은 그대로 가졌다. 브린은 2023년 Google에 다시 나와 AI 모델 Gemini 개발에 참여했다."
+        "2019년 12월 3일 'Alphabet이 자리를 잡아 CEO 둘과 사장이 필요 없다'며 피차이에게 Alphabet CEO를 넘겼다. 이사회에 남아 의결권 과반은 그대로 가졌다. 이후 페이지는 비행 자동차 회사 Kitty Hawk에 투자했고, 브린은 2023년 Google에 돌아와 Gemini 개발에 참여했다."
       ],
       "photo_hint": "1) Larry Page and Sergey Brin with Sundar Pichai (2019) / 2) Alphabet logo / Google HQ 2019 / 3) Page and Brin 2019",
       "stats": [
@@ -240,20 +241,20 @@
           "unit": "년"
         }
       ],
-      "photo_note": "2019년 12월 3일 두 사람이 Google 블로그에 올린 'A letter from Larry and Sergey' 첫 부분(화면 캡처)"
+      "photo_note": "2019년 12월 3일 두 사람이 Google 블로그에 올린 'A letter from Larry and Sergey' 제목 부분(화면 캡처)"
     },
     {
       "type": "outro",
       "index": "마무리",
       "photo": null,
-      "title": "검색 품질을 지키며\n광고로 돈 버는 법",
+      "title": "팔리지 않은 검색 엔진을\n끝까지 키운 두 사람",
       "points": [
-        "1996년 BackRub, 링크 수로 순위를 매긴 발상",
-        "2년 만에 매출 23배, 클릭률까지 따진 검색 광고",
-        "경매 상장 뒤에도 의결권으로 지킨 경영권"
+        "1999년 100만 달러 매각이 무산되자 직접 키운 고집",
+        "2004년 은행 대신 경매로 상장한 원칙",
+        "2019년 CEO를 넘기고도 의결권은 지킨 계산"
       ],
       "photo_hint": "Larry Page and Sergey Brin portrait (person photo for the closing slide)",
-      "photo_note": "2022년 문을 연 Google 베이뷰 캠퍼스(미국 마운틴뷰)"
+      "photo_note": "2003년 9월 래리 페이지(왼쪽)와 세르게이 브린(사진 Ehud Kenan, Flickr)"
     }
   ],
   "caption": "75만 달러에도 팔리지 않은 검색 엔진이 있었습니다.\n17년 뒤 그 회사는 시가총액 5,580억 달러로 세계 1위가 됐습니다.\n\n1996년, 스탠퍼드 박사 과정생 래리 페이지와 세르게이 브린이 링크 수로 순위를 매기는 검색 엔진 BackRub을 만들었습니다.\n\n1999년, 학업으로 돌아가려고 Excite에 회사를 팔려 했지만 75만 달러 제안도 거절당했습니다. 그해 6월 두 벤처 투자사에서 2,500만 달러를 받았습니다.\n\n2000년, 검색 결과 옆 글자 광고 AdWords를 시작했습니다. 2년 만에 매출은 23배로 늘었습니다.\n\n2004년, 누구나 입찰하는 경매 방식으로 상장해 16억 7천만 달러를 모았습니다.\n\n2019년, 'CEO 둘과 사장은 필요 없다'며 경영에서 물러났습니다. 의결권 과반은 그대로 두 사람에게 남았습니다.\n\n“Google은 평범한 회사가 아니며, 그렇게 될 생각도 없습니다.” 래리 페이지·세르게이 브린, 2004년 상장 때 주주에게 보낸 편지\n\nGoogle이 1999년 75만 달러에 팔렸다면, 지금 검색은 어땠을까요?\n댓글로 알려 주세요.\n\n🔗 검색 시리즈. Google이 16억 5천만 달러에 산 YouTube, 그 이야기는 채드 헐리 · YouTube 편에서.\n\n#기업집중탐구 #검색시리즈 #래리페이지 #세르게이브린 #구글 #Google #검색 #창업스토리 #스타트업 #자기계발"
